@@ -11,4 +11,4 @@
 * item_english.txt
     * 这两个文本都是用来对比使用的
     * 通常可以解析大多数游戏改动
-    * 全部游戏改动请看[外国github项目](https://github.com/SteamDatabase/GameTracking/commits/master)
+    * 全部游戏改动请看[这里](http://git.oschina.net/_stay/GameTracking)
