@@ -6918,6 +6918,9 @@
 	"DOTA_International2017_Achievement_Trivia_Score_10000_Name"		"Trivia Knight"
 	"DOTA_International2017_Achievement_Trivia_Score_10000_Description" "Earn 10000 Trivia Points"
 
+	"DOTA_International2017_Achievement_Make_A_Gift_Name"						"The True Spirit of Dota"	
+	"DOTA_International2017_Achievement_Make_A_Gift_Description"				"Gift a Battle Pass to a friend and have them unwrap it."		
+
 	"DOTA_International2017_Achievement_25_Correct_Predictions_Group_Name"			"Group Stage Connoisseur"
 	"DOTA_International2017_Achievement_25_Correct_Predictions_Group_Description"		"Correctly Guess 25 Group Stage Battle Predictions"
 
@@ -6927,6 +6930,11 @@
 	"DOTA_International2017_Achievement_30_Correct_Predictions_Main_Event_Description"		"Correctly Guess 30 Main Event Battle Predictions"
 	"DOTA_International2017_Achievement_50_Correct_Predictions_Main_Event_Name"			"Main Event Maestro"
 	"DOTA_International2017_Achievement_50_Correct_Predictions_Main_Event_Description"		"Correctly Guess 50 Main Event Battle Predictions"
+
+	"DOTA_International2017_Achievement_Cast_A_Vote_Name"						"Representative Dotacracy"	
+	"DOTA_International2017_Achievement_Cast_A_Vote_Description"				"Cast a vote in the Arcana vote"
+	"DOTA_International2017_Achievement_Cast_Votes_In_10_Rounds_Name"			"Dota Arcana Committee"	
+	"DOTA_International2017_Achievement_Cast_Votes_In_10_Rounds_Description"	"Cast votes in the Arcana vote 10 of the 12 weeks."
 
 	"DOTA_DB_Event_CustomGame_Title1"											"Work together to defend the temple against the Dark Moon Horde."
 	"DOTA_DB_Event_CustomGame_Title2"											"Survive the advancing waves to earn special event points."
