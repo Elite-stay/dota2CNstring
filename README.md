@@ -18,10 +18,13 @@
 * panorama/dota_schinese.txt
 	* 包含游戏中的所有界面文本
 	* 比如游戏设置、互动指南文本等
+* broadcastfacts_schinese.txt
+    * 包含游戏中的所有解说标准文本
 * dota_english.txt
 * item_english.txt
 * panorama/dota_english.txt
-    * 这三个文本都是用来对比使用的
+* broadcastfacts_english.txt
+    * 这四个文本都是用来对比使用的
     * 通常可以解析大多数游戏改动
     * 全部游戏改动请看[这里](https://github.com/SteamDatabase/GameTracking-Dota2)
 
