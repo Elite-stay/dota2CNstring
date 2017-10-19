@@ -1,0 +1,2 @@
+﻿dota/panorama/dota_english.txt
+dota test/panorama/dota_english.txt
