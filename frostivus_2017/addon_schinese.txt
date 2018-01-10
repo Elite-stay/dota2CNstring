@@ -1076,4 +1076,4 @@
 "DOTA_Frostivus2017_Deforestation_Desc"	"在时间结束前砍倒最多树木"
 "[english]DOTA_Frostivus2017_Deforestation_Desc"	"Destroy the most trees before time runs out!"
 }
-}
+}
