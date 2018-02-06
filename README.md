@@ -1,16 +1,16 @@
-#dota2字符串变化跟踪项目
+# dota2字符串变化跟踪项目
 
-##包含内容
+## 包含内容
 1. 客户端主要文本
 1. 测试端主要文本
 1. 版本更新日志文本
 1. 试玩模式文本
-1. 正补训练文本
+1. 补刀特训文本
 1. 2017年暗月来袭文本
 1. 2017年破泞之战文本
 1. 2017年迎霜节文本
 
-###客户端主要文本
+### 客户端主要文本
 包含以下内容：
 * dota_schinese.txt
     * 包含游戏中的所有游戏内容文本
@@ -31,7 +31,7 @@
     * 通常可以解析大多数游戏改动
     * 全部游戏改动请看[这里](https://github.com/SteamDatabase/GameTracking-Dota2)
 
-###测试端主要文本
+### 测试端主要文本
 包含以下内容：
 * dota_schinese.txt
     * 包含游戏中的所有游戏内容文本
@@ -49,7 +49,7 @@
     * 通常可以解析大多数游戏改动
     * 全部游戏改动请看[这里](https://github.com/SteamDatabase/GameTracking-Dota2Test)
 
-###版本更新日志文本
+### 版本更新日志文本
 包含以下内容：
 * panorama/patchnotes/patch_\*_schinese.txt
     * 包含各版本中几乎所有文本
@@ -63,28 +63,28 @@
 * addon_english.txt
     * 对比使用
 
-###正补训练文本
+### 补刀特训文本
 包含以下内容：
 * addon_schinese.txt
     * 包含自定义模式中几乎所有文本
 * addon_english.txt
     * 对比使用
 
-###2017年暗月来袭文本
+### 2017年暗月来袭文本
 不再更新，包含以下内容：
 * addon_schinese.txt
 	* 包含自定义模式中几乎所有文本
 * addon_english.txt
     * 对比使用
 
-###2017年破泞之战文本
+### 2017年破泞之战文本
 不再更新，包含以下内容：
 * addon_schinese.txt
 	* 包含自定义模式中几乎所有文本
 * addon_english.txt
     * 对比使用
 
-###2017年迎霜节文本
+### 2017年迎霜节文本
 包含以下内容：
 * addon_schinese.txt
     * 包含自定义模式中几乎所有文本
