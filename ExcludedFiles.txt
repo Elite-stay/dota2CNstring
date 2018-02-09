@@ -1,4 +1,4 @@
 ﻿dota/panorama/dota_english.txt
 dota test/panorama/dota_english.txt
-dota/panorama/patchnotes/patch_*_english.txt
-dota test/panorama/patchnotes/patch_*_english.txt
+dota/panorama/patchnotes/patchnotes_english.txt
+dota test/panorama/patchnotes/patchnotes_english.txt
