@@ -95,6 +95,7 @@
 
 ### 客户端字幕文本
 > 调用了[Decompiler](https://github.com/SteamDatabase/ValveResourceFormat)获取vpk内的字幕文本文件
+
 包含以下内容
 * _schinese.dat
     * 中文字幕文本
