@@ -1,4 +1,5 @@
 # dota2字符串变化跟踪项目
+> 所有文本文件均为UTF-8编码，可直接打开
 
 ## 包含内容
 1. 客户端主要文本
@@ -9,6 +10,7 @@
 1. 2017年暗月来袭文本
 1. 2017年破泞之战文本
 1. 2017年迎霜节文本
+1. 客户端字幕文本
 
 ### 客户端主要文本
 包含以下内容：
@@ -51,9 +53,9 @@
 
 ### 版本更新日志文本
 包含以下内容：
-* panorama/patchnotes/patch_\*_schinese.txt
+* panorama/patchnotes/patchnotes_schinese.txt
     * 包含各版本中几乎所有文本
-* panorama/patchnotes/patch_\*_english.txt
+* panorama/patchnotes/patchnotes_english.txt
     * 对比使用
 
 ###试玩模式文本
@@ -90,3 +92,11 @@
     * 包含自定义模式中几乎所有文本
 * addon_english.txt
     * 对比使用
+
+### 客户端字幕文本
+> 调用了[Decompiler](https://github.com/SteamDatabase/ValveResourceFormat)获取vpk内的字幕文本文件
+包含以下内容
+* _schinese.dat
+    * 中文字幕文本
+* _english.dat
+    * 英文字幕文本
