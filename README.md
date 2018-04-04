@@ -20,6 +20,8 @@
 * item_schinese.txt
     * 包含所有物品文本
     * 比如饰品、比赛门票等
+* richpresence_schinese.txt
+    * 包含所有RP文本
 * panorama/dota_schinese.txt
 	* 包含游戏中的所有界面文本
 	* 比如游戏设置、互动指南文本等
@@ -27,6 +29,7 @@
     * 包含游戏中的所有解说标准文本
 * dota_english.txt
 * item_english.txt
+* richpresence_english.txt
 * panorama/dota_english.txt
 * broadcastfacts_english.txt
     * 这四个文本都是用来对比使用的
