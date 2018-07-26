@@ -1,5 +1,3 @@
-﻿dota/panorama/dota_english.txt
-dota test/panorama/dota_english.txt
-dota/panorama/patchnotes/patchnotes_english.txt
+﻿dota test/panorama/dota_english.txt
 dota test/panorama/patchnotes/patchnotes_english.txt
 dota/richpresence_english.txt

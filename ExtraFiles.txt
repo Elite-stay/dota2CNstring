@@ -1,1 +1,1 @@
-﻿subtitles/*.dat
+﻿dota/subtitles/*.dat

@@ -532,6 +532,7 @@
 		"DOTA_Item_Announcer_Juggernaut"		"Announcer: Juggernaut"
 		"DOTA_Item_Announcer_Kunkka__Tidehunter"		"Announcer: Kunkka & Tidehunter"
 		"DOTA_Item_Announcer_Lina"		"Announcer: Lina"
+		"DOTA_Item_Announcer_Meepo"		"Announcer: Meepo"
 		"DOTA_Item_Announcer_Monkey_King"		"Announcer: Monkey King"
 		"DOTA_Item_Announcer_Natures_Prophet"		"Announcer: Nature's Prophet"
 		"DOTA_Item_Announcer_Pirate_Capn"		"Announcer: Pirate Captain"
@@ -3466,6 +3467,9 @@
 		"DOTA_Item_Desc_Announcer_Lina"		"This item replaces the Default announcer with the fiery attitude of Lina.
 	
 	Available in English, Chinese, Russian, and Korean languages."
+		"DOTA_Item_Desc_Announcer_Meepo"		"This item replaces the default announcer with some blue-collar Meepo wisdom and multiple perspectives on every game all in one convenient place.
+	
+	Available in English and Chinese languages."
 		"DOTA_Item_Desc_Announcer_Monkey_King"		"This item replaces the Default announcer with commentary from the legendary Monkey King.
 	
 	Available in English, Russian, and Chinese languages."
@@ -7995,6 +7999,9 @@
 		"DOTA_Item_Desc_Medusas_Chest_Armor"		"default item"
 		"DOTA_Item_Desc_Medusas_Tail"		"default item"
 		"DOTA_Item_Desc_Medusas_Veil"		"default item"
+		"DOTA_Item_Desc_Meepo_Announcer_Pack"		"Unearth some blue-collar wisdom and get multiple perspectives on every game in one convenient place with the Meepo Announcer Pack.
+	
+	Contains the Meepo Announcer and Mega-Kills Voices. "
 		"DOTA_Item_Desc_Meepos_Backpack"		"default item"
 		"DOTA_Item_Desc_Meepos_Bracers"		"default item"
 		"DOTA_Item_Desc_Meepos_Hood"		"default item"
@@ -8031,6 +8038,9 @@
 		"DOTA_Item_Desc_MegaKills_Lina"		"This item replaces the Mega-Kills announcer with the fiery attitude of Lina.
 	
 	Available in English, Russian, and Korean languages."
+		"DOTA_Item_Desc_MegaKills_Meepo"		"This item replaces the default Mega-Kills announcer with some blue-collar Meepo wisdom and multiple perspectives on every game all in one convenient place.
+	
+	Available in English and Chinese languages."
 		"DOTA_Item_Desc_MegaKills_Monkey_King"		"This item replaces the Mega-Kills announcer with commentary from the legendary Monkey King.
 	
 	Available in English, Russian, and Chinese languages."
@@ -15491,6 +15501,7 @@
 		"DOTA_Item_Medusas_Chest_Armor"		"Medusa's Chest Armor"
 		"DOTA_Item_Medusas_Tail"		"Medusa's Tail"
 		"DOTA_Item_Medusas_Veil"		"Medusa's Veil"
+		"DOTA_Item_Meepo_Announcer_Pack"		"Meepo Announcer Pack"
 		"DOTA_Item_Meepos_Backpack"		"Meepo's Backpack"
 		"DOTA_Item_Meepos_Bracers"		"Meepo's Bracers"
 		"DOTA_Item_Meepos_Hood"		"Meepo's Hood"
@@ -15509,6 +15520,7 @@
 		"DOTA_Item_MegaKills_Juggernaut"		"Mega-Kills: Juggernaut"
 		"DOTA_Item_MegaKills_Kunkka__Tidehunter"		"Mega-Kills: Kunkka & Tidehunter"
 		"DOTA_Item_MegaKills_Lina"		"Mega-Kills: Lina"
+		"DOTA_Item_MegaKills_Meepo"		"Mega-Kills: Meepo"
 		"DOTA_Item_MegaKills_Monkey_King"		"Mega-Kills: Monkey King"
 		"DOTA_Item_MegaKills_Natures_Prophet"		"Mega-Kills: Nature's Prophet"
 		"DOTA_Item_MegaKills_Pirate_Capn"		"Mega-Kills: Pirate Captain"
