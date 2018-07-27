@@ -21,12 +21,9 @@
     * 包含更新日志文本
 * subtitles/schinese.txt
     * 包含字幕文本
-* richpresence_schinese.txt
-    * 包含所有RP文本
 * localization/english.txt
 * localization/patchnotes/english.txt
 * subtitles/english.txt
-* richpresence_english.txt
     * 这些文本都是用来对比使用的
     * 通常可以解析大多数游戏改动
     * 全部游戏改动请看[这里](https://github.com/SteamDatabase/GameTracking-Dota2)
