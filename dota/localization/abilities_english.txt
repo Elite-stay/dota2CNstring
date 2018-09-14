@@ -5577,7 +5577,7 @@
 		"DOTA_Tooltip_ability_arc_warden_spark_wraith_spark_damage"	"DAMAGE:"
 		"DOTA_Tooltip_ability_arc_warden_spark_wraith_ministun_duration"	"SLOW DURATION:"
 		"DOTA_Tooltip_ability_arc_warden_tempest_double"		"Tempest Double"
-		"DOTA_Tooltip_ability_arc_warden_tempest_double_Description"	"Briefly refocusing its fractured elements into a single form, the Arc Warden is able to create a perfect electrical duplication of itself. The duplicate can use all of Arc Warden's current items and spells, except consumables and items that drop on death. The duplicate has seperate item and ability cooldowns."
+		"DOTA_Tooltip_ability_arc_warden_tempest_double_Description"	"Briefly refocusing its fractured elements into a single form, the Arc Warden is able to create a perfect electrical duplication of itself. The duplicate can use all of Arc Warden's current items and spells, except consumables and items that drop on death. The duplicate has separate item and ability cooldowns."
 		"DOTA_Tooltip_ability_arc_warden_tempest_double_Lore"		"Warped by the power of its peers, Arc Warden becomes what it despises most: disharmony."
 		"DOTA_Tooltip_ability_arc_warden_tempest_double_duration"	"DURATION:"
 		
@@ -6742,6 +6742,7 @@
 		"DOTA_Tooltip_Ability_item_nullifier"				"Nullifier"
 		"DOTA_Tooltip_Ability_item_aeon_disk"				"Aeon Disk"
 		"DOTA_Tooltip_Ability_item_kaya"				"Kaya"
+		"DOTA_Tooltip_Ability_item_recipe_kaya"				"Kaya Recipe"
 		"DOTA_Tooltip_Ability_item_recipe_spirit_vessel"		"Spirit Vessel Recipe"
 		"DOTA_Tooltip_Ability_item_spirit_vessel"				"Spirit Vessel"
 		"DOTA_Tooltip_Ability_item_crimson_guard"				"Crimson Guard"
@@ -7507,7 +7508,7 @@
 		"DOTA_Tooltip_ability_item_boots_of_elves_Lore"							"A tensile fabric often used for its light weight and ease of movement."
 		"DOTA_Tooltip_ability_item_boots_of_elves_bonus_agility"				"+$agi"
 		
-		"DOTA_Tooltip_ability_item_bottle_Description"							"<h1>Active: Regenerate</h1>Consumes a charge to restore %health_restore% health and %mana_restore% mana over %restore_time% seconds. If the hero is attacked by an enemy hero or Roshan, the effect is lost.<br><br>The Bottle automatically refills at the fountain.<br><br>Hold Control to use on an allied hero.<br><br>Range: %tooltip_range%\n<h1>Passive:  Store Rune</h1>Runes can be stored in the bottle for later use by right-clicking them. Unused runes will automatically activate after 2 minutes.<br><br>Using a stored rune fully refills the Bottle. Stored Bounty Runes replenish 2/3 charges."
+		"DOTA_Tooltip_ability_item_bottle_Description"							"<h1>Active: Regenerate</h1>Consumes a charge to restore %health_restore% health and %mana_restore% mana over %restore_time% seconds. If the hero is attacked by an enemy hero or Roshan, the effect is lost.<br><br>The Bottle automatically refills at the fountain.<br><br>Hold Control to use on an allied hero.<br><br>Range: %tooltip_range%\n<h1>Passive:  Store Rune</h1>Runes can be stored in the bottle for later use by right-clicking them. Unused runes will automatically activate after 2 minutes.<br><br>Using a stored rune fully refills the Bottle."
 		"DOTA_Tooltip_ability_item_bottle_Lore"									"An old bottle that survived the ages, the contents placed inside become enchanted."
 		"DOTA_Tooltip_ability_item_bottle_Note0"								"Bottle is shareable. Stored runes cannot be shared."
 		"DOTA_Tooltip_ability_item_bottle_Note1"								"If Bottle does not have full charges and is placed on a courier, the courier's movespeed will be slowed by 30%."
