@@ -10,6 +10,7 @@
 1. 2017年破泞之战文本
 1. 2017年迎霜节文本
 1. 2018年幽穴风云文本
+1. 2018年凝霜圣地文本
 
 ### 客户端主要文本
 > 调用了[Decompiler](https://github.com/SteamDatabase/ValveResourceFormat)获取vpk内的文本文件
@@ -82,6 +83,13 @@
     * 对比使用
 
 ### 2018年幽穴风云文本
+包含以下内容：
+* addon_schinese.txt
+    * 包含自定义模式中几乎所有文本
+* addon_english.txt
+    * 对比使用
+
+### 2018年凝霜圣地文本
 包含以下内容：
 * addon_schinese.txt
     * 包含自定义模式中几乎所有文本
