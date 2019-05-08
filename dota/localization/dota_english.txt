@@ -11676,7 +11676,7 @@ As each stone's cultural influence spread, it eventually came in conflict with t
 		"DOTA_Style_TI9_Courier_2"	"Ultimate Beetle"
 		"DOTA_Style_TI9_Courier_3"	"Boosted Beetle"
 		"DOTA_Style_TI9_Courier_4"	"Refreshing Beetle"
-		"DOTA_Style_TI9_Courier_5"	"Lotus Beetle"
+		"DOTA_Style_TI9_Courier_5"	"Octarine Beetle"
 		"DOTA_Style_TI9_Courier_6"	"Golden Aegis Beetle"
 
 
@@ -29419,7 +29419,7 @@ With early pressure heroes like Zeus and Death Prophet making appearances, split
 	"DOTA_TI9_BattlePass_Level182Reward_Soon"				"<b>Custom Creeps</b> <br> Coming Soon"
 	"DOTA_TI9_BattlePass_Level255Reward_Soon"				"Tiny Prestige Item <br> Coming Soon"
 	"DOTA_TI9_BattlePass_Level305Reward_Soon"				"Invoker Persona <br> Coming Soon"
-	"DOTA_TI9_BattlePass_Level365Reward_Soon"				"Eartshaker Arcana <br> Coming Soon"
+	"DOTA_TI9_BattlePass_Level365Reward_Soon"				"Earthshaker Arcana <br> Coming Soon"
 	"DOTA_TI9_BattlePass_Level425Reward_Soon"				"Jungle Axe <br> Coming Soon"
 	"DOTA_TI9_Custom_Game_Point_Base"						"Mo'rokai Game Tokens - Coming Soon"
 	"DOTA_TI9_Custom_Game_Point_Increase"					"Mo'rokai Game Token Increase "
@@ -29611,6 +29611,10 @@ With early pressure heroes like Zeus and Death Prophet making appearances, split
 	"DOTACavernCrawl_RewardName_Key_TI2019"							"Tango"
 	"DOTACavernCrawl_RewardName_SmallTreasure_TI2019"				"300 Battle Points and 150 Dota Plus Shards"
 	"DOTACavernCrawl_RewardName_LargeTreasure_TI2019"				"2000 Battle Points and 1000 Dota Plus Shards"
+	"DOTACavernCrawl_RewardName_SmallTreasure_TI2019_Part1"			"300 Battle Points +"
+	"DOTACavernCrawl_RewardName_SmallTreasure_TI2019_Part2"			"150 Dota Plus Shards"
+	"DOTACavernCrawl_RewardName_LargeTreasure_TI2019_Part1"			"2000 Battle Points +"
+	"DOTACavernCrawl_RewardName_LargeTreasure_TI2019_Part2"			"1000 Dota Plus Shards"
 	"DOTACavernCrawl_RewardName_CarryStyleUnlock_TI2019"			"Desolate Conquest Style Fragment"
 	"DOTACavernCrawl_RewardName_SupportStyleUnlock_TI2019"			"Vigil of the Penitent Scholar Style Fragment"
 	"DOTACavernCrawl_RewardName_UtilityStyleUnlock_TI2019"			"Violent Precipitate Style Fragment"
