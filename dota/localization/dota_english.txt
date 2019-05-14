@@ -29092,6 +29092,7 @@ With early pressure heroes like Zeus and Death Prophet making appearances, split
 	"DOTA_PlusPostGame_ShardValue"			"+{d:shard_value}"
 	"DOTA_PlusPostGame_VictoryPrediction"	"Victory Predicted"
 	"DOTA_PlusPostGame_PlayerTips"			"Player Tips"
+	"DOTA_PlusPostGame_CavernCrawlProgress"	"Jungle Expedition Progress"
 
 	"DOTA_BattlePassPostGame_Progress"		"Battle Pass Progress"
 	"DOTA_BattlePassPostGame_LevelProgress"		"Level Progress"
@@ -29114,6 +29115,7 @@ With early pressure heroes like Zeus and Death Prophet making appearances, split
  	"DOTA_BattlePassPostGame_Complete"				"Complete"
 	"DOTA_BattlePassPostGame_WeeklyChallenge_Progress"			"{d:weekly_progress} / {d:weekly_complete_limit}"
 	"DOTA_BattlePassPostGame_WeeklyChallenge_Increment"	"+{d:weekly_increment}"
+	"DOTA_BattlePassPostGame_ActionProgress"		"Consumables"
 
 	"DOTA_CoachRatingPostGame_CoachRating"			"Coach Rating"
 
