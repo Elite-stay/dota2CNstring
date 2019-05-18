@@ -1,4 +1,4 @@
-﻿"patch"
+"patch"
 {
 "DOTA_Patch_7_08_General"	"现在守卫总是需要两次攻击才会被摧毁（包括侦查和岗哨守卫）"
 "[english]DOTA_Patch_7_08_General"	"Wards now require a constant 2 hits to kill (both Observer and Sentry Wards)"

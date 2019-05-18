@@ -1,4 +1,4 @@
-﻿"dota"
+"dota"
 {
 "DOTA_Workshop_SubmissionType_CursorPack_Desc_obs"	"一套鼠标指针，可以替换默认指针。"
 "DOTA_Accept"	"接受"

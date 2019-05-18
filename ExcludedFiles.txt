@@ -1,4 +1,0 @@
-﻿dota/localization/patchnotes/patchnotes_english.txt
-dota/localization/richpresence_english.txt
-dota test/panorama/dota_english.txt
-dota test/panorama/patchnotes/patchnotes_english.txt
