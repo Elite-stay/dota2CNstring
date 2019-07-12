@@ -11,6 +11,7 @@
 1. 2017年迎霜节文本
 1. 2018年幽穴风云文本
 1. 2018年凝霜圣地文本
+1. 2019年魔罗兽之怒文本
 
 ### 客户端主要文本
 > 调用了[Decompiler](https://github.com/SteamDatabase/ValveResourceFormat)获取vpk内的文本文件
@@ -48,6 +49,8 @@
     * 全部游戏改动请看[这里](https://github.com/SteamDatabase/GameTracking-Dota2Test)
 
 ### 试玩模式文本
+> hero_demo
+
 包含以下内容：
 * addon_schinese.txt
 	* 包含自定义模式中几乎所有文本
@@ -55,6 +58,8 @@
     * 对比使用
 
 ### 补刀特训文本
+> last_hit_trainer
+
 包含以下内容：
 * addon_schinese.txt
     * 包含自定义模式中几乎所有文本
@@ -62,6 +67,8 @@
     * 对比使用
 
 ### 2017年暗月来袭文本
+> new_bloom_2017
+
 不再更新，包含以下内容：
 * addon_schinese.txt
 	* 包含自定义模式中几乎所有文本
@@ -69,6 +76,8 @@
     * 对比使用
 
 ### 2017年破泞之战文本
+> dungeon
+
 不再更新，包含以下内容：
 * addon_schinese.txt
 	* 包含自定义模式中几乎所有文本
@@ -76,13 +85,17 @@
     * 对比使用
 
 ### 2017年迎霜节文本
-包含以下内容：
+> frostivus_2017
+
+不再更新，包含以下内容：
 * addon_schinese.txt
     * 包含自定义模式中几乎所有文本
 * addon_english.txt
     * 对比使用
 
 ### 2018年幽穴风云文本
+> cavern
+
 包含以下内容：
 * addon_schinese.txt
     * 包含自定义模式中几乎所有文本
@@ -90,6 +103,17 @@
     * 对比使用
 
 ### 2018年凝霜圣地文本
+> winter_2018
+
+包含以下内容：
+* addon_schinese.txt
+    * 包含自定义模式中几乎所有文本
+* addon_english.txt
+    * 对比使用
+
+### 2019年魔罗兽之怒文本
+> jungle_spirits_2019
+
 包含以下内容：
 * addon_schinese.txt
     * 包含自定义模式中几乎所有文本
