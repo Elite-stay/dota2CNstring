@@ -1,2 +1,2 @@
 ﻿*.txt text eol=crlf
-*.dat text
+*.dat diff
