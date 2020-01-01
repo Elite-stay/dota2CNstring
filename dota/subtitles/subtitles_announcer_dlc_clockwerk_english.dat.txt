@@ -1,0 +1,120 @@
+Welcome to Dota! 
+Your turn to pick. 
+Your turn to pick. 
+Enemy's turn to pick. 
+Enemy's turn to pick. 
+Radiant team pick. 
+Dire team pick. 
+Your turn to ban. 
+Your turn to ban. 
+Enemy's turn to ban. 
+Enemy's turn to ban. 
+Dire team ban. 
+Radiant team ban. 
+Dire's team is complete. 
+Radiant's team is complete. 
+Your team is complete. 
+Choose your hero. 
+Reserve time. 
+Reserve time. 
+Ten seconds remaining. 
+Ten seconds remaining. 
+Five seconds remaining. 
+Five seconds remaining. 
+Thirty seconds to battle. 
+Ten seconds to battle. 
+Prepare for battle. 
+The battle begins! 
+Your ancient is under attack. 
+Your ancient is under attack. 
+Radiant's ancient is under attack. 
+Dire's ancient is under attack. 
+Radiant's top tower is under attack. 
+Radiant's middle tower is under attack. 
+Radiant's bottom tower is under attack. 
+Dire's top tower is under attack. 
+Dire's middle tower is under attack. 
+Dire's bottom tower is under attack. 
+Your top tower is under attack. 
+Your top tower is under attack. 
+Your middle tower is under attack. 
+Your middle tower is under attack. 
+Your bottom tower is under attack. 
+Your bottom tower is under attack. 
+Your top tower has fallen. 
+Your middle tower has fallen. 
+Your bottom tower has fallen. 
+Radiant's top tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's bottom tower has fallen. 
+Dire's top tower has fallen. 
+Dire's middle tower has fallen. 
+Dire's bottom tower has fallen. 
+The enemy's top tower has fallen. 
+The enemy's middle tower has fallen. 
+The enemy's bottom tower has fallen. 
+Your top barracks are under attack. 
+Your middle barracks are under attack. 
+Your bottom barracks are under attack. 
+Radiant's top barracks are under attack. 
+Radiant's middle barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Dire's top barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's bottom barracks are under attack. 
+Your top barracks has fallen. 
+Your middle barracks has fallen. 
+Your bottom barracks has fallen. 
+Radiant's top barracks has fallen. 
+Radiant's middle barracks has fallen. 
+Radiant's bottom barracks has fallen. 
+Dire's top barracks has fallen. 
+Dire's middle barracks has fallen. 
+Dire's bottom barracks has fallen. 
+The enemy's top barracks has fallen. 
+The enemy's middle barracks has fallen. 
+The enemy's bottom barracks has fallen. 
+Your top tower has been denied. 
+Your middle tower has been denied. 
+Your bottom tower has been denied. 
+The enemy's top tower has been denied. 
+The enemy's middle tower has been denied. 
+The enemy's bottom tower has been denied. 
+Radiant's top tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's bottom tower has been denied. 
+Dire's top tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's bottom tower has been denied. 
+Dire's structures are fortified. 
+Radiant's structures are fortified. 
+Dire's courier has been killed. 
+Radiant's courier has been killed. 
+You now have megacreeps. 
+The enemy now has megacreeps. 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+Roshan has fallen to the Dire! 
+Roshan has fallen to the Dire! 
+Roshan has fallen to the Radiant! 
+Roshan has fallen to the Radiant! 
+Dire victory! 
+Radiant victory! 
+All Pick. 
+All Random. 
+Captain's Draft. 
+Captains Mode. 
+Random Draft. 
+Single Draft. 
+Death Match. 
+Easy Mode. 
+Reverse Captain's Mode. 
+Mid Only. 
+Least Played. 
+Limited Heroes. 
+Top is missing. 
+Missing top. 
+Middle is missing. 
+Missing middle. 
+Bottom is missing. 
+Missing bottom.

@@ -1,0 +1,671 @@
+All pick. 
+All random. 
+Let the cold uncertainty of existence guide your hand. 
+Captain's Draft.  
+Captains Mode. 
+Random Draft. 
+Single Draft. 
+Death Match.  My favourite. 
+Easy mode. 
+Easy mode.  ha ha ha ha ha ha ha ha. 
+Mid Only.  
+Reverse Captain's Mode. 
+Least played. 
+All conflict invites tragedy. 
+All pick, choose quickly. 
+This motley assortment begs to bleed for you 
+Dust off your tomes of forbidden knowledge. 
+Ah mortal. Welcome. 
+Choose a hero to serve your twisted aims. 
+Desire for slaughter stirs unabated by the promise of a new day. 
+Come and seek refuge from blinding daylight. 
+The sun has set, as bleak doom stirs between the stars. 
+Soon, the Witching Hour. 
+All pick. 
+Can one lone fool be trusted with this responsibility? 
+It takes great courage or greater ignorance to govern the fates of others. 
+Salutations. 
+Sharpen your blade, it begins. 
+Let the fickle RNG cast your lot. 
+Give up your fate to those blind gods who tumble mad, screaming through the void. 
+Reverse Captain's Mode.  Odd. 
+Least played.  So be it. 
+Least played.  Interesting choice. 
+Least played, a mode whose existence has fostered endless debates, even blood feuds, among fervent scholars of the human psyche. 
+By your leave, be it fate or fortune. 
+Pick your hero. 
+Bind its fate to your own. 
+Your turn to pick. 
+Choose wisely! 
+Enemy's turn to pick. 
+Foul plans forming in devious minds. 
+Foul plans forming in devious minds. 
+Dire team pick. 
+Radiant team pick. 
+Your turn to ban. 
+Suffocate their hopes with focused fury. 
+Deny them any advantage. 
+Undermine their will to survive! 
+How curious that such measured strategy can so quickly fall foul to the howling winds of Chaos? 
+Enemy's turn to ban. 
+Damn their malice. 
+Pray they do not foul your strategem. 
+Ambitions disrupted, tactics fouled. 
+Dire team ban. 
+Radiant team ban. 
+Radiant's team is complete. 
+Your team is complete. 
+Dire's team is complete. 
+An army made of carries is doomed to die at the hands of the unwashed and their pitchforks. 
+A sword needs no healing, a spear begs no solace.  Only fools battle without support. 
+Ten seconds remain. 
+Five seconds remain. 
+Reserve time. 
+Prepare for battle. 
+The cost of preparedness measured now in gold, later in blood. 
+Thirty seconds to battle. 
+Thirty seconds until the brutal contest commences. 
+Ten seconds to battle. 
+Ten seconds until chaos and sub-human instincts reign. 
+The battle begins! 
+Stoke your rage. The battle begins! 
+Burn down your reason and throttle all mercy, battle is nigh! 
+Fly again to the fields of slaughter, a twisted cycle uninterrupted throughout blind eternity! 
+Return to me decorated with gruesome trophies torn from your opponents! 
+Give no quarter for none shall be granted! 
+Conflict has its own gravity, pulling all heroes into carnage with unstoppable resonance. 
+Bear witness to the ultimate strife as all are pitted against one another! 
+A sea of murder and ruin!  An ephemeral monument to death and glory. 
+Your ancient is under attack! 
+Your Ancient suffers the wrath of the enemy! 
+Enemies desecrate your Ancient! 
+Your Ancient shakes from enemy blows! 
+Your Ancient is being destroyed by enemy forces! 
+Why do you allow your Ancient be attacked?  
+Fool! Enemies threaten your Ancient! 
+I shudder to think of your inexorable descent back to the pit. 
+It seems Fortune has stolen away in the shadows of your failure. 
+Few in number have recovered from such an onerous setback. 
+Is it so dishonourable to yield when the Fates have clearly sealed your doom? 
+Perhaps you have already given up, overwhelmed by weaklings and simpletons. 
+Radiant's ancient is under attack! 
+Radiant has allowed their Ancient to feel the wrath of their enemies! 
+Radiant's Ancient is being desecrated! 
+Radiant's Ancient shakes from enemy blows! 
+Radiant's Ancient is being ravaged by the Dire! 
+Radiant has opened up to an attack on their Ancient! 
+Dire's ancient is under attack. 
+Dire has allowed their Ancient to feel the wrath of their enemies! 
+Dire's Ancient is being desecrated! 
+Dire's Ancient shakes from enemy blows! 
+Dire's Ancient is being ravaged by the Radiant 
+Dire has opened up to an attack on their Ancient! 
+Such hard labour misdirected by incompetence and dare I say... cowardice. 
+The Old Ones stare at this mis-step  drooling, mad. Witless. 
+Study this folly and learn from their pitiful mistakes. 
+It will be surprising if they can recover from this misstep. 
+Dazed. Reeling. About to Break. 
+Your top tower is under attack. 
+Your top tower shakes with violence. 
+Your top tower is threatened. 
+Your top tower quakes under fiendish assault. 
+The fiends threaten your top tower! 
+Your top tower is being mobbed! 
+The enemy swarms your top tower! 
+See to your top tower! It is under duress! 
+Brigands wielding cruel instruments of war swarm your top tower! 
+Your middle tower is being attacked 
+Your middle tower is being mobbed! 
+Protect your tower if you wish to hold your edge! 
+The enemy swarms your middle tower! 
+The fiends threaten your middle tower! 
+Your middle tower is under attack. 
+Your middle tower buckles under the seething assault of your enemies. 
+Your middle tower? It may be under siege.  I am busy with my studies. 
+Your middle tower will soon be forgotten if you delay any longer! 
+Your bottom tower is under attack. 
+The fiends threaten your bottom tower! 
+Your bottom tower is besieged by villains. 
+Your bottom tower is under siege 
+Your bottom tower is under attack. 
+Your bottom tower is being mobbed! 
+The enemy swarms your bottom tower! 
+Weakness!  Idiocy! Defend your bottom tower! 
+A brilliant strategem or perhaps your witless malaise has opened your bottom tower to the adversary. 
+Act swiftly to regain your advantage! 
+They cannot be allowed to get away with this! 
+Grind them to a pulp beneath the heel of your boot!   
+Make them pay! Make them suffer! 
+Show them you will not tolerate such brazen affront! 
+Radiant's top tower is under attack. 
+Radiant's middle tower is under attack. 
+Radiant's bottom tower is under attack. 
+Radiant has foolishly exposed their top tower to attack. 
+Radiant's middle tower thunders with blows from their enemy. 
+Radiant's bottom tower is assailed by fiends who seek its destruction. 
+Radiant's top tower is under fiendish assault! 
+Radiant's middle tower is under fiendish assault! 
+Radiant's bottom tower is under fiendish assault! 
+Enemies gather at Radient's top tower! 
+Enemies gather at Radiant's middle tower! 
+Enemies gather at Radiant's bottom tower! 
+Radiant's top tower is threatened by fiends! 
+Radiant's middle tower is threatened by fiends! 
+Radiant's bottom tower is threatened by fiends! 
+Dire has found an opening! 
+Dire has slipped by Radiant! 
+Dire's forces are relentless! 
+Clever Dire has found a vital weakness. 
+See how Dire grasps Radiant by the throat. 
+Dire's lust for violence blossoms under the unseen rays of Algol, the demon star. 
+Beware Dire, for overconfidence can be a slow and insidious killer. 
+Dire's top tower is under attack. 
+Dire's middle tower is under attack. 
+Dire's bottom tower is under attack. 
+Dire miscalculated and now their top tower is under siege. 
+Dire's middle tower is being assaulted thanks to their flawed tactics. 
+Dire's bottom tower is the target of clearly superior forces. 
+Dire's top tower is under siege! 
+Dire's middle tower is under siege! 
+Dire's bottom tower is under siege! 
+Foes threaten Dire's top tower! 
+Foes threaten Dire's middle tower! 
+Foes threaten Dire's bottom tower! 
+Dire's top tower is ravaged by the enemy. 
+Dire's middle tower is ravaged by the enemy. 
+Dire's bottom tower is ravaged by the enemy. 
+Radiant's tactics are to be admired. 
+Radiant is wreaking havoc! 
+Radiant's carnage is unceasing! 
+Radiant seethes with the madness that only the carnage of war can bring! 
+Radiant takes another strong, certain step towards glory. 
+It is whispered that Radiant employs an unspeakably cruel tribe of cave witches. Vanished children. Rites cloaked in moonless black. 
+Take heed Radiant, for overconfidence can be a slow and insidious killer. 
+It was only a matter of time, I suppose. 
+How much more, I wonder, can it withstand? 
+I fear it will crumble soon. 
+Will it fall? 
+Cold stone, itself, fracturing, toppling... 
+A foregone conclusion. 
+Your top tower has fallen. 
+Your top tower has been reduced to ash. 
+Your top tower has been obliterated. 
+Your top tower has been lost! 
+Your top tower has been razed to the ground! 
+Your top tower has been crushed! 
+Your top tower is in ruin, desecrated by those who would make you kneel. 
+Your middle tower has fallen. 
+Your middle tower has been toppled by the enemy. 
+Your middle tower has been lost! 
+Your middle tower has been razed to the ground! 
+Your middle tower has been crushed! 
+Your middle tower lies in ruin, desecrated by those who would make you kneel. 
+Cower in shame, for your middle tower is toppled by forces greater than your own 
+Your bottom tower has fallen. 
+Your bottom tower has been reduced to ash. 
+Your bottom tower has been lost! 
+Your bottom tower has been toppled! 
+Your bottom tower has been razed to the ground! 
+Your bottom tower has been crushed! 
+What pathetic news!  Your bottom tower crumbles to dust as we speak! 
+Radiant's top tower has fallen. 
+Radiant has lost their top tower to the enemy. 
+Radiant's top tower has been utterly destroyed! 
+Radiant's top tower has been crushed! 
+Radiant's middle tower has fallen. 
+Radiant has forfeited their middle tower. 
+Radiant's middle tower has been utterly destroyed! 
+Radiant's middle tower has been crushed! 
+Radiant's bottom tower has fallen. 
+Radiant has failed to protect their bottom tower. 
+Radiant's bottom tower has been utterly destroyed! 
+Radiant's bottom tower has been crushed! 
+Dire's top tower has fallen. 
+Dire's top tower has been razed to the ground. 
+Dire's top tower has been utterly destroyed! 
+Dire's top tower has been crushed! 
+Dire's middle tower has fallen. 
+Dire's middle tower has fallen to the enemy. 
+Dire's middle tower has been destroyed! 
+Dire's middle tower has been crushed! 
+Dire's bottom tower has fallen. 
+Dire's bottom tower has been reduced to ashes and rubble. 
+Dire's bottom tower has been destroyed! 
+Dire's bottom tower has been crushed! 
+The enemy's top tower has fallen. 
+Your foe's top tower has been crushed to rubble. 
+The enemy's top tower has crumbled. 
+The enemy has lost its top tower! 
+Finally, you have destroyed their top tower!  
+And so you have shattered their top-most tower... 
+The enemy's middle tower has fallen. 
+Your enemy's middle tower was smashed into dust. 
+Your foe's middle tower has been utterly destroyed. 
+The enemy has lost its middle tower! 
+Their middle tower has been crushed by your forces! 
+They have lost their mid tower and I admit a measure of surprise and even, curiosity at this unexpected turn of events. 
+The enemy's bottom tower has fallen. 
+The fiends' bottom tower is no more. 
+The enemy's bottom tower has succumbed to your unyielding will. 
+The enemy has lost its bottom tower! 
+And with their bottom tower demolished you have taken another decisive step towards victory! 
+Their bottom tower lies in ruin, forces now plunder trinkets and baubles from its rubble. 
+Success so clearly in view... or is it merely a trick of the light? 
+But will it be enough? 
+Success measured by magnitude of martial destruction, can't you see you are only feeding the cycle itself? 
+Continue the onslaught! Destroy. Them. All. 
+Your top tower has been denied. 
+You denied the enemy the spoils of your top tower, and in exchange they encroach ever closer. 
+Be it spite or calculated malice, you have denied them your top tower. 
+Your top tower was demolished to deny it from the enemy. 
+Denied. 
+You denied the enemy the spoils of your middle tower, and in exchange they encroach ever closer. 
+Be it spite or calculated malice, you have denied them your middle tower. 
+Your middle tower was demolished just in time to deny it from your enemies 
+Denied. 
+You denied the enemy the spoils of your bottom tower, and in exchange they encroach ever closer. 
+Be it spite or calculated malice, you have denied them your bottom tower. 
+Your bottom tower was demolished to deny it from the clutches of your foes. 
+The enemy's top tower has been denied. 
+Fie, the damnable fools denied you their top tower. 
+The enemy's top tower was denied from your rampaging forces! 
+The fiends destroyed their own top tower! Denying you their spoils. 
+The enemy's middle tower has been denied. 
+Fie, the damnable fools denied you their middle tower. 
+The enemy's middle tower was denied from your rampaging forces! 
+Your foe's middle tower was sacrificed, you are denied! 
+The enemy's bottom tower has been denied. 
+Fie, the damnable fools denied you their bottom tower. 
+The enemy's bottom tower was denied from your rampaging forces! 
+Your foe's bottom tower was sacrificed, you are denied! 
+Radiant's top tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's bottom tower has been denied. 
+Radiant's top tower has been sacrificed. 
+Radiant's mid tower's been sacrificed. 
+Radiant's bottom tower's been sacrificed. 
+Dire's top tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's bottom tower has been denied. 
+Dire's top tower's been sacrificed. 
+Dire's mid tower's been sacrificed. 
+Dire's bottom tower's been sacrificed. 
+An extreme, but necessary measure. 
+Self-destruction is glorious in all of its expressions. 
+Better to quickly sever the hand than lose an arm to rot. 
+Clever, indeed. 
+Your top barracks are under attack. 
+Your top barracks shudders under the blows of the enemy! 
+Your top barracks are being torn asunder! 
+Your middle barracks are under attack. 
+Your middle barracks shudders under the blows of the enemy! 
+Your middle barracks are being torn asunder! 
+Your bottom barracks are under attack. 
+Your bottom barracks shudders under the blows of the enemy! 
+Your bottom barracks are being torn asunder! 
+The enemy seeks to destroy your top barracks! 
+The enemy seeks to destroy your middle barracks! 
+The enemy seeks to destroy your bottom barracks! 
+Radiant's top barracks are under attack. 
+Radiant's foes converge on its top barracks! 
+Radiant has allowed their top barracks to be attacked! 
+Radiant's top barracks are swarmed by their enemies! 
+Radiant's middle barracks are under attack. 
+Radiant's foes converge on its middle barracks! 
+Radiant has allowed their middle barracks to be attacked! 
+Radiant's middle barracks are swarmed by their enemies! 
+Radiant's bottom barracks are under attack. 
+Radiant's foes converge on its bottom barracks! 
+Radiant has allowed their bottom barracks to be attacked! 
+Radiant's bottom barracks are swarmed by their enemies! 
+Dire's top barracks are under attack. 
+Dire's top barracks cannot last long under this ferocious attack! 
+Dire's top barracks are under siege! 
+Fools! Dire's top barracks is being destroyed! 
+Dire's middle barracks are under attack. 
+Dire's middle barracks cannot last long under this ferocious attack! 
+Dire's middle barracks are under siege! 
+Fools! Dire's middle barracks is being destroyed! 
+Dire's bottom barracks are under attack. 
+Dire's bottom barracks cannot last long under this ferocious attack! 
+Dire's bottom barracks are under siege! 
+Fools! Dire's bottom barracks is being destroyed! 
+Your top barracks have fallen. 
+Your foes have pillaged your top barracks, leaving them in ruin! 
+You have allowed your top barracks to be destroyed! 
+Your middle barracks have fallen. 
+Your foes have pillaged your middle barracks, leaving them in ruin! 
+You have allowed your middle barracks to be destroyed! 
+Your bottom barracks have fallen. 
+Your foes have pillaged your bottom barracks, leaving them in ruin! 
+You have allowed your bottom barracks to be destroyed! 
+The enemy's top barracks have fallen. 
+The enemy's top barracks have been ransacked! 
+The enemy's top barracks have fallen to your shrewd tactics. 
+The enemy's middle barracks have fallen. 
+The enemy's middle barracks have been ransacked! 
+The enemy's middle barracks have fallen to your shrewd tactics. 
+The enemy's bottom barracks have fallen. 
+The enemy's bottom barracks have fallen to your shrewd tactics. 
+The enemy's bottom barracks have been ransacked! 
+Radiant's top barracks were allowed to fall! 
+Radiant is now without its top barracks. 
+Radiant has surrendered its top barracks. 
+Radiant's middle barracks were allowed to fall! 
+Radiant is now without its middle barracks. 
+Radiant has surrendered its middle barracks. 
+Radiant's bottom barracks were allowed to fall! 
+Radiant is now without its bottom barracks. 
+Radiant has surrendered its bottom barracks. 
+Dire must now survive without its top barracks. 
+Dire's top barracks are now in ruins. 
+Dire's top barracks have collapsed under the blows of the enemy! 
+Dire must now survive without its middle barracks. 
+Dire's middle barracks are now in ruins. 
+Dire's middle barracks have collapsed under the blows of the enemy! 
+Dire must now survive without its bottom barracks. 
+Dire's bottom barracks are now in ruins. 
+Dire's bottom barracks have collapsed under the blows of the enemy! 
+You now have megacreeps. 
+You have the might of the Megacreeps at your behest! 
+Bar the doors, nail the shutters, and hide your children in the cellar! The megacreeps prowl again! 
+You now command the ferocious Megacreeps! 
+The enemy now has megacreeps. 
+The enemy has gained the might of the Megacreeps! 
+They have forged an alliance with the Megacreeps! 
+They now command Megacreeps! 
+The Radiant now have megacreeps. 
+The Radiant have the might of the Megacreeps under their control! 
+Radiant have added Megacreeps to their ranks! 
+The Radiant now command Megacreeps! 
+The Dire now have megacreeps. 
+The Dire now control the might of the Megacreeps! 
+Dire have added Megacreeps to their ranks! 
+The Dire now command the Megacreeps! 
+The earth trembles as they enter battle! 
+The end, I fear, is nigh... 
+Can you feel the noose tighten? 
+Their might is incomparable! Flee while you still are able! 
+Your enemies will soon know Death. 
+Blood will soak these fields, seize this moment or kneel! 
+Fan the flames! Mold the metal! We are raising an army! 
+Roshan has fallen to the Radiant! 
+Radiant has defeated Roshan, they now wield the Aegis of Immortality! 
+Radiant's bold maneuvers have gained them victory over Roshan! 
+Roshan has fallen to the Dire! 
+Dire has defeated Roshan, they now wield the Aegis of Immortality! 
+Dire's cunning maneuvers have undone Roshan! 
+Monstrous size has no intrinsic merit unless inordinate exsanguination be considered a virtue. 
+Roshan's prized possession has slipped from his dying grasp! 
+Roshan has fallen again!  A fine furbolg cheese goes to the most cunning opportunist. 
+A mortal blow landed on the fool martyr Roshan!  He has dropped something most... precious... 
+Dire's structures are fortified. 
+Dire's structures are made invincible for a short time! 
+Radiant's structures are fortified. 
+Radiant's structures are impervious to damage. 
+Your structures are fortified. 
+Shrewd application of occult power wards your buildings. 
+Unfathomable energies protect your buildings. 
+A strange field protects your buildings. 
+Your structures are fortified! 
+The enemy's structures are fortified. 
+A strange energy field engulfs your enemies' buildings. 
+Occult energy guards your enemies' buildings. 
+Your enemies' buildings are warded by unknowable power. 
+The enemy has fortified its structures! 
+This is a desperate maneuver, the foot is already upon the throat. 
+A parlour trick, simple but useful. 
+A strange school of magic but not without its uses. 
+Destruction will follow soon enough, this is but a slight delay. 
+Radiant's courier has been killed. 
+Radiant's courier, innocent of any bloodshed, has been slain. 
+Radiant's courier has fallen to desperate fiends. 
+Radiant's courier has been slain. 
+Radiant's courier, indispensable to their cause, has been killed by cowards. 
+Dire's courier has been killed. 
+Death has come to Dire's courier. 
+Dire's courier has been killed by cynical marauders. 
+Sadly, Dire's brave courier was taken for granted until it's demise. 
+Mourn Dire's courier, for it has been murdered. 
+This simple beast now lies unmourned, unburied. 
+Discarded for all its unfailing loyalty. 
+The value carried was modest but nothing should be taken for granted on this unforgiving battlefield. 
+Their cause may suffer the consequences of losing a considerable amount of coin and certainly that of most precious time itself. 
+It finds itself easily discarded after a life of singular loyalty. 
+Now it lies buried with its pack laden with trinkets and shiny baubles.  Or was it priceless artifacts? 
+A king's grand expenditure! Squandered! Spilled! It now lies in the rotting earth of a lowly pack animal's grave. 
+Radiant victory! 
+Radiant's masterful application of violence has shattered the will of their foes. 
+Radiant has visited a terrifying fate upon the fiends that defied them. 
+Dire has yielded to Radiant's complete domination. 
+Dire victory! 
+Dire has brought doom to those who dared oppose them. 
+Dire has crushed Radiant! 
+Radiant has accepted defeat, Dire has won! 
+Fuelled by your unreasoning hatred and dire cunning, you have shattered the enemy.  See that it does not consume you as well! 
+By your steel and a legacy of unspeakable acts, the villains lie bleeding and crushed! 
+A trifling victory, but a victory nonetheless. 
+Many fall in the face of chaos; but not this one, not today. 
+Know now that your doom was graven in the stones beneath my manor. 
+Perhaps next time you will know better than to stir conflict with your betters, or those more cruel than yourself. 
+Yet again ambition is greater than might.  Another fool forgotten, drowned in the sands of time. 
+Defeat can be a powerful teacher, however I fear sometimes you may not be the most apt of pupils. 
+Savour the lamentations of your fallen foe and their pathetic kin. 
+Harvest the fruits of your atrocious acts and feats of unhinged cunning. 
+A trifling victory, but a victory nonetheless. 
+Many fall in the face of chaos; but not this one, not today. 
+Defeat is temporary, but shame is eternal. 
+No songs are written for the conquered, no statues erected in their memory. 
+Perhaps they will spare your kin and children, then again, perhaps not. 
+Fatal wounds now stinging with mockery and dishonor.  All is lost. 
+Top is missing! 
+Take heed, top is missing! 
+Now where has top gone to? 
+Top's enemies skulk beyond detection. 
+The top lane is devoid of enemies?strange. 
+Top lane is curiously empty 
+Middle is missing! 
+Middle has vanished! 
+No enemies can be found on the middle path. 
+Middle is silent, no one is safe! 
+No enemy can be seen in middle. 
+Middle lacks enemies. 
+Bottom is missing! 
+Bottom has eluded you! 
+Bottom is empty! 
+The bottom path is silent! 
+Missing bottom! 
+Bottom has escaped detection! 
+Bottom's enemies are eerily missing. 
+Gold is both the means and the ends of war. 
+Sharp steel and esoteric artifacts, anything to ensure your precarious dominance! 
+Do not squander this fresh opportunity to finally prove your value. 
+Endeavour to treat this vessel better than last. 
+What strange forces have returned you to this terrible field of battle? 
+Witness flesh reformed and bone made whole, product of ambition and singular bloodlust. 
+See how cosmic chaos imposes an unearthly quiet where there should be clangor and blood-letting. 
+This period of peace quietly masks the slow boiling wrath that fuels this conflict. 
+Perhaps I can regale you with tales of my ancestral home? 
+Until there is need for me forgotten tomes of unspeakable power await my study. 
+Are idle hands truly the devil's workshop?  My own deeds have required staggering labour, resources, and...madness. 
+Do you pause to reflect upon your unearned greatness?  What kind of fool delays victory through spurious inaction? 
+Are all towers toppled?  Are all enemies buried?  What idle madness bewitches you to pause so? 
+All is tranquil, and unbridled aggression bides its time. 
+All this greenery, this peacock's display of Nature's resplendent attire.  Nauseating. 
+I will return, the servants bring news from a fresh excavation beneath my manor. 
+Death stalks quietly nearby, closer than any mortal would suspect or hope. 
+Will this battle be one for the bards and the tapestries? Or will its chronicles scare children gathered around the campfire? 
+Does this gratuitous display of violence entertain you? 
+Carnage resumes; undiscerning, unrelenting.  
+Continue this wild expression of wrath. 
+You may resume your unflinching conflict. 
+Proceed with your pointless contest of cruelty. 
+The sands of Time resume their tumble down into oblivion, unaffected by the outcome of this futile battle. 
+The battle resumes. 
+A player has disconnected. 
+A player has reconnected. 
+Perhaps it is cowardice that subverts your will? 
+I have foreseen your return, it is written in constellations forgotten by time. 
+Even a mindless beast can turn the tide of battle. 
+Always be on guard, the hazards of life and battle can fell a careless hero. 
+A pitiful death, blood spills into the very fountain of life itself. 
+Is there no greater comedy than a fool slain at the very fount of healing? 
+Obliterated. 
+Another sacrifice upon the altar of chaos. 
+Glittering gold, trinkets and baubles. Paid for in blood 
+To see the unseeable is a terrible blessing - one that can drive a fragile mind over the edge. 
+Written by a mad sorcerer, it opens gateways to terrifying vistas and summons profane beings into servitude. 
+Take heed, this profane weapon has a knack for ending up in the wrong hands.  Its thrives on strife and chaos! 
+They sense their mortality, fear awakens! 
+A crushing blow to their resolve. 
+Press them further! 
+Hope is kindled like a torch on a moonless night. 
+Their resolve is fading. 
+Thus despair takes root in their feeble minds. 
+Power grows, but never forget - overconfidence is a slow and insidious killer. 
+Strike another blow! Keep them off balance! 
+They shall know fear and apprehension. 
+Thrill at this growing influence! 
+A masterful stroke! 
+Splendidly executed! 
+Havoc wreaked with peculiar wrath! 
+Their descendants will speak of this in hushed, anxious tones. 
+Splendid! 
+Perhaps stern action can stem this offense. 
+Will this lure them into treacherous overconfidence? 
+This cannot be allowed to go unanswered. 
+Dispose of this minor threat. 
+They mean to undermine. 
+Respond swiftly! Enact painful vengeance! 
+Quickly! put an end to this nuisance! 
+Act decisively and avoid further loss. 
+Poorly conceived strategy bears its terrible fruit. 
+Vengeance is kindled, an undiscerning uncontrollable force of destruction! 
+Honour is stained by this humiliation. 
+Respond without restraint! 
+Was this chaos or incompetence? 
+Ambition is challenged by the unworthy! 
+An unfortunate outcome. 
+Your flaws made crystal clear! 
+Can another setback be tolerated? 
+Scatter this mob and crush those responsible 
+Respond with steel, talon and vicious purpose. 
+Show these fools they have no possible hope, no means to victory! 
+Will this impertinence go unchecked? 
+Is this a sign defeat is near? 
+An ominous event indeed. 
+Revisit this offense thrice fold upon the villainous perpetrators! 
+Abaddon, master of the Black Mist of Avernus. 
+Alchemist, an unbalanced pair of jailbreakers questing after the ultimate transmutation. 
+Ancient Apparition, immortal elemental born of the cold Infinite Void 
+Anti-Mage nemesis of the Dark God and of all those who wield magic. 
+Axe, the ruthless general of the Red Mist. 
+Bane, the avatar of waking nightmares and the essence of fear itself. 
+Batrider thrill-seeker extraordinaire who rules the skies. 
+Beastmaster, embodiment of nature's primal savagery. 
+Bloodseeker, Hound of the Flayed Twins whose bloodlust demands unceasing sacrifice. 
+Bounty Hunter, stalker for profit. 
+Brewmaster, drunken seeker of enlightenment through libation. 
+Bristleback, a paradoxical combination of dedicated training and hundreds of tavern brawls. 
+Broodmother, who will slay any threat to her offspring. 
+Centaur Warrunner, a mighty warrior fixated on becoming legend. 
+Chaos Knight, plane-slider who seeks to finally extinguish the source of the light. 
+Chen, scourge of the unbeliever. 
+Clinkz, slayer of Maraxiform and cursed to feel the agony of death forever. 
+Clockwerk, master of ambush and engineer of mechanized destruction. 
+Crystal Maiden, outcast master of the frozen arts. 
+Dark Seer, stranger in a strange land and master of strategy. 
+Dazzle, fanatical Shadow Priest of the Dezun order. 
+Death Prophet, she who peers beyond the veil yet is unable to die. 
+Disruptor, ruler of thunder and lightning. 
+Doom, the insatiable Lucifer , destined ruler of the world. 
+Dragon Knight, the dragon-slayer who contains the essence of his sworn enemy. 
+Drow Ranger, whose arrows whisper Death's secret names as they fly from the shadows. 
+Earth Spirit, the living might of the Earth itself. 
+Earthshaker, Earth's mortal avatar. 
+Elder Titan, our shattered world is said to be a reflection of his fractured soul. 
+Ember Spirit, teacher of the ways of the Burning Celestial. 
+Enchantress, a cheerful sylvan wanderer. 
+Enigma, none can truly tell his tale or know what he is. 
+Faceless Void, he who exists outside of Time can wield it to great effect. 
+Gyrocopter, perfecter of mechanized flight. 
+Huskar, beware the one whose power grows with injury. 
+Invoker, the quasi-immortal prodigy of magic. 
+Io, the inscrutable embodiment of universal mysteries. 
+Jakiro, living breathing contradiction who wields both fire and ice. 
+Juggernaut, from the sunken Isle of Masks, tirelessly devoted to swordplay and ritual. 
+Keeper of the Light, a cunning disguise for one who lives in all planes at once and bears the power of infinite light. 
+Kunkka, commander of the Ghostship and wielder of the legendary Tidebringer. 
+Legion Commander, leader of the destroyed Bronze Legion pursues vengeance against those from the Abyss. 
+Leshrac, who once peered into the Chronoptic Crystals and found only horror at the core of all existence. 
+Lich, master of ice magic and enslaver of kingdoms trapped in an undying parody of his former life. 
+Lifestealer, this strange body holds two minds who seek to infiltrate the psyche of others. 
+Lina, proud and bright like the all-consuming power of fire that she wields with cunning. 
+Lion, corrupted Demon Witch driven only by infinite rage. 
+Lone Druid, of the forgotten Bear Clan, burdened with the keeping of the legendary Seed of renewal. 
+Luna, the dreaded Moon Rider, guardian of the Nightsilver Woods. 
+Lycan, sole heir of the forgotten House of Ambry - cursed to lycanthropy by his own king. 
+Magnus the proud Magnocerus, bent on revenge to those who despoiled his homeland and kin. 
+Medusa youngest of the Gorgons, gave up her radiant beauty for immortal power. 
+Meepo, elusive and enigmatic, it is said he can split himself without dividing his power. 
+Mirana ,she surrendered the Solar Throne to serve the Goddess of the Moon. 
+Morphling, spawned from a comet, born into battle. 
+Naga Siren, sinuous and serpentine yet bound by most rigid honor. 
+Nature's Prophet, who sprouted from Verodicia's body to nurture and defend the woods. 
+Necrophos, the Pope of Pestilence whose power grows as his plague corrupts and devours its victims. 
+Night Stalker, beware nightfall - for he watches and waits for those who stray from torchlight. 
+Nyx Assassin, shaped from a grub into a killing machine to destroy the enemies of his goddess. 
+Ogre Magi, singular prodigy of an exceptionally dull race and said to be graced by Divine Luck herself. 
+Omniknight, the only one who dared question the Omniscience and was made stronger for it. 
+Oracle, a mysterious soothsayer from another dimension, doomed to shape fate with his predictions. 
+Outworld Devourer, a terrifying being whose arrival foreshadows an even greater threat. 
+Phantom Assassin, veiled sister of a mysterious order of which she alone still recalls her true name. 
+Phantom Lancer, this curious being is infused with reflective shards, remnants of a dead wizard's lifeforce. 
+Phoenix, child of galactic suns whose destiny is intertwined with the mortals of this plane. 
+Puck, the infant form of a faerie dragon. Is mischief its sole purpose or does something darker stir within? 
+Pudge, battlefield butcher and consummate consumer of carrion. 
+Pugna,part of a legacy of reincarnated beings who have mastered the destructive power of Oblivion itself. 
+Queen of Pain, succubus of torment, herald of agony. 
+Razor, lightning lord from the underscape. 
+Riki, orphan of the great Tahlin dynasty, master of invisibility and assassination. 
+Rubick, who became Grand Magus when he discovered he could turn the powers of his predecessors against them. 
+Sand King, avatar of the great sentient sands that flood the Scintillant Waste. 
+Shadow Demon, infinite corruptor of those who would dare summon him. 
+Shadow Fiend, dark and unfathomable collector of souls. 
+Shadow Shaman,master of the mysterious serpent wards, he seeks only to live and let live. 
+Silencer, the grim nemesis of magic users and all those who wield arcane energies. 
+Skywrath Mage, a powerful mage cursed by tradition to protect the one he hates the most. 
+Slardar, protector of the sunken treasures found in the ink-black depths of the seas. 
+Slark, deeply cunning and the only one to ever escape the dreaded prison of Dark Reef. 
+Sniper, ruled by dark prophecy and exiled from his people. 
+Spectre, a strange being who incarnates solely to pursue combat. 
+Spirit Breaker, a plane-shifting elemental force who serves a hidden master. 
+Storm Spirit, capricious fate has infused this mortal frame with the eternal power of the storm. 
+Sven, desecrator of the Vigil Codex that had doomed his father, he answers to no one but himself. 
+Techies, do give this explosive trio of a wide berth. 
+Templar Assassin, sworn protector of the Hidden Temple, wherein she drinks deeply from the fountain of knowledge. 
+Terrorblade, once a demon yet was found to be too foul, too terrible by his own kin. Beware his twisted intent. 
+Tidehunter, nemesis of Kunkka, devoted to Maelrawn the Tentacular. 
+Timbersaw, lone survivor of Augury Bay, a town decimated by carnivorous plants and murderous trees. 
+Tinker, one of a race who arrogantly plumbed the inner workings of nature itself, and thus doomed the Violet Plateau. 
+Tiny, an ever-growing expression of mineral intelligence seeking self-awareness. 
+Treant Protector, selected by his sentient plant brethren to scout the outer lands and anticipate any threat to their hidden sanctuary. 
+Troll Warlord, exiled from his own race for being too vexatious. 
+Tusk, the Snowball from Cobalt, he bested the Bristled Bruiser after a legendary brawl. 
+Undying, chosen by the Dead God to spread his Dirge across the land. 
+Ursa, known as Ulfsaar. A proud and mighty warrior as dependable as he is ferocious 
+Vengeful Spirit, betrayed and wings broken, she made a forbidden pact to enact her vengeance. 
+Venomancer, once a herbalist now an abominable hybrid of orchid and reptile whose venom is infinitely potent. 
+Viper, a soaring monstrosity who used forbidden knowledge to enhance its own toxins 
+Visage, spectral gargoyle charged with hunting those souls who, by chance or determined cunning, have escaped the veil between life and death. 
+Warlock, indefatigable pursuer of lost tomes and master-scholar of the eldritch arts they contain 
+Weaver, once maintainer of the warp and weft of reality itself, now exiled for daring to weave his own fate 
+Windranger, once known as Lyralei, favoured god-child of the capricious Wind. 
+Winter Wyvern, rare member of the Dragon Scholars, she lives for the adventure of finding rare tomes. 
+Witch Doctor, ancient twisted being who has cultivated the power and discipline to heal or destroy. 
+Wraith King, he distrusted his mortal flesh and instead,transformed himself into a deathless being with the energy shed by the sacrifice of terrifying beings 
+Zeus, eternal lover of mortals and their whims, was cursed to fidelity for a mortal's lifetime by his spurned wife. 
+Monkey King, A slippery trickster, he has crowned himself King of the primates with ambitions for far greater. 
+Can Radiant and Dire be forced to resolve their primordial differences? Arc Warden's shattered psyche depends on this flimsy hope. 
+Ah , here we find a sanguine romantic whose feats of hedonism and recklessness are known even to myself. 
+Mireska Sunbreeze - what more is there to say about this upstart faerie who left a life of privilege to swindle and grift her way through life?

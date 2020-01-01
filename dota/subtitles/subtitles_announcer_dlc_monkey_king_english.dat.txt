@@ -1,0 +1,351 @@
+Choose your hero. 
+Choose your hero. Perhaps a certain simian sovereign?  
+You don't need five heroes. One Wu Kong would suffice. 
+Dire pick. 
+Radiant pick. 
+Enemy's turn to pick. 
+Enemy team's picking now...what good it'll do them. 
+It's the enemy's turn to pick. 
+Enemy's pick. Pay attention. You want to win this thing, right? 
+It's your pick. 
+Take your pick.  
+Your turn to pick. Choice seems obvious to me. 
+Pick someone. It's not so hard. 
+Dire ban. 
+I'll allow Dire a ban. 
+Radiant ban. 
+I'll allow Radiant a ban. 
+Your ban. 
+Your turn to ban. 
+Ban someone. Anyone. Don't just sit there. 
+Eliminate an enemy before the battle even starts. 
+Enemy ban. 
+Enemy's turn to ban. Hope you're versatile. 
+Enemy's ban. Let's see what they've got in mind. 
+Enemy gets to ban someone. 
+Enemy ban. I wonder if they've got you figured out. 
+Enemy's about to ban someone. I know who I'd use it on. 
+Not quite up to my standards, but we go to battle with the heroes we have. 
+Dire team is ready. Nothing special, but we'll see what they can do. 
+Radiant team is ready. I expected a bit more style, honestly. 
+Dire team is complete! 
+Radiant team is complete! 
+Your team is complete! 
+You can win the battle right here. 
+Ten seconds remaining. 
+Ten seconds. No pressure. 
+Five seconds remaining. 
+Five seconds? A lifetime! 
+Reserve time. 
+You're using reserve time.  
+What's taking so long? I'd have smashed the whole ancient by now. 
+Prepare for battle! 
+Thirty seconds to battle! 
+Ten seconds to battle! 
+I love the calm before the storm. 
+The battle begins! 
+Time for some entertainment. 
+Finally, what we all came for. 
+Anyone care to make a friendly wager?  
+Dire's bottom tower is under attack. 
+Dire's bottom tower is in the fight. 
+Dire's bottom tower isn't long for this world. 
+Dire's middle tower is under attack. 
+Are Dire going to let their middle tower fall? 
+They're attacking Dire's middle tower. 
+Dire's top tower is under attack. 
+Dire's top tower is under siege. 
+Radiant are making a play for Dire's top tower. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower isn't looking good. 
+Radiant's middle tower is under attack. 
+Seems Radiant doesn't care about their middle tower. 
+Radiant's middle tower isn't down yet, but it doesn't look good. 
+Radiant's top tower is under attack. 
+Radiant's top tower could use some backup. 
+Dire forces attacking Radiant's top tower! 
+Your bottom tower is under attack. 
+They're attacking your bottom tower. 
+The enemy assault on your bottom tower has begun! 
+Your middle tower is under attack. 
+Protect your middle tower. 
+The enemy dares attack your middle tower?! 
+Your top tower is under attack. 
+There's trouble at your top tower! 
+Those devils are attacking your top tower. 
+Dire's bottom tower has fallen. 
+Dire's bottom tower wasn't up to the challenge. 
+Dire's middle tower has fallen. 
+Dire's middle tower will barely be remembered. 
+Dire's top tower has fallen. 
+Dire's top tower wins no prizes for longevity. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower isn't much of a tower anymore. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower used to be there. 
+Radiant's top tower has fallen. 
+Radiant's top tower just toppled over. 
+Your bottom tower has fallen. 
+Your bottom tower was there. But not now. 
+Where'd your bottom tower go? 
+Your middle tower has fallen. 
+See your middle tower? No, you don't. Because it's gone. 
+Should have protected your middle tower. 
+Your top tower has fallen. 
+Top tower is gone. 
+Were you counting on your top tower being there? 
+The enemy's bottom tower has fallen. 
+Say goodbye to the enemy's bottom tower. 
+Well, the enemy's bottom tower is down. Good for you. 
+The enemy's middle tower has fallen. 
+You finally managed to knock down the enemy's middle tower. 
+Where'd the enemy's middle tower go? Did you do that? 
+The enemy's coveted middle tower is no more. 
+The enemy's top tower has fallen. 
+The enemy's top tower is down. 
+I see you've destroyed the enemy's top tower. 
+Dire's bottom tower has been denied. 
+Somone on Dire just denied their bottom tower. 
+Dire's middle tower has been denied. 
+Dire's top tower has been denied. 
+Ooh, Dire's top tower was just denied. 
+Radiant's bottom tower has been denied. 
+Radiant denied their own bottom tower. 
+Radiant's middle tower has been denied. 
+Radiant's middle tower falls denied. 
+Radiant's top tower has been denied. 
+Radiant just denied their offlane tower. 
+Your bottom tower has been denied. 
+And your bottom tower was just denied. 
+Your middle tower has been denied. 
+Well done, denying your middle tower. 
+Your top tower has been denied. 
+Your top tower just got denied. 
+The enemy's bottom tower has been denied. 
+Someone just let the enemy deny their bottom tower. 
+The enemy's middle tower has been denied. 
+The enemy just denied their middle tower.  
+The enemy's top tower has been denied. 
+Enemy's top tower was just denied. 
+I think the tower would have wanted it this way. 
+Well, if it had to fall either way. 
+I prefer destroying enemy towers, but this wasn't a complete loss. 
+Such impudence! 
+You let them deny what was rightfully yours?! 
+Punishment must be swift. You know what you have to do. 
+Dire's bottom barracks are under attack. 
+Now they're after Dire's bottom barracks. 
+It's a fight for Dire's bottom barracks. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks are about to become dust. 
+Dire better see to their middle barracks. 
+Dire's top barracks are under attack. 
+Dire's top barracks in trouble. 
+They won't leave Dire's top barracks alone. Nor should they. 
+Radiant's bottom barracks are under attack. 
+Radiant's bottom barracks are in the thick of it. 
+I don't see a bright future for Radiant's bottom barracks. 
+Radiant's middle barracks are under attack. 
+Radiant's middle barracks might have to defend themselves. 
+They're pushing into Radiant's middle barracks. 
+Radiant's top barracks are under attack. 
+What are Radiant going to do about those top barracks? 
+Radiants top barracks taking some punishment. 
+Your bottom barracks are under attack! 
+Bottom barracks under attack! 
+Why's it always your barracks? 
+Your middle barracks are under attack! 
+They're attacking your middle barracks! 
+You can't let the middle ones fall! 
+Your top barracks are under attack! 
+Enemy's attacking top barracks! 
+Clear that top wave! 
+You like winning? It's a lot easier with barracks! 
+Are you trying to make this hard on yourself? 
+You can tell a lot by how a hero treats their barracks. 
+Dire's bottom barracks have fallen. 
+Dire's middle barracks have fallen. 
+Dire's top barracks have fallen. 
+Radiant's bottom barracks have fallen. 
+Radiant's middle barracks have fallen. 
+Radiant's top barracks have fallen. 
+The enemy's bottom barracks have fallen. 
+Say goodbye to the enemy's bottom barracks. 
+The enemy's middle barracks have fallen. 
+The enemy just lost their middle barracks. 
+The enemy's top barracks have fallen. 
+The enemy's top barracks proved unreliable. 
+Your bottom barracks have fallen. 
+Your middle barracks have fallen. 
+Your top barracks have fallen. 
+You know what they say about a team that loses its barracks. 
+How can I take them seriously after that? 
+That's one way to go about losing. 
+Are they even paying attention? 
+They're just giving this away. 
+Well, at least the view's unobstructed. 
+There's nothing heroic about that. 
+So what are you gonna do about it? 
+I've come back from worse. 
+That should demoralize them. 
+I suppose they had it coming. 
+Dire's Ancient is under attack! 
+Dire's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+Your Ancient is under attack! 
+Your Ancient is under attack! 
+If your Ancient falls, consider me unimpressed. 
+I'm something of an expert in dodging rules, but even I know: Defend the Ancient! 
+That's the one thing that can't happen! 
+Now comes the good part! 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+The enemy now have megacreeps. 
+You now have megacreeps. 
+On the bright side, fighting creeps just got more intense. 
+But you better smash that Ancient before they do. 
+Not the most epic fight I've seen, but it's about to be in the books. 
+Let's see Radiant deal with that. 
+It shouldn't be long now. 
+Dire might be done for. 
+That might be the final chapter in this tale. 
+Dire just fortified their structures. 
+Dire's structures are fortified. 
+Dire have fortified their structures. Cowards. 
+Radiant just fortified their structures. 
+Radiant's structures are fortified. 
+Radiant have fortified their structures. Weaklings. 
+Radiant are scanning for enemies. 
+Dire are scanning for enemies. 
+Radiant's courier has been killed. 
+Radiant's courier just got turned into a fine mist. 
+Dire's courier has been killed. 
+Dire's courier isn't finishing that run. 
+Delightful. 
+Perhaps they'll graduate to killing heroes next. 
+Not a proper kill, but not without merit. 
+What was that courier doing there, anyway? 
+Noble creatures, couriers. Entrusted with treasures that would bankrupt most kingdoms. 
+Roshan has fallen to the Dire. 
+Roshan goes about this immortality thing all wrong. 
+Roshan's dead. Not exactly a tragedy. 
+Roshan has fallen to the Radiant. 
+An Aegis grants something of a second-rate immortality, if you ask me. 
+Old Roshan'll be back. Not sure how long, though. Always so difficult to say. 
+Dire victory! 
+Dire win! I knew it'd unfold like this. 
+Dire smash the Ancient! This one's over. 
+Radiant victory! 
+Radiant claim the victory! I had a feeling. 
+The Dire Ancient falls! Radiant have done it! 
+Only a fool would tolerate this aggression! 
+What kind of hero are you, anyway? 
+Do something, worm! 
+Do I really need to explain this? 
+I'd never allow such insolence! 
+Are you even listening to me? 
+This reminds me of my encounter with -- Hrm. Another time, perhaps. When you've earned it. 
+Are you even paying attention? 
+This isn't some game! 
+Those don't come back, you know. 
+Did you even try to deny it? 
+It's ok. Towers make you weak. You don't need them. 
+Trees grow back. Towers don't. 
+Remember how I was saying they were under attack? 
+Oh, this reminds me of my encounter with -- oh. Another time, perhaps. When you've earned it. 
+If you're trying to make it a challenge, it's working. 
+That's certainly never happened to me. 
+It's not over, but you're not helping yourself. 
+Can't say I didn't see it coming. 
+Following in my legendary footsteps. 
+What'll you smash next? 
+There's no denying your minor accomplishment. Well done. 
+Go on, gloat a little. 
+Well played! 
+You'll be drinking and singing victory songs in no time. 
+Smashing! 
+That's one way to do it. 
+It took you long enough. 
+Ready for the ancient yet, or you just going to loiter about until something happens? 
+Push the advantage -- crush your enemy! 
+Hmm. Things just got a bit easier, eh? Meh. 
+Can we end this now? I've admirers waiting. 
+You need wards to see hidden demons? 
+Don't waste those -- they're expensive. 
+Wards? You can support me anytime. 
+Look at this charming devil, buying all these wards. 
+It's a pretty good rapier. I don't know that I'd go so far as to call it divine. 
+That's mine! Or else a forgery. 
+So how does that whole dying thing work, anyway? 
+Back to the fight, you lazy cur! 
+Less dying, more killing! 
+Top is missing! 
+Middle is missing! 
+Bottom is missing! 
+So which story about me do you like best? 
+So when is this going to get interesting? 
+I was trapped in a rock for 500 years. I know boring when I see it. 
+How about all 10 heroes go Radiant, I go Dire? No, better make it 20 heroes. 
+This is the clash to decide the fate of the world? I've seen better. 
+Someone put my name back in that book and kill me! 
+You do realize there's an Ancient to smash, yes? 
+Back to the fight! 
+Finally! What were we waiting for? 
+I tip my staff to the player who paused, but let's get on with it! 
+Hopefully that was the last of that. 
+Wait, you're quitting? 
+What kind of hero quits before it's over? 
+I've heard of quitters. Just never seen any before. 
+You can't undo this. 
+A player disconnected. 
+That player dropped. Pause maybe? 
+Someone's techno-wizardry just fizzled. 
+It's not fun if we're not all here. Stop the fight! 
+Someone DC'd. Timeout! 
+For once I'm in favor of a pause. 
+See? No one walks out on a story I'm telling. 
+I knew they wouldn't abandon the fight. 
+All mid. 
+All pick. 
+All random. 
+Captain's draft. 
+Captain's mode. 
+Death match. 
+Easy mode. 
+Least played. 
+Random draft. 
+Reverse captain's mode. 
+Single draft. 
+Who shall fight for your cause? 
+Throw some fur into the wind. 
+Captain's mode or not, I'm the boss. 
+I make my own fate. What of you? 
+Too scared for actual Captain's Mode? 
+So when you die, you come back as. . .someone else? 
+A lot of good choices here. Only one legendary monkey warrior, though. 
+Defeat them with their own choices. 
+A classic throwdown. 
+Only one opponent? Maybe do it left-handed. 
+A draft? Can't we just get to the fighting? 
+It almost doesn't matter who you pick, so let's go. 
+Welcome to Dota. 
+And now, the Monkey King's Special Presentation of: The Battle of the Ancients! 
+Well, well. You've returned. Good show. 
+Good. You're here. Now we can get on with it. 
+The Monkey King welcomes you, noble warrior. 
+You insist on torturing me.  
+Just for that, I hope you lose. 
+If I couldn't be myself, I might choose Azwraith as well. 
+You know you've made it when they start impersonating you. 
+Oh, the fabulous Monkey Ki-- Wait! That's not me! 
+Never trust a gaoler. 
+There's a slippery fellow. After my own heart. 
+Nothing I hate worse than an overeager Warden. 
+These two got cell mates? Unfair! 
+That's not the Monkey King. Are you trying to lose? 
+No Monkey King? Was that a misclick? 
+Do you even know what you're doing? The right pick was Monkey King! 
+You should have picked the Monkey King. But you've got spirit to defy me.  
+They'll be telling this story for 10,000 years! 
+Get ready for the greatest ride of your life!

@@ -1,0 +1,218 @@
+Dire team pick. 
+Dire team pick. 
+Dire team pick. 
+Radiant team pick. 
+Radiant team pick. 
+Enemy's turn to pick. 
+Enemy's turn to pick. 
+It's the enemy's turn to pick. 
+It's the enemy's turn to pick. 
+Your turn to pick. 
+Your turn to pick. 
+Your turn to pick. 
+It's your turn to pick. 
+Dire team ban. 
+Dire team ban. 
+Radiant team ban. 
+Enemy's turn to ban. 
+Enemy's turn to ban. 
+It's the enemy's turn to ban. 
+It's the enemy's turn to ban. 
+Your turn to ban. 
+Your turn to ban. 
+It's your turn to ban. 
+It's your turn to ban. 
+Ten seconds remaining. 
+Ten seconds remaining. 
+Ten seconds remaining. 
+Five seconds remaining. 
+Five seconds remaining. 
+Five seconds remaining. 
+Reserve time. 
+Reserve time. 
+Dire's team is complete. 
+Radiant's team is complete. 
+Your team is complete. 
+Choose your hero. 
+Choose your hero. 
+Prepare for battle. 
+Thirty seconds to battle. 
+Ten seconds to battle. 
+The battle begins. 
+Dire's bottom tower is under attack. 
+Dire's middle tower is under attack. 
+Dire's top tower is under attack. 
+Radiant's bottom tower is under attack. 
+Radiant's middle tower is under attack. 
+Radiant's top tower is under attack. 
+Your bottom tower is under attack. 
+Your bottom tower is on fire. 
+Your bottom tower is burning. 
+Your bottom tower is under attack. 
+Your middle tower is under attack. 
+Your middle tower is on fire. 
+Your middle tower is burning. 
+Your middle tower is under attack. 
+Your top tower is under attack. 
+Your top tower is on fire. 
+Your top tower is burning. 
+Your top tower is under attack. 
+Dire's bottom tower has fallen. 
+Dire's middle tower has fallen. 
+Dire's top tower has fallen. 
+Radiant's bottom tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's top tower has fallen. 
+The enemy's bottom tower has fallen. 
+The enemy's bottom tower has gone down in flames. 
+The enemy's bottom tower is toast. 
+The enemy's bottom tower burned to the ground. 
+The enemy's middle tower has fallen. 
+The enemy's middle tower's gone down in flames. 
+The enemy's middle tower is toast. 
+The enemy's middle tower burned to the ground. 
+The enemy's top tower has fallen. 
+The enemy's top tower's gone down in flames. 
+The enemy's top tower is toast. 
+The enemy's top tower burned to the ground. 
+Your bottom tower has fallen. 
+Your bottom tower's gone down in flames. 
+Your bottom tower is toast. 
+Your bottom tower burned to the ground. 
+Your middle tower has fallen. 
+Your middle tower's gone down in flames. 
+Your middle tower is toast. 
+Your middle tower burned to the ground. 
+Your top tower has fallen. 
+Your top tower's gone down in flames. 
+Your top tower is toast. 
+Your top tower burned to the ground. 
+Dire's bottom tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's top tower has been denied. 
+Radiant's bottom tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's top tower has been denied. 
+The enemy's bottom tower has been denied. 
+The enemy's midde tower has been denied. 
+The enemy's top tower has been denied. 
+Your bottom tower has been denied. 
+Your middle tower has been denied. 
+Your top tower has been denied. 
+Dire's bottom barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's top barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Radiant's middle barracks are under attack. 
+Radiant's top barracks are under attack. 
+Your bottom barracks are under attack. 
+Your bottom barracks are smoldering. 
+Your middle barracks are under attack. 
+Your middle barracks are smoldering. 
+Your top barracks are under attack. 
+Your top barracks are smoldering. 
+Dire's bottom barracks have fallen. 
+Dire's middle barracks have fallen. 
+Dire's top barracks have fallen. 
+Radiant's bottom barracks have fallen. 
+Radiant's middle barracks have fallen. 
+Radiant's top barracks have fallen. 
+The enemy's bottom barracks have fallen. 
+The enemy's bottom barracks crashed and burned. 
+The enemy's middle barracks have fallen. 
+The enemy's middle barracks went down in flames. 
+The enemy's top barracks have fallen. 
+The enemy's top barracks have been cremated. 
+Your bottom barracks have fallen. 
+Your bottom barracks burned to ashes. 
+Your middle barracks have fallen. 
+Your middle barracks have flamed out. 
+Your top barracks have fallen. 
+Your top barracks went up in smoke. 
+Dire's ancient is under attack! 
+Dire's ancient is under attack! 
+Radiant's ancient is under attack! 
+Radiant's ancient is under attack! 
+Your ancient is under attack! 
+Your ancient is being cremated! 
+Your ancient is under attack! 
+Your ancient is being incinerated! 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+The enemy now has megacreeps. 
+You now have megacreeps. 
+You're creeping me out. 
+You're megacreeping me out. 
+Roshan has fallen to the Dire. 
+Roshan has fallen to the Radiant. 
+Dire's courier has been killed. 
+Dire's courier has been killed. 
+Radiant's courier has been killed. 
+Radiant's courier has been killed. 
+Dire structures are fortified. 
+Radiant structures are fortified. 
+Dire victory! 
+Dire victory! 
+Radiant victory! 
+Radiant victory! 
+Welcome to Dota. 
+Ready to set the world on fire? 
+This one is gonna burn. 
+All pick. 
+All pick. 
+Mid Only. 
+Least Played. 
+Limited Heroes. 
+All random. 
+Captain's Draft. 
+Captain's Mode. 
+Death Match. 
+Easy Mode. 
+Random Draft. 
+Reverse Captian's Mode. 
+Single Draft. 
+Top is missing! 
+Missing top! 
+Middle is missing! 
+Missing middle! 
+Bottom is missing! 
+Missing bottom! 
+Oh, someone knows how to pick! 
+Now there's a hot pick. 
+Guess I'm pulling double duty this match. 
+Burned out? 
+Are you done? 
+Don't get burned. 
+Now don't lose your cool. 
+Where there's smoke, there will be fire. 
+Time to fight fire with fire. 
+That spark your interest? 
+Things are heating up. 
+Better break out the fire extinguisher. 
+I think it's even starting to char. 
+Could ignite any second. 
+Only you can prevent that. 
+Doesn't bother me if it all burns down. 
+Better put those sparks out. 
+This could run away on you. 
+They're melting it down, you know. 
+Where do you keep the gasoline? 
+So you got a little singed? So what? 
+You can light the pyre later. 
+Huh. Who knew it was so combustable. 
+Aww. Things getting too hot for you? 
+Put to the torch. 
+Should have put that one out yourself. 
+Someone looks like death warmed over. 
+If it's sympathy you want, talk to my sister. 
+That one singed my ends a little. 
+If that were mine, I'd be furious. 
+Bet that burns! 
+Ooo! Toasty! 
+But don't build that bonfire just yet. 
+Pour on the heat! 
+Time for some trailblazing! 
+And there go the fireworks. 
+Somebody's dreams just went up in flames. 
+That'll make 'em smolder. 
+That just warms my heat.

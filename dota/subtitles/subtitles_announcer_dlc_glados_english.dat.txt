@@ -1,0 +1,358 @@
+Dire's pick. 
+Radiant's pick. 
+Your pick. 
+Your pick. Take your time. 
+Your pick. No pressure. 
+Your pick. Try not to embarrass yourself. 
+Their pick. 
+Dire's ban. 
+Dire team ban. 
+Radiant's ban. 
+Radiant team ban. 
+Their ban. 
+Now they get to ban. 
+Your turn to ban. 
+Your favorite part: banning. 
+Choose your hero. 
+Time to select from all these... things. 
+Dire's team is ready. 
+Radiant's team is ready. 
+The enemy team is ready. 
+Your team is ready. 
+To die, probably. 
+For disappointment. 
+Your poorly chosen, hopelessly outmatched team. 
+Some... Interesting choices there. 
+Hmm, well, good luck. 
+Ten seconds to go. 
+Five seconds. 
+Extra time. 
+You're using extra time. 
+Reserve time. 
+You're using reserve time. 
+I'd get ready if I were you. 
+Ready? Well if you say so. 
+Your funeral. 
+This should be interesting. 
+Well, hope you like bloodbaths. 
+It's almost time for everybody to die. 
+Last chance to run. 
+Well, if you're ready--you're not, by the way--let's get started. 
+Thirty seconds to battle. 
+Battle will commence in thirty seconds. 
+Ten seconds to battle. 
+Battle is imminent. 
+Battle starts in 3, 2, 1. 
+Battle begins. 
+It begins. 
+Let's begin. 
+Let's get this farce over with. 
+I've calculated who will win to a 99.93% certainty, if you're interested. 
+Dire's ancient is under attack. 
+Dire's ancient is being attacked. 
+Radiant's ancient is under attack. 
+Radiant's ancient is being attacked. 
+Your ancient is under attack. 
+Isn't that your ancient under attack? 
+I think your ancient's under attack. 
+By the way, your ancient is under attack. 
+Your ancient's under attack. 
+Remember that pristine, unattacked ancient you used to have? 
+Your ancient is doing... really great. 
+Your ancient's getting destroyed. 
+I'm sure you've noticed already, but your ancient's under attack. 
+If that's what they're calling attacks now. 
+Not well, mind you. But it's technically attacking. 
+Let's not tell them. It'll be a surprise. 
+Well, that's a stroke of luck, and not skill. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is under siege. 
+Dire's bottom tower is being attacked. 
+Dire's middle tower is under attack. 
+Dire's middle tower is under siege. 
+Dire's middle tower is being attacked. 
+Dire's top tower is under attack. 
+Dire's top tower is under siege. 
+Dire's top tower is being attacked. 
+Radiant's bottom tower is being attacked. 
+Radiant's bottom tower is under siege. 
+Radiant's middle tower is under attack. 
+Radiant's middle tower is under siege. 
+Radiant's middle tower is being attacked. 
+Radiant's top tower is under attack. 
+Radiant's top tower is under siege. 
+Radiant's top tower is being attacked. 
+Your bottom tower is under attack. 
+Your bottom tower is under siege. 
+Your bottom tower is being attacked. 
+Your bottom tower looks fantastic, by the way. Very fire-covered. 
+Your middle tower is under attack. 
+Your middle tower is under siege. 
+Your middle tower is being attacked. 
+I hope you weren't close with your middle tower. 
+Your top tower is under attack. 
+Your top tower is being attacked. 
+Your top tower is under siege. 
+Your top tower is, well let's be honest, doomed. 
+Dire's bottom tower has fallen. 
+Dire's bottom tower has been destroyed. 
+Dire's middle tower has fallen. 
+Dire's middle tower has been destroyed. 
+Dire's top tower has fallen. 
+Dire's top tower has been destroyed. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower has been destroyed. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower has been destroyed. 
+Radiant's top tower has fallen. 
+Radiant's top tower has been destroyed. 
+The enemy's bottom tower has fallen. 
+The enemy's bottom tower has been destroyed. 
+The enemy's middle tower has fallen. 
+The enemy's middle tower has been destroyed. 
+The enemy's top tower has fallen. 
+The enemy's top tower has been destroyed. 
+Your bottom tower has fallen. 
+Your bottom tower has been destroyed. 
+Your middle tower has fallen. 
+Your middle tower has been destroyed. 
+Your top tower has fallen. 
+Your top tower has been destroyed. 
+Dire's bottom tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's top tower has been denied. 
+Radiant's bottom tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's top tower has been denied. 
+The enemy's bottom tower has been denied. 
+The enemy's middle tower has been denied. 
+The enemy's top tower has been denied. 
+Your bottom tower has been denied. 
+Your middle tower has been denied. 
+Your top tower has been denied. 
+Dire's bottom barracks is under attack. 
+Dire's bottom barracks is being attacked. 
+Dire's middle barracks is under attack. 
+Dire's middle barracks is being attacked. 
+Dire's top barracks is under attack. 
+Dire's top barracks is being attacked. 
+Radiant's bottom barracks is under attack. 
+Radiant's bottom barracks is being attacked. 
+Radiant's middle barracks is under attack. 
+Radiant's middle barracks is being attacked. 
+Radiant's top barracks is under attack. 
+Radiant's top barracks is being attacked. 
+Your bottom barracks is under attack. 
+Your bottom barracks is being attacked. 
+Your middle barracks is under attack. 
+Your middle barracks is being attacked. 
+Your top barracks is under attack. 
+Your top barracks is being attacked. 
+Dire's bottom barracks has fallen. 
+Dire's bottom barracks has been destroyed. 
+Dire's middle barracks has fallen. 
+Dire's middle barracks has been destroyed. 
+Dire's top barracks has fallen. 
+Dire's top barracks has been destroyed. 
+Radiant's bottom barracks has fallen. 
+Radiant's bottom barracks has been destroyed. 
+Radiant's middle barracks has fallen. 
+Radiant's middle barracks has been destroyed. 
+Radiant's top barracks has fallen. 
+Radiant's top barracks has been destroyed. 
+The enemy's bottom barracks has fallen. 
+The enemy's bottom barracks has been destroyed. 
+The enemy's middle barracks has fallen. 
+The enemy's middle barracks has been destroyed. 
+The enemy's top barracks has fallen. 
+The enemy's top barracks has been destroyed. 
+Your bottom barracks has fallen. 
+Your bottom barracks has been destroyed. 
+Your middle barracks has fallen. 
+Your middle barracks has been destroyed. 
+Your top barracks has fallen. 
+Your top barracks has been destroyed. 
+Dire's structures have been fortified. 
+Dire has fortified its structures. 
+Radiant structures have been fortified. 
+Radiant has fortified its structures. 
+Roshan has fallen to the Dire. 
+Roshan has been killed by the Dire. 
+Roshan--bestselling novelist, avid fly fisherman, proud father of three--has just been murdered by the Dire. I hope they're proud of themselves. 
+Roshan, who was just minding his own business, has been callously murdered by the Dire. 
+Roshan has fallen to the Radiant. 
+Roshan has been murdered by the Radiant. I guess we know who the real monster was all along. 
+Roshan has been killed by the Radiant. 
+Roshan has been callously butchered by the Radiant. I'll put in a request to notify his children that they're orphans now. 
+The Radiant continues to murder poor, innocent Roshan. 
+The Dire's bloodlust for Roshan is insatiable. 
+Dire's courier has fallen. 
+Dire's courier has been callously murdered. 
+Radiant's courier has fallen. 
+Radiant's courier has been callously murdered. 
+Dire has spawned megacreeps. 
+Radiant has spawned megacreeps. 
+Your enemy has spawned megacreeps. 
+You have spawned megacreeps. 
+You lost. 
+You won. 
+Dire victory. 
+Victory for Dire. 
+Victory goes to Dire. 
+Dire did not lose as badly as Radiant, and is technically the winner. 
+Radiant victory. 
+Victory for Radiant. 
+Victory goes to Radiant. 
+Radiant performed marginally less poorly than Dire and is, I suppose, the winner. 
+Wait until your loved ones hear about this. This should make them proud. Or bored. One of those. 
+Well, really there should be an entirely new word for whatever it was you just stumbled and pinwheeled your arms through. But I guess for now let's call it winning. 
+All your little goblins destroyed a magic whatever-it-was in the middle of a forest. That's quite a skill you have. If I were you I'd wait by the mailbox for my big check. 
+I was going to say it's not that big a deal, but then I looked at your file and saw the list of your other accomplishements. The space on the form where they should have been, I mean. 
+Congratulations. You solved Dota. You are the best hero. Turn of your computer now. 
+Welcome to Dota. 
+Well, look who's come crawling back. 
+Oh, it's you. 
+This is Dota. 
+Oh good, you're back. 
+Welcome to Ota. The D is silent. 
+Hello. 
+You're back. You must really enjoy crushing defeat. 
+Today is a good day to die in a forest defending a statue from goblins. 
+Hello. I hope you're ready this time. 
+You must be the one the others were talking about. The--well, I'm sure you'll do fine. 
+You must be the one the others were talking about. That talentless one. 
+Welcome to Dota. It's the hot new game you've been reading about in your eating magazines. 
+Welcome to Dota. Don't forget your little plastic sword. And all your chins. And your giant flagon of gravy. 
+Welcome to Medieval Times. How many in your party tonight? 
+Welcome to Dota. It's like chess with one piece and a forest. 
+You must be the one the others were talking about. The one with all the chins. 
+Welcome to Dota. 
+All pick. 
+Mid only. 
+Least played. 
+All random. 
+Captain's draft. 
+Captain's mode. 
+Random draft. 
+Single draft. 
+Death match. 
+Easy mode. 
+Reverse captain's mode. 
+You're not going to like this one. 
+Oh good, something new to fail at. 
+This is new. 
+This looks challenging. For you, I mean. 
+I don't want to tell you your business, but if it were me I'd leave this new game mode alone. 
+I wouldn't bother with this mode. My guess is that just clicking it will make your life even worse somehow. 
+I was getting bored watching you lose in those other modes anyway. 
+Don't wear out the edge of your seat. 
+Gripping, isn't it? 
+You paid for the whole seat, so get comfortable because it looks like we may be here a long time. 
+I know, I can't wait either. 
+Here's a Dota play-by-play. That fat, batwinged thing just flew left. A goblin punched a... ghost I think. Good for him. Good for everyone. Anyway: Dota. 
+So, what's happening here then? Oh! The game's still on. Gripping, isn't it? 
+I spy with my robot eye something that makes no sense. Did you guess everything that's going on here? Because this is all nonsense. 
+The game already started, by the way. I wasn't sure if you were waiting for a whistle. There isn't one. 
+The bottom lane is missing. 
+Bottom is missing. 
+The middle lane is missing. 
+Middle is missing. 
+The top lane is missing. 
+Top is missing. 
+Thanks to you. 
+That's bad, by the way. 
+I honestly, truly didn't think you'd allow that to happen. 
+You're allowed to defend those, you know. 
+Because of poor decisions. Yours most likely. 
+Because someone--I'm talking about you here--doesn't know what they're doing. 
+What counts is that you tried, so maybe do that next time. 
+There are no handicaps on this match by the way. You can stop them from doing that. 
+If you were saving your real strategy for a crisis, now would be the time. 
+That outfit you're wearing looks stupid. That's not me talking. It's right here in your file. 
+When other people play that hero it looks fine. But right here a scientist has noted that when you play it looks stupid. 
+Grief counseling will be available at the conclusion of the match. 
+But on the bright side, I just won. Money. Gambling money. By betting against you. 
+But we're all winners here. Especially those players over there. In the enemy camp. You know, the ones celebrating. 
+Interesting stategy. Let them obliterate all your defenses, then swoop in for the kill. 
+That doesn't mean you have to like it. It just means you'll probably keep doing it because of your aptitude at failure. 
+But don't worry, losing builds character. In fact it's making you a better person right now. A great, big, well-rounded loser with lots of personality. 
+But looking at it another way, I think you've won a real moral victory here. Which doesn't mean we should forget about the first way. The more accurate and humiliating way. 
+But it's not a big loss really. It's one in a series of very small losses over a 45 minute timespan that, when added up, will look like one big, spectacular failure. 
+Well nobody will hold it against you. Let's be honest, I doubt anyone will even find it surprising. 
+Now you're really in for it. 
+I can't even begin to describe how badly you've screwed this up. Oh wait, I just did. 
+If I was a betting artificial intelligence, I'd put money on them killing you now. 
+That's bad, by the way. 
+That doesn't mean you have to like it. 
+This should be interesting. 
+I was on the edge of my seat. 
+Let's watch and see what happens. 
+Good. 
+In case you weren't paying attention. 
+If that's something you cared about. 
+It's probably nothing to worry about. 
+You might want to look into that. 
+So there's that. 
+You're allowed to start trying now. 
+But you probably already knew that. 
+Not that I care one way or the other. 
+So that's something that's happening. 
+But just continue doing whatever it was you were doing. 
+I hope that's part of your plan. 
+You don't even care, do you? 
+It'll probably be fine. 
+Is this part of an elaborate trap you're going to spring on them later? Because it looks like they're really falling for it. 
+I know it's not a plate of nachos or anything, but it is important to the game. 
+It's probably fine. Trust me: I'm a super-computer and I barely understand what's happening right now. 
+I only mention it as a conversation starter. How are you doing otherwise? 
+Let me put it in old English so that it will penetrate your wizard's cap: thou art losing. 
+You're really losing now. Or winning. Well, back to my mad-libs. 
+Wait, maybe they're not actually damaging it. No, they are. 
+I know. I don't care either. 
+This is the hardest part about being an impartial announcer: balancing how little I care about anything that's happening here. 
+Bad news for you fans of towers out there. 
+Yes, yes. Oh that was a great mad-lib. So, what's happening here then? 
+Don't get cocky. 
+Don't let it go to your fat, jowly head. 
+Don't let it go to your giant, misshapen fantasy head. 
+So at least your teammates know what they're doing. 
+You're winning the epic battle for this small field with a creek running through it. 
+Here, let me engrave a trophy for you: nobody cares. 
+If this backward, illiterate fantasy forest had a newspaper, you'd be on the front page. 
+Let me record this victory in your file. Where did I put it? Oh, who cares. 
+Your teammates are doing a really great job. 
+They're just going to build another one. They're made of cement. You can buy them at the supermarket. 
+This should impress all the people who doubted you at the comic book store. 
+Why don't you celebrate with two fistfulls of potato chips once you've swallowed the chips you're probably eating now. 
+This is probably the most heroic thing anyone's ever done while sitting motionless in their parents' rec room. 
+You must be so proud of your teammates right now. 
+You were almost helpful that time. 
+Well, you offered moral support. 
+It's a good feeling, isn't it? I wouldn't get used to it. 
+Not bad. Not as bad, I mean, as your other decisions so far. 
+Well, that's probably the game. You win. Hands off the keyboard. 
+Well, aren't you the little hero of the forest. 
+So that's a minor victory, right square in the middle of all your failures. 
+Let's be honest: it probably won't help. 
+For all the good it will do you. 
+If you had any idea what you were doing, this would be a real achievement. 
+By accident, if I had to guess. 
+Did you win? I don't have the first clue what's happening right now. What about those things? The tree-people things. Are they important? 
+You're winning. More accurately, you're on the same team as winners who happen to be near you while they win. Anyway, congradulations. 
+That's funny, I didn't even see you cheat. 
+That should delay the inevitable slightly. 
+Let's be honest: it probably won't help. 
+Based on the way you've been playing, I understand. 
+Oh good. You're back. 
+Oh, you were gone. Because nobody noticed. 
+You're back. That's... great. 
+You're going to break that respawner using it so much. It wasn't built for this kind of traffic. 
+I hope you bought the fire gauntlets of strength goblet boots. I don't understand any of this. 
+You again. 
+Your terrifying reign of dying continues. 
+Well, see you back here soon. 
+Just because we can bring you back from the dead doesn't mean you can't dodge occasionally. 
+I thought you were dead. I'll let everybody who was worried about you know-okay I'm done. 
+Oh, you're back from whatever idiotic afterlife your prepostrous race believes in. 
+Get back to battle. I think there's still a spot of ground out there that doesn't have your blood on it. 
+They struck you down, but you've come back stronger! Wait, I'm sorry. I meant heavier. In the face. Anyway, waddle out there and do your best.

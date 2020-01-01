@@ -1,0 +1,1652 @@
+Welcome to Dota! 
+Begin your training. 
+Your training begins now. 
+Welcome back. 
+Welcome, veteran. 
+Your experience will serve you well. 
+Your experience will serve you well, but there is still much to learn. 
+May your experience lead you to victory. 
+Your turn to pick. 
+Enemy's turn to pick. 
+Radiant team pick. 
+Dire team pick. 
+Your turn to ban. 
+Enemy's turn to ban. 
+Dire team ban. 
+Radiant team ban. 
+Dire's team is complete. 
+Radiant's team is complete. 
+Your team is complete. 
+Our team is complete. 
+You may now select your heroes. 
+Choose your hero. 
+Reserve time. 
+Ten seconds remaining. 
+Five seconds remaining. 
+Thirty seconds to battle. 
+Ten seconds to battle. 
+Prepare for battle. 
+The battle begins! 
+Your ancient is under attack. 
+Radiant's ancient is under attack. 
+Dire's ancient is under attack. 
+Your base is under attack. 
+Radiant's top tower is under attack. 
+Radiant's middle tower is under attack. 
+Radiant's bottom tower is under attack. 
+Dire's top tower is under attack. 
+Dire's middle tower is under attack. 
+Dire's bottom tower is under attack. 
+Your top tower is under attack. 
+Your middle tower is under attack. 
+Your bottom tower is under attack. 
+Your top tower has fallen. 
+Your middle tower has fallen. 
+Your bottom tower has fallen. 
+Radiant's top tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's bottom tower has fallen. 
+Dire's top tower has fallen. 
+Dire's middle tower has fallen. 
+Dire's bottom tower has fallen. 
+The enemy's top tower has fallen. 
+The enemy's middle tower has fallen. 
+The enemy's bottom tower has fallen. 
+Your top barracks are under attack. 
+Your middle barracks are under attack. 
+Your bottom barracks are under attack. 
+Radiant's top barracks are under attack. 
+Radiant's middle barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Dire's top barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's bottom barracks are under attack. 
+Your top barracks has fallen. 
+Your middle barracks has fallen. 
+Your bottom barracks has fallen. 
+Radiant's top barracks has fallen. 
+Radiant's middle barracks has fallen. 
+Radiant's bottom barracks has fallen. 
+Dire's top barracks has fallen. 
+Dire's middle barracks has fallen. 
+Dire's bottom barracks has fallen. 
+The enemy's top barracks has fallen. 
+The enemy's middle barracks has fallen. 
+The enemy's bottom barracks has fallen. 
+Your top tower has been denied. 
+Your middle tower has been denied. 
+Your bottom tower has been denied. 
+The enemy's top tower has been denied. 
+The enemy's middle tower has been denied. 
+The enemy's bottom tower has been denied. 
+Radiant's top tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's bottom tower has been denied. 
+Dire's top tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's bottom tower has been denied. 
+Dire's structures are fortified. 
+Radiant's structures are fortified. 
+Radiant are scanning for enemies. 
+Dire are scanning for enemies. 
+Dire's bottom shrine is under attack. 
+Dire's top shrine is under attack. 
+Radiant's bottom shrine is under attack. 
+Radiant's top shrine is under attack. 
+Your bottom shrine is under attack. 
+Your top shrine is under attack. 
+Dire's bottom shrine has fallen. 
+Dire's top shrine has fallen. 
+Radiant's bottom shrine has fallen. 
+Radiant's top shrine has fallen. 
+The enemy's bottom shrine has fallen. 
+The enemy's top shrine has fallen. 
+Your bottom shrine has fallen. 
+Your top shrine has fallen. 
+Dire's courier has been killed. 
+Radiant's courier has been killed. 
+You now have megacreeps. 
+The enemy now has megacreeps. 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+Roshan has fallen to the Dire! 
+Roshan has fallen to the Radiant! 
+Dire victory! 
+Radiant victory! 
+All Pick. 
+All Random. 
+Captain's Draft. 
+Captains Mode. 
+Random Draft. 
+Single Draft. 
+Death Match. 
+Easy Mode. 
+Reverse Captain's Mode. 
+Mid Only. 
+Least Played. 
+One Versus One. 
+Ability Draft 
+Extra time. 
+You are using Reserve Time. 
+You are using Extra Time. 
+Disconnection. 
+Reconnection. 
+Top is missing. 
+Middle is missing. 
+Bottom is missing. 
+Game 1. 
+Game 2. 
+Game 3. 
+Game 4 
+Game 5. 
+Final game. 
+You have been granted an item. 
+An item has been granted. 
+Team Secret's turn to ban. 
+Virtus.pro's turn to ban. 
+Vici Gaming's turn to ban. 
+Evil Geniuses's turn to ban. 
+Team Liquid's turn to ban. 
+PSG.LGD's turn to ban. 
+Fnatic's turn to ban. 
+Ninjas in Pyjamas's turn to ban. 
+NIP's turn to ban. 
+TNC Predator's turn to ban. 
+OG's turn to ban. 
+Alliance's turn to ban. 
+Keen Gaming's turn to ban. 
+Newbee's turn to ban. 
+Infamous's turn to ban. 
+Chaos Esports Club's turn to ban. 
+Chaos Esports's turn to ban. 
+Natus Vincere's turn to ban. 
+Na'Vi's turn to ban. 
+Royal Never Give Up's turn to ban. 
+RNG's turn to ban. 
+Mineski's turn to ban. 
+Team Secret's turn to pick. 
+Virtus.pro's turn to pick. 
+Vici Gaming's turn to pick. 
+Evil Geniuses's turn to pick. 
+Team Liquid's turn to pick. 
+PSG.LGD's turn to pick. 
+Fnatic's turn to pick. 
+Ninjas in Pyjamas's turn to pick. 
+NIP's turn to pick. 
+TNC Predator's turn to pick. 
+OG's turn to pick. 
+Alliance's turn to pick. 
+Keen Gaming's turn to pick. 
+Newbee's turn to pick. 
+Infamous's turn to pick. 
+Chaos Esports Club's turn to pick. 
+Chaos Esports's turn to pick. 
+Natus Vincere's turn to pick. 
+Na'Vi's turn to pick. 
+Royal Never Give Up's turn to pick. 
+RNG's turn to pick. 
+Mineski's turn to pick. 
+Team Secret victory! 
+Virtus.pro victory! 
+Vici Gaming victory! 
+Evil Geniuses victory! 
+Team Liquid victory! 
+PSG.LGD victory! 
+Fnatic victory! 
+Ninjas in Pyjamas victory! 
+NIP victory! 
+TNC Predator victory! 
+OG victory! 
+Alliance victory! 
+Keen Gaming victory! 
+Newbee victory! 
+Infamous victory! 
+Chaos Esports Club victory! 
+Chaos Esports victory! 
+Natus Vincere victory! 
+Na'Vi victory! 
+Royal Never Give Up victory! 
+RNG victory! 
+Mineski victory! 
+Team Secret 
+Virtus.pro 
+Vici Gaming 
+Evil Geniuses 
+Team Liquid 
+PSG.LGD 
+Fnatic 
+Ninjas in Pyjamas 
+NIP 
+TNC Predator 
+OG 
+Alliance 
+Keen Gaming 
+Newbee 
+Infamous 
+Chaos Esports Club 
+Chaos Esports 
+Natus Vincere 
+Na'Vi 
+Royal Never Give Up 
+RNG 
+Mineski 
+versus 
+Virtus Pro's turn to ban. 
+Team Liquid's turn to ban. 
+PSG.LGD's turn to ban. 
+Team Secret's turn to ban. 
+Mineski's turn to ban. 
+Vici Gaming's turn to ban. 
+Newbee's turn to ban. 
+VGJ.Thunder's turn to ban. 
+OG's turn to ban. 
+Winstrike's turn to ban. 
+Team Serenity's turn to ban. 
+Invictus Gaming's turn to ban. 
+Fnatic's turn to ban. 
+TNC.Predator's turn to ban. 
+VGJ.Storm's turn to ban. 
+Evil Geniuses' turn to ban. 
+Optic Gaming's turn to ban. 
+Pain Gaming's turn to ban. 
+Virtus Pro's turn to pick. 
+Team Liquid's turn to pick. 
+PSG.LGD's turn to pick. 
+Team Secret's turn to pick. 
+Mineski's turn to pick. 
+Vici Gaming's turn to pick. 
+Newbee's turn to pick. 
+VGJ.Thunder's turn to pick. 
+OG's turn to pick. 
+Winstrike's turn to pick. 
+Team Serenity's turn to pick. 
+Invictus Gaming's turn to pick. 
+Fnatic's turn to pick. 
+TNC.Predator's turn to pick. 
+VGJ.Storm's turn to pick. 
+Evil Geniuses' turn to pick. 
+Optic Gaming's turn to pick. 
+Pain Gaming's turn to pick. 
+Virtus Pro victory! 
+Team Liquid victory! 
+PSG.LGD victory! 
+Team Secret victory! 
+Mineski victory! 
+Vici Gaming victory! 
+Newbee victory! 
+VGJ.Thunder victory! 
+OG victory! 
+Winstrike victory! 
+Team Serenity victory! 
+Invictus Gaming victory! 
+Fnatic victory! 
+TNC.Predator victory! 
+VGJ.Storm victory! 
+Evil Geniuses victory! 
+Optic Gaming victory! 
+Pain Gaming victory! 
+Virtus Pro 
+Team Liquid 
+PSG.LGD 
+Team Secret 
+Mineski 
+Vici Gaming 
+NewBee 
+VGJ.Thunder 
+OG 
+Winstrike 
+Team Serenity 
+Invictus Gaming 
+Fnatic 
+TNC.Predator 
+VGJ.Storm 
+Evil Geniuses 
+Optic Gaming 
+Pain Gaming 
+versus 
+OG's turn to ban. 
+Virtus Pro's turn to ban. 
+VP's turn to ban. 
+Evil Geniuses' turn to ban. 
+EG's turn to ban. 
+Team Liquid's turn to ban. 
+Invictus Gaming's turn to ban. 
+IG's turn to ban. 
+Newbee's turn to ban. 
+Team Secret's turn to ban. 
+HellRaisers' turn to ban. 
+Team Empire's turn to ban. 
+iG Vitality's turn to ban. 
+iG.V's turn to ban. 
+LGD Forever Young's turn to ban. 
+LFY's turn to ban. 
+LGD Gaming's turn to ban. 
+LGD's turn to ban. 
+TNC's turn to ban. 
+Fnatic's turn to ban. 
+Execration's turn to ban. 
+Cloud9's turn to ban. 
+Digital Chaos' turn to ban. 
+DC's turn to ban. 
+Infamous' turn to ban. 
+OG?s turn to ban. 
+Team Liquid?s turn to ban. 
+Liquid?s turn to ban.  
+NewBee?s turn to ban. 
+LGD?s turn to ban. 
+LGD Gaming?s turn to ban. 
+MVP Phoenix?s turn to ban. 
+MVP?s turn to ban. 
+Na'Vi?s turn to ban.  
+Natus Vincere?s turn to ban. 
+Team Secret?s turn to ban. 
+Secret?s turn to ban. 
+Alliance?s turn to ban. 
+Wings Gaming?s turn to ban. 
+Vici Gaming Reborn?s turn to ban. 
+VGR?s turn to ban. 
+TNC Pro Team?s turn to ban. 
+TNC?s turn to ban. 
+Fnatic?s turn to ban. 
+Evil Geniuses? turn to ban. 
+EG?s turn to ban. 
+DC?s turn to ban. 
+Complexity Gaming?s turn to ban. 
+Complexity?s turn to ban. 
+EHOME?s turn to ban. 
+Escape Gaming?s turn to ban. 
+Execration?s turn to ban.  
+Vici Gaming's turn to ban. 
+Evil Geniuses' turn to ban. 
+Team Secret's turn to ban. 
+Invictus Gaming's turn to ban. 
+LGD's turn to ban. 
+LGD Gaming's turn to ban. 
+Cloud9's turn to ban. 
+Team Empire's turn to ban. 
+Virtus.Pro's turn to ban. 
+NewBee's turn to ban. 
+Fnatic's turn to ban. 
+EHOME's turn to ban. 
+CompLexity Gaming's turn to ban. 
+CompLexity's turn to ban. 
+MVP Hot6ix's turn to ban. 
+Hot6ix's turn to ban. 
+Team Archon's turn to ban. 
+Na'vi's turn to ban. 
+CDEC Gaming's turn to ban. 
+CDEC's turn to ban. 
+MVP Phoenix's turn to ban. 
+Phoenix's turn to ban. 
+Vega Squadron's turn to ban. 
+Orange's turn to ban. 
+Zenith's turn to ban. 
+TongFu's turn to ban. 
+Team Dignitas' turn to ban. 
+Invasion MUFC's turn to ban. 
+LGD International's turn to ban. 
+Quantic Gaming's turn to ban. 
+RattleSnake's turn to ban. 
+Alliance's turn to ban. 
+Titan's turn to ban. 
+Team DK's turn to ban. 
+Na'Vi.US's turn to ban. 
+Arrow Gaming's turn to ban. 
+Team Liquid's turn to ban. 
+CIS Game's turn to ban. 
+Mousesports' turn to ban. 
+Invictus Gaming's turn to ban. 
+Absolute Legends' turn to ban. 
+Na'Vi's turn to ban. 
+DK's turn to ban. 
+EHOME's turn to ban. 
+iG's turn to ban. 
+compLexity's turn to ban. 
+CLG's turn to ban. 
+EG's turn to ban. 
+Darer's turn to ban. 
+LGD's turn to ban. 
+MUFC's turn to ban. 
+mTw's turn to ban. 
+World Elite's turn to ban. 
+Mousesports' turn to ban. 
+Moscow Five's turn to ban. 
+Alliance's turn to ban. 
+Fnatic's turn to ban. 
+Team Liquid's turn to ban. 
+Virtus.Pro's turn to ban. 
+LGD's turn to ban. 
+LGD Cn's turn to ban. 
+LGD Imposter's turn to ban. 
+Evil Geniuses' turn to ban. 
+Fnatic's turn to ban. 
+NewBee's turn to ban. 
+Vici Gaming's turn to ban. 
+Na'Vi's turn to ban. 
+Cloud9's turn to ban. 
+Team Empire's turn to ban. 
+MVP Phoenix's turn to ban. 
+LGD Gaming's turn to ban. 
+Virtus.pro's turn to ban. 
+OG's turn to pick. 
+Virtus Pro's turn to pick. 
+VP's turn to pick. 
+Evil Geniuses' turn to pick. 
+EG's turn to pick. 
+Team Liquid's turn to pick. 
+Invictus Gaming's turn to pick. 
+IG's turn to pick. 
+Newbee's turn to pick. 
+Team Secret's turn to pick. 
+HellRaisers' turn to pick. 
+Team Empire's turn to pick. 
+iG Vitality's turn to pick. 
+iG.V's turn to pick. 
+LGD Forever Young's turn to pick. 
+LFY's turn to pick. 
+LGD Gaming's turn to pick. 
+LGD's turn to pick. 
+TNC's turn to pick. 
+Fnatic's turn to pick. 
+Execration's turn to pick. 
+Cloud9's turn to pick. 
+Digital Chaos' turn to pick. 
+DC's turn to pick. 
+Infamous' turn to pick. 
+OG?s turn to pick. 
+Team Liquid?s turn to pick. 
+Liquid?s turn to pick.  
+NewBee?s turn to pick. 
+LGD?s turn to pick. 
+LGD Gaming?s turn to pick. 
+MVP Phoenix?s turn to pick. 
+MVP?s turn to pick. 
+Na'Vi?s turn to pick.  
+Natus Vincere?s turn to pick. 
+Team Secret?s turn to pick. 
+Secret?s turn to pick. 
+Alliance?s turn to pick. 
+Wings Gaming?s turn to pick. 
+Vici Gaming Reborn?s turn to pick. 
+VGR?s turn to pick. 
+TNC Pro Team?s turn to pick. 
+TNC?s turn to pick. 
+Fnatic?s turn to pick. 
+Evil Geniuses? turn to pick. 
+EG?s turn to pick. 
+DC?s turn to pick. 
+Complexity Gaming?s turn to pick. 
+Complexity?s turn to pick. 
+EHOME?s turn to pick. 
+Escape Gaming?s turn to pick. 
+Execration?s turn to pick.  
+Vici Gaming's turn to pick. 
+Evil Geniuses' turn to pick. 
+Team Secret's turn to pick. 
+Invictus Gaming's turn to pick. 
+LGD's turn to pick. 
+LGD Gaming's turn to pick. 
+Cloud9's turn to pick. 
+Team Empire's turn to pick. 
+Virtus.Pro's turn to pick. 
+NewBee's turn to pick. 
+Fnatic's turn to pick. 
+EHOME's turn to pick. 
+CompLexity Gaming's turn to pick. 
+CompLexity's turn to pick. 
+Team Archon's turn to pick. 
+Hot6ix's turn to pick. 
+Na'vi's turn to pick. 
+CDEC Gaming's turn to pick. 
+CDEC's turn to pick. 
+MVP Phoenix's turn to pick. 
+Phoenix's turn to pick. 
+Vega Squadron's turn to pick. 
+Orange's turn to pick. 
+Zenith's turn to pick. 
+TongFu's turn to pick. 
+Team Dignitas' turn to pick. 
+Invasion MUFC's turn to pick. 
+LGD International's turn to pick. 
+Quantic Gaming's turn to pick. 
+RattleSnake's turn to pick. 
+Alliances turn to pick. 
+Titan's turn to pick. 
+Team DK's turn to pick. 
+Na'Vi.US's turn to pick. 
+Arrow Gaming's turn to pick. 
+Team Liquid's turn to pick. 
+CIS Game's turn to pick. 
+Mousesports's turn to pick. 
+Absolute Legends' turn to pick. 
+EHOME's turn to pick. 
+compLexity's turn to pick. 
+CLG's turn to pick. 
+EG's turn to pick. 
+Darer's turn to pick. 
+MUFC's turn to pick. 
+mTw's turn to pick. 
+World Elite's turn to pick. 
+Moscow Five's turn to pick. 
+LGD's turn to pick. 
+LGD Cn's turn to pick. 
+LGD Imposter's turn to pick. 
+Na'Vi's turn to pick. 
+DK's turn to pick. 
+iG's turn to pick. 
+LGD's turn to pick. 
+Mousesports' turn to pick. 
+Alliance's turn to pick. 
+Fnatic's turn to pick. 
+Team Liquid's turn to pick. 
+Virtus.Pro's turn to pick. 
+Evil Geniuses's turn to pick. 
+Fnatic's turn to pick. 
+NewBee's turn to pick. 
+Vici Gaming's turn to pick. 
+Na'Vi's turn to pick. 
+Invictus Gaming's turn to pick. 
+Cloud9's turn to pick. 
+Team Empire's turn to pick. 
+MVP Phoenix's turn to pick. 
+LGD Gaming's turn to pick. 
+Virtus.pro's turn to pick. 
+OG victory! 
+Virtus Pro victory! 
+Evil Geniuses victory! 
+EG victory! 
+Team Liquid victory! 
+Invictus Gaming victory! 
+Newbee victory! 
+Team Secret victory! 
+HellRaisers victory! 
+Team Empire victory! 
+iG Vitality victory! 
+LFY victory! 
+LGD victory! 
+TNC victory! 
+Fnatic victory! 
+Execration victory! 
+Cloud9 victory 
+Digital Chaos victory! 
+Infamous victory! 
+OG victory! 
+Team Liquid victory! 
+Liquid victory! 
+NewBee victory! 
+LGD Gaming victory! 
+LGD victory! 
+MVP Phoenix victory! 
+MVP victory! 
+Na'Vi victory! 
+Natus Vincere victory! 
+Team Secret victory! 
+Secret victory! 
+Alliance victory! 
+Wings Gaming victory! 
+Wings victory! 
+Vici Gaming Reborn victory! 
+VGR victory! 
+TNC Pro Team victory! 
+TNC victory! 
+Fnatic victory! 
+Evil Geniuses victory! 
+EG victory! 
+Digital Chaos victory! 
+DC victory! 
+Complexity Gaming victory! 
+Complexity victory! 
+EHOME victory! 
+Escape Gaming victory! 
+Execration victory! 
+Vici Gaming victory! 
+Evil Geniuses victory! 
+Team Secret victory! 
+Invictus Gaming victory! 
+LGD victory! 
+LGD Gaming victory! 
+Cloud9 victory! 
+Team Empire victory! 
+Virtus.Pro victory! 
+NewBee victory! 
+Fnatic victory! 
+EHOME victory! 
+CompLexity Gaming victory! 
+CompLexity victory! 
+MVP Hot6ix victory! 
+Team Archon victory! 
+Hot6ix victory! 
+Na'vi victory! 
+CDEC Gaming victory! 
+CDEC victory! 
+MVP Phoenix victory! 
+Phoenix victory! 
+Vega Squadron victory! 
+Orange victory! 
+Zenith victory! 
+TongFu victory! 
+Team Dignitas victory! 
+LGD International victory! 
+Invasion MUFC victory! 
+Quantic Gaming victory! 
+RattleSnake victory! 
+Alliance victory! 
+Titan victory! 
+Team DK victory! 
+Na'Vi.US victory! 
+Arrow Gaming victory! 
+Team Liquid victory! 
+CIS Game victory! 
+Mousesports victory! 
+Absolute Legends victory! 
+EHOME victory! 
+compLexity victory! 
+CLG victory! 
+EG victory! 
+Darer victory! 
+LGD victory! 
+MUFC victory! 
+Moscow Five victory! 
+mTw victory! 
+World Elite victory! 
+LGD.cn victory! 
+LGD Imposters victory! 
+Na'Vi victory! 
+DK victory! 
+iG victory! 
+Mousesports victory! 
+Alliance victory! 
+Fnatic victory! 
+Team Liquid victory! 
+Virtus.Pro victory! 
+LGD victory! 
+Evil Geniuses victory! 
+Fnatic victory! 
+NewBee victory! 
+Vici Gaming victory! 
+Na'Vi victory! 
+Invictus Gaming victory! 
+Cloud9 victory! 
+Team Empire victory! 
+MVP Phoenix victory! 
+LGD Gaming victory! 
+Virtus.pro victory! 
+aL 
+Absolute Legends 
+Na'Vi 
+Natus Vincere 
+DK 
+Orange 
+EHOME 
+iG 
+Invictus Gaming 
+coL 
+compLexity 
+CLG 
+Counter Logic Gaming 
+EG 
+Evil Geniuses 
+Zenith 
+Darer 
+LGD 
+MUFC 
+M5 
+Moscow Five 
+mTw 
+Mortal Teamwork 
+TongFu 
+WE 
+World Elite 
+Mouz 
+Mousesports 
+Alliance 
+Fnatic 
+Team Liquid 
+Team Dignitas 
+Virtus.Pro 
+Invasion MUFC 
+LGD 
+LGD International 
+LGD cn 
+LGD Imposters 
+Quantic Gaming 
+RattleSnake 
+Alliance 
+Titan 
+Evil Geniuses 
+Fnatic 
+NewBee 
+Vici Gaming 
+Na'Vi 
+Team DK 
+Invictus Gaming 
+Cloud9 
+Team Empire 
+Na'Vi.US 
+Arrow Gaming 
+Team Liquid 
+MVP Phoenix 
+LGD Gaming 
+CIS Game 
+Mousesports 
+Virtus.pro 
+Vici Gaming 
+Evil Geniuses 
+Team Secret 
+Invictus Gaming 
+LGD 
+LGD Gaming 
+Cloud9 
+Team Empire 
+Virtus.Pro 
+NewBee 
+Fnatic 
+EHOME 
+CompLexity Gaming 
+CompLexity 
+MVP Hot6ix 
+Team Archon 
+Hot6ix 
+Na'vi 
+CDEC Gaming 
+CDEC 
+MVP Phoenix 
+Phoenix 
+Vega Squadron 
+OG 
+Team Liquid 
+Liquid 
+NewBee 
+LGD Gaming 
+LGD 
+MVP Phoenix 
+MVP 
+Na'Vi 
+Natus Vincere 
+Team Secret 
+Secret 
+Alliance 
+Wings Gaming 
+Wings 
+Vici Gaming Reborn 
+VGR 
+TNC Pro Team 
+TNC 
+Fnatic 
+Evil Geniuses 
+EG 
+Digital Chaos 
+DC 
+Complexity Gaming 
+Complexity 
+EHOME 
+Escape Gaming 
+Execration 
+OG 
+Virtus Pro 
+Evil Geniuses 
+EG 
+Team Liquid 
+Invictus Gaming 
+IG 
+Newbee 
+Team Secret 
+HellRaisers 
+Team Empire 
+iG Vitality 
+IGV 
+LGD Forever Young 
+LFY 
+LGD Gaming 
+LGD 
+TNC Pro Team 
+TNC 
+Fnatic 
+Execration 
+Cloud9 
+Digital Chaos 
+DC 
+Infamous 
+versus 
+Quarter-Finals. 
+Semi-Finals. 
+Grand Finals. 
+Intermission. 
+Your attention please. 
+The next game is about to begin. 
+versus 
+Welcome to the Dota 2 International! 
+Welcome to the Battle Cup. 
+The struggle for the Battle Cup begins. 
+Eight teams enter, one team leaves. 
+The Battle Cup Commences. 
+The battle for the Cup begins. 
+Radiant are Battle Cup Champions 
+Dire are Battle Cup Champions 
+You have claimed the Battle Cup 
+You have been eliminated from the Battle Cup 
+Prepare for the next round of the Battle Cup 
+The defending champions fight to keep the Cup. 
+The defending Battle Cup Champions fight to defend the title. 
+Prepare to face the defending Battle Cup Champions. 
+The Battle Cup Quarter Finals Begin 
+The Battle Cup Semi Finals Begin 
+The Battle Cup Finals Begin 
+Quarter Finals Winner 
+Semi Finals Winner 
+Battle Cup Champions 
+Radiant 
+The Radiant 
+Team Radiant 
+Dire 
+The Dire 
+Team Dire 
+Overthrow. 
+Conquest. 
+Siege. 
+Big Shot. 
+Custom Game. 
+Free for All. 
+Teams. 
+Defense. 
+Offense. 
+Dungeon. 
+Adventure. 
+Puzzle. 
+Melee Battle. 
+Ranged Battle. 
+Hero Battle. 
+Capture. 
+Battle. 
+Tactics. 
+Pre Pick. 
+Duel. 
+War. 
+Pursuit. 
+Explore. 
+Training. 
+Race. 
+Ballgame. 
+A vote has been called. 
+A vote has begun. 
+A vote has completed. 
+Begin! 
+Overtime. 
+Sudden Death. 
+Time has been added. 
+The enemy has received additional time. 
+An enemy has received additional time. 
+You have received additional time. 
+Time expired. 
+Two minutes remaining. 
+Three minutes remaining. 
+Four minutes remaining. 
+Five minutes remaining. 
+Ten minutes remaining. 
+Fifteen minutes remaining. 
+Five seconds remaining. 
+Ten seconds remaining. 
+Fifteen seconds remaining. 
+Thirty seconds remaining. 
+Victory! 
+You are victorious! 
+Defeated! 
+You were defeated. 
+You have failed. 
+Stalemate. 
+Tie. 
+Game over. 
+You died. 
+Congratulations! 
+Continue? 
+Bad! 
+One. 
+Two. 
+Three. 
+Four. 
+Five. 
+Six. 
+Seven. 
+Eight. 
+Nine. 
+Ten. 
+Round 1. 
+Round 2. 
+Round 3. 
+Round 4. 
+Round 5. 
+Round 6. 
+Round 7. 
+Round 8. 
+Round 9. 
+Round 10. 
+Final round. 
+The next round will begin soon. 
+Prepare yourselves. The next round will begin soon. 
+Round complete. 
+You have taken the lead. 
+Your team has taken the lead. 
+You have lost the lead. 
+Your team has lost the lead. 
+Capture all points to win the match. 
+This point is locked. 
+All points are locked. 
+All points are unlocked. 
+Your point is being contested. 
+One of your points is being contested. 
+New item available. 
+New message. 
+A new shop has opened. 
+Draft begins. 
+You have been chosen. 
+Select your position. 
+Level up. 
+The enemy team has gained a level. 
+An enemy has gained a level. 
+The enemy has gained a level. 
+Ascended. 
+You have ascended. 
+Your team has ascended. 
+The enemy team has ascended. 
+You have a new quest. 
+Quest updated. 
+Quest complete. 
+The enemy has completed a quest. 
+The enemy has progressed. 
+The enemy has taken an objective. 
+You must gather your party before venturing forth. 
+Gather your party. 
+A traitor attacks. 
+You have revealed a traitor. 
+You have slain a traitor. 
+You have been infiltrated. 
+Your agent has infiltrated the enemy. 
+Your agent has infiltrated an enemy. 
+Your agent attacks. 
+Your agent has been revealed. 
+Your agent has been slain. 
+The enemy has revealed a traitor. 
+The enemy has slain a traitor. 
+A traitor attacks an enemy. 
+A traitor attacks the enemy. 
+A mercenary joins your cause. 
+You have recruited a mercenary. 
+The enemy has recruited a mercenary. 
+An enemy has recruited a mercenary. 
+Your noble is in danger. 
+Your noble is safe. 
+Your noble has been assassinated. 
+The enemy noble has been assassinated. 
+An enemy noble has been assassinated. 
+The enemy noble is safe. 
+An enemy noble is safe. 
+Betrayal! 
+Fight! 
+Return to town. 
+Town is under attack. 
+A treasure has appeared. 
+A weapon has appeared. 
+An enemy has appeared. 
+A monster has appeared. 
+Your turn. 
+Your turn is next. 
+Your team is next. 
+Turn ended. 
+One move remaining. 
+Out of moves. 
+Enemy turn. 
+You will pick next. 
+The enemy has taken the banner. 
+Your team has the banner. 
+You have taken the banner. 
+You have the banner. 
+Your team has captured the banner. 
+Your team has scored. 
+The enemy team has scored. 
+The enemy team has captured the banner. 
+The enemy team has captured the flag. 
+The enemy has taken the flag. 
+Your team has the flag. 
+You have taken the flag. 
+You have the flag. 
+Your team has captured the flag. 
+An ally has taken the banner. 
+An ally has taken the flag. 
+An ally has captured the flag. 
+An ally has captured the banner. 
+An ally is under attack. 
+Your forces are under attack. 
+Your forces have been destroyed. 
+Not enough resources. 
+Insufficient funds. 
+Not ready. 
+Upgrade complete. 
+Research complete. 
+Construction complete. 
+Reinforcements have arrived. 
+Building. 
+Paused. 
+On hold. 
+Cancelled. 
+Mission accomplished. 
+Mission failed. 
+Enemy team destroyed. 
+Allied team destroyed. 
+Gold awarded. 
+Defend. 
+Attack. 
+Waypoint. 
+Retreat. 
+Insufficient gold. 
+Gold has been awarded to the enemy. 
+Gold has been awarded to an enemy. 
+The objective is nearing a waypoint. 
+The objective is nearing its destination. 
+An objective is nearing a waypoint. 
+An objective is nearing its destination. 
+The enemy's objective is nearing a waypoint. 
+The enemy's objective is nearing its destination. 
+An enemy's objective is nearing a waypoint. 
+An enemy's objective is nearing its destination. 
+The beast has been slain. 
+The beast has been slain by the enemy. 
+The beast has been slain by an enemy. 
+A beast has been slain. 
+A beast has been slain by the enemy. 
+A beast has been slain by an enemy. 
+The beast has been slain by an ally. 
+A beast has been slain by an ally. 
+A threat has been spotted to the north. 
+A threat has been spotted to the northeast. 
+A threat has been spotted to the east. 
+A threat has been spotted to the southeast. 
+A threat has been spotted to the south. 
+A threat has been spotted to the southwest. 
+A threat has been spotted to the west. 
+A threat has been spotted to the northwest. 
+A threat has been spotted at the center. 
+A threat has been spotted at an unknown location. 
+A threat comes to the north. 
+A threat comes to the northeast. 
+A threat comes to the east. 
+A threat comes to the southeast. 
+A threat comes to the south. 
+A threat comes to the southwest. 
+A threat comes to the west. 
+A threat comes to the northwest. 
+A threat comes to the center. 
+A threat comes to an unknown location. 
+Something comes to the north. 
+Something comes to the northeast. 
+Something comes to the east. 
+Something comes to the southeast. 
+Something comes to the south. 
+Something comes to the southwest. 
+Something comes to the west. 
+Something comes to the northwest. 
+Something comes to the center. 
+Something comes to an unknown location. 
+Fortune comes to the north. 
+Fortune comes to the northeast. 
+Fortune comes to the east. 
+Fortune comes to the southeast. 
+Fortune comes to the south. 
+Fortune comes to the southwest. 
+Fortune comes to the west. 
+Fortune comes to the northwest. 
+Fortune comes to the center. 
+Fortune comes to an unknown location. 
+An item is being delivered. 
+An item is about to be delivered. 
+An item has arrived. 
+Earth is being contested. 
+Fire is being contested. 
+Metal is being contested. 
+Water is being contested. 
+Wood is being contested. 
+Wind is being contested. 
+Air is being contested. 
+Aether is being contested. 
+Soul is being contested. 
+Heart is being contested. 
+Earth has been claimed. 
+Fire has been claimed. 
+Metal has been claimed. 
+Water has been claimed. 
+Wood has been claimed. 
+Wind has been claimed. 
+Air has been claimed. 
+Aether has been claimed. 
+Soul has been claimed. 
+Heart has been claimed. 
+You have claimed Earth. 
+You have claimed Fire. 
+You have claimed Metal. 
+You have claimed Water. 
+You have claimed Wood. 
+You have claimed Wind. 
+You have claimed Air. 
+You have claimed Aether. 
+You have claimed Soul. 
+You have claimed Heart. 
+You have captured Earth. 
+You have captured Fire. 
+You have captured Metal. 
+You have captured Water. 
+You have captured Wood. 
+You have captured Wind. 
+You have captured Air. 
+You have captured Aether. 
+You have captured Soul. 
+You have captured Heart. 
+Earth is locked. 
+Fire is locked. 
+Metal is locked. 
+Water is locked. 
+Wood is locked. 
+Wind is locked. 
+Air is locked. 
+Aether is locked. 
+Soul is locked. 
+Heart is locked. 
+Earth is unlocked. 
+Fire is unlocked. 
+Metal is unlocked. 
+Water is unlocked. 
+Wood is unlocked. 
+Wind is unlocked. 
+Air is unlocked. 
+Aether is unlocked. 
+Soul is unlocked. 
+Heart is unlocked. 
+Earth. 
+Fire. 
+Metal. 
+Water. 
+Wood. 
+Wind. 
+Air. 
+Aether. 
+Soul. 
+Heart. 
+Play ball! 
+Foul! 
+Out of bounds! 
+Penalty! 
+Time out. 
+Goal! 
+Goal! 
+Gooooooal! 
+Crash! 
+Night is falling. 
+Night has arrived. 
+Dawn is breaking. 
+Dawn has come. 
+Day is breaking. 
+Day has come. 
+Dawn. 
+Day. 
+Night. 
+The season is about to change. 
+The season is changing. 
+Spring has arrived. 
+Summer has arrived. 
+Autumn has arrived. 
+Winter has arrived. 
+Fall has arrived. 
+Fog is forecast. 
+Winds are forecast. 
+Severe Winds are forecast. 
+A tornado is forecast. 
+Rain is forecast. 
+A storm is forecast. 
+Snow is forecast. 
+A blizzard is forecast. 
+An avalanche is forecast. 
+Sunshine is forecast. 
+A dust storm is forecast. 
+An earthquake is forecast. 
+A flood is forecast. 
+Wildfires are forecast. 
+A firestorm is forecast. 
+A landslide is forecast. 
+A volcano eruption is forecast. 
+A tsunami is forecast. 
+A hurricane is forecast. 
+A heat wave is forecast. 
+Fog. 
+Winds. 
+Severe Winds. 
+Tornado. 
+Rain. 
+Storm. 
+Snow. 
+Blizzard. 
+Avalanche. 
+Sunshine. 
+Dust storm. 
+Earthquake. 
+Flood. 
+Wildfires. 
+Firestorm. 
+Landslide. 
+Volcano eruption. 
+Tsunami. 
+Hurricane. 
+Heat wave. 
+Spring. 
+Summer. 
+Winter. 
+Autumn. 
+Fall. 
+Phase begun. 
+Phase complete. 
+First quarter! 
+Second quarter! 
+Half time! 
+Third quarter! 
+Fourth quarter! 
+First half! 
+Second half! 
+Grand finals! 
+Semester begins! 
+Class begins! 
+Class ends! 
+Final exam! 
+Valedictorian! 
+Head of the class! 
+First place. 
+Second place. 
+Third place. 
+Fourth place. 
+Fifth place. 
+Sixth place. 
+Seventh place. 
+Eighth place. 
+Ninth place. 
+Tenth place. 
+Your barracks are under attack. 
+Your barracks have fallen. 
+Your tower is under attack. 
+Your tower has fallen. 
+Your tower has been denied. 
+Structures fortified. 
+Fortified. 
+Teal. 
+Yellow. 
+Pink. 
+Orange. 
+Purple. 
+Blue. 
+Olive. 
+Brown. 
+Cyan. 
+Green. 
+Grey. 
+Silver. 
+Red. 
+Boar. 
+Dog. 
+Dragon. 
+Horse. 
+Monkey. 
+Ox. 
+Rabbit. 
+Ram. 
+Rat. 
+Rooster. 
+Snake. 
+Tiger. 
+Teal's turn to ban. 
+Yellow's turn to ban. 
+Pink's turn to ban. 
+Orange's turn to ban. 
+Purple's turn to ban. 
+Blue's turn to ban. 
+Olive's turn to ban. 
+Brown's turn to ban. 
+Cyan's turn to ban. 
+Green's turn to ban. 
+Grey's turn to ban. 
+Silver's turn to ban. 
+Red's turn to ban. 
+Boar's turn to ban. 
+Dog's turn to ban. 
+Dragon's turn to ban. 
+Horse's turn to ban. 
+Monkey's turn to ban. 
+Ox's turn to ban. 
+Rabbit's turn to ban. 
+Ram's turn to ban. 
+Rat's turn to ban. 
+Rooster's turn to ban. 
+Snake's turn to ban. 
+Tiger's turn to ban. 
+Teal's turn to pick. 
+Yellow's turn to pick. 
+Pink's turn to pick. 
+Orange's turn to pick. 
+Purple's turn to pick. 
+Blue's turn to pick. 
+Olive's turn to pick. 
+Brown's turn to pick. 
+Cyan's turn to pick. 
+Green's turn to pick. 
+Grey's turn to pick. 
+Silver's turn to pick. 
+Red's turn to pick. 
+Boar's turn to pick. 
+Dog's turn to pick. 
+Dragon's turn to pick. 
+Horse's turn to pick. 
+Monkey's turn to pick. 
+Ox's turn to pick. 
+Rabbit's turn to pick. 
+Ram's turn to pick. 
+Rat's turn to pick. 
+Rooster's turn to pick. 
+Snake's turn to pick. 
+Tiger's turn to pick. 
+Teal has taken the lead. 
+Yellow has taken the lead. 
+Pink has taken the lead. 
+Orange has taken the lead. 
+Purple has taken the lead. 
+Blue has taken the lead. 
+Olive has taken the lead. 
+Brown has taken the lead. 
+Cyan has taken the lead. 
+Green has taken the lead. 
+Grey has taken the lead. 
+Silver has taken the lead. 
+Red has taken the lead. 
+Boar has taken the lead. 
+Dog has taken the lead. 
+Dragon has taken the lead. 
+Horse has taken the lead. 
+Monkey has taken the lead. 
+Ox has taken the lead. 
+Rabbit has taken the lead. 
+Ram has taken the lead. 
+Rat has taken the lead. 
+Rooster has taken the lead. 
+Snake has taken the lead. 
+Tiger has taken the lead. 
+You have taken the lead. 
+Teal has drawn first blood. 
+Yellow has drawn first blood. 
+Pink has drawn first blood. 
+Orange has drawn first blood. 
+Purple has drawn first blood. 
+Blue has drawn first blood. 
+Olive has drawn first blood. 
+Brown has drawn first blood. 
+Cyan has drawn first blood. 
+Green has drawn first blood. 
+Grey has drawn first blood. 
+Silver has drawn first blood. 
+Red has drawn first blood. 
+Boar has drawn first blood. 
+Dog has drawn first blood. 
+Dragon has drawn first blood. 
+Horse has drawn first blood. 
+Monkey has drawn first blood. 
+Ox has drawn first blood. 
+Rabbit has drawn first blood. 
+Ram has drawn first blood. 
+Rat has drawn first blood. 
+Rooster has drawn first blood. 
+Snake has drawn first blood. 
+Tiger has drawn first blood. 
+Teal's tower has fallen. 
+Yellow's tower has fallen. 
+Pink's tower has fallen. 
+Orange's tower has fallen. 
+Purple's tower has fallen. 
+Blue's tower has fallen. 
+Olive's tower has fallen. 
+Brown's tower has fallen. 
+Cyan's tower has fallen. 
+Green's tower has fallen. 
+Grey's tower has fallen. 
+Silver's tower has fallen. 
+Red's tower has fallen. 
+Boar's tower has fallen. 
+Dog's tower has fallen. 
+Dragon's tower has fallen. 
+Horse's tower has fallen. 
+Monkey's tower has fallen. 
+Ox's tower has fallen. 
+Rabbit's tower has fallen. 
+Ram's tower has fallen. 
+Rat's tower has fallen. 
+Rooster's tower has fallen. 
+Snake's tower has fallen. 
+Tiger's tower has fallen. 
+Teal's tower has been denied. 
+Yellow's tower has been denied. 
+Pink's tower has been denied. 
+Orange's tower has been denied. 
+Purple's tower has been denied. 
+Blue's tower has been denied. 
+Olive's tower has been denied. 
+Brown's tower has been denied. 
+Cyan's tower has been denied. 
+Green's tower has been denied. 
+Grey's tower has been denied. 
+Silver's tower has been denied. 
+Red's tower has been denied. 
+Boar's tower has been denied. 
+Dog's tower has been denied. 
+Dragon's tower has been denied. 
+Horse's tower has been denied. 
+Monkey's tower has been denied. 
+Ox's tower has been denied. 
+Rabbit's tower has been denied. 
+Ram's tower has been denied. 
+Rat's tower has been denied. 
+Rooster's tower has been denied. 
+Snake's tower has been denied. 
+Tiger's tower has been denied. 
+Teal's barracks has fallen. 
+Yellow's barracks has fallen. 
+Pink's barracks has fallen. 
+Orange's barracks has fallen. 
+Purple's barracks has fallen. 
+Blue's barracks has fallen. 
+Olive's barracks has fallen. 
+Brown's barracks has fallen. 
+Cyan's barracks has fallen. 
+Green's barracks has fallen. 
+Grey's barracks has fallen. 
+Silver's barracks has fallen. 
+Red's barracks has fallen. 
+Boar's barracks has fallen. 
+Dog's barracks has fallen. 
+Dragon's barracks has fallen. 
+Horse's barracks has fallen. 
+Monkey's barracks has fallen. 
+Ox's barracks has fallen. 
+Rabbit's barracks has fallen. 
+Ram's barracks has fallen. 
+Rat's barracks has fallen. 
+Rooster's barracks has fallen. 
+Snake's barracks has fallen. 
+Tiger's barracks has fallen. 
+Teal now has megacreeps. 
+Yellow now has megacreeps. 
+Pink now has megacreeps. 
+Orange now has megacreeps. 
+Purple now has megacreeps. 
+Blue now has megacreeps. 
+Olive now has megacreeps. 
+Brown now has megacreeps. 
+Cyan now has megacreeps. 
+Green now has megacreeps. 
+Grey now has megacreeps. 
+Silver now has megacreeps. 
+Red now has megacreeps. 
+Boar now has megacreeps. 
+Dog now has megacreeps. 
+Dragon now has megacreeps. 
+Horse now has megacreeps. 
+Monkey now has megacreeps. 
+Ox now has megacreeps. 
+Rabbit now has megacreeps. 
+Ram now has megacreeps. 
+Rat now has megacreeps. 
+Rooster now has megacreeps. 
+Snake now has megacreeps. 
+Tiger now has megacreeps. 
+Roshan has fallen to Teal. 
+Roshan has fallen to Yellow. 
+Roshan has fallen to Pink. 
+Roshan has fallen to Orange. 
+Roshan has fallen to Purple. 
+Roshan has fallen to Blue. 
+Roshan has fallen to Olive. 
+Roshan has fallen to Brown. 
+Roshan has fallen to Cyan. 
+Roshan has fallen to Green. 
+Roshan has fallen to Grey. 
+Roshan has fallen to Silver. 
+Roshan has fallen to Red. 
+Roshan has fallen to Boar. 
+Roshan has fallen to Dog. 
+Roshan has fallen to Dragon. 
+Roshan has fallen to Horse. 
+Roshan has fallen to Monkey. 
+Roshan has fallen to Ox. 
+Roshan has fallen to Rabbit. 
+Roshan has fallen to Ram. 
+Roshan has fallen to Rat. 
+Roshan has fallen to Rooster. 
+Roshan has fallen to Snake. 
+Roshan has fallen to Tiger. 
+Teal's courier has been slain. 
+Yellow's courier has been slain. 
+Pink's courier has been slain. 
+Orange's courier has been slain. 
+Purple's courier has been slain. 
+Blue's courier has been slain. 
+Olive's courier has been slain. 
+Brown's courier has been slain. 
+Cyan's courier has been slain. 
+Green's courier has been slain. 
+Grey's courier has been slain. 
+Silver's courier has been slain. 
+Red's courier has been slain. 
+Boar's courier has been slain. 
+Dog's courier has been slain. 
+Dragon's courier has been slain. 
+Horse's courier has been slain. 
+Monkey's courier has been slain. 
+Ox's courier has been slain. 
+Rabbit's courier has been slain. 
+Ram's courier has been slain. 
+Rat's courier has been slain. 
+Rooster's courier has been slain. 
+Snake's courier has been slain. 
+Tiger's courier has been slain. 
+Your courier has been slain. 
+Teal's structures are fortified. 
+Yellow's structures are fortified. 
+Pink's structures are fortified. 
+Orange's structures are fortified. 
+Purple's structures are fortified. 
+Blue's structures are fortified. 
+Olive's structures are fortified. 
+Brown's structures are fortified. 
+Cyan's structures are fortified. 
+Green's structures are fortified. 
+Grey's structures are fortified. 
+Silver's structures are fortified. 
+Red's structures are fortified. 
+Boar's structures are fortified. 
+Dog's structures are fortified. 
+Dragon's structures are fortified. 
+Horse's structures are fortified. 
+Monkey's structures are fortified. 
+Ox's structures are fortified. 
+Rabbit's structures are fortified. 
+Ram's structures are fortified. 
+Rat's structures are fortified. 
+Rooster's structures are fortified. 
+Snake's structures are fortified. 
+Tiger's structures are fortified. 
+Teal has been defeated. 
+Yellow has been defeated. 
+Pink has been defeated. 
+Orange has been defeated. 
+Purple has been defeated. 
+Blue has been defeated. 
+Olive has been defeated. 
+Brown has been defeated. 
+Cyan has been defeated. 
+Green has been defeated. 
+Grey has been defeated. 
+Silver has been defeated. 
+Red has been defeated. 
+Boar has been defeated. 
+Dog has been defeated. 
+Dragon has been defeated. 
+Horse has been defeated. 
+Monkey has been defeated. 
+Ox has been defeated. 
+Rabbit has been defeated. 
+Ram has been defeated. 
+Rat has been defeated. 
+Rooster has been defeated. 
+Snake has been defeated. 
+Tiger has been defeated. 
+You have been defeated. 
+Teal is victorious! 
+Yellow is victorious! 
+Pink is victorious! 
+Orange is victorious! 
+Purple is victorious! 
+Blue is victorious! 
+Olive is victorious! 
+Brown is victorious! 
+Cyan is victorious! 
+Green is victorious! 
+Grey is victorious! 
+Silver is victorious! 
+Red is victorious! 
+Boar is victorious! 
+Dog is victorious! 
+Dragon is victorious! 
+Horse is victorious! 
+Monkey is victorious! 
+Ox is victorious! 
+Rabbit is victorious! 
+Ram is victorious! 
+Rat is victorious! 
+Rooster is victorious! 
+Snake is victorious! 
+Tiger is victorious! 
+Teal victory! 
+Yellow victory! 
+Pink victory! 
+Orange victory! 
+Purple victory! 
+Blue victory! 
+Olive victory! 
+Brown victory! 
+Cyan victory! 
+Green victory! 
+Grey victory! 
+Silver victory! 
+Red victory! 
+Boar victory! 
+Dog victory! 
+Dragon victory! 
+Horse victory! 
+Monkey victory! 
+Ox victory! 
+Rabbit victory! 
+Ram victory! 
+Rat victory! 
+Rooster victory! 
+Snake victory! 
+Tiger victory!

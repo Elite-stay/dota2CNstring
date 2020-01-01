@@ -1,0 +1,145 @@
+Welcome to Dota! 
+Welcome to Dota! 
+Welcome to Dota, my darlings. 
+Welcome to the Diretide celebration. 
+The hunt is on for treats and sweets. 
+Welcome to the Diretide festival. 
+Your turn to pick. 
+Enemy's turn to pick. 
+Dire team pick. 
+Radiant team pick. 
+Your turn to ban. 
+Enemy's turn to ban. 
+Dire team ban. 
+Radiant team ban. 
+Radiant's team is complete. 
+Your team is complete. 
+Dire's team is complete. 
+Ten seconds remaining. 
+Five seconds remaining. 
+Reserve time. 
+You are using reserve time. 
+Choose your hero. 
+Thirty seconds to battle. 
+Ten seconds to battle. 
+Prepare for battle! 
+The battle begins! 
+First Blood! 
+Your ancient is under attack. 
+Radiant's ancient is under attack. 
+Dire's ancient is under attack. 
+Radiant's top tower is under attack. 
+Radiant's middle tower is under attack. 
+Radiant's bottom tower is under attack. 
+Dire's top tower is under attack. 
+Dire's middle tower is under attack. 
+Dire's bottom tower is under attack. 
+Your top tower is under attack. 
+Your middle tower is under attack. 
+Your bottom tower is under attack. 
+Your top tower has fallen. 
+Your middle tower has fallen. 
+Your bottom tower has fallen. 
+Radiant's top tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's bottom tower has fallen. 
+Dire's top tower has fallen. 
+Dire's middle tower has fallen. 
+Dire's bottom tower has fallen. 
+The enemy's top tower has fallen. 
+The enemy's middle tower has fallen. 
+The enemy's bottom tower has fallen. 
+Your top barracks are under attack. 
+Your middle barracks are under attack. 
+Your bottom barracks are under attack. 
+Radiant's top barracks are under attack. 
+Radiant's middle barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Dire's top barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's bottom barracks are under attack. 
+Your top barracks have fallen. 
+Your middle barracks have fallen. 
+Your bottom barracks have fallen. 
+Radiant's top barracks have fallen. 
+Radiant's middle barracks have fallen. Pity. They were nice racks. 
+Radiant's bottom barracks have fallen. 
+Dire's top barracks have fallen. 
+Dire's middle barracks have fallen. 
+Dire's bottom barracks have fallen. 
+The enemy's top barracks have fallen. 
+The enemy's middle barracks have fallen. 
+The enemy's bottom barracks have fallen. 
+Your top tower has been denied. 
+Your middle tower has been denied. 
+Your bottom tower has been denied. 
+The enemy's top tower has been denied. 
+The enemy's middle tower has been denied. 
+The enemy's bottom tower has been denied. 
+Radiant's top tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's bottom tower has been denied. 
+Dire's top tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's bottom tower has been denied. 
+Dire's structures are fortified. 
+Radiant's structures are fortified. 
+Dire's courier has been slain. 
+Radiant's courier has been slain. 
+You now have megacreeps. 
+The enemy now has megacreeps. 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+Roshan has fallen to the Dire! 
+Roshan has fallen to the Radiant! 
+Dire victory! 
+Radiant victory! 
+Eh, Radiant victory. 
+All Pick. 
+All Random. 
+Captain's Draft. 
+Captains Mode. 
+Random Draft. 
+Single Draft. 
+Death Match. 
+Easy Mode. 
+A Spooky Rune has been cast! 
+A Mysterious Rune has been cast! 
+A Ghastly Rune has been cast! 
+A Quickening Rune has been cast! 
+A Cursed Rune has been cast! 
+Go, my darlings, go and gather sweets! 
+Rohsan has left his den in search of sweets. 
+Roshan wants sweets from the Dire. 
+Roshan wants sweets from the Radiant. 
+Give Roshan sweets or suffer. 
+Sweets for Roshan--that is all he desires! 
+Sweet, sweet Roshan! 
+Roshan has had his fill! 
+Sugar Rush! 
+Sugar Rush! 
+Sugar Rush! Ahahahahah! 
+Roshan has moved to a new region. 
+Roshan has moved on. 
+Roshan grows stronger. 
+Roshan grows stronger still. 
+Roshan is most powerful. 
+Roshan has returned to his den. There will be no treats for now. 
+Roshan has been slain! 
+Claim your treats! 
+Dire has the most candy! 
+Radiant has the most candy! 
+Feed Roshan a sugary treat, else he'll feed on heroes' meat. 
+Treats for all. 
+A terrible monster has appeared in the Top Lane! 
+A horrible creature now stalks the Middle Lane! 
+A foul fiend threatens the Bottom Lane! 
+Top is missing. 
+Middle is missing. 
+Bottom is missing. 
+Text 
+Text 
+Text 
+Text 
+Text 
+Text

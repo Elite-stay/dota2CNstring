@@ -1,0 +1,306 @@
+Welcome to Dota! 
+Welcome to Dota! 
+Your turn to pick. 
+Enemy's turn to pick. 
+Dire team pick. 
+Radiant team pick. 
+Your turn to ban. 
+Enemy's turn to ban. 
+Dire team ban. 
+Radiant team ban. 
+Radiant's team is complete. 
+Your team is complete. 
+Dire's team is complete. 
+Ten seconds remaining. 
+Five seconds remaining. 
+Reserve time. 
+Extra time. 
+You are using Reserve Time. 
+You are using Extra Time. 
+Choose your hero. 
+Thirty seconds to battle. 
+Ten seconds to battle. 
+Prepare for battle! 
+Prepare for battle! 
+The battle begins! 
+The battle begins! 
+Your ancient is under attack. 
+I wouldn't wish your ancient's fate on my worst enemy. 
+Radiant's ancient is under attack. 
+Deserved or not, Radiant's ancient is under attack. 
+Dire's ancient is under attack. 
+There's something about Dire's ancient that just cries out to be attacked. 
+Radiant's top tower is under attack. 
+Radiant's top tower is under attack. 
+The Dire just can't resist attacking Radiant's top tower. 
+Radiant's middle tower is under attack. 
+Radiant's middle tower is under attack. 
+Radiant must summon the spirit to defend their top tower. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower is under attack. 
+The Direst elements are pelting Radiant's bottom tower. 
+Dire's top tower is under attack. 
+Dire's top tower is under attack. 
+The Dire's poor top tower, can its end be drawing nigh? 
+Dire's middle tower is under attack. 
+Dire's middle tower is under attack. 
+Time is running out for Dire's middle tower. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is under attack. 
+Oh, cover your eyes, Dire's bottom tower is taking a drubbing. 
+Your top tower is under attack. 
+Your top tower is under attack. 
+Summon the will to defend your top tower. 
+Your middle tower is under attack. 
+Your middle tower is under attack. 
+Look lively now, your middle tower is under attack. What are you, amateurs? 
+Look lively now, your middle tower is under attack. How disappointing. 
+Your bottom tower is under attack. 
+Your bottom tower is under attack. 
+Procrastination could spell the end of your bottom tower. 
+Your top tower has fallen. 
+Your top tower has fallen. 
+I hate to say it but your top tower has fallen. 
+I don't mean to be a downer but your top tower has fallen. 
+Your middle tower has fallen. 
+Your middle tower has fallen. 
+May the sky itself weep for your fallen middle tower. 
+May choirs of angels accompany your middle tower to the nether regions. 
+Your bottom tower has fallen. 
+Your bottom tower has fallen. 
+If you wish a eulogy to be delivered for your bottom tower, my rates are very reasonable. 
+Radiant's top tower has fallen. 
+Radiant's top tower has fallen. 
+Well blow me over, Radiant's top tower has fallen. 
+Whoop de doo! Radiant's top tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower has fallen. 
+Beset on all sides, Radiant's middle tower has fallen. 
+Beset on all sides by miscreants, evildoers and other people that I don't even want to mention, Radiant's middle tower has fallen. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower has fallen. 
+You don't need to be amazing to point out that Radiant's bottom tower has fallen, but it doesn't hurt. 
+Dire's top tower has fallen. 
+Dire's top tower has fallen. 
+Party it up, bucko. Dire's top tower has fallen. 
+Enjoy yourself while you can, for Dire's top tower has fallen. 
+Dire's middle tower has fallen. 
+Dire's middle tower has fallen. 
+Sometimes I find myself saying for no reason at all, Dire's middle tower has fallen. Oh wait! There's a good reason to say it this time. Aha. 
+Dire's bottom tower has fallen. 
+Dire's bottom tower has fallen. 
+If you were Dire's bottom tower, you would have fallen just now. 
+The enemy's top tower has fallen. 
+The enemy's top tower has fallen. 
+Pat yourself on the back, as I do, for the enemy's top tower has fallen. 
+Odd's bodkins and gadzooks! The enemy's top tower has fallen. 
+The enemy's middle tower has fallen. 
+The enemy's middle tower has fallen. 
+Give yourself a big juicy prize, the enemy's middle tower has completely collapsed. 
+Give yourself a prize, the enemy's middle tower has collapsed. 
+The enemy's bottom tower has fallen. 
+The enemy's bottom tower has fallen. 
+A moment's silence for the enemy's bottom tower. And we're back! 
+Your top barracks are under attack. 
+Your top barracks are under attack. 
+You must summon the spirit to defend your top barracks. 
+Come on, lads, let's defend your top barracks. 
+Your middle barracks are under attack. 
+Your middle barracks are under attack. 
+Hello? Wake up and smell the coffee. Your middle barracks are under attack. 
+Just in case you hadn't noticed, your middle barracks are under attack. 
+Your bottom barracks are under attack. 
+Your bottom barracks are under attack. 
+Let this be a warning to you. Your bottom barracks are under attack. 
+Radiant's top barracks are under attack. 
+Radiant's top barracks are under attack. 
+Just in case it isn't obvious to everyone, Radiant's top barracks are under attack. 
+Radiant's middle barracks are under attack. 
+Radiant's middle barracks are under attack. 
+I never thought I'd have to say, this, but Radiant's middle barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Can it be? Yes! Radiant's bottom barracks are under attack. 
+Dire's top barracks are under attack. 
+Dire's top barracks are under attack. 
+Unless I'm very much mistaken, which is impossible, Dire's top barracks are under attack. 
+Unless I'm mistaken, he he he let's be serious, Dire's top barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks are under attack. 
+ While we're on the subject, Dire's middle barracks are under attack. 
+Dire's bottom barracks are under attack. 
+Dire's bottom barracks are under attack. 
+Well what do you know? Dire's bottom barracks are under attack. 
+Well dress me up and call me Shirley: Dire's bottom barracks are under attack. 
+Your top barracks have fallen. 
+Your top barracks have fallen. 
+The wind whistles through the ruins of your top barracks. 
+Your middle barracks have fallen. 
+Your middle barracks have fallen. 
+Your middle barracks have been blown away. 
+The breeze now blows unhindered where once your middle barracks stood. 
+Your bottom barracks have fallen. 
+Your bottom barracks have fallen. 
+The world's been swept clean of your bottom barracks. 
+The world's been swept clean of your bottom barracks. 
+Radiant's top barracks have fallen. 
+Radiant's top barracks have fallen. 
+This news just in: Radiant's top barracks have collapsed. 
+Radiant's middle barracks have fallen. 
+Radiant's middle barracks have fallen. 
+The storming of Radiant's base continues as their middle barracks fall. 
+Radiant's bottom barracks have fallen. 
+Radiant's bottom barracks have fallen. 
+You heard it here first: Radiant's bottom barracks just bit the dust. 
+Dire's top barracks have fallen. 
+Dire's top barracks have fallen. 
+Bad news for some of you: Dire's top barracks have fallen. 
+This is probably going to spoil your day but Dire's top barracks have fallen. 
+Dire's middle barracks have fallen. 
+Dire's middle barracks have fallen. 
+Paving the way for future disaster, Dire's middle barracks have fallen. 
+Dire's bottom barracks have fallen. 
+Dire's bottom barracks have fallen. 
+Astute observers like myself will note that Dire's bottom barracks have fallen. 
+The enemy's top barracks have fallen. 
+The enemy's top barracks have fallen. 
+You'll be pleased to hear that the enemy's top barracks have fallen. 
+Calloo callay! The enemy's top barracks have fallen. 
+The enemy's middle barracks have fallen. 
+The enemy's middle barracks have fallen. 
+Huzzah! The enemy's middle barracks have fallen. 
+Good news! The enemy's middle barracks have fallen. 
+The enemy's bottom barracks have fallen. 
+The enemy's bottom barracks have fallen. 
+Oh glorious! The enemy's bottom barracks have fallen. 
+The critics rave! The enemy's bottom barracks are a flop! I mean, they've fallen. 
+Your top tower has been denied. 
+Your top tower has been denied. 
+For better or worse, your top tower has been denied. 
+Your middle tower has been denied. 
+Your middle tower has been denied. 
+Be advised: Your middle tower has been denied. 
+Your bottom tower has been denied. 
+Your bottom tower has been denied. 
+Oh, someone's got their finger on the button. Your bottom tower has been denied. 
+Well, someone's doing their job. Your bottom tower has been denied. 
+The enemy's top tower has been denied. 
+The enemy's top tower has been denied. 
+Don't hate me for saying this, but the enemy's top tower has been denied. 
+The enemy's middle tower has been denied. 
+The enemy's middle tower has been denied. 
+It's all over the news: The enemy's middle tower has been denied. 
+It's not my fault, but the enemy's middle tower has been denied. 
+The enemy's bottom tower has been denied. 
+The enemy's bottom tower has been denied. 
+Oh dear oh dear oh dear, the enemy's bottom tower has been denied. And you were so very, very, very close. 
+Oh dear, the enemy's bottom tower has been denied. And you were so close. 
+Radiant's top tower has been denied. 
+Radiant's top tower has been denied. 
+It looks as though--yes, it's been confirmed: Radiant's top tower has been denied. 
+Wait a minute, just in, just in: It's been confirmed: Radiant's top tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's middle tower has been denied. 
+In the annals of denial, Radiant's middle tower has just made a name for itself. 
+Denial isn't just a river in Egypt. It also describes Radiant's middle tower. 
+Radiant's bottom tower has been denied. 
+Radiant's bottom tower has been denied. 
+I don't mind telling you that Radiant's bottom tower has been denied. 
+Let me just tell you that Radiant's bottom tower has been denied. 
+Dire's top tower has been denied. 
+Dire's top tower has been denied. 
+Shout it to the atmosphere: Dire's top tower has been denied. 
+Shout it from the highest hill: Dire's top tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's middle tower has been denied. 
+With a bit of fancy footwork, Dire's middle tower has been denied. 
+I can't believe what I'm seeing! Look at that ! Dire's middle tower has been denied. 
+Dire's bottom tower has been denied. 
+Dire's bottom tower has been denied. 
+No one saw it coming, but, but Dire's bottom tower has been denied. 
+Odd's bodkins and button my pants: Dire's bottom tower has been denied. 
+Dire's structures are fortified. 
+Dire's structures are fortified. 
+Storm doors in place. Dire's structures are fortified. 
+Dire's structures are fortified against all comers. 
+Dire's structures are just magnificently fortified. 
+Radiant's structures are fortified. 
+Radiant's structures are fortified. 
+Whether accidentally or on purpose, Radiant's structures have been fortified. 
+Oh look, they found the button. Radiant's structures have been fortified. 
+Radiant's structures are fortified. They must have seen dark clouds on the horizon. 
+Dire's courier has been slain. 
+Dire's courier has been slain. Please alert the society for the prevention of cruelty to couriers. 
+Sometimes the winds of war bear away even innocent souls, such as Dire's courier. 
+Radiant's courier has been slain. 
+Radiant's courier has been slain. 
+Oh my, Radiant's courier has been stricken. Let none rejoice. Except perhaps in secret. 
+Oh those dastardly Dire have slain Radiant's innocent courier. 
+You now have megacreeps. 
+You now have megacreeps. 
+The enemy now has megacreeps. 
+The Dire now have megacreeps. 
+The Dire: Now with megacreeps. 
+The Radiant now have megacreeps. 
+The Radiant: Now with megacreeps. 
+Roshan has fallen to the Dire! 
+Roshan has fallen to the Dire! 
+Can it be? Yes! Roshan has fallen to the Dire! 
+The Dire have shown Roshan no mercy. 
+The Dire have stolen Roshan's life, and with it Immortality. 
+Roshan has fallen to the Radiant! 
+Roshan has fallen to the Radiant! 
+The mighty Roshan has fallen to Radiant treachery. 
+Oh Radiant, Roshan has given his all for you. Use it wisely. 
+And they said I was cheesy. 
+Dire victory! 
+Let the wind carry word of Dire's great victory! 
+Radiant victory! 
+And the storm of battle ends in the calm of a Radiant victory! 
+All Pick. 
+All Random. 
+Captain's Draft. 
+Captains Mode. 
+Random Draft. 
+Single Draft. 
+Death Match. 
+Easy Mode. 
+Seems like a bit of a setback. 
+Let your spirits not sag. 
+I am sorry to say it. 
+Looks like someone blew it. 
+Is that whining I hear? 
+We all saw it coming. 
+Don't shoot the messenger. 
+The storm has spoken. 
+What a debacle. 
+Oh what a mess. 
+Not my fault. 
+More's the pity. 
+Couldn't happen to a nicer team. 
+I knew you could do it. 
+The eye of the storm beams down on you. 
+Isn't that splendid? 
+I thought you were going to blow it but you didn't. 
+You blustered through! 
+And not a single fig was given on that day. 
+Well isn't that nice? 
+Sunbeams all around. 
+Beee-yooo-tiful. 
+Always a problem. 
+But all is not yet lost. 
+Let not your spirits sag. 
+Someone had better see to that before it gets worse. 
+Dark clouds gather. 
+Can anyone weather this storm? 
+Hallmarks of doom are everywhere. 
+No one should be under any illusions. 
+Harbor no false hopes. 
+Don't make me come in there. 
+Oh where can this be heading? 
+This is wild. 
+Oh my, my heart is all aflutter. 
+The time has come to defend or attack or something. 
+In case you hadn't noticed. 
+This wasn't in the forecast. 
+Gear up for heavy weather.

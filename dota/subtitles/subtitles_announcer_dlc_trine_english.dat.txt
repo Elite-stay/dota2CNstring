@@ -1,0 +1,565 @@
+Dire team pick. 
+Enemy's turn to pick. 
+Radiant team pick. 
+Your turn to pick. 
+Dire team ban. 
+Enemy's turn to ban. 
+Radiant team ban. 
+Your turn to ban. 
+Dire's team is complete. 
+Radiant's team is complete. 
+Your team is complete. 
+Choose your hero. 
+Now all we need is a hero. 
+Choose wisely. 
+Ten seconds remaining. 
+Five seconds remaining. 
+Reserve time. 
+Extra time. 
+You are using Extra Time. 
+You are using Reserve Time. 
+Prepare for battle. 
+It was time to prepare for battle. 
+Time for preparations. 
+Thirty seconds to battle. 
+Thirty seconds remaining. 
+Ten seconds to battle. 
+Only ten seconds now. 
+Battle starts any moment now. 
+The battle begins! 
+To battle! 
+Off to glorious battle. 
+Heroes rode out to the field of glory. 
+May the best team win. 
+To victory or peril. 
+This is quite exciting. 
+I wonder how this will turn out. 
+Whose side was I on again? 
+Dire's ancient is under attack. 
+Dire's ancient needs defensive action. 
+Dire's ancient is not at its best. 
+They're doing things to Dire's ancient. 
+Were I Dire, I'd be looking at my ancient. 
+Dire's ancient might need help. 
+Dire's ancient has a heap of trouble. 
+Radiant's ancient is under attack. 
+Radiant's ancient needs help. 
+Radiant's ancient is taking damage. 
+Someone is brutalizing Radiant's ancient. 
+Radiant's ancient has a Dire situation. 
+Violent commotion at Radiant's ancient. 
+Radiant's ancient is in a spot of trouble. 
+Your ancient is under attack. 
+Trouble brewing at your ancient. 
+Your ancient needs attention. 
+Someone is attacking your ancient. 
+Someone is violating your ancient. 
+Please mind your ancient. 
+Your poor ancient is taking a beating. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is on its way further down. 
+Dire's bottom tower is in turmoil. 
+Dire's middle tower is under attack. 
+Dire's middle tower is in the wrong end of business. 
+Dire's middle tower is under fire. 
+Dire's top tower is under attack. 
+Dire's top tower isn't well at the moment. 
+Dire's top tower is not on top of things. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower has uninvited guests. 
+Radiant's bottom tower has a nasty situation. 
+Radiant's middle tower is under attack. 
+Radiant's middle tower is not safe. 
+Radiant's middle tower may need a hand. 
+Radiant's top tower is under attack. 
+Radiant's top tower is getting walloped. 
+Radiant's top tower needs bandages. 
+Your bottom tower is under attack. 
+Something troublesome is happening to your bottom -cough- tower. 
+Your bottom tower is being invaded. 
+Your middle tower is under attack. 
+Your middle tower is not doing well. 
+Something wicked at your middle tower. 
+Your top tower is under attack. 
+A spot of trouble at your top tower. 
+Your top tower craves your attention. 
+Dire's bottom tower has fallen. 
+Dire's bottom tower lies in ruins. 
+Dire's bottom tower had a tragic ending. 
+Dire's middle tower has fallen. 
+Dire's middle tower met its end. 
+Dire's middle tower is lost. 
+Dire's top tower has fallen. 
+Dire's top tower was utterly destroyed. 
+Dire's top tower is done for. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower is now a pile of dust. 
+Radiant's bottom tower is gone with the wind. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower was smashed into pieces. 
+Radiant's middle tower had an unhappy ending. 
+Radiant's top tower has fallen. 
+Radiant's top tower was crushed to smithereens. 
+Radiant's top tower is gone. 
+The enemy's bottom tower has fallen. 
+The enemy's bottom tower is utterly beyond repair. 
+Your enemy's bottom tower was destroyed. 
+The enemy's middle tower has fallen. 
+Your enemy's middle tower is gone. 
+The enemy's middle tower was torn down. 
+The enemy's top tower has fallen. 
+Your enemy's top tower was destroyed. 
+The enemy's top tower is now ash and dust. 
+Your bottom tower has fallen. 
+The tale of your bottom tower has ended. 
+Alas, your bottom tower is no more. 
+Your middle tower has fallen. 
+And so ended the story of your middle tower. 
+Your middle tower met its demise. 
+Your top tower has fallen. 
+Then your top tower fell into pieces. 
+And that was the end of your top tower. 
+Dire's bottom tower has been denied. 
+Dire's bottom tower was inevitably denied. 
+Dire's bottom tower was denied. 
+Dire's middle tower has been denied. 
+Dire denied their middle tower. 
+Dire denied that middle tower. 
+Dire's top tower has been denied. 
+Dire's heroes denied their top tower. 
+So those Dires denied their top tower. 
+Radiant's bottom tower has been denied. 
+Radiant denied their bottom tower. 
+Radiant's bottom tower was denied. 
+Radiant's middle tower has been denied. 
+Once upon a time Radiant denied their middle tower. 
+Radiant's middle tower was ever so denied. 
+Radiant's top tower has been denied. 
+Radiant managed to deny their top tower. 
+Radiant succeeded in denying their top tower. 
+The enemy's bottom tower has been denied. 
+The enemy denied their bottom tower. 
+Your enemy denied that bottom tower. 
+The enemy's middle tower has been denied. 
+The enemy's middle tower was denied. 
+The enemy denied their middle tower. 
+The enemy's top tower has been denied. 
+Oh, they denied their top tower. 
+Too bad they denied their top tower. 
+Your bottom tower has been denied. 
+You denied your bottom tower. 
+Your bottom tower was denied. 
+Your middle tower has been denied. 
+Fantastic job denying your middle tower. 
+Your middle tower was effectively denied. 
+Your top tower has been denied. 
+You bravely denied your top tower. 
+Your top tower was bravely denied. 
+Dire's bottom barracks are under attack. 
+Commotion at Dire's bottom barracks. 
+Dire needs to look at their bottom barracks. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks are getting it now. 
+Dire's middle barracks are not doing so well. 
+Dire's top barracks are under attack. 
+It's getting nasty at Dire's top barracks. 
+Dire's top barracks not in top condition. 
+Radiant's bottom barracks are under attack. 
+Radiant's bottom barracks are in danger. 
+Radiant's bottom barracks have a situation. 
+Radiant's middle barracks are under attack. 
+Radiant's middle barracks are in trouble. 
+Radiant's middle barracks need a hero. 
+Radiant's top barracks are under attack. 
+Radiant's top barracks are not doing too well. 
+Radiant's top barracks have had better times. 
+Your bottom barracks are under attack. 
+Ruckus at your bottom barracks. 
+Your bottom barracks are shaking. 
+Your middle barracks are under attack. 
+Your middle barracks crave your attention. 
+Your middle barracks have seen better days. 
+Your top barracks are under attack. 
+Your top barracks are getting a beating. 
+Your top barracks are in trouble. 
+Dire's bottom barracks have fallen. 
+Dire's bottom barracks are gone. 
+Farewell to Dire's bottom barracks. 
+Dire's middle barracks have fallen. 
+Say goodbye to Dire's middle barracks. 
+No more middle barracks for Dire. 
+Dire's top barracks have fallen. 
+That was it for Dire's top barracks. 
+Dire's top barracks were stomped down. 
+Radiant's bottom barracks have fallen. 
+Radiant's bottom barracks were defeated. 
+Goodbye to Radiant's bottom barracks. 
+Radiant's middle barracks have fallen. 
+Radiant's middle barracks were torn down. 
+That's the end of Radiant's middle barracks. 
+Radiant's top barracks have fallen. 
+Radiant's top barracks had no chance. 
+So the Radiant's top barracks met their demise. 
+The enemy's bottom barracks have fallen. 
+The enemy's bottom barracks are now a memory. 
+You dealt with their bottom barracks. 
+The enemy's middle barracks have fallen. 
+That was the demise of their middle barracks. 
+The enemy's middle barracks were destroyed. 
+The enemy's top barracks have fallen. 
+You've destroyed your enemy's top barracks. 
+You've annihilated the enemy's top barracks. 
+Your bottom barracks have fallen. 
+Your bottom barracks were squashed. 
+Your bottom barracks faced their doom. 
+Your middle barracks have fallen. 
+Your middle barracks are no longer. 
+Your middle barracks were annihilated. 
+Your top barracks have fallen. 
+Your top barracks have been lost. 
+Sorry but your top barracks are gone. 
+Dire's structures are fortified. 
+Fearsome Dire have fortified their structures. 
+Dire just fortified their structures. 
+Dire has strengthened their structures. 
+Dire has secured their structures. 
+Radiant's structures are fortified. 
+Gallant Radiant have fortified their structures. 
+I see that Radiant just fortified their structures. 
+Radiant has reinforced their structures. 
+Radiant structures have been secured. 
+Dire's courier has been slain. 
+Poor Dire's courier was slain. 
+Dire's courier met an unhappy ending. 
+Such was the end of Dire's courier. 
+Dire's courier was lost in battle. 
+Radiant's courier has been slain. 
+Poor little Radiant's courier was slain. 
+So ended the sad tale of Radiant's courier. 
+That was the end for Radiant's courier. 
+Radiant's courier was lost in the heat of battle. 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+The enemy now has megacreeps. 
+Your enemy has these mega creature things now. 
+Is it bad that your enemy has mega creatures now? 
+You now have megacreeps. 
+You now have some things that are called mega creatures... 
+Now you have some kind of mega creatures. 
+Roshan has fallen to the Dire! 
+Dire has dispensed with Roshan. 
+Dire has claimed Roshan's life. 
+Mighty Dire claimed Roshan's head. 
+Dire defeated Roshan in heated battle. 
+Roshan's death was in Dire hands. 
+Roshan has fallen to the Radiant! 
+Roshan was slain by courageous Radiant. 
+Radiant defeated the fearsome Roshan. 
+Radiant has slain the terrible Roshan. 
+Roshan was slain by Radiant. 
+Roshan fell by Radiant hands. 
+Dire took Roshan's Cheese. 
+Radiant took Roshan's Cheese. 
+Why hello there. 
+It's like chess, only with more queens. 
+Welcome to Dota! 
+Let me welcome you to Dota. 
+Once upon a time there was Dota. 
+Let me tell you a story of Dire and Radiant. 
+Once upon a time there were Dire and Radiant. 
+This is an epic tale of Dota. 
+Once upon a time glorious battle took place in the world of Dota. 
+Gather round and listen to a tale of Dota. 
+This is a story about Dire and Radiant. 
+It was early morning on the site of battle. 
+A fine afternoon for battle. 
+Heroes gathered at the field of conquest in the light of dusk. 
+This battle took place in the dead of the darkest night. 
+All Pick. 
+All Mid. 
+Least played. 
+All Random. 
+Captain's Draft. 
+Captains Mode. 
+Death Match. 
+Easy Mode. 
+Random Draft. 
+Reverse Captain's Mode. 
+Single Draft. 
+These affairs are rather violent, aren't they? 
+The combatants circled each other carefully, biding their time. 
+The excitement was about to start any moment now. 
+The heroes were taking things slow, for now. 
+Something was bound to happen soon. 
+The pieces moved cautiously on the chessboard. 
+The view is quite striking from up here. 
+This reminds me of that time I fell asleep in the middle of telling a story. 
+Dire victory! 
+This story turned out to have a Dire ending. 
+A Dire ending to this tale. 
+So the Dire destroyed the Radiant ancient. The end. 
+A Dire victory indeed. 
+Radiant victory! 
+So this tale ends with a truly Radiant victory. 
+With Radiant winning, so ends this tale. 
+So the Radiant destroyed Dire's ancient. The end. 
+Radiant victory is a Radiant conclusion. 
+You win! 
+Well done, mighty Dire. 
+Fearsome Dire wrote the ending to this tale. 
+Good show, Radiant. 
+Radiant heroes have won. Well done. 
+Second place! 
+They fought like lions. 
+Bravely done. 
+You're instilling fear in them. 
+Valiant deeds indeed. 
+Shoot to kill I see. 
+Leaving a trail of destruction. 
+Another one bites the dust. 
+And another one gone. 
+Well done team. 
+Good show. 
+Now to press further onwards. 
+Excellent work. 
+Now on to the next challenge. 
+It fell like a ... thing that falls well. 
+Impressive. 
+Quite the feat! 
+Too bad. 
+Happens to the best of us. 
+Quite unfortunate. 
+Crikey. 
+I'm sorry for your loss. 
+At least it wasn't your ancient. 
+Oh no. 
+It really went down quite fast. 
+They huffed and they puffed until something fell down. 
+It would be best not to worry too much. 
+A minor setback. 
+There there. 
+What's gone is gone. 
+Fret not, for the wind always turns. 
+Good grief. 
+Don't worry, the tables might turn. 
+I'm not sure if this is a story with a happy ending. 
+Back into the fray. 
+I hope you enjoyed your rest. 
+There's still work to do. 
+There's all kinds of danger lurking in the wilderness. 
+Now where were we? 
+Everyone are missing. 
+The heroes left the beaten paths. 
+Suddenly everyone went missing. 
+Everyone missing. Where did they vanish? 
+Bottom is missing. 
+Bottom lane is missing. 
+Too quiet at the bottom lane. 
+Middle is missing. 
+Eerie silence fell down on middle lane. 
+No one at middle lane. 
+Top is missing. 
+Very empty at top lane. 
+Wasn't there someone at the top lane earlier? 
+After it's empty, you can play truth of dare with it. 
+I'll drink to that. 
+A fine beast of burden. 
+A fine companion. 
+A ward. I... see. 
+A seemingly innocent little contraption. 
+A hero is gone missing. 
+One of the heroes experienced some technical difficulties. 
+Missing hero returns. 
+More of these stories later. 
+Good night... or whatever you're having. 
+Good luck, have fun. 
+That is hardly helpful. 
+Now now. Let's try be more supportive. 
+Alchemist 
+Inseparable, these two. 
+Ancient Apparition 
+The heart of absolute winter. 
+Anti-Mage 
+I heard he likes tea. 
+Axe 
+A weapon that comes with its wielder attached. 
+Bane 
+Less than sweet dreams. 
+Batrider 
+Somewhat batty, isn't he. 
+Beastmaster 
+Friend to all wild souls out there. 
+Bloodseeker 
+I hear red is his favourite colour. 
+Bounty Hunter 
+I've a business proposition to discuss with you, later. After this. 
+Brewmaster 
+He'll drink the others under the table. 
+Broodmother 
+Straight here from a deep, dark underground cavern. 
+Centaur Warrunner 
+Imagine if they switched and the top part was horse instead. 
+Chaos Knight 
+The champion of increasing entropy. There's a hero for everything. 
+Chen 
+His faith truly inspires him. 
+Clinkz 
+Excellent, everything is better with more skeletons. 
+Clockwerk 
+Tick-tock goes this one. 
+Crystal Maiden 
+It's getting rather chilly. 
+Dark Seer 
+Valiant defender of the god-king Damathryx, and rather fond of chess too. 
+Dazzle 
+I can't remember seeing anyone this dazzling in a long while. 
+Death Prophet 
+It may be your death that she's prophecising. 
+Disruptor 
+They're in for some terrifying weather. 
+Doom 
+Sounds ominous, but he's rather nice once you get to know him better. 
+Dragon Knight 
+Bit of a hot-head. 
+Drow Ranger 
+She reminds me of someone. Tall, dark, wields a bow. It's on the tip of my tongue. 
+Earthshaker 
+Creature of the restless earth. 
+Enchantress 
+Green war and peace. 
+Enigma 
+Just don't stare into his black hole for too long. 
+Faceless Void 
+I spy with my little eye... oh, sorry. 
+Gyrocopter 
+Flying with engineering? Now that's just unnatural. 
+Huskar 
+Straight in from anger management class. 
+Invoker 
+What a snappy dresser. 
+Jakiro 
+Two headed, it's like always having a friend close by. 
+Juggernaut 
+Mysterious masked man with a blade. Interesting choice. 
+Keeper of the Light 
+My eyes, I'm blind. 
+Kunkka 
+Admiral, how good of you to join us. 
+Leshrac 
+Elemental hazard. 
+Lich 
+Lich. Not to be confused with lick. 
+Lifestealer 
+Better hide for your life, lest he steals it. 
+Lina 
+The lady is on fire. 
+Lion 
+Please note: Not an actual lion. 
+Lone Druid 
+Well he's not that lone when he brings his bear along. 
+Luna 
+The last thing they'll see is moonlight glinting on her blade. 
+Lycanthrope 
+Don't you just see yourself going on long walks with this one. 
+Magnus 
+Did you know rhinoes are vegetarians? He doesn't. 
+Medusa 
+She has some amazing hair conditioner. 
+Meepo 
+We'll be seeing more of himselves later on. 
+Mirana 
+Your highness, you grace us with your presence. 
+Morphling 
+I hope I don't get caught in the rain. 
+Naga Siren 
+She has such a lovely voice. 
+Nature's Prophet 
+Few are born as wise as he. 
+Night Stalker 
+He makes me a bit nervous, especially during the night. 
+Nyx Assassin 
+This scarab's too big to wear around your neck, and he'd kill you if you tried. 
+Ogre Magi 
+Almost as good as three minds in one body. 
+Omniknight 
+A man of faith. 
+Outworld Devourer 
+Eclipsing your sanity. 
+Phantom Assassin 
+They say anyone can be her next target. 
+Phantom Lancer 
+In Goblinish they call him a big kitty with a poky-stick. 
+Puck 
+This fairy dragon baby is ready for battle. 
+Pudge 
+Someone's a bit ripe. 
+Pugna 
+Pugna. And his gouts of emerald flame. 
+Queen of Pain 
+Your majesty. 
+Razor 
+He'll leave you thunderstruck. 
+Riki 
+He's got your back. For good or bad. 
+Rubick 
+You'll soon find his hand in the cookie jar of your magic. 
+Sand King 
+Monarch of the deadliest dustlands. 
+Shadow Demon 
+All demons are a little shady, but this one is especially so. 
+Shadow Fiend 
+He's quite the soulful one. 
+Shadow Shaman 
+Dark magic afoot. 
+Silencer 
+Silencer. I need one of these, for when I get interrupted by sassy remarks. 
+Slardar 
+Guardian of the Sunken Treasury. 
+Slark 
+A runaway from the Dark Reef. 
+Sniper 
+Lock and load. 
+Spectre 
+Something about her strikes me as quite haunting. 
+Spirit Breaker 
+I like his beard. 
+Storm Spirit 
+First thunder, then lightning. 
+Sven 
+The solitary wanderer. 
+Templar Assassin 
+Tricky, this one. 
+Tidehunter 
+This one's a bit slippery. 
+Timbersaw 
+He's a lumberjack and that is alright. 
+Tinker 
+These tinkers are extremely dangerous, I can tell! 
+Tiny 
+A living piece of stone. He's quite sympathetic, really. 
+Treant Protector 
+I'm very fond of forests, we should get along splendidly. 
+Troll Warlord 
+Someone is about to get Trolled. 
+Undying 
+He's called Undying. If he can't die, killing him might be rather tricky. 
+Ursa 
+It's hard work, organizing time between battle and hibernation. 
+Vengeful Spirit 
+They say vengeance is a long, bitter road with two graves. 
+Venomancer 
+Interesting fact, you can use his venom to sanitise sewers. 
+Viper 
+Then an enormous snake flapping its wings appeared. 
+Visage 
+The face of death. 
+Warlock 
+Warlock. As opposed to a Peacelock. 
+Weaver 
+Hello, please don't kill me. 
+Wisp 
+They say wisps lead you to buried treasure. Or to your death. 
+Witch Doctor 
+I'm not sure if that he has an actual medical degree. 
+Zeus 
+He's on a divine quest.

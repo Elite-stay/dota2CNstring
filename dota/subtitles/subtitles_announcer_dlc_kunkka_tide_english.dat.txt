@@ -1,0 +1,398 @@
+Choose your hero. 
+Choose your hero. 
+Don't you dare pick Tidehunter. Hahah. What? Kunkka! 
+Choose your hero. 
+Choose your hero. 
+Dire's turn to pick. 
+Radiant's turn to pick. 
+Enemy's turn to pick. 
+Enemy pick on the horizon. 
+The enemy's shorthanded. Time for a pick. 
+Here comes the enemy's pick. 
+Your pick. Send out the press-gang! 
+Your turn to pick. Use it wisely. 
+Pick someone. 
+Choose your crew. Hahaha. Hope they fare better than Kunkka's! 
+The Dire get a ban! 
+Dire's ban now. 
+Radiant's turn to ban. 
+Here's the Radiant ban. 
+It's your ban, mate. 
+It's banning time. 
+Whose commission to revoke? 
+Sink a hero before the boat even launches. 
+Time to ban a salty scallywag. What did you call me? 
+Enemy ban. 
+Enemy ban. The smart choice is Kunkka. 
+It's the enemy's turn to ban. Pay attention now. 
+It's the enemy's ban. How many times can you ban Kunkka? 
+Enemy ban incoming! Maybe your favorite hero. 
+Enemy's ban now. What are they afraid of? 
+The right crew makes all the difference! 
+I wouldn't take any advice from Kunkka! 
+Ten seconds. 
+Ten seconds left by my count. 
+Five seconds remaining. 
+Five seconds. What'll it be? 
+Reserve time. 
+Tapped into reserve time. 
+Don't think so much. Just roll with it. 
+Prepare for battle! 
+Prepare to make way! Who made you captain? It's pronounced Admiral. 
+Thirty seconds to battle! 
+Ten seconds to battle! 
+The squall approaches. 
+At last, the battle begins! 
+Cast off the lines. We embark for battle! 
+Now we get to good stuff. For once, we're in agreement. 
+And we're clear for running! 
+Dire's bottom tower is under attack. 
+Dire's bottom tower won't last long. 
+Dire's bottom tower is about to flounder. 
+Dire's middle tower is under attack. 
+Dire's middle tower is under pressure. 
+Dire's middle tower is drowning. 
+Dire's top tower is under attack. 
+Dire's top tower needs some friends. Same as you, Tidehunter. 
+Dire's top tower is about to take the plunge. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower faces a stiff wind. 
+Radiant's bottom tower is staggering. Like a drunk sailor. 
+Radiant's middle tower is under attack. 
+Throw a line to Radiant's middle tower. It's sinking just like your ships! 
+Radiant's middle tower can't handle this deluge. 
+Radiant's top tower is under attack. 
+Radiant's top tower is on the rocks. 
+They're trying to bring down Radiant's top tower. 
+Your bottom tower is under attack. 
+Did you notice they're attacking your bottom tower? 
+Help your bottom tower! 
+Your middle tower is under attack. 
+They're trying to break your middle tower. 
+Your middle tower is taking a drubbing. 
+Your middle tower is under attack! 
+Your top tower is under attack. 
+Something bad is happening to your top tower. 
+Raaah! Your top tower! Use your words. 
+Dire's bottom tower has fallen. 
+Dire's bottom tower couldn't withstand the tide. 
+Dire's middle tower has fallen. 
+Dire's middle tower just got knocked down. 
+Dire's top tower has fallen. 
+Dire's top tower is gone. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower has rung its last bell. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower just keeled over. 
+Radiant's top tower has fallen. 
+Radiant's top tower just got sent to the bottom. Really, Tidehunter? 
+Your bottom tower has fallen. 
+To the depths with your bottom tower. 
+Say goodbye to your bottom tower. 
+Your middle tower has fallen. 
+Your middle tower ran afoul of some harsh fellows. 
+Your middle tower just went hard over. 
+Your top tower has fallen. 
+Give your top tower a burial at sea. 
+Your top tower just got sent to the bottom. Come up with that on your own? 
+The enemy's bottom tower has fallen. 
+There goes the enemy's bottom tower. Thar she goes? 
+The enemy's bottom tower just keeled over. 
+The enemy's middle tower has fallen. 
+The enemy's middle tower just ran aground. 
+You just smashed the enemy's middle tower. 
+Enemy's mid tower down. Another bulwark falls. 
+The enemy's top tower has fallen. 
+When did the enemy's top tower fall? Pay attention, melonhead! 
+Sing a shanty for the enemy's top tower. 
+Dire's bottom tower has been denied. 
+Those Dire swine denied their bottom tower. 
+Dire's middle tower has been denied. 
+What? Dire's middle tower was denied? 
+Dire's top tower has been denied. 
+Defiant Dire just denied their top tower. 
+Radiant's bottom tower has been denied. 
+Radiant scum denied their bottom tower. 
+Radiant's middle tower has been denied. 
+Radiant just smothered their own middle tower. 
+Radiant's top tower has been denied. 
+Radaint doused their own top tower. 
+Your bottom tower has been denied. 
+Your bottom tower just got denied. 
+Your middle tower has been denied. 
+Your middle tower just got denied. 
+Your top tower has been denied. 
+Your top tower just got denied. 
+The enemy's bottom tower has been denied. 
+The enemy's bottom tower was just denied. 
+The enemy's middle tower has been denied. 
+The enemy's middle tower was just denied. 
+The enemy's top tower has been denied. 
+The enemy's top tower was just denied. 
+Earned your grog there! 
+Slippery! 
+Will you look at that? Not if you're asking. 
+Talk about a fail boat! Ugh. Hahahaha! 
+That should've been yours! 
+You can do better than that. 
+Dire's bottom barracks are under attack. 
+They're wrecking Dire's bottom barracks. 
+By the board, Dire's bottom barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks might fall. It's a spout of violence. 
+Is this how Dire's middle barracks fall? 
+Dire's top barracks are under attack. 
+Someone should help Dire's top barracks. 
+The waves are breaking against Dire's top barracks. 
+Radiant's bottom barracks are under attack. 
+They're running full spread at Radiant's bottom barracks. 
+Radiant better raise a defense for their bottom barracks. 
+Radiant's middle barracks are under attack. 
+Radiant's middle barracks are taking water. 
+Radiant's middle barracks getting what they deserve. 
+Radiant's top barracks are under attack. 
+The tide turns against Radiant's top barracks. I was always against 'em! 
+I can't wait to see Radiant's top barracks fall. 
+Your bottom barracks are under attack! 
+Bottom barracks under attack! 
+Charting a course for defeat! That's Kunkka's specialty. 
+Your middle barracks are under attack! 
+Middle barracks under attack! 
+Are you hungry enough to win this? 
+Your top barracks are under attack! 
+Top barracks under attack! 
+When it rains, it pours. It's monsoon season! 
+Barracks don't rise again. 
+You're heading for heavy seas, mate. 
+Do something! Anything! 
+Dire's bottom barracks have fallen. 
+Dire's middle barracks have fallen. 
+Dire's top barracks have fallen. 
+Radiant's bottom barracks have fallen. 
+Radiant's middle barracks have fallen. 
+Radiant's top barracks have fallen. 
+The enemy's bottom barracks have fallen. 
+The enemy's bottom barracks just took a dip. 
+The enemy's middle barracks have fallen. 
+The enemy's middle barracks just capsized. 
+The enemy's top barracks have fallen. 
+The enemy's top barracks got caught in the crush. 
+Your bottom barracks have fallen. 
+Your bottom barracks are lost at sea. 
+Your middle barracks have fallen. 
+Your middle barracks just got liquidated. 
+Your top barracks have fallen. 
+Your top barracks were snuffed out. 
+A team that gives up their barracks earns no rum. 
+Like stabbing fish in a barrel. 
+That set their gameplan adrift. 
+Guess they got inundated. 
+They must have trained under you, Kunkka! 
+Do they even know the rules? 
+Barratry at its worst. What does that mean? 
+They're rolling over you! 
+You're sailing against the current now. 
+Nothing left but debris! 
+Flood waters rising! 
+Dire's Ancient is under attack! 
+Dire's Ancient is under attack! 
+Dire's Ancient is under attack! 
+Dire's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+Your Ancient is under attack! 
+Your Ancient is under attack! 
+Defend your Ancient! What he said! 
+This isn't how you win! Defend your Ancient! 
+Your chances are sinking faster than Kunkka's fleet. 
+This one's going right down the bilge. 
+We're nearly done here. I say when we're done, Kunkka. 
+Good thing Ancients don't scream. You surprise me, sometimes, Tidehunter. 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+The enemy now have megacreeps. 
+You now have megacreeps. 
+We might be near the bitter end. 
+Once they're done with the Ancient, we can start on Kunkka. 
+That's my kind of crew. Says Abraham the sailor. 
+Radiant's ship is into the eye of the wind. 
+This one's about to sink beneath the waves. 
+It's about time to jump ship, perhaps. Coward. 
+I'm hungry enough to eat one of those. Truly, a one-track mind. 
+Dire structures are fortified. 
+What's this? Dire fortified their structures? 
+Fortified structures can't be breached. I could! 
+Radiant structures are fortified. 
+Radiant fortified their structures. Attack the heroes? 
+Radiant think fortification can save them. Any port in a storm! 
+Radiant are scanning for enemies. 
+Are Radiant using echo location? 
+Dire are scanning for enemies. 
+Dire have the spyglass at hand. 
+Dire's top shrine is under attack. 
+Dire's bottom shrine is under attack. 
+Radiant's top shrine is under attack. 
+Radiant's bottom shrine is under attack. 
+Dire's top shrine has fallen. 
+Dire's bottom shrine has fallen. 
+Radiant's top shrine has fallen. 
+Radiant's bottom shrine has fallen. 
+Your top shrine is under attack. 
+Your top shrine is under attack. 
+Your bottom shrine is under attack. 
+Your top shrine has fallen. 
+Your bottom shrine has fallen. 
+The enemy's top shrine has fallen. 
+The enemy's bottom shrine has fallen. 
+That cup runneth empty. 
+Splish splash! 
+Now you're bound to get scurvy. 
+The sea holds no sanctuary. 
+Radiant's courier has been killed. 
+Radiant's courier just drowned in a pool of blood. 
+Dire's courier has been killed. 
+Dire's courier just went belly up. 
+Throw it in the stew! 
+It should've known better. 
+They're fishing for guppies with cannon fire. 
+I could eat one of those. 
+Swallowed up by a bigger fish. And then by me. 
+Roshan has fallen to the Dire. 
+Roshan's pit'd be a lot safer in the ocean. Can't ford an ocean! 
+Roshan falls again. Like Kunkka will! 
+Roshan has fallen to the Radiant. 
+They killed Roshan. He lives in a rough neighborhood. Time to move? 
+Roshan's dead. Stop me if you've heard this one. 
+Dire victory! 
+To the depths goes Radiant's Ancient. The sea reclaims all! 
+Dire does it! The Radiant Ancient is dead in the water. 
+Dire victory! 
+Dire victory! 
+Land ho! Radiant victory! 
+Sun's over the foreyard. Radiant win! 
+The Dire Ancient is decommissioned! Radiant take the day! 
+Don't let them dismast you! 
+Is that a mirage? 
+Douse those fires! 
+You're heading for dead water. 
+If the beacon goes out... 
+Do you like sucking bilge water? 
+What kind of skipper are you? Look who's talking. 
+Are you playing half seas over? 
+Fiddleheads! 
+This isn't a hen frigate! 
+I've seen tadpoles put up more fight. 
+Hell of a shakedown cruise. 
+Bottoms-up! 
+This ship's making water. 
+Let's just blame Kunkka for that. 
+This is dereliction of duty! 
+Did you kill an albatross or something? 
+Are you running a skeleton crew? 
+That's hogwash! 
+You're looking shipshape indeed! 
+I love the smell of ambergris in the morning. 
+Pride of the morning! 
+Give me more! 
+And no lazy jack to catch it! 
+Hahaha! They're in rough waters now. 
+Handsomely done! Yeah. Not bad for a human. 
+Let's see them ride this one out! 
+Leave them high and dry! 
+You'll get your sea legs yet! 
+Caught in the tide rip! 
+Time to forge ahead! 
+Hopes sink just like Kunkka's ships. 
+Searching for hidden treasure? 
+Those are worth more than gold. 
+Clear skies ahead! 
+Kunkka's not the only one with a spyglass. 
+Now there's a powder-packed magazine! 
+A refreshing possibility! 
+There's a gollywobbler! 
+Back from the maelstrom! 
+The watch bell is ringing! 
+Time to get your head above water. Grow some gills. 
+This game has certainly run aground. 
+Maelrawn take me, this is boring! 
+Looks like we've run against the ash breeze. It's dead calm. 
+This is like swimming in slack water. 
+You layabouts! Swab the back-head grating! 
+Maybe I'll take up beachcombing. Take me with you. 
+What's the word from the crow's nest? It's dead calm. 
+Weigh anchor, this game is on. 
+I was practicing my backstroke. 
+And we're under way. 
+I had time to find a snack. 
+Jumping ship, you traitorous dog? 
+Sea slime has more backbone than a quitter. 
+A quitter, ay? Throw him in the brig! 
+The sea hates a coward. 
+A captain should go down with the ship. My thoughts exactly! 
+Man overboard! Heave to! 
+Someone's connection just drowned. 
+Hahaha. I wreck any undersea cable I get my hands on. 
+If they're wearing a corkshirt, they'll pop up soon enough. 
+They always float to the top eventually. Just wait a minute. 
+Now is the time for diplomacy. That's rich coming from you, Kunkka. 
+Finally came up for air! 
+Welcome back, landlubber. Get any salt in your lungs? 
+All mid. 
+All mid. 
+All pick. 
+All pick. 
+All random. 
+All random. 
+Captains draft. 
+Captains draft. 
+Captains mode. 
+Captains mode. 
+Death match. 
+Death match. 
+Easy mode. 
+Easy mode. 
+Least played. 
+Least played. 
+Random draft. 
+Random draft. 
+Reverse captains mode. 
+Reverse captains mode. 
+Single draft. 
+Single draft. 
+What's the scuttle butt, anyway? 
+Who you going to put on the hook? 
+Let's narrow it down some. 
+Probably some good ones in there. 
+More like Admirals Mode! 
+Let the wind take us where she may! 
+Why's it always captains? I hate captains! 
+Where the heroes choose you. 
+Now I'M the admiral! 
+This compass must be broken. 
+How about... Tidehunter versus Kunkka. 
+For the novice captain. 
+One of three we shall see! 
+This number of choices I can handle. 
+Welcome to Dota. 
+Welcome to Dota. 
+Welcome to Dota. Time to sink or swim! 
+Welcome to Dota. Apologies in advance. For what? 
+Welcome to Dota. The most fun you can have out of water. 
+Raise the main. It's time for Dota! 
+Let's get this boat on the row. Yeah! So I can swamp it! 
+Now there's a jolly rogue! 
+Really dredging the bottom there, hmm? 
+What's this, Gyro? Gone on the account? 
+Best set a reef in the main! 
+Kunkka! 
+Go team green! 
+Ahh, the music of the sea. 
+The rogue wave himself. 
+A controversial pick! 
+I hate mines. 
+They netted Slardar into this? 
+A fine choice! 
+I'm willing to allow it. 
+Time for another go-round, Tidehunter! Bring it on, sea dog!

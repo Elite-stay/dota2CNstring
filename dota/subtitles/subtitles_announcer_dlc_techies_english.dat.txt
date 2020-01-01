@@ -1,0 +1,326 @@
+Your turn to pick. 
+Your turn to pick. 
+The enemy's turn to pick. 
+The enemy's turn to pick. 
+Their turn to pick. 
+Their turn to pick. 
+Dire team pick. 
+Dire team pick. 
+Radiant team pick. 
+Radiant team pick. 
+Your turn to ban. 
+Your turn to ban. 
+The enemy's turn to ban. 
+The enemy's turn to ban. 
+Their turn to ban. 
+Their turn to ban. 
+Dire team ban. 
+Dire team ban. 
+Radiant team ban. 
+Radiant team ban. 
+Reserve time. 
+Reserve time. 
+Pick someone. 
+Pick someone. 
+Ten seconds remamining. 
+Ten seconds remamining. 
+Five seconds remaining. 
+Five seconds remaining. 
+Your team is complete. 
+Your team is complete. 
+Their team is complete. 
+The enemy team is complete. 
+The enemy team is complete. 
+Dire's team is complete. 
+Dire team is complete. 
+Radiant team is complete. 
+Radiant team is complete. 
+Choose your hero! 
+Choose your hero! 
+Prepare for battle! 
+Prepare to battle! 
+Thirty seconds to battle. 
+Thirty seconds to battle. 
+Ten seconds to battle. 
+Ten seconds to battle. 
+The battle begins! 
+The battle begins! 
+Here comes the violence! Oh ho-ho! 
+Where'd that horn come from? 
+Oh boy oh boy! This is gonna be fun! 
+Woo! It's starting, it's starting! 
+So, you think anyone's gonna live through this? Not even one. 
+I got a lot of gold riding on this. 
+Your bottom tower is under attack. 
+Your bottom tower is under attack. 
+Your middle tower is under attack. 
+Your middle tower is under attack. 
+Your top tower is under attack. 
+Your top tower is under attack. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is under attack. 
+Dire's middle tower is under attack. 
+Dire's middle tower is under attack. 
+Dire's top tower is under attack. 
+Dire's top tower is under attack. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower is under attack. 
+Radiant's middle tower is under attack. 
+Radiant's middle tower is under attack. 
+Radiant's top tower is under attack. 
+Radiant's top tower is under attack. 
+Your bottom tower has fallen. 
+Your bottom tower has fallen. 
+Your middle tower has fallen. 
+Your middle tower has fallen. 
+Your top tower has fallen. 
+Your top tower has fallen. 
+Their bottom tower has fallen. 
+Their middle tower has fallen. 
+Their top tower has fallen. 
+The enemy's bottom tower has fallen. 
+The enemy's middle tower has fallen. 
+The enemy's top tower has fallen. 
+Dire's bottom tower has fallen. 
+Dire's middle tower has fallen. 
+Dire's top tower has fallen. 
+Radiant's bottom tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's top tower has fallen. 
+Your bottom tower has been denied. 
+Your bottom tower has been denied. 
+Your middle tower has been denied. 
+Your middle tower has been denied. 
+Your top tower has been denied. 
+Your top tower has been denied. 
+Their bottom tower has been denied. 
+Their bottom tower has been denied. 
+Their middle tower has been denied. 
+Their middle tower has been denied. 
+Their top tower has been denied. 
+Their top tower has been denied. 
+Dire's bottom tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's top tower has been denied. 
+Radiant's bottom tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's top tower has been denied. 
+Aw, what did it ever do to you? 
+Practicing on your own towers, eh? Ah ha, good idea. 
+It was really getting in the way. 
+Demolition safety starts at home. Safety? 
+Is that a failure or a success? Uh, both? 
+Well why even have it if you can't blow it up. 
+They're just doing what's best for everybody. 
+Why didn't we think of that? 
+Think it was sabotage? 
+Your bottom barracks are under attack. 
+Your bottom barracks are under attack. 
+Your middle barracks are under attack. 
+Your middle barracks are under attack. 
+Your top barracks are under attack. 
+Your top barracks are under attack. 
+Dire's bottom barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's top barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Radiant's middle barracks are under attack. 
+Radiant's top barracks are under attack. 
+Your bottom barracks have fallen. 
+Your bottom barracks have fallen. 
+Your middle barracks have fallen. 
+Your middle barracks have fallen. 
+Your top barracks have fallen. 
+Your top barracks have fallen. 
+Their bottom barracks have fallen. 
+Their middle barracks have fallen. 
+Their top barracks have fallen. 
+The enemy's bottom barracks have fallen. 
+The enemy's middle barracks have fallen. 
+The enemy's top barracks have fallen. 
+Dire's bottom barracks have fallen. 
+Dire's middle barracks have fallen. 
+Dire's top barracks have fallen. 
+Radiant's bottom barracks have fallen. 
+Radiant's middle barracks have fallen. 
+Radiant's top barracks have fallen. 
+You now have megacreeps! 
+You now have megacreeps! 
+The enemy now has megacreeps. 
+The enemy now has megacreeps. 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+And here come the demolition squads. Thought that was us. 
+Welp, it was fun while it lasted. 
+Why do they call em creeps anyway? Huh, have you ever met one? 
+Don't worry. It'll all be over soon. 
+Your ancient is under attack. 
+Your ancient is under attack. 
+Dire's ancient is under attack. 
+Dire's ancient is under attack. 
+Radiant's ancient is under attack. 
+Think the Radiant know about their ancient? 
+Radiant's ancient is under attack. 
+Dire structures are fortified. 
+The Dire have reinforced their structures. 
+Dire locked down their structures. 
+Dire structures are fortified. 
+Radiant structures are fortified. 
+Radiant structures are fireproof. 
+Looks like Radiant closed the blast doors. 
+Radiant structures are fortified. 
+Roshan has fallen to the Dire. 
+Roshan has fallen to the Dire. 
+Roshan has fallen to the Radiant. 
+Roshan has fallen to the Radiant. 
+Well, technically Roshan didn't really fall. More like imploded. 
+If I know Roshan--And you don't--he'll be back in a few minutes. 
+Mmm, cheese! 
+Wonder what Roshan ever did to them. 
+You know that trick you can only do once? They can do it twice now. 
+Dire's courier has been slain! 
+Dire's courier's gone down in flames. 
+Radiant's courier has been slain! 
+Radiant's courier was caught in the crossfire. 
+Aww. 
+It had so much left to give. And carry. 
+Somebody spent a lot of money on that thing. 
+Aren't those things endangered? 
+Dire victory! 
+Dire victory! 
+Radiant victory! 
+Radiant victory! 
+Ooo! Ahh! 
+Pretty colors. Yeah! 
+Good job! Well done! 
+You sure showed them! Showed who what? 
+How'd you like to be an honorary Techie? 
+Well, great explosion at least. 
+It's not the end of the world. Well it looks like the end of the world. 
+That gives me an idea. New bomb? Let's go! 
+Well, that was fun. You get any good data? Uh, data? 
+Huh. Nothing's exploded in minutes. I'm bored. 
+Everything seems so safe. I know, it's awful! 
+So quiet. So placid. So dull. 
+So. Yep. Uh-huh. Exactly. 
+Why aren't they doing anything? 
+Okay, what if we took 2 parts nitrate, 1 part sulfur, some potassium, a bit of brimstone, some cayenne, a pinch of thyme, oregano, basil. Um, I-I think you're just hungry. 
+Anything going on? Nah. 
+Somebody oughtta do something about that. Yeah, they really should. 
+Ah, it's not very urgent. 
+You think they know? Well, they will! 
+Better get there before the fuse goes! 
+Is it fireproof? We'll see! 
+Exciting! Quiet. 
+Cheer up! Could be worse! 
+Here we go! Here we go! 
+In-depth analysis! 
+This isn't going to end well, is it? 
+This might finally be getting out of hand. 
+It's starting to show cracks. When was the last time an inspector was here? 
+It could go at any moment. Oh boy! 
+Should they be worried? I would be. 
+Do you think they heard us? Eh, doubtful. 
+You know, it's probably fine. 
+You know what comes next, right? Explosions. 
+They'll figure something out. 
+So many flames. So much potential. 
+That's the kind of in-depth analysis you've come to expect from us. 
+They'll come around. 
+It'll be fine. 
+Careful. 
+Welp, there's always next time. Is there? 
+But that was my favorite. Ah, they're all your favorite. 
+Coulda been a lot worse. I doubt it. 
+Are those smithereens or rubble? I think technically both. 
+Well, at least the blast was pretty. Oh you would say that--I would too. 
+Well it's not all bad news. Yes it is. Oh. 
+It was nice. But it was missing something. Yeah. 
+That was bad, wasn't it? 
+We're not impressed. Well, I am. 
+This isn't looking good. Unless you like watching things blow up. 
+That ended well. Yeah, for the other guys. 
+Well, they tried. Probably. 
+They can call that one the control. 
+Well, failure is a result too. 
+I hope they learned something. 
+Coulda been worse. How? Coulda been their ancient. 
+Oh well, can't win 'em all. But you should try. 
+Why do they get to have all the fun? 
+It really brought the lane together. 
+What were they thinking? 
+Well, it's not over yet. 
+Ouch. 
+Oh well. 
+So, that happened. 
+Kaboom! 
+I give it a 4. 
+I give it a 5. 
+I give it a 6. 
+I give it a 7. 
+I guess it wasn't up to code. 
+Love it when that happens. Me too. 
+Got some good data from that! 
+Is that good? Let's say yes. 
+Now that was an explosion. 
+Good for you! Now do it again. 
+Oh this is so exciting. 
+Don't quit now! Still so many things to blow up. 
+That'll show 'em! 
+Mkhsm he he he he. Hehehehe. 
+They had that coming. Yeah. 
+Nice. 
+It's a start. 
+Yup. 
+They're not gonna take that lying down. Or breathing. 
+Well I hope they're proud of themselves. 
+Very nice! How are they ever going to follow that up? 
+Ah! That was refreshing. 
+Hehehe. Hehehehehehaha! 
+Keep it up. 
+Ooo! Crumbly! 
+Look at all those pieces. 
+Took em long enough. 
+Top is missing! 
+Top is missing! 
+Middle is missing! 
+Middle is missing! 
+Bottom is missing! 
+Bottom is missing! 
+Ooo! Someone has good taste! 
+I knew we'd be picked! No you didn't. 
+Huh! Someone's picked us. They'll never live to regret it. 
+Huh! We're on? Grab the mines, we're on! 
+Welcome to Dota! 
+Welcome to Dota! 
+Oh ho ho! I can't wait to see this! Me neither. 
+Oh it's you again. 
+So, who's gonna blow up today? 
+Welcome back. 
+All pick! 
+All pick! 
+Who's it gonna be? 
+Who's it gonna be? 
+Get to it! 
+Get to it! 
+Mid Only. 
+Mid Only. 
+Least Played. 
+Least Played. 
+All Random. 
+All Random. 
+Captain's Draft. 
+Captain's Draft. 
+Captain's Mode. 
+Captain's Mode. 
+Reverse Captain's Mode. 
+Reverse Captain's Mode. 
+Death Match. 
+Death Match. 
+Easy Mode. 
+Easy Mode. 
+Random Draft. 
+Random Draft. 
+Single Draft. 
+Single Draft. 
+Ooo!

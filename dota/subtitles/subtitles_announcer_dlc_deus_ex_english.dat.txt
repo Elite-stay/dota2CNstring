@@ -1,0 +1,756 @@
+Your turn. 
+Pick a hero. 
+Their turn. 
+Their pick. 
+Your ban. 
+Ban someone. 
+Their ban. 
+Their turn to ban. 
+Dire's pick. 
+Dire's choice. 
+Radiant's pick. 
+Radiant's choice. 
+Dire's ban. 
+Dire's turn to ban. 
+Radiant's ban. 
+Radiant's turn to ban. 
+Ten seconds remaining. 
+Ten seconds left. 
+Five seconds remaining. 
+Five seconds, boss. 
+Reserve time. 
+You're using reserve time. 
+Extra time. 
+You're using extra time. 
+Choose a hero. 
+Make the choice. 
+Take your pick. 
+Time to choose. 
+Team complete. 
+Interesting combo you've got there. 
+We're ready. 
+Heck of a team. 
+Let's see how it plays out. 
+You might actually have a chance. 
+I hope you're ready for this, boss. 
+Get ready. 
+Everyone know who's top? 
+*Don't* play like last time. Just watching the replay was embarrassing. 
+Someone's got the pre-fight jitters. 
+Remember: dancing makes you invulnerable. 
+Done your warm-up stretches, boss? 
+Thirty seconds to battle. 
+T-minus thirty seconds. 
+Thirty seconds 'til go time. 
+Ten seconds to battle. 
+T-minus ten seconds. 
+Ten, nine, eight, seven, six, five, four, three, two, one! 
+Everyone ready to win? 
+You got this! 
+Bring it on! 
+May the best team win. 
+Stick to the plan! 
+Watch your flanks! 
+Take 'em down! 
+Nothing could possibly go wrong. 
+Everyone for themselves, huh? 
+Go! 
+Get moving! 
+Get out there! 
+Kick some ass! 
+Move! 
+Get to position! 
+Your top tower's under attack. 
+Your top tower's in trouble. 
+Protect your top tower! 
+Your middle tower's under attack. 
+Protect your middle tower! 
+Your middle tower's in trouble. 
+Your bottom tower's under attack. 
+Protect your bottom tower! 
+You bottom tower's in trouble. 
+Radiant's top tower is under attack. 
+Radiant's top tower is in trouble. 
+Radiant's top tower isn't looking so great. 
+Radiant's middle tower is under attack. 
+Radiant's middle tower is in trouble. 
+Radiant's middle tower isn't looking so great. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower is in trouble. 
+Radiant's bottom tower isn't looking so great. 
+Dire's top tower is under attack. 
+Dire's top tower isn't looking so great. 
+Dire's top tower is in trouble. 
+Dire's middle tower is under attack. 
+Dire's middle tower isn't looking so great. 
+Dire's middle tower is in trouble. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is in trouble. 
+Dire's bottom tower isn't looking so great. 
+Your top tower's gone. 
+Your top tower's down, boss. 
+You've lost your top tower. 
+Your middle tower's gone. 
+You've lost your middle tower. 
+Your middle tower can't help you anymore. 
+Your bottom tower's gone. 
+Your bottom tower is dust and ash. 
+You've lost your bottom tower. 
+The enemy's top tower is gone. 
+The enemy's top tower just got destroyed. 
+The enemy's top tower just got un-denied. 
+The enemy's middle tower is gone. 
+The enemy's middle tower has given up on life. 
+The enemy's middle tower just got destroyed. 
+The enemy's bottom tower is gone. 
+The enemy's bottom tower just got destroyed. 
+The enemy's bottom tower has been neutralized. 
+Radiant's top tower is gone. 
+Radiant's top tower is rubble. 
+Radiant's lost their top tower. 
+Radiant's middle tower is gone. 
+Radiant's middle tower is down for the count. 
+Radiant's lost their middle tower. 
+Radiant's bottom tower is gone. 
+Radiant's bottom tower's suffered a minor setback. 
+Radiant's lost their bottom tower. 
+Dire's top tower is gone. 
+The Dire're falling back from their tower up top. 
+Dire's lost their top tower. 
+Dire's middle tower is gone. 
+Dire's lost their middle tower. 
+Middle tower's down on Dire's side. 
+Dire's bottom tower is gone. 
+Dire's lost their bottom tower. 
+Bad call by the Dire in bot. Their tower's gone. 
+Your top tower's been denied. 
+Your top tower's been denied. Jerk. 
+And just like that, you nuked your own top tower. 
+Your middle tower's been denied. 
+Your middle tower's down, but at least it got denied. 
+Mid's been denied, boss. 
+Your bottom tower's been denied. 
+Your bottom tower just got denied. 
+Bot's been denied. Good job. 
+The enemy's top tower just got denied. 
+The enemy just denied their top tower. 
+Enemy top just got denied. Dammit! 
+The enemy's middle tower just got denied. 
+The enemy just denied their middle tower. 
+The enemy just nuked their own middle tower. 
+The enemy's bottom tower just got denied. 
+The enemy just denied their bottom tower. 
+The enemy's bottom tower has been denied, boss. 
+Radiant's top tower just got denied. 
+Radiant's top tower just got denied. I hate that. 
+Radiant's denied their top tower. 
+Radiant's middle tower just got denied. 
+Radiant's denied their middle tower. 
+Radiant just demolished their own middle tower. 
+Radiant's bottom tower just got denied. 
+Radiant's denied their bottom tower. 
+Radiant just destroyed their own bottom tower. 
+Dire's top tower just got denied. 
+Dire's denied their top tower. 
+Dire just nuked their own top tower. 
+Dire's middle tower just got denied. 
+Dire's denied their middle tower. 
+Dire just destroyed their own middle tower. Classy. 
+Dire's bottom tower just got denied. 
+Dire's denied their bottom tower. 
+Dire's sacrified their own bottom tower. 
+Bet someone thinks they're pretty pro. 
+Good timing. 
+Strategic. I like it. 
+You're just gonna have to hit harder. 
+Jerks. 
+You can't let that happen again. 
+Your top barracks are under attack. 
+Protect your top barracks! 
+Your top rax are in trouble. 
+Your middle barracks are under attack. 
+Protect your middle barracks! 
+Your mid rax are in trouble. 
+Your bottom barracks are under attack. 
+Your bottom rax are in trouble. 
+Protect your bottom rax! 
+Radiant's top barracks are under attack. 
+Radiant's top barracks are in trouble. 
+Radiant's top barracks are going down. 
+Radiant's middle barracks are under attack. 
+Radiant's middle barracks are going down. 
+Radiant's middle barracks are in trouble. 
+Radiant's bottom barracks are under attack. 
+Radiant's bottom barracks are in trouble. 
+Radiant's bottom barracks are going down. 
+Dire's top barracks are under attack. 
+Dire's top barracks are going down. 
+Dire's top barracks are in trouble. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks are in trouble. 
+Dire's middle barracks are going down. 
+Dire's bottom barracks are under attack. 
+Dire's bottom barracks are going down. 
+Dire's bottom barracks are in trouble. 
+Your top barracks are gone. 
+You've lost your top rax. 
+Guess you couldn't save your top rax from that one. 
+Your middle barracks are gone. 
+Your middle barracks just got nuked. 
+You've lost your middle rax. 
+Your bottom barracks are gone. 
+Your bottom rax just learned a tough life lesson. 
+You've lost your bottom rax. 
+The enemy's top barracks are gone. 
+The enemy's top rax won't be hurting anyone anymore. 
+The enemy's top rax are down. 
+The enemy's middle barracks are gone. 
+The enemy's middle rax are down. 
+The enemy's middle rax just got nuked. 
+The enemy's bottom barracks are gone. 
+The enemy's bottom rax are down. 
+The enemy's bottom rax decided to call it quits. 
+Radiant's top barracks are gone. 
+Radiant's lost their top rax. 
+Radiant's top rax just got nuked. 
+Radiant's middle barracks are gone. 
+Radiant'll need all the luck they can get without their middle rax. 
+Radiant's lost their middle rax. 
+Radiant's bottom barracks are gone. 
+Radiant's lost their bottom rax. 
+Bottom barracks are down on Radiant's side. 
+Dire's top barracks are gone. 
+Dire's top barracks are nothing but rubble. 
+Dire's lost their top rax. 
+Dire's middle barracks are gone. 
+Dire's lost their middle rax. 
+Dire's middle rax are down. It's not looking good. 
+Dire's bottom barracks are gone. 
+Dire's lost their bottom rax. 
+Dire's bottom rax are dust. 
+Your Ancient is under attack. 
+Your Ancient is really taking a beating. 
+You might want to check on your Ancient. 
+Your Ancient is under attack! 
+You need to protect your Ancient! 
+Radiant's Ancient is under attack. 
+The Radiant need to defend their Ancient. 
+Radiant's Ancient won't last much longer. 
+Dire's Ancient is under attack. 
+Dire's Ancient isn't going to last much longer. 
+The Dire really need to defend their Ancient. 
+You might want to get some backup over there. 
+Buyback, teleport back, whatever! Just defend! 
+Everyone drop what they're doing and defend! 
+Looks like it's all over but the complaining. 
+I'm betting on a recovery of 'slim to none.' 
+Still think they're going to turn this one around? 
+And - commence team-blaming! Go! 
+You've got megacreeps. 
+Your team is spawning megacreeps. 
+Those megacreeps are all yours. 
+The enemy has megacreeps. 
+Megacreeps for the enemy. 
+The enemy's spawning megacreeps. 
+The Dire has megacreeps. 
+Dire's spawning megacreeps. 
+Megacreeps for the Dire. 
+The Radiant has megacreeps. 
+Radiant's spawning megacreeps. 
+Megacreeps for the Radiant. 
+That'll speed things up. 
+It sounds like something your doctor would say. 
+The Dire've killed Roshan. 
+Roshan's been taken out by the Dire. 
+Roshan's down. Dire's kill. 
+The Dire have ended Roshan. 
+The Dire have killed Roshan. Again. Guy can't take a hint. 
+The Radiant just killed Roshan. 
+Roshan's been taken out by the Radiant. 
+Roshan's down. Radiant's kill. 
+The Radiant have ended Roshan. 
+The Radiant have killed Roshan again. That just seems unnecessary. 
+Dying a little too inconvenient for you? 
+It's no Proenergy Bar, but it'll do. 
+What, you gotta steal his lunch, too? 
+Are you sure you want to eat that? 
+That should speed things up. The Dire just killed Roshan. 
+Radiant'll want to play it safe. The Dire just killed Roshan. 
+This should be interesting. The Radiant just killed Roshan. 
+I hope the Dire've got a good defence strategy. The Radiant've killed Roshan. 
+Giant monster drops a human-sized shield. Makes sense. 
+Dire buildings are fortified. 
+Now's not a good time to attack the Dire. 
+Temporary invulnerability, Dire side. 
+Dire's fortified their buildings. 
+Dire structures are fortified. 
+Radiant buildings are fortified. 
+Radiant's fortified their buildings. 
+The Radiant've bought their buildings a little more time. 
+Temporary invulnerability, Radiant side. 
+Radiant structures are fortified. 
+Dire's courier is down. 
+The Radiant have killed Dire's courier. 
+Dire's courier just got put down. 
+Courier's down. Dire side. 
+Radiant's courier is down, boss. 
+The Dire have killed Radiant's courier. 
+Radiant's courier just got put down. 
+Courier's down. Radiant side. 
+Poor little guy. 
+Just like Kubrick. <sigh> Gimme a minute. 
+Who lets an animal wander around a battlefield? 
+Dire wins. 
+This match goes to the Dire. 
+Dire victory. 
+Radiant... I mean *Dire* victory. 
+Looks like the Dire are actually as good as they say. 
+Radiant wins. 
+This match goes to the Radiant. 
+Radiant victory. 
+Yeah, I'm gonna call that one Radiant's win. 
+Great, the Radiant have something *else* to brag about. 
+Congratulations. 
+That was some nice teamwork. 
+Good game. Well played. 
+Looks like I owe Pritchard 20 credits. 
+And *that's* how you win Dota! 
+I really didn't think you were gonna pull it off. 
+I guess you do actually know what you're doing. 
+Good for you. 
+I am actually kind of impressed. 
+That could've gone worse. 
+Victory. 
+Couldn't have done it better myself. Probably. 
+Hey, you did it. 
+Good job, boss. 
+Was that your A-game, boss? 
+I'm sure that was just a warm-up round. 
+You can scratch that build off the list. 
+Lesson learned, right? 
+It's just like any sport. You gotta do the hard yards to get where you wanna be. 
+You can't win 'em all. Really. 
+Well boss, good job. 
+I can't say I'm surprised. 
+Well, that was something. 
+One more match. Come on. Just one more. 
+You paid how much for that? 
+Does it come in a different color? 
+Shiny. 
+Okay. If you're sure. 
+Nice choice. 
+Now if you get ganked you've got no one to blame but yourself. 
+Visibility. Good idea. 
+Magic security camera. Nice. 
+Make 'em count. 
+Ward away, boss. 
+Nice choice! 
+Great. Now we match. 
+Just be careful around civilians, all right? No reason. 
+Hey, look at that. How's it going, little guy? 
+Are you sure you want to put a helpless animal in harm's way? 
+He's got little saddlebags and everything! 
+Who's the cutest courier? 
+Animal slave. Good choice. 
+Now he has *wings*? 
+This little guy just keeps getting better! 
+Maybe now he can outrun all the people who want to kill him! 
+Energizing. 
+That'll save on chocolate bars. 
+That's not so much levelling the playing field as it is ripping it up. 
+You don't need that. You'll ruin the surprise. 
+How would *you* feel if someone could see *you* all the time? 
+What a shame. 
+That your idea of a fair fight? 
+You planning on doing that often? 
+Get back out there! 
+Got all your gear? 
+You got this. 
+Welcome back. 
+Try not to die so fast this time. 
+Good to go? 
+Your team's counting on you. No pressure. 
+I've never liked the idea of coming back from the dead. 
+No offense, but the sound you make when you die is pretty hilarious. 
+That's gotta get old pretty fast. 
+Should I start assigning you version numbers? 
+I'm sure this time it'll go a lot better. 
+Finally. 
+Try not to think about it. 
+Walk it off. 
+That looked painful. 
+How many times is that now? 
+You want to tag me in? 
+Some people just can't take the pressure of e-sports. 
+And everything was going so well. 
+They'll be back. 
+That's not going to affect teamfights at all. 
+Don't worry. Pritchard's already on it. 
+Cavalry's here. 
+Easy win just got denied. 
+Welcome back. 
+There we go. 
+Finally. 
+Later, boss. 
+'Til next time. 
+See you 'round. 
+Right. Bye. 
+Leaving so soon? 
+All right, let's do this. 
+Good to go. 
+Get out there and win this thing! 
+I can see why you like this game so much. 
+You know I get paid by the hour, right? 
+Come get me when the action happens. 
+You stay here, I'll go back to saving the world. 
+I can hardly contain my excitement. 
+This is what you do for fun? 
+Thrilling. 
+Exciting. 
+Start the game already! 
+Become a Dota Announcer, they said. 'It'll be fun, Adam!' 
+This is like one of those arthouse films Pritchard is always trying to get me to watch. 
+Hey, boss? You there? Boss? 
+Dota 2: Pacifist Edition. 
+So... You come here often? 
+Is this really the best use of your time? 
+I'm glad we could all experience this together. As a team. 
+Where's the Illuminati when you need some chaos? 
+Here, Kubrick 2! Here, boy! <dog panting> 
+Are you trying to starve out the other team? 
+How about I call in Malik to carpet-bomb mid? 
+That's the spirit. 
+G.L.H.F. to you, too. 
+Honorable. I like it. 
+Mid's MIA. Just kidding. 
+Ward. Ward everywhere. 
+Everyone has to start somewhere. 
+Don't be like that. 
+Name-calling won't help you play better. 
+Get back! 
+Move! 
+Back it up! 
+Move it! 
+Get out of there! 
+It's not your private canvas. 
+Hey, that's pretty good. 
+Good job. 
+I'm pretty sure that wasn't in the plan. 
+Teamwork, huh? 
+That was terrible. 
+That went well. 
+You meant to for that to happen, right? 
+Whoops. 
+So... Are you winning now? 
+Just... Give me a minute. <muffled laughter> Sorry. 
+All part of your 'master plan'? 
+There are plenty more plays to come. 
+Damn. 
+That was unexpected. 
+Time to regroup. 
+Come on! 
+Probably don't let that happen again. 
+Get out there and make them regret it. 
+Just think about returning the favor. 
+Nice going. 
+Impressive. 
+Good work. 
+Keep it up. 
+Nice teamwork. 
+Now we know who's M.V.P. 
+Great. 
+Nice play, boss. 
+Keep the momentum going. 
+You might actually be able to win this thing. 
+I think I'm gonna lose my bet. 
+Nice. 
+That could've gone worse. 
+Not bad. 
+I can tell you've done this before. 
+That went better than I expected. 
+Good job. 
+That was pretty good. 
+Hey, nice. 
+Top's missing. 
+Top's gone MIA. 
+Top is planning something. 
+Mid's missing. 
+Mid is MIA. 
+Hey, where's mid? 
+Bot's missing. 
+We're missing bot. 
+Bottom lane is MIA. 
+I never asked yada yada yada. 
+I never... something something. 
+I never... Uh, I don't know how that goes. 
+One verse one solo mid. 
+You two trying to settle a bet or something? 
+Ability draft. 
+Weird ability vampire mode. 
+All pick. 
+Talk about paralysis of choice. 
+All random. 
+You're gonna get what you're gonna get. 
+All random death match. 
+All random death match. This should be fun. 
+Captain's draft. 
+Race-to-click-the-button mode. 
+Captain's mode. 
+I hope you know what you're doing. 
+Death match. 
+Death match. My favourite. 
+Easy mode. 
+Nothing-like-real-Dota mode. 
+Least played. 
+Looking for a challenge, or just hoping everyone else is gonna feed? 
+Limited heroes. 
+Practice mode. 
+Mid only. 
+Teamfight mode. 
+This one's outside my protocols. 
+Yeah, I got nothing. 
+Random draft. 
+Hope-the-RNG-is-merciful mode. 
+Reverse draft. 
+Pick-the-worst-heroes mode. 
+Single draft. 
+I-hate-choice mode. 
+Welcome to Dota. 
+Welcome back, boss. 
+Hey. Good to see you. 
+Let's get this party started. 
+Great! Now we just need four more. 
+Morning, boss. 
+Nothing like a round of Dota to start the day off right. 
+Coffee? Check. Dota? Check. Looks like you're all set. 
+Afternoon, boss. 
+Dota: one. Responsibilities: zero. 
+Nothing like an afternoon Dota game to wake you up. 
+Evening, boss. 
+Time for a nice, stress-free game of Dota. 
+Nothing like playing Dota to get you ready to fall asleep. 
+You're sure you wouldn't rather be sleeping? 
+Do you always play this late at night? 
+<yawns> Eveni... Morning, boss. 
+Ancient Apparition. 
+Half the man he used to be. 
+Abaddon. 
+Did I say that right? 
+Alchemist. 
+So... What's the other guy called? 
+Anti-Mage. 
+Sword beats magic missile. 
+Winter Wyvern. 
+Nothing quite like a worm with wings. 
+Axe. 
+One of a kind. 
+Bane. 
+Of dentists. 
+Batrider. 
+It's no VTOL. 
+Beastmaster. 
+Tames his friends! Wears his enemies. 
+Bloodseeker. 
+Seeker... of blood. 
+Bounty Hunter. 
+Gondar? Your name is *Gondar*? 
+Brewmaster. 
+That cat throws one hell of a keg party. 
+Bristleback. 
+Yeah, I can see why they call him that. 
+Broodmother. 
+You don't want to wake up to see that on the wall. 
+Centaur Warrunner. 
+Clydesdale edition. 
+Chaos Knight. 
+The friendliest guy in town. 
+Chen. 
+Hey. Nice hat. 
+Clinkz. 
+The walking death metal album cover. 
+Clockwerk. 
+Too close to home. 
+Crystal Maiden. 
+Ice pick, boss. 
+Dark Seer. 
+Amazing. 
+Dazzle. 
+Do you call him that to his face? 
+Disruptor. 
+Of conversations. 
+Dragon Knight. 
+Is it a knight dreaming he's a dragon, or a dragon dreaming he's a knight? 
+Doom. 
+That one's pretty self-explanatory. 
+Death Prophet. 
+Prophet of and/or in service of death. 
+Drow Ranger. 
+The strong, silent type. 
+Earth Spirit. 
+Gaia's getting even. 
+Elder Titan. 
+I've seen older. 
+Ember Spirit. 
+No rest for the learned. 
+Enchantress. 
+Jeez, tone it down, Aiushtha. 
+Enigma. 
+Seems like we both know a thing or two about the singularity. 
+Earthshaker. 
+The great leveller. 
+I think I just got a preview of this week's nightmares. 
+Gyrocopter. 
+There's no way that thing's up to code. 
+Huskar. 
+A mere husk of what he once was. 
+Invoker. 
+Disco king of Dota 2. 
+Io. 
+Eye-oh? 
+Jakiro. 
+Keeps hot things hot and cold things cold. 
+Juggernaut. 
+Unstoppable. 
+Keeper of the Light. 
+Illuminating. 
+Kunkka. 
+Admirable. 
+Legion Commander. 
+Never trust a carry. 
+Leshrac. 
+Most colorful of the nihilists. 
+Lich. 
+Terror from the depths. 
+Lifestealer. 
+Not great at parties. 
+Lina. 
+All fired up. 
+Lion. 
+Cheating, stealing... 
+Lone Druid. 
+There's a bear in there. 
+Luna. 
+Nova! Long time no see! 
+Lycan. 
+He looks hungry. 
+Magnus. 
+Carries his own ivory tower. 
+Medusa. 
+Fourteen eyes are better than two. 
+Meepo. 
+The littlest Geomancer. 
+Mirana. 
+How's it going, Sagan? 
+Morphling. 
+Water you know. 
+Naga Siren. 
+Fisherman's nightmare. 
+Necrophos. 
+Cardinal of carnage. 
+Nature's Prophet. 
+Dwells among the untrodden ways. 
+Night Stalker. 
+Wow. Nope. Nuh uh. 
+Nyx Assassin. 
+He's not exactly inconspicuous. 
+Outworld Devourer. 
+Demolisher. Destroyer! 
+Ogre Magi. 
+Two halves don't necessarily make a whole. 
+Omniknight. 
+Omni... directional? 
+Oracle. 
+Nice astrolabe. 
+Phantom Assassin. 
+Cryptography's got nothing on the Sisters. 
+Phoenix. 
+Foe... ee... nix? 
+Phantom Lancer. 
+The definition of multiplicity. 
+Puck. 
+Do people hit it with a stick? 
+Pudge. 
+Thank you, Doctor Marcovic! 
+Pugna. 
+Of the Nether Regions. Uh, Reaches. Sorry. 
+Queen of Pain. 
+Akasha. How've you been? 
+Razor. 
+Seems simple enough. 
+Riki. 
+Smells exactly like he looks. 
+Rubick. 
+Master thief. 
+Sand King. 
+Scintillating. 
+Shadow Demon. 
+What's worse: a demon or a fiend? 
+Shadow Fiend. 
+So *this* is what that raven was talking about. 
+Shadow Shaman. 
+Sure is short. 
+Silencer. 
+But not the pistol kind. 
+Skywrath Mage. 
+Watch out for the Icarus Effect. 
+Slardar. 
+His name sounds like he looks. 
+Slark. 
+Slithering... shark? 
+Sniper. 
+Camper. 
+Spectre. 
+Haunting. 
+Spirit Breaker. 
+Yeah. That'll work. 
+Storm Spirit. 
+No pressure. 
+Sven. 
+The mask of the blue death. 
+Templar Assassin. 
+Some things are better left unknown. 
+Techies. 
+I wonder if they know anything about those lemons. 
+Terrorblade. 
+The world is his mirror. 
+Tidehunter. 
+Titanic. 
+Timbersaw. 
+Timber did. 
+Tinker. 
+Part man, part machine. I can relate. 
+Tiny. 
+Not exactly as advertised. 
+Treant Protector. 
+Tell me he never buys Tango. 
+Troll Warlord. 
+I hear you shouldn't feed him. 
+Tusk. 
+... s. Plural. 
+Undying. 
+Comes with his own theme music. 
+Ursa. 
+Major or minor? 
+Venomancer. 
+He's got a toxic personality. 
+Viper. 
+Chrysopelea? 
+Visage. 
+Seems familiar. 
+Vengeful Spirit. 
+Sometimes life just brings you down. 
+Warlock. 
+Golem sold seperately. 
+Witch Doctor. 
+This doctor? 
+Weaver. 
+Probably his own grandfather. 
+Wraith King. 
+Stunning. 
+Windranger. 
+Lyralei. Good to see you. 
+Zeus. 
+Shocking. 
+I have no idea. 
+Random stranger. 
+Someone I've never seen before.

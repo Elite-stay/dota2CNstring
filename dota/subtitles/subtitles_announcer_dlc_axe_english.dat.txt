@@ -1,0 +1,290 @@
+Welcome to Dota! 
+Choose your hero. 
+Your turn to pick. 
+Enemy's turn to pick. 
+Dire team pick. 
+Radiant team pick. 
+Your turn to ban. 
+Enemy's turn to ban. 
+Dire team ban. 
+Radiant team ban. 
+Radiant's team is complete. 
+Your team is complete. 
+Dire's team is complete. 
+Ten seconds remaining. 
+Five seconds remaining. 
+Reserve time. 
+Thirty seconds to battle. 
+Ten seconds to battle. 
+Prepare for battle! 
+If you want peace, you must prepare for war. If you want war, you must also prepare for war. The lesson is: always prepare for war. 
+The battle begins! 
+Your ancient is under attack. 
+Your ancient is under attack. 
+Listen to Axe: Your ancient needs protection. 
+Radiant's ancient is under attack. 
+Radiant's ancient is under attack. 
+Axe cannot help but notice that Radiant's ancient is under attack. 
+Dire's ancient is under attack. 
+Dire's ancient is under attack. 
+Axe speaks true: Dire's Ancient is under attack. 
+Radiant's top tower is under attack. 
+Radiant's top tower is under attack. 
+Axe observes carnage underway at Radiant's top tower. 
+Radiant's middle tower is under attack. 
+Radiant's middle tower is under attack. 
+The red mist spreads at Radiant's middle tower. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower is under attack. 
+War has come to Radiant's bottom tower. 
+Dire's top tower is under attack. 
+Dire's top tower is under attack. 
+Much like cordwood before Axe's axe, Dire's top tower is under attax. 
+Dire's middle tower is under attack. 
+Dire's middle tower is under attack. 
+Dire's middle tower is not what it used to be, that is for certain. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is taking many wounds. 
+Your top tower is under attack. 
+Your top tower is under attack. 
+Your top tower is being hacked to pieces. 
+Your middle tower is under attack. 
+Your middle tower is under attack. 
+The enemy has a bone to pick with our middle tower. 
+Your bottom tower is under attack. 
+Your bottom tower is under attack. 
+Axe is glad that your bottom tower is not Axe's problem. 
+Your top tower has fallen. 
+Your top tower has fallen. 
+Much like Axe's opinion of you, your top tower has fallen. 
+Your middle tower has fallen. 
+Your middle tower has fallen. 
+Axe would shed a tear for your middle tower, but Axe does not cry. 
+Your bottom tower has fallen. 
+Your bottom tower has fallen. 
+Axe has seen ruins that look better than your bottom tower. 
+Radiant's top tower has fallen. 
+Radiant's top tower has fallen. 
+Radian'ts top tower has fallen. If Axe was a tower, he would never fall. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower has fallen. 
+As Radiant's middle tower falls, Axe's middle finger rises. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower has been laid low. 
+Dire's top tower has fallen. 
+Dire's top tower has fallen. 
+Heaven or Hell, Dire's top tower is in one of them. 
+Dire's middle tower has fallen. 
+Dire's middle tower has fallen. 
+If Dire's middle tower was worth a damn, it would still be standing. 
+Dire's bottom tower has fallen. 
+Dire's bottom tower has fallen. 
+Dire's bottom tower is facedown in the dirt. 
+Radiant found weakness in Dire's bottom tower: It turns out if you hit it enough, it will fall. 
+The enemy's top tower has fallen. 
+The enemy's top tower has fallen. 
+The enemy's top tower has capitulated to superior force. Axe brought his thesaurus! Ha ha! 
+The enemy's middle tower has fallen. 
+The enemy's middle tower has fallen. 
+The enemy's middle tower has surrendered. To gravity. 
+The enemy's bottom tower has fallen. 
+The enemy's bottom tower has fallen. 
+You broke the enemy's bottom tower. Axe approves! 
+Your top barracks are under attack. 
+Your top barracks are under attack. 
+Axe wishes Axe could defend your top rax. 
+Your middle barracks are under attack. 
+Your middle barracks are under attack. 
+Explain to Axe, why are your m iddle barracks standing there undefended? 
+Your bottom barracks are under attack. 
+Your bottom barracks are under attack. 
+Your peacenik bottom barracks refuse to defend themselves. 
+Radiant's top barracks are under attack. 
+Radiant's top barracks are under attack. 
+Helpless sounds of begging are coming from Radiant's top barracks. 
+Radiant's middle barracks are under attack. 
+Radiant's middle barracks are under attack. 
+Axe would never whine like Radiant's middle barracks. 
+Radiant's bottom barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Radiant's bottom barracks are bearing up stoically in the face of an assault. 
+Radiant's bottom barracks are begging for their lives. 
+Dire's top barracks are under attack. 
+Dire's top barracks are under attack. 
+Dire's top barracks are learning the business of war. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks are under attack. 
+War has been declared on Dire's middle barracks. 
+Dire's bottom barracks are under attack. 
+Dire's bottom barracks are under attack. 
+Lake many a barrack before it, Dire's bottom barracks are under attack. 
+Your top barracks have fallen. 
+Your top barracks have fallen. 
+Your top barracks have failed you. Curse your top barracks. 
+Look at your rax. Now look at Axe. Only one of us is still standing. 
+Your middle barracks have fallen. 
+Your middle barracks have fallen. 
+Your mid racks have failed you. 
+Your bottom barracks have fallen. 
+Your bottom barracks have fallen. 
+Your bottom barracks died badly. 
+Radiant's top barracks have fallen. 
+Radiant's top barracks have fallen. 
+No more top barracks for the Radiant. 
+Radiant's middle barracks have fallen. 
+Radiant's middle barracks have fallen. 
+Radiant's middle barracks have fallen. Pity. They were nice racks. 
+Radiant's bottom barracks have fallen. 
+Radiant's bottom barracks have fallen. 
+Not to pick sides, but Axe's favorite Radiant bottom barracks have fallen. Aw. 
+Dire's top barracks have fallen. 
+Dire's top barracks have fallen. 
+Like Axe, Dire's top barracks have learned the hard way that life is unfair. 
+Dire's middle barracks have fallen. 
+Dire's middle barracks have fallen. 
+Unlike Axe, ever, Dire's middle barracks have fallen. 
+Dire's bottom barracks have fallen. 
+Dire's bottom barracks have fallen. 
+If Axe was a barracks, he would never fall like Dire's bottom. Barracks. 
+The enemy's top barracks have fallen. 
+The enemy's top barracks have fallen. 
+The enemy's top barracks have been abolished. 
+The enemy's middle barracks have fallen. 
+The enemy's middle barracks have fallen. 
+The enemy's middle barracks make a nice pile of rubble. 
+The enemy's bottom barracks have fallen. 
+The enemy's bottom barracks have fallen. 
+The enemy has had their bottom barracks handed to them. 
+Your top tower has been denied. 
+Your top tower has been denied. 
+You took an axe to your top tower? Why did you not ask Axe? 
+Your middle tower has been denied. 
+Your middle tower has been denied. 
+Your middle tower was savagely betrayed. 
+Your bottom tower has been denied. 
+Your bottom tower has been denied. 
+Such bottom tower betrayal does not sit well with Axe. 
+The enemy's top tower has been denied. 
+The enemy's top tower has been denied. 
+The enemy killed their own top tower. That is dedication. 
+The enemy's middle tower has been denied. 
+The enemy's middle tower has been denied. 
+Axe marks the spot where the enemy's middle tower was denied. 
+The enemy's bottom tower has been denied. 
+The enemy's bottom tower has been denied. 
+It is a pathetic foe that denies its own bottom tower. 
+Radiant's top tower has been denied. 
+Radiant's top tower has been denied. 
+Axe did NOT just see Radiant deny its top tower. 
+Radiant's middle tower has been denied. 
+Radiant's middle tower has been denied. 
+Axe could lie about Radiant denying its middle tower, but no one would believe Axe. 
+Radiant's bottom tower has been denied. 
+Radiant's bottom tower has been denied. 
+Radiant has just won the battle to destroy its bottom tower. 
+Dire's top tower has been denied. 
+Dire's top tower has been denied. 
+As if to spite Axe, Dire has denied its top tower. 
+Dire's top tower has been denied. In days of yore we used to call that make-out tower. Aw. 
+Dire's middle tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's middle tower has failed them for the last time. 
+Dire's middle tower has sacrificed itself. Apology accepted. 
+Dire's bottom tower has been denied. 
+Dire's bottom tower has been denied. 
+Dire's bottom tower is a disappointment to the Dire no longer. 
+Dire's structures are fortified. 
+Like Axe, the Dire's structures cannot be hurt. 
+Dire's structures can take all the hurt Radiant cares to heap upon it. 
+Dire's structures are fortified. Super, super fortified. Like, you can't even imagine. 
+Radiant's structures are fortified. 
+Puny Radiant hides behind their fortifications. 
+Radiant's towers are fortified. Just like Axe. 
+Radiant's structures are fortified with twelve important vitamins and minerals. 
+Dire's courier has been slain. 
+Dire's courier has been slain. 
+Axe's heart goes out to Dire's courier. 
+Dire's courier shall carry no more. 
+Radiant's courier has been slain. 
+Radiant's courier has been slain. 
+Axe sheds a tear for Radiant's courier. Metaphorically speaking. Axe does not actually cry. 
+Axe does not believe in killing innocent couriers. Killing courtiers is fine though. 
+Even couriers are not safe! Now this is a battle! 
+There fell Stumpy, sad to say. Axe made Stumpy what he is today! 
+You now have megacreeps. 
+You now have megacreeps. 
+The enemy now has megacreeps. 
+The enemy now has megacreeps. 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+Roshan has fallen to the Dire! 
+Roshan has fallen to the Dire! 
+Axe is impressed. Roshan was a worthy foe. 
+The Dire have cut Roshan down into little pieces. 
+Roshan and the Dire never did get along. 
+Roshan has fallen to the Radiant! 
+Roshan has fallen to the Radiant! 
+The Radiant dislike Roshan very much. 
+The Radiant now pick through Roshan's bones for shiny objects. 
+Axe dreams about Roshan sometimes. Axe wakes sweating in the dark, clutching for his axe, a scream rising in his throat and... Never mind. 
+Dire victory! 
+Axe awards the victory honors to the Dire! 
+Proving they are no hacks, Dire takes the day! Not that there is anything wrong with hacking. 
+The Dire won without Axe? Impressive! 
+Dire victory, thanks to Axe! 
+Never underestimate the importance of Axe! 
+Radiant victory! 
+Axe proclaims a Radiant victory! 
+To the Radiant, the spoils... Say, does Axe get a cut? 
+Axe could have won for the Radiant in half the time! Alone! 
+Radiant Victory! Good thing Axe was there! 
+All Pick. 
+All Random. 
+Captain's Draft. 
+Captains Mode. 
+Random Draft. 
+Single Draft. 
+Death Match. 
+Easy Mode. 
+Axe was not involved. 
+Do not blame Axe. 
+Axe wishes it was you, instead. 
+Are you going to do something about that? 
+It could be worse. Or could it? 
+Axe needs something to chop. 
+Your edge needs sharpening. 
+Tend to your wounded or put them out of their misery. 
+Only the strong survive. 
+Surprising, given the lack of Axe. 
+Axe likes! 
+Axe likes! 
+Would have been faster with Axe. 
+That was Axetacular! 
+Axe is getting misty eyed. 
+Do not miss this chance to push your advantage. 
+That was done in the spirit of Axe. 
+More like that please. 
+Oh, good day sir, indeed! 
+Perhaps more Axe is called for. 
+How long can this go on? 
+Those with eyes to see have covered them. 
+Axe admits to some confusion. 
+Axe is tempted to join the fray. 
+Be more Axelike! 
+Time to channel the inner Axe! 
+Axe cannot bear to watch. 
+This is causing Axe physical pain. 
+Axe does not pick sides. But Axe is on your side. 
+Axe does not pick sides. But your enemy sucks. 
+If war is not fair, why call it warfare? 
+Someone brought an Axe to an axe-fight! 
+Oh, little Axe is in this game! 
+Axe is looking good out there! 
+Go, Axe, go! 
+Axe knew Axe could do it! 
+Axe thinks you should die a few times first to get used to the idea. 
+You were defeated? Axe wasn't with you. There was no way you could win. 
+Defeated? Even with Axe? How? 
+Well of course you lost. You stood against Axe!

@@ -1,0 +1,208 @@
+Your turn to ban. 
+Your turn to pick. 
+Enemy's turn to ban. 
+Enemy's turn to pick. 
+Dire team ban. 
+Radiant team ban. 
+Dire team pick. 
+Radiant team pick. 
+Radiant's team is complete. 
+Dire's team is complete. 
+Your team is complete. 
+Choose your hero! 
+10 seconds remaining. 
+5 seconds remaining. 
+Reserve time. 
+Prepare for battle! 
+Prepare for battle! 
+30 seconds to battle! 
+30 seconds to battle! 
+10 seconds to battle! 
+10 seconds to battle! 
+The battle begins! 
+The battle begins! 
+Enjoy yourself, but not too much please. 
+Let's all remember to have fun. 
+Come on then, off you go! 
+Play hard, but do play nicely, won't you? 
+Remember: sportsmanship! 
+Your bottom tower is under attack! 
+Your bottom tower is under attack! 
+Your middle tower is under attack! 
+Your middle tower is under attack! 
+Your top tower is under attack! 
+Your top tower is under attack! 
+Dire's bottom tower is under attack! 
+Dire's bottom tower is under attack! 
+Dire's middle tower is under attack! 
+Dire's middle tower is under attack! 
+Dire's top tower is under attack! 
+Dire's top tower is under attack! 
+Radiant's bottom tower is under attack! 
+Radiant's bottom tower is under attack! 
+Radiant's middle tower is under attack! 
+Radiant's middle tower is under attack! 
+Radiant's top tower is under attack! 
+Radiant's top tower is under attack! 
+Your bottom tower has fallen. 
+Your middle tower has fallen. 
+Your top tower has fallen. 
+The enemy's bottom tower has fallen. 
+The enemy's middle tower has fallen. 
+The enemy's top tower has fallen. 
+Dire's bottom tower has fallen. 
+Dire's middle tower has fallen. 
+Dire's top tower has fallen. 
+Radiant's bottom tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's top tower has fallen. 
+Well now, this is a disturbing development. 
+Sensors are picking up something quite concerning. 
+The enemy's bottom tower has been denied. 
+The enemy's middle tower has been denied. 
+The enemy's top tower has been denied. 
+Your bottom tower has been denied. 
+Your middle tower has been denied. 
+Your top tower has been denied. 
+Dire's bottom tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's top tower has been denied. 
+Radiant's bottom tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's top tower has been denied. 
+Your bottom barracks are under attack! 
+Your middle barracks are under attack! 
+Your top barracks are under attack! 
+Dire's bottom barracks are under attack! 
+Dire's middle barracks are under attack! 
+Dire's top barracks are under attack! 
+Radiant's bottom barracks are under attack! 
+Radiant's middle barracks are under attack! 
+Radiant's top barracks are under attack! 
+Your bottom barracks have fallen! 
+Your middle barracks have fallen! 
+Your top barracks have fallen! 
+The enemy's bottom barracks have fallen! 
+The enemy's middle barracks have fallen! 
+The enemy's top barracks have fallen! 
+Dire's bottom barracks have fallen! 
+Dire's middle barracks have fallen! 
+Dire's top barracks have fallen! 
+Radiant's bottom barracks have fallen! 
+Radiant's middle barracks have fallen! 
+Radiant's top barracks have fallen! 
+The enemy now has megacreeps! 
+You now have megacreeps! 
+The Dire now have megacreeps! 
+The Radiant now have megacreeps! 
+Your ancient is under attack! 
+Dire's ancient is under attack! 
+Radiant's ancient is under attack! 
+Roshan has fallen to the Dire! 
+Roshan has fallen to the Dire! 
+Roshan has fallen to the Radiant! 
+Roshan has fallen to the Radiant! 
+Dire structures are fortified. 
+Radiant structures are fortified. 
+Dire's courier has been killed. 
+Radiant's courier has been killed. 
+Dire victory! 
+Dire victory! 
+Radiant victory! 
+Radiant victory! 
+Victory! 
+Welcome to Dota! 
+Good morning! 
+Good morning! 
+Good morning! 
+Good afternoon! 
+Good afternoon! 
+Good afternoon! 
+Good evening! 
+Good evening! 
+All Pick! 
+Mid Only! 
+Least Played! 
+Limited Heroes! 
+1 versus 1! 
+1 versus 1! 
+Ability draft! 
+All Random! 
+Captain's Draft! 
+Captain's Mode! 
+Deathmatch! 
+Easy mode! 
+Easy mode! 
+Random Draft! 
+Reverse Captain's Mode! 
+Single Draft! 
+Oh do be careful. 
+Oh my heavens. This is dreadful. 
+Hold on to your hats. 
+No. No no no no no! 
+Not good! Not good at all! 
+Oh! Oh my! 
+May I suggest caution? 
+Um, you may want to take care of that. 
+I hate to nag but: watch out! 
+I hate to nag but: watch out. 
+You'll do better next time. I hope. 
+Tsk tsk tsk. So disapointing. 
+Ah well, it's not the end of the world. 
+I'm sure you feel just terrible about that. 
+I'm sure you feel just terrible about that. 
+Oh for heaven's sake. 
+Well, that was a letdown. 
+Ouch! 
+Seriously? 
+Oh! Got a shellacking there, eh? 
+Oh, never let it be said you can't take a beating. 
+Yikes. 
+Bravo! 
+Excellent! 
+In your face! 
+Jolly good! 
+Jolly good! 
+How do you like us now, hmm? 
+A sterling example of showmanship. 
+That's showing them! 
+Ah ha! That's the spirit! 
+Well done! Well done indeed! 
+Who's awesome? You're awesome! 
+Be careful out there! 
+Remember: fortune favors the bold! 
+Go get 'em! 
+Go get 'em! 
+Right then. Off you go! 
+Go on, go on. Off the sidelines, onto the pitch. 
+You see? Just like riding a bike. You do remember how to ride a bike, don't you? 
+Second time's the charm. 
+On your bike. 
+Cha-ching! 
+Perfect! There are times to economize, and there are times not to economize, and this is one of those times. 
+Oh, shopping with you is such fun! 
+Way to spend that gold! 
+Oh, they're going to get it now! 
+Well this is getting tense. 
+So. Nice weather we're having. 
+I'll just sit over here then, shall I? Don't mind me, I won't make any noise. I won't even talk. I won't bother you at all. Take as much time as you need. Come on, go ahead. 
+So, I'll just nip out for a spot of tea then, shall I? 
+Take your time. As much as you need. 
+Have a look at the arms on that one! 
+Ah ha, ah ha. Exactly the one I would have gone for. 
+Good choice! 
+Have a look at that! 
+Not bad. Not bad at all. 
+Certainly know how to pick them. 
+Well, that's going to shake things up. 
+Yes, yes. That'll do. 
+That's the one! 
+Bottom is missing! 
+Middle is missing! 
+Missing bottom! 
+Missing middle! 
+Missing top! 
+Top is missing! 
+Top is missing! 
+Top is missing! 
+Top is missing!

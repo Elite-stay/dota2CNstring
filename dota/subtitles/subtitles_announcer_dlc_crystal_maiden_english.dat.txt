@@ -1,0 +1,350 @@
+Choose your hero. 
+Dire team's turn to pick. 
+Radiant team's turn to pick. 
+Enemy team's turn to pick. 
+It's the enemy's turn. You can chill. 
+Enemy's pick. 
+Enemy's turn. 
+It's your turn to pick. 
+Pretty sure it's your turn to pick. 
+Hey, it's your turn to pick now! 
+Are you going to pick one, or what? 
+Dire team ban. 
+Dire team's turn to ban. 
+Radiant team ban. 
+Radiant team's turn to ban. 
+Your turn to ban. 
+It's your turn to ban. 
+Your ban. 
+Ban someone? 
+Enemy's turn to ban. 
+It's the enemy team's turn to ban. 
+Enemy team's ban. 
+The enemy's gonna ice someone out. 
+Enemy's ban. 
+Enemy ban coming. 
+A pretty cool bunch you've got there. 
+Dire team is ready to go. 
+Radiant team made some nice choices. 
+Dire team is complete! 
+Radiant team is complete! 
+Your team is complete! 
+Remember: cooler heads prevail. 
+Ten seconds remaining. 
+Ten seconds left. Decided? 
+Five seconds remaining. 
+Five seconds left! Don't freeze up! 
+Reserve time. 
+You're using up your reserve time! 
+Feeling those icy tendrils? 
+Prepare for battle! 
+Thirty seconds to battle! 
+Ten seconds to battle! 
+Time to put on a show! 
+The battle's starting! 
+Let's get moving! 
+This ain't no snowball fight. 
+This ain't no snowball fight. Well, maybe a few snowballs. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower needs some help. 
+Dires bottom tower is being chipped away. 
+Dire's middle tower is under attack. 
+Dire's middle tower isn't going to last long. 
+Someone better help Dire's middle tower. 
+Dire's top tower is under attack. 
+They're beating on Dire's top tower. 
+Are those cracks in Dire's top tower? 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower's got problems. 
+Not much good happening to Radiant's bottom tower. 
+Radiant's middle tower is under attack. 
+Radiant's middle tower could use some help. 
+Radiant's middle tower shouldn't have to take this abuse. 
+Radiant's top tower is under attack. 
+Radiant's top tower has looked better. 
+Radiant's top tower deserves just as much help as bottom. 
+Your bottom tower is under attack. 
+You really should look at your bottom tower. 
+Your bottom tower is under attack. 
+Your middle tower is under attack. 
+Don't let your middle tower fall. 
+Your middle tower is under attack. 
+Your top tower is under attack. 
+Let's talk about your top tower 
+Dire's bottom tower has fallen. 
+Dire's bottom tower has shattered to little pieces. 
+Dire's bottom tower always did get short shrift. 
+Dire's middle tower has fallen. 
+Dire's middle tower just went down. 
+Dire's top tower has fallen. 
+Dire's top tower is gone, just a cold fog left behind. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower is no more. 
+Radiant's middle tower has fallen. 
+Where did Radiant's middle tower go? 
+Radiant's top tower has fallen. 
+Your bottom tower has fallen. 
+Your bottom tower just fell. Maybe you shouldn't look. 
+Bottom tower is gone forever. 
+Your middle tower has fallen. 
+Your middle tower is gone. I tried to warn you. 
+Middle tower is down. You just let them... 
+Your top tower has fallen. 
+Top tower has fallen. Is this going to be a pattern? 
+There's no more top tower. I thought this might happen. 
+The enemy's bottom tower has fallen. 
+The enemy's bottom tower is down. 
+The enemy's bottom tower is gone. You did the right thing. 
+The enemy's middle tower has fallen. 
+The enemy's middle tower didn't know what hit it. 
+The enemy's middle tower won't be making any more appearances. 
+The enemy's middle tower has fallen. 
+The enemy's top tower has fallen. 
+The enemy's top tower just shattered into little pieces. 
+The enemy's top tower had to go. 
+The enemy's top tower just shattered into little pieces. 
+The enemy's top tower has fallen. 
+Dire's bottom tower has been denied. 
+Dire just denied their bottom tower. 
+Dire's middle tower has been denied. 
+Dire just denied their middle tower. 
+Dire's top tower has been denied. 
+Dire just denied their top tower. 
+Radiant's bottom tower has been denied. 
+Radiant just denied their bottom tower. 
+Radiant's middle tower has been denied. 
+Radiant just denied their middle tower. 
+Radiant's top tower has been denied. 
+Radiant just denied their top tower. 
+Your bottom tower has been denied. 
+Your bottom tower was just denied. 
+Your middle tower has been denied. 
+Your middle tower was just denied. 
+Your top tower has been denied. 
+Your top tower was just denied. 
+The enemy's bottom tower has been denied. 
+The enemy denied their bottom tower. 
+The enemy's middle tower has been denied. 
+The enemy denied their middle tower. 
+The enemy's top tower has been denied. 
+The enemy denied their top tower. 
+We all loved that tower. But it's better this way. 
+Stone cold but necessary. 
+I guess it's better than nothing. 
+It's like something Lina would do. 
+It'd be a hot day in Icewrack before I'd let that happen. 
+Why'd they have to go and do that? 
+Dire's bottom barracks are under attack. 
+Dire let all their bottom towers fall. The barracks may be next. 
+Dire's bottom barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks are taking damage. 
+Dire's middle barracks are taking fire, which is obviously bad.  
+Some bad things happening to Dire's middle barracks. 
+Dire's top barracks are under attack. 
+Dire's top barracks are getting banged up. 
+Dire might have to say goodbye to their top barracks. 
+Radiant's bottom barracks are under attack. 
+They're attacking Radiant's bottom barracks. 
+Is Radiant going to let their bottom barracks fall? 
+Radiant's middle barracks are under attack. 
+Look what they're doing to Radiant's middle barracks. 
+Radiant's top barracks are under attack. 
+Radiant's top barracks are going to blow over. 
+Radiant's top barracks... It doesn't look good. 
+Your bottom barracks are under attack! 
+Hey, they're attacking your bottom barracks. 
+Your bottom barracks are under attack! 
+Bottom barracks under attack! 
+Your middle barracks are under attack! 
+The enemy is attacking your middle barracks! 
+You really need to do something about your middle barracks. 
+Your top barracks are under attack! 
+They're attacking top barracks! 
+Your top barracks won't last long at this rate. 
+Have I understated the importance of barracks? 
+Once those barracks fall... 
+You'll wish you took better care of those barracks. 
+Dire's bottom barracks have fallen. 
+Dire's middle barracks have fallen. 
+Dire's top barracks have fallen. 
+Radiant's bottom barracks have fallen. 
+Radiant's middle barracks have fallen. 
+Radiant's top barracks have fallen. 
+The enemy's bottom barracks have fallen. 
+There go the enemy's top barracks. 
+The enemy's middle barracks have fallen. 
+The enemy's middle barracks are no more. 
+The enemy's top barracks have fallen. 
+Enemy's top barracks dropped like some stupid hot thing. 
+Your bottom barracks have fallen. 
+Your middle barracks have fallen. 
+Your top barracks have fallen. 
+I thought they could maybe hold on, but... 
+That's just cold. And not in the good way. 
+You really don't want to lose those things. 
+I'm not one to say I told you so. 
+After what happened to all the towers, are you surprised? 
+Oh, no. 
+Nicely done. 
+Ice cold. 
+Dire's Ancient is under attack! 
+Dire's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+Your Ancient is under attack! 
+Your Ancient is under attack! 
+Are you even watching your Ancient? 
+Defend your Ancient! It's kind of the name of the game. 
+You wouldn't last a day in Icewrack. 
+I think we're just about done here. 
+The Dire now has megacreeps. 
+The Radiant now has megacreeps. 
+The enemy now has megacreeps. 
+You now have megacreeps. 
+I don't like the looks of that. 
+Oh, look at them. Aww. 
+Things are looking up. 
+Cool! 
+This one might be winding down. 
+They're a lot stronger than they look. 
+Dire's structures are fortified. 
+Dire have fortified their structures. 
+It looks like Dire fortified their structures. 
+Dire snow fort-ified their structures. 
+Radiant's structures are fortified. 
+Radiant have fortified their structures. 
+I guess Radiant fortified their structures. 
+Radiant structures have been snow fort-ified. 
+Radiant's courier has been killed. 
+Look at that. Radiant's courier just got killed. 
+Dire's courier has been killed. 
+Oh, Dire's courier got killed. Those things aren't cheap, you know. 
+I understand, but still... 
+Those little guys are all so cute. 
+They always go after the courier. 
+What did that courier ever do to anyone? 
+That's animal cruelty in my book. 
+Roshan has fallen to the Dire. 
+Oh, Roshan. Something tells me we haven't seen the last of him. 
+Roshan's down. I touched an aegis once! 
+Roshan has fallen to the Radiant. 
+Radiant took down Roshan. I trust there was a good reason. 
+Roshan's down. I wonder where he goes. 
+Dire victory! 
+Dire wins! They did it! 
+Radiant victory! 
+Radiant wins! Called it! 
+Put this one on ice, Dire does it. 
+Put this one on ice, Radiant takes it.  
+I don't think you want that to happen. 
+There's really no reason to stand for this. 
+Stop them! 
+Why is this happening? 
+This is not cool. 
+That's the opposite of what you want. 
+Oh, boy. 
+You do know what you're doing, right? 
+That'll leave you feeling cold. 
+At least it's not a barracks. 
+Bye bye, tower. 
+Who's going to clean that up? 
+You know what this means. 
+That's some cold truth. 
+It could have been prevented. 
+Watch them blame me for that. 
+I tried to warn you. 
+I knew you could do it. 
+That one's not coming back. 
+Deny that, jerks. 
+Feels good, right? 
+You did it! 
+One step closer. 
+The frost of war creeps even closer! 
+Nice nice nice! 
+Frosty! 
+Just a cold pile of rubble. 
+If only this happened every time. 
+I like where this is headed. 
+You'll be at the Ancient in no time! 
+Nice sentry wards. 
+Sentry wards? I like. 
+Nice warding. 
+Whoever bought those wards is my kind of hero. 
+Divine?! Uh oh... 
+You go, girl. 
+Now that you've collected your thoughts, let's do this. 
+It's time to get back out there. 
+Okay, less dying this time. 
+Top is missing! 
+Middle is missing! 
+Bottom is missing! 
+Middle is missing. Which way'd they go? 
+You know, chilling and long walks on the glacier. Oops. Thought I was muted. 
+Has anyone seen Sven around? 
+Let's build a snowman. 
+Autumn showers bring ice flowers. 
+Sometimes I worry about glacial melt. 
+I just can't take it anymore! 
+So, how much longer is this gonna be? 
+The battle resumes! 
+Let the fighting recommence! 
+I'm fine with waiting and all, but let's go! 
+Let's get on with it! 
+You're quitting? 
+I didn't take you for a quitter. 
+Fine, just quit. 
+You know who else quits when things get tough? Lina! 
+What do you mean you're giving up? 
+Looks like someone disconnected. 
+Oh no, we've got a DC. 
+Someone's connection dropped. 
+There's a DC. Can we pause? 
+Player disconnected! 
+Let's pause. I'm sure they'll be back. 
+Great, they're back! 
+Who could turn away from this battle? 
+All mid. 
+All pick. 
+All random. 
+Captain's draft. 
+Captain's mode. 
+Death match. 
+Easy mode. 
+Least played. 
+Random draft. 
+Reverse captain's mode. 
+Single draft. 
+What's the flavor of the month? 
+Like snowflakes soaring on the icy winds of fate. 
+Heavy is the captain's cap. 
+You just leave this one to me. 
+It's almost like Captain's Mode. 
+This one scares me. 
+Everything is going to be all right. 
+More like hostage mode. 
+We take this very seriously. 
+I believe in you. 
+Captains, draft your way to victory. 
+I think I understand. 
+Welcome to Dota. 
+Nice to see you. 
+Good for you, coming back. 
+This is going to be fun! 
+Welcome to Dota, friends. 
+Nice as ice! 
+You're doing it wrong! 
+Sven! 
+Fire ruins everything. 
+You chose the hellbitch?! 
+Frost arrows? I like that. 
+I knew you were a smart one. 
+He'll always be a little tyke to me. 
+You didn't pick me? 
+Wait a second, I thought you were picking me. 
+Not the first time I've been banished. 
+No Maiden?! 
+We can be besties! 
+Going to win that lane! 
+Dive! Dive! 
+There's always Blueheart...

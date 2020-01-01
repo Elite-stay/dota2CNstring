@@ -1,0 +1,342 @@
+Welcome! Welcome to Dota! 
+Your turn to pick. 
+I'm afraid it's the enemy's turn to pick. 
+Dire team pick. 
+Radiant team pick. 
+It's your turn to ban. 
+I believe it's the enemy's turn to ban. 
+Dire team ban. 
+Radiant team ban. 
+Radiant's team is completely complete. 
+Your team is complete. 
+Dire's team is quite complete. 
+The ball is in play. The dice have been thrown. Et cetera et cetera. 
+Ten seconds remaining. 
+Five seconds remaining. 
+Reserve time. 
+Extra time. 
+You are using Reserve Time. 
+You are using Extra Time. 
+Choose your hero, my good friend. 
+Go ahead. Select your heroes. 
+Thirty seconds to battle. 
+Ten seconds to battle. 
+Is this on? 
+Will I need my calculator for this? 
+I'm not much of an announcer but I'll do my best. 
+Ah heh hem. Is this on? 
+Is this on? 
+Hello? 
+Oh, I see. Are those little...little people down there? Wonderful what they can do these days. 
+I had a terrarium once...rather like this...well, except with mice. And a chameleon. But the possibilities for combat were much the same. 
+You really should prepare for battle. 
+The battle begins! 
+The battle begins! Or so I am told. 
+This is it! The battle begins. 
+There they go! Uh, where are they going? 
+Oh, is this it? 
+Are we starting now? 
+Look at them go! 
+I suppose I better start paying closer attention to the...oh...butterflies! 
+Your ancient is under attack. 
+Your ancient is under attack. And I'm not feeling so well myself. 
+Your ancient is under attack. Imagine how I feel. 
+Good grief! Your ancient is under attack! 
+Radiant's ancient is under attack. 
+Radiant's ancient is under attack. Someone had better do something. 
+Radiant's ancient is under attack. I can't believe my eyes. 
+My goodness. Radiant's ancient is under attack. 
+Dire's ancient is under attack. 
+Dire's ancient is under attack. That can't be a positive development. 
+Dire's ancient is under attack. You heard it here first! 
+Stop the presses! Dire's ancient is under attack. 
+Can it be that Dire's ancient is under attack? Yes! Yes it is! 
+Radiant's top tower is under attack. 
+Radiant's top tower is under attack. And not in a good way. 
+It would appear Radiant's top tower is under attack. 
+Radiant's middle tower is under attack. 
+Radiant's middle tower is under attack. I have no reason to lie about such things. 
+Strange to say, Radiant's middle tower is under attack. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower is under attack. Has that ever been cause for celebration? 
+Radiant's bottom tower is being subjected to extreme violence. 
+Dire's top tower is under attack. 
+Dire's top tower is under attack. Must I repeat myself? 
+Dire's top tower is being attacked like nobody's business. 
+Dire's middle tower is under attack. 
+Dire's middle tower is under attack. I feel like a broken record. 
+Dire's middle tower is under an extraordinary amount of stress. 
+Dire's bottom tower is under attack. 
+I don't mean to be alarmist, but...Dire's bottom tower is under attack. 
+Sorry, I just noticed that Dire's bottom tower is under attack. 
+Your top tower is under attack. 
+Your top tower is under attack. No reflection on you, you understand. 
+I hate to inform you that your top tower is under attack. 
+Your middle tower is under attack. 
+Your middle tower is under attack. Just thought you'd want to know. 
+Regrettably, your middle tower is under attack. 
+Your bottom tower is under attack. 
+Your bottom tower is under attack. Does this happen a lot? 
+Excuse me but your bottom tower is under attack. 
+Oh dear. Your top tower has fallen. 
+Your middle tower has fallen. 
+Your middle tower has fallen. Let's hope that's the worst of it. 
+Your bottom tower has fallen. 
+Your bottom tower has fallen. They seem rather prone to that don't they? 
+It would appear that your bottom tower has fallen. 
+Radiant's top tower has fallen. 
+Radiant's top tower has fallen. Surely that was intentional? 
+Well, it seems that Radiant's top tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower has fallen. Someone must be very pleased with themselves. 
+I would like to point out that Radiant's middle tower has fallen. 
+Radiant's middle tower has fallen. Someone must be very pleased with themselves. Or himself...uh...singular antecedent, singular pronoun. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower has fallen. Seems to be the day for it. 
+Oh look, Radiant's bottom tower has fallen. 
+Dire's top tower has fallen. 
+Dire's top tower has fallen. I could have predicted this. 
+In a stunning development, Dire's top tower has fallen. 
+Dire's middle tower has fallen. 
+Dire's middle tower has fallen. As any fool can see. 
+I am required to point out that Dire's middle tower has fallen. 
+Dire's bottom tower has fallen. 
+Dire's bottom tower has fallen. If that's the proper term for it, and I believe it is. 
+In a blow to the Dire, their bottom tower has fallen. 
+The enemy's top tower has fallen. 
+The enemy's top tower has fallen. There, that must feel good. 
+Note well: The enemy's top tower has fallen. 
+The enemy's middle tower has fallen. 
+The enemy's middle tower has fallen. It's hard to see that as anything but advantageous. 
+At last, the enemy's middle tower has fallen. 
+The enemy's bottom tower has fallen. 
+The enemy's bottom tower has fallen. One in a series, I daresay. 
+You'll be delighted to hear the enemy's bottom tower has fallen. 
+Your top barracks are under attack. 
+Your top barracks are under attack. Most distressing. 
+Get moving! Your top barracks are under attack! 
+Your middle barracks are under attack. 
+Your middle barracks are under attack. I regret being bearer of such tidings. 
+You should know that your middle barracks are under attack. 
+Your bottom barracks are under attack. 
+Your bottom barracks are under attack. I'm sure this can still be remedied. 
+I hate to say it, but your bottom barracks are under attack. 
+Radiant's top barracks are under attack. 
+Radiant's top barracks are under attack. And what an attack it is. 
+A little bird tells me that Radiant's top barracks are under attack! 
+Radiant's middle barracks are under attack. 
+Radiant's middle barracks are under attack. Pay very close attention now. 
+Radiant's lovely middle barracks are under great duress. 
+Radiant's bottom barracks are under attack. 
+Radiant's bottom barracks are under attack. It seems to be going around. 
+I spy with my little eye that Radiant's bottom barracks are under attack! 
+Dire's top barracks are under attack. 
+Dire's top barracks are under attack. To put it bluntly. 
+Wouldn't you just know it? Dire's top barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks are under attack. Oh this is a sorry state of affairs. 
+Dear me. Dire's middle barracks are under attack. 
+Dire's bottom barracks are under attack. 
+Dire's bottom barracks are under attack. That's good news for someone, rather worse news for someone else. 
+It cannot be stated firmly enough that Dire's bottom barracks are under attack. 
+Your top barracks has fallen. 
+Your top barracks has fallen. I'm afraid there's no fixing it. 
+Well, drat. Your top barracks has fallen. 
+Your middle barracks has fallen. 
+You rmiddle barracks has fallen. Was that an important one? 
+I regret to inform you of the loss of your middle barracks. 
+Your bottom barracks has fallen. 
+Your bottom barracks has fallen. I assure you, any disappointment you may hear in my voice is completely imaginary. 
+Your bottom barracks are no more, my friend. 
+Radiant's top barracks has fallen. 
+Radiant's top barracks has fallen. Well, that seals it. Seals something anyway. 
+Fascinating. Radiant's top barracks has fallen. 
+Radiant's middle barracks has fallen. 
+Radiant's middle barracks has fallen. And yet, all is not lost. 
+Dear me! Radiant's middle barracks has fallen. 
+I'll just point out that Radiant's middle barracks has fallen. 
+Radiant's bottom barracks has fallen. 
+Radiant's bottom barracks has fallen. Could still go either way though. 
+I don't believe it! Radiant's bottom barracks has fallen. 
+Dire's top barracks has fallen. 
+Dire's top barracks has fallen. Fate is smiling, but not in their direction. 
+Someone might want to inform the Dire that their top barracks has fallen. 
+Dire's middle barracks has fallen. 
+Dire's middle barracks has fallen. That seems like it might be a significant development. 
+If you're just tuning in, Dire's middle barracks has fallen. 
+Dire's bottom barracks has fallen. 
+Dire's bottom barracks has fallen. There are more where that came from. Ah wait, ah what, there are no more where that came from. 
+Sadly, Dire's bottom barracks has fallen. 
+The enemy's top barracks has fallen. 
+The enemy's top barracks has fallen. As I knew it eventually must. 
+Pat yourself on the back. The enemy's top barracks has fallen. 
+The enemy's middle barracks has fallen. 
+The enemy's middle barracks has fallen. Someone's worst fears confirmed. 
+It's too good to be true! The enemy's middle barracks has fallen. 
+The enemy's bottom barracks has fallen. 
+The enemy's bottom barracks has fallen. Well, I hope you're very pleased with yourself. 
+The enemy's bottom barracks has incredibly fallen. 
+Your top tower has been denied. 
+Your top tower has been denied. It's a little thing I know but take some pride in it. 
+Well done. Your top tower has been denied. 
+Your middle tower has been denied. 
+Your middle tower has been denied. Better than the alternative certainly. 
+Just in time, your middle tower has been denied. 
+Your midmost stony obelisk has been denied. 
+Your bottom tower has been denied. 
+Your bottom tower has been denied. Does it get any better than this? 
+Not to brag but your bottom tower has been denied. 
+The enemy's top tower has been denied. 
+The enemy's top tower has been denied. Keep up the good...ah what? Never mind. 
+The enemy just denied their top tower. 
+The enemy's middle tower has been denied. 
+The enemy's middle tower has been denied. Has there ever been a more flagrant injustice? 
+The enemy's middle tower was flagrantly denied. 
+The enemy's bottom tower has been denied. 
+The enemy's bottom tower has been denied. 
+The enemy's bottom tower has been denied. Well, I'm crushed. 
+Well, well, the enemy's bottom tower has been denied. 
+Radiant's top tower has been denied. 
+Radiant's top tower has been denied. Let it never be said of that tower that it is such a jolly good fellow that nobody shall deny it. 
+Surprisingly or not, Radiant's top tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's middle tower has been denied. I've never seen a tower more denied. 
+My oh my, Radiant's middle tower has been denied. 
+Radiant's bottom tower has been denied. 
+Radiant's bottom tower has been denied. This is quite a day. 
+Radiant's bottom tower has been soundly denied. 
+Dire's top tower has been denied. 
+Dire's top tower has been denied. We won't be seeing that tower again. 
+What a blow! Dire's top tower has been denied. 
+In the grand tradition of tower denial, Dire's top tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's middle tower has been denied. And not a moment too soon. 
+In a master stroke of sorts, Dire denied its middle tower. 
+Dire's bottom tower has been denied. 
+Dire's bottom tower has been denied. As have I on various occasions. 
+How about that? Dire's bottom tower has been denied! 
+It is my solemn duty to inform you that Dire's bottom tower has been denied. 
+Very nice. Dire's structures are fortified. 
+Dire's structures are cunningly fortified. 
+Dire's structures are fortified. 
+Dire's structures are fortified. They are looking quite robust. 
+Dire's structures are fortified. What a marvelous glow! 
+In a stroke of cunning, or perhaps of desperation, Dire's structures have been fortified! 
+I've never seen Radiant's structures looking so fortified. 
+Radiant's structures are beautifully fortified. 
+Radiant's structures are fortified. 
+Radiant's structures are fortified. There appears to be some sort of magic at work. 
+Radiant's structures are fortified. In fact they appear radiant with health. 
+Radiant's structures are not only fortified, they are positively glowing. 
+Ladies and gentlemen, Dire's courier has been slain. 
+Dire's courier has been slain. 
+It is with grave emotion that I report the death of Dire's courier. 
+Dire's courier has been slain. News of the death is expected to travel swiftly. 
+I take no pleasure in informing you that Dire's courier has been slain. 
+Dire's courier has been slain. 
+Brace yourself for sad tidings: Radiant's courier has been slain. 
+Radiant's courier has been slain. 
+Bad tidings, I'm afraid: Radiant's courier has been slain. 
+Radiant's courier has been slain. Let us hope it left no little ones behind. 
+Radiant's courier has been slain. A moment of silence please. 
+Radiant's courier has been slain. This is no sort of place for a peaceable beast. 
+Rejoice! You now have megacreeps. 
+I'm sorry to report, the enemy now has megacreeps. 
+In late breaking news, the Dire now have megacreeps. 
+I have it on good authority that the Radiant now have megacreeps. 
+Roshan has fallen to the Dire! 
+Roshan has been ruthlessly exploited by the Dire. 
+Oh dear, Poor Roshan has fallen afoul of the Dire. 
+Roshan has fallen to the Dire! I hope the magnificent creature did not suffer overmuch. 
+Whatever race Roshan represented is now officially extinct. 
+Roshan has fallen to the Radiant! 
+For reasons known only to itself, the Radiant have slain Roshan. 
+We now have confirmation that Roshan is the latest victim of Radiant hostility. 
+Roshan has fallen to the Radiant! Roshan, we hardly knew ye. 
+And so Roshan passes into history, leaving nothing but fond memories, a taste of immortality, and a questionable cheese. 
+Dire victory! And I do mean dire. 
+And the Dire seize the day in the direst possible way. 
+Radiant victory! 
+Victory of the most Radiant sort! 
+I'm certain no one here will forget where they were when the Radiant seized their victory. 
+All Pick. 
+All Random. 
+Captain's Draft. 
+Captains Mode. 
+Random Draft. 
+Single Draft. 
+Death Match. 
+Easy Mode. 
+Yes, yes. 
+Now who might you be? 
+You make a very fine first impression. 
+What sort of creature are you supposed to be? 
+I hope they take a sample. 
+I'm AB negative myself. 
+Excellent. 
+Almost certainly a sound investment. 
+Is that an allowable expense? 
+I didn't see that in the budget. Well, no matter. 
+That is bound to pay off. 
+One of your finest. 
+Splendid. 
+That must be your specialty. 
+How did you do that? 
+Don't let it go to your head. 
+Nicely done. 
+Well well. 
+Hear hear! 
+I like to think I'd have done the same. 
+A master stroke. 
+Very efficient. 
+It's no less than I expect of you. 
+If you'll excuse me for a moment, I am a bit squeamish. 
+You were well within your rights, I'd say. 
+Mercy doesn't enter into it, hm? 
+You're rather good at killing things. 
+Quite a pummelling. 
+How terribly heroic. 
+Most regrettable. 
+Oh dear. 
+That was less than optimal. 
+Oh fie. 
+Was that the best you can do? 
+I'm not distracting you am I? 
+Glad I'm not in your shoes...if those are shoes. 
+You cut a dashing figure. 
+You cut a most appealing figure. 
+Well, that was unexpected. 
+You appear to be glowing. 
+I expect you're rather pleased with yourself. 
+You might want to find a way to be more useful to your boon companions. 
+Your entire team destroyed? I wish I could say I had no idea what you're feeling right now. 
+Good of you to return. 
+Well, don't be discouraged. 
+Let's not dwell on the past. Get right back to it. 
+You again! 
+What sort of beast is that? 
+What sort of beast is that? 
+Catch and release wild Roshan. 
+Oh dear, and that was the last of its kind. 
+There appears to be cheese in the lava. 
+Nothing good will come of this, I fear! 
+Oh wonderful! Well deserved. 
+I was hoping that would fall to you. Well, perhaps it's for the best. 
+Any chance you could tag that thing and release it into the wild? 
+A foregone conclusion, I should think. 
+I like to think your success is a testament to my mentorship. 
+Back to the drawing board. In fact, maybe we should draw up plans for a new drawing board. 
+Don't be discouraged. It only encourages them. 
+Quite active, aren't they? 
+I believe that is a juvenile form of neutral creep. 
+What I wouldn't give for a net and a killing jar. 
+I was distracted for a moment there. What just happened? 
+What a peaceful scene. 
+Ah, butterflies! 
+Nothing quite as restful as a river. 
+I can't quite identify these trees. I wonder if there's a field guide. 
+Does this always go on this long? 
+It won't be long now, one way or another. 
+I hope you will forgive my meager display of expert knowledge. 
+I truly am confused. 
+There is certain to be unimaginable retaliation.

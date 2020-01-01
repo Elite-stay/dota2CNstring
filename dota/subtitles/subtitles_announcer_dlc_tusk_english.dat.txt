@@ -1,0 +1,162 @@
+Welcome to Dota! 
+Welcome to Frostivus! 
+Welcome to Eultide! 
+Frostivus! 
+Eultide! 
+Take a walk in a winter wonder-lane! 
+Welcome to the Greeviling! 
+Greevil's Eve! 
+Welcome to Greevil's Eve! 
+Greeviling! 
+Welcome to the Greeviling! 
+Time to show those Greevils who's boss! 
+Your turn to pick. 
+Enemy's turn to pick. 
+Dire team pick. 
+Radiant team pick. 
+Your turn to ban. 
+Enemy's turn to ban. 
+Dire team ban. 
+Radiant team ban. 
+Radiant's team is complete. 
+Your team is complete. 
+Dire's team is complete. 
+Choose your hero. 
+10 seconds remaining. 
+5 seconds remaining. 
+Reserve time. 
+30 seconds to battle. 
+10 seconds to battle. 
+Prepare for battle. 
+I want a nice, clean fight. 
+The battle begins! 
+Look at those greevils, all dressed up. 
+Ah winter! Reminds me of home! 
+Wipe out the wild greevil camps. Take back what they stole from the shopkeeper! 
+Whoever kills the most greevils wins. 
+Whoever collects the most presents wins. 
+Whoever collects the most greevil pelts wins. 
+First blood! 
+Your ancient is under attack! 
+Radiant's Ancient is under attack! 
+Dire's Ancient is under attack! 
+Radiant's top tower is under attack! 
+Radiant's middle tower is under attack! 
+Radiant's bottom tower is under attack! 
+Dire's top tower is under attack! 
+Dire's middle tower is under attack! 
+Dire's bottom tower is under attack! 
+Your top tower is under attack! 
+Your middle tower is under attack! 
+Your bottom tower is under attack! 
+Your top tower has fallen. 
+Your middle tower has fallen. 
+Your bottom tower has fallen. 
+Radiant's top tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's bottom tower has fallen. 
+Dire's top tower has fallen. 
+Dire's middle tower has fallen. 
+Dire's bottom tower has fallen. 
+The enemy's top tower has fallen. 
+The enemy's middle tower has fallen. 
+The enemy's bottom tower has fallen. 
+Your top barracks are under attack! 
+Your middle barracks are under attack! 
+Your bottom barracks are under attack! 
+Radiant's top barracks are under attack! 
+Radiant's middle barracks are under attack! 
+Radiant's bottom barracks are under attack! 
+Dire's top barracks are under attack! 
+Dire's middle barracks are under attack! 
+Dire's bottom barracks are under attack! 
+Your top barracks have fallen. 
+Your middle barracks have fallen. 
+Your bottom barracks have fallen. 
+Radiant's top barracks have fallen. 
+Radiant's middle barracks have fallen. 
+Radiant's bottom barracks have fallen. 
+Dire's top barracks have fallen. 
+Dire's middle barracks have fallen. 
+Dire's bottom barracks have fallen. 
+The enemy's top barracks have fallen. 
+The enemy's middle barracks have fallen. 
+The enemy's bottom barracks have fallen. 
+Your top tower has been denied. 
+Your middle tower has been denied. 
+Your bottom tower has been denied. 
+The enemy's top tower has been denied. 
+The enemy's middle tower has been denied. 
+The enemy's bottom tower has been denied. 
+Radiant's top tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's bottom tower has been denied. 
+Dire's top tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's bottom tower has been denied. 
+Dire structures are fortified. 
+Radiant structures are fortified. 
+Dire's courier has been slain. 
+Radiant's courier has been slain. 
+You now have megacreeps. 
+The enemy now has megacreeps. 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+Roshan has fallen to the Dire. 
+Roshan has fallen to the Radiant. 
+Dire victory! 
+Radiant victory! 
+All pick! 
+All random! 
+Captain's draft! 
+Captain's mode! 
+Random draft! 
+Single draft! 
+Death match! 
+Easy mode! 
+Top is missing! 
+Middle is missing! 
+Bottom is missing! 
+Greevils! 
+More greevils! 
+Those greevils keep on coming! 
+More greevils to smash! 
+Those pesky greevils are back! 
+Where do these greevils keep coming from? 
+Ah good! More greevils to kill! 
+Time for a greevil fight to the finish! 
+Last greevil standing! 
+Greevil fight! 
+That greevil scored a knockout! 
+Knockout! 
+Winner! 
+It's greevil time! 
+Now this is a greeviling! 
+Everyone's a'greeviling! 
+Everybody greevil up! 
+Aw, you shouldn't have! 
+So thoughtful. 
+You got a present! 
+Enjoy your present! 
+Hope you like your present! 
+Who doesn't like a present? 
+Hey! Presents! 
+A fine gift! 
+You got a present! 
+Enjoy your present! 
+Aw, you shouldn't have! 
+1 minute! 
+2 minutes! 
+5 minutes! 
+10 minutes to go! 
+30 seconds! 
+Wrap it up! 
+Fight's over! Wrap it up guys. 
+Your greevil didn't make it. 
+Aww, your poor greevil. 
+So much for your greevil. 
+A moment of silence for your greevil. 
+Your greevil has died. 
+Greevil if you got 'em. 
+Happy Frostivus, from Tusk! 
+Happy holidays, from Tusk!

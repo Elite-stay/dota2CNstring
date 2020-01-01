@@ -1,0 +1,401 @@
+Your turn to pick. 
+Choose wisely, you will be spending quite a bit of time with them. 
+Enemy's turn to pick. 
+Which hero will the enemy take? 
+I wonder which hero the enemy will saddle themselves with...? 
+I'm a bit curious about the enemy's hero selection. But only a bit. 
+Dire team pick. 
+Time, now, for the Dire team to choose. 
+Radiant team pick. 
+Patience while the Radiant team chooses. 
+Your turn to ban. 
+Absolutely dying to see who you will ban. In fact, it's killing me. 
+Enemy's turn to ban. 
+The enemy gets a ban - absolutely nothing to be done about it, I'm afraid. 
+Dire team ban. 
+The Dire team is now picking their bans. They do take their time, don't they? 
+Radiant team ban. 
+Ahh, now the Radiant team is banning. This should be interesting. 
+Radiant's team is complete. 
+At long last, Radiant's team is set. 
+Your team is complete. 
+Alright then, your team is filled. 
+Our team is complete. 
+Our team is set and complete. Well done! 
+Dire's team is complete. 
+Put the Dire team in the DONE column! 
+Reserve time. 
+You are using Reserve Time. 
+You are currently using reserve time - be smart about it, would you? 
+Extra time. 
+You are using Extra Time. 
+Thank goodness for the extra time you're now using! 
+Choose your hero. 
+Which hero will you choose? The anticipation is killing me! 
+You may now select your heroes. 
+Excellent, the selection of heroes is now available. 
+Ten seconds remaining. 
+Ten seconds, no, I'm sorry 8 seconds, actually I meant -- well, never mind. 
+Five seconds remaining. 
+A voice in my ear is telling me only five seconds to go! Either that or I'm mad! 
+Thirty seconds to battle. 
+Steady now -- 30 seconds until we are tested by combat! 
+Ten seconds to battle. 
+Ten seconds, stay calm... 
+Prepare for battle. 
+It's time then -- prepare yourself! 
+Here we go, are you ready? 
+Let's do this! 
+The battle begins! 
+It begins! Incoming! 
+Courage - it starts...NOW! 
+Here they come! Let's go! 
+Strategic Maneuvers have begun. Only time will tell if they're any good. 
+Your Ancient is under attack. 
+Keep your wits about you - your Ancient is being attacked! 
+Blast - they've made it to the Ancient! 
+You must protect the Ancient! 
+They've made it to the Ancient! Watch out! 
+Radiant's Ancient is under attack. 
+They're attacking Radiant's Ancient - I can't bear to watch. 
+Dire's Ancient is under attack. 
+Dire's Ancient is being attacked - and it's not pretty. 
+Your top tower is under attack. 
+All hands to the top tower - it's under attack! 
+They're attacking your top tower - will they never stop?! 
+Oh no, the top tower, it's under attack! 
+Look to the top tower - they're attacking! 
+Your middle tower is under attack. 
+Displaying their usual lack of imagination - they're going straight for your middle tower. 
+I wouldn't want to be in that middle tower at this moment! 
+Be quick about it - the middle tower is under attack. 
+Blast it - they're after your middle tower. 
+Your bottom tower is under attack. 
+Now I see what they want - they're attacking the bottom tower 
+To the bottom tower - they've laid siege to it 
+Protect the bottom tower or it will be lost! 
+Hurry - we may save the bottom tower yet! 
+Radiant's top tower is under attack. 
+Radiant's top tower has been attacked! 
+Radiant's middle tower is under attack. 
+I'm afraid Radiant's middle tower is under siege. 
+Radiant's bottom tower is under attack. 
+They've made a beeline for Radiant's bottom tower. 
+Dire's top tower is under attack. 
+This won't be pretty -- they've reached Dire's top tower! 
+Dire's middle tower is under attack. 
+It looks like they're going after Dire's middle tower. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is under siege. 
+Your top tower has fallen. 
+I'm afraid the top tower has been lost. Careful now. 
+Keep those senses sharp - the top tower has fallen. 
+They broke through at the top - the top tower has fallen 
+That's it then - the top tower is no more. 
+Your middle tower has fallen. 
+The middle tower is done for - pay full attention now! 
+It's gone - the middle tower is gone. 
+For the love of ... - they've destroyed your middle tower. 
+The middle tower is now part of history. 
+Your bottom tower has fallen. 
+I'm sorry to say the bottom tower is now a casualty of this battle. 
+The bottom tower has fallen. Nothing good will come of this. 
+No more bottom tower my friend, it's gone. 
+Sadly, I must inform you that the bottom tower was destroyed. 
+The enemy's top tower has fallen. 
+That's what we need - the enemy has no more top tower! 
+Well done! Their top tower is down for good! 
+Progress! We've dropped their top tower! 
+At last! We've destroyed their top tower! 
+The enemy's middle tower has fallen. 
+Yes! They won't be using that middle tower any more! 
+Enemy's Middle tower off line! Congratulations! 
+We've destroyed their middle tower - onward! 
+They've lost their middle tower to us. 
+The enemy's bottom tower has fallen. 
+We've leveled their bottom tower! Fantastic! 
+Our enemies have no bottom tower. Let's press on, Shall we? 
+Their bottom is hanging out in the breeze - they have no bottom tower 
+Superb, we've taken down their bottom tower! 
+Our enemy has no bottom tower to speak of - so I shan't speak of it any more. 
+Radiant's top tower has fallen. 
+I am aghast - Radiant's top tower has been taken! 
+Radiant's middle tower has fallen. 
+Radiant's middle tower is no more. 
+Radiant's bottom tower has fallen. 
+Dire's top tower has fallen. 
+And Dire's top tower falls right in front of us 
+Dire's middle tower has fallen. 
+It's beyond comprehension: Dire's middle tower is gone, just gone. 
+Dire's bottom tower has fallen. 
+Dire's bottom tower is simply no more. 
+Your top tower has been denied. 
+Sacrifice made, the enemy was denied our top tower. 
+Our top tower is gone, but the enemy was denied. 
+Your middle tower has been denied. 
+We may have lost our middle tower, but at least the enemy can't have its value. 
+The enemy is denied, but our middle tower is lost. 
+At least the smoking remains of our middle tower are of no use to the enemy. 
+We've denied our middle tower to the enemy. That's something, anyway. 
+Your bottom tower has been denied. 
+There, we've denied the enemy our bottom tower. 
+The bottom tower may be lost to us, but the enemy is left with nothing. 
+The enemy's top tower has been denied. 
+The enemy has denied us their top tower, but at least it is now gone! 
+It would have been nice to have the full value for ourselves, but at least their top tower is gone. 
+We've been denied the enemy's top tower, but press on! 
+The enemy's middle tower has been denied. 
+They've denied us their middle tower, but we must press on. 
+They may have denied us the entire prize, but at least their middle tower is still lost. 
+The enemy's bottom tower has been denied. 
+Their bottom tower was lost, but we were denied. 
+They sacrificed their bottom tower to stymie us, no matter, we'll show them! 
+They've denied us the reward of their bottom tower, but at least it stands no longer! 
+Radiant's top tower has been denied. 
+The Radiant destroyed their own top tower before the enemy did it for them. 
+Radiant's middle tower has been denied. 
+Radiant sacrifices their middle tower, and denies their enemy the reward. 
+Radiant's bottom tower has been denied. 
+The Radiant has chosen to destroy their own bottom tower. 
+Dire's top tower has been denied. 
+Dire has wisely decided denial is the best play and destroyed their own top tower. 
+Dire's middle tower has been denied. 
+Now Dire takes out their own middle tower, denying their enemy the prize. 
+Dire's bottom tower has been denied. 
+Dire's bottom tower sacrifice has denied the enemy any benefit. 
+Your top barracks are under attack. 
+They've reached the top barracks. We must stop them there! 
+Oh no, they're attacking our top barracks 
+Look to our top barracks - they're attacking 
+We absolutely must stop their momentum. Head for the top barracks! 
+Your middle barracks are under attack. 
+They've advanced to the middle barracks, we must defeat them 
+They've pushed to the middle barrackes, lets stop that, shall we? 
+Can they really have attacked our middle barracks? That cannot stand! 
+It's the middle barracks - that's where they're attacking! 
+Your bottom barracks are under attack. 
+It's the bottom barracks - that's where they're coming for us! 
+Ah ha, they've attacked the bottom barracks, we must put an end to this. 
+They're showing their hand - they're attacking the bottom barracks. 
+Can we save the bottom barracks? We must stop them there once and for all! 
+Radiant's top barracks are under attack. 
+The enemy is storming Radiant's top barracks! 
+Radiant's middle barracks are under attack. 
+My God! Now they're attacking Radiant's middle barracks. 
+Radiant's bottom barracks are under attack. 
+Radiant had better be on high alert - they enemy is attacking their bottom barracks 
+Dire's top barracks are under attack. 
+So, they're attacking Dire's top barracks are they? 
+Dire's middle barracks are under attack. 
+Unbelievable! They're attacking Dire's middle barracks. 
+Dire's bottom barracks are under attack. 
+They're no fools. They're coming for Dire's bottom barracks! 
+Your top barracks has fallen. 
+No good news here - we've lost our top barracks. 
+Not our top barracks! It's gone. 
+There goes your top barracks - we must step up our game! 
+The top barracks is gone, but we will prevail nonetheless! 
+Your middle barracks has fallen. 
+No more middle barracks now. Its just...gone. 
+The middle barracks has been taken from us. 
+I almost can't say it aloud - but our middle barracks has been taken. 
+And just like that, it's lost. Farewell, middle barracks. 
+Be aware, your middle barracks has just fallen. 
+Your bottom barracks has fallen. 
+Your bottom barracks are no more - no good will come of this. 
+You've lost your bottom barracks, keep a look out. 
+They've crushed your bottom barracks, be on your highest alert! 
+I'm sorry my friend: Your barracks on the bottom has been destroyed. 
+The enemy's top barracks has fallen. 
+We have absolutely obliterated their top barracks. Onward! 
+Fantastic! The enemy's top barracks is destroyed! 
+No more top barracks for our enemies! 
+And their top barracks is no more - we have wiped the slate! 
+The enemy's middle barracks has fallen. 
+Advancement! We've destroyed the enemy's middle barracks! 
+And just like that - the enemy's middle barracks is history! 
+Progress made! The enemy's middle barracks is destroyed. 
+Boom. Down goes the enemy's middle barracks! 
+The enemy's bottom barracks has fallen. 
+We have rained destruction on the enemy's bottom barracks! 
+Splendid, the enemy won't find a bottom barracks at their disposal any longer. 
+In one short moment, the enemy's bottoms baracks was destroyed! 
+Gone! When they go looking for their bottom barracks, they won't find it anywhere. 
+We've eliminated their bottom barracks from play. Excellent! 
+Radiant's top barracks has fallen. 
+Radiant has lost their top barracks. I'm not sure that's a loss they can survive. 
+Radiant's middle barracks has fallen. 
+Radiant no longer has a middle barracks, what does this mean? 
+Radiant's bottom barracks has fallen. 
+That's it then -- Radiant has lost their bottom barracks. 
+Dire's top barracks has fallen. 
+Dire has lost their top barracks to their enemy. 
+Dire's middle barracks has fallen. 
+I'm afraid Dire no longer has a middle barracks 
+Dire's bottom barracks has fallen. 
+Sorry to say, Dire's bottom barracks is gone! 
+Dire's structures are fortified. 
+Dire has wisely chosen to fortify their own structures. 
+It seems Dire has chosen to strengthen their structures. 
+At the very least, Dire's structures will be temporarily harder to destroy. 
+It will be harder to take down Dire's structures now that they are fortified. 
+Dire has made it much harder to bring down their structures - they're fortified! 
+Radiant's structures are fortified. 
+Radiant's decision to fortify their structures will prove wise, I should think. 
+It seems apparent that Radiant has chosen to strengthen their structures. 
+The good news is that Radiant's structures will be much harder to damage now. 
+It will be harder to remove Radiant's structures now that they are fortified. 
+Radiant has made it much harder to take down their structures - they're fortified! 
+Dire's courier has been killed. 
+Dire's courier is dead! 
+I cannot believe it - they've killed Dire's courier! 
+Dire's courier has died - rather violently I should add. 
+Dire's courier died today of rather unnatural causes. 
+A bloody demise for Dire's courier. He was bringing me raspberries too. 
+Radiant's courier has been killed. 
+Radiant's courier..how do you say it? Ah, yes: sleeps with the dishes. 
+That's it for the Radiant's courier I'm afraid. 
+And Radiant's courier met his demise rather suddenly 
+No more couriering for Radiant's courier - he's rather... dead. 
+Radiant had a courier, but not any more. 
+You now have megacreeps. 
+You have spawned Megacreeps! 
+Excellent, you now have Megacreeps! I do hope they're not contagious. 
+Things are looking up, you have megacreeps. Which sounds odd when you say it out loud, doesn't it? 
+Reinforcements have arrived! Megacreeps are yours, thank goodness! 
+We now have megacreeps. 
+We have been reinforced with Megacreeps! 
+Megacreeps are on our side! Which is not something you hear often, I must say. 
+We have the megacreeps - things will be quite dangerous for our enemies now! 
+Megacreeps - that's just fun to say... Oh, and we have them on our side now! 
+The enemy now has megacreeps. 
+Megacreeps on the horizon - I'm afraid the enemy has them. Watch out! 
+Let's keep our wits about us: the enemy now has megacreeps 
+Reports are coming in that the enemy has Megacreeps - stay sharp! 
+Be advised, our opponents are now marching with Megacreeps.  
+The Dire now have megacreeps. 
+The Dire have acquired Megcreeps. There's no telling how this will play out, is there!  
+Be advised: the Dire now have Megacreeps supporting them. 
+The Radiant now have megacreeps. 
+Whether we like it or not, Radiant now counts Megacreeps among its forces. 
+Will Radiant's new Megacreeps push them over the top? 
+Roshan has fallen to the Dire! 
+Fantastic! The Dire slayed Roshan! 
+Roshan is but a bitter memory thanks to the Dire. 
+Roshan's death comes at the hands of the Dire! 
+I seem to be at a loss: the Dire have actually slain Roshan. 
+Roshan has fallen to the Radiant! 
+I can confirm: the Radiant brought Roshan down. 
+Roshan is gone and the credit absolutely must go to the Radiant. 
+Down goes Roshan at the hands of the Radiant. Good riddance! 
+This just in: Radiant slays Roshan. Details uneccessary. 
+Welcome to Dota! 
+Good to see you again, old friend. Let's play some Dota! 
+Ah, you're back, superb, let's get started then! 
+A fine thing running into you here - let's play some Dota! 
+Lets show them what you and I can accomplish together! Dota! 
+Time to defend the Ancients my friend, let's do this! 
+Defend the cores! I mean Ancients, yes Ancients. 
+Hello, excellent to be partnered up once more - let's show them what we can do. 
+Excellent seeing you again, let's dive into the competition, shall we? 
+Why hello there. I'm thinking about playing some Dota, what about you? 
+Welcome. The water's lovely -- why don't we dive right on in? 
+Greetings my friend, so good to see you. Shall we play a game or three? 
+All Pick. 
+All Mid! 
+Least Played! 
+All Pick - This will require you to make a choice. But that's life isn't it, one choice after another? 
+All Random. 
+All Random - Leave your fate to chance. As if it was ever any other way! 
+Captain's Draft. 
+Captains Mode. 
+Random Draft. 
+Random Draft - be a good sport and pick a card, any card 
+Single Draft. 
+Single Draft - let's see what you can do with just three choices. 
+Death Match. 
+Death Match - hmm, that sounds rather unpleasant. 
+Easy Mode. 
+Easy mode - That actually sounds quite relaxing. 
+Reverse Captain's Mode. 
+Interesting Choice, Hmmm. 
+I admit the anticipation is almost unbearable. I wonder what the first move will be? 
+Clearly each team is sizing the other up before striking. 
+Hah, I'm sensing a particularly clever strategy at work here. 
+Perhaps we can gain additional insight by watching very closely. 
+I can guess at what they're up to. But it is rather interesting, isn't it? 
+Oh Look! Wait, I'm sorry, that was just a shadow. 
+I can see the strain on each side. No easy victory here! 
+It can't be much longer now... any raspberries in those bushes? 
+Dire victory! 
+The Dire have claimed victory - what a performance! 
+The Dire prevails, proving their mettle once again! 
+And, yes,... it's the Dire with the win! 
+I must admit, I didn't see it coming, but the Dire pull it off! 
+I must congratulate the Dire - an absolutely smashing success for them! 
+Radiant victory! 
+There cannot be a question: the win goes to the Radiant! 
+A Radiant victory all around! 
+The Radiant has the victory and I must say they've earned it. 
+And so the Radiant claim victory and the day. As they should! 
+Thus the Radiant seize the win! 
+Congratulations! You've proven your mettle and beaten back the enemy! 
+They'll think twice before challenging us again! 
+It's just too bad there's no one left to complain about that one. Oh, no wait, it isn't too bad all! 
+Well done - Now you have time for a rest - a very very short rest. 
+No surprise to me in the slightest - but you've done it! 
+Now THAT is what this world should look like - free of the enemy! 
+I believe we are, finally, secure. Well done! 
+If I didn't know better I'd say you'd been preparing your entire life for this. 
+A hard fought battle and a sweet, sweet victory! 
+I'll be savoring that victory for quite some time, I should think. 
+Well, that was unfortunate - let's try something else. 
+We can't always get it right, can we? Let's give it another go. 
+I'm sure we can think of another way to proceed. At least, I think I'm sure... 
+Right. Another go, then? 
+I am absolutely certain we can take them. Let's have another go, shall we? 
+No surprise here, you're constantly improving. 
+Experience is the key. And now you have it. Let's go again! 
+Steady improvement wins the game. We'll take them yet. 
+All things are possible with time and patience. And we have both. 
+Mastery comes in small steps. Onward, friend! 
+Failure is the forge of victory. Back at them! 
+A simple job, simply done. Perfect. 
+Well done! 
+Rather like clockwork for you, isn't it? Excellent. 
+I can see improvement in your every move. 
+Not quite it, but ever so close. Carry on. 
+I'm afraid that's not it, but I have complete faith in you. 
+Well, Hello there! And welcome back! 
+I've been wondering where your travels had taken you. 
+Welcome back, it's been far too long, my friend. 
+Excellent. You've returned - let's do this, shall we? 
+Very happy to see you my friend, shall we engage in some mayham? 
+Don't give in now -- you've almost got it. 
+Not it, but ever so close. 
+I must insist we try that once again. 
+I do believe you're getting the right idea. 
+All indications are that you're getting the hang of it now. 
+Fantastic! You've nearly got it! 
+That almost worked! 
+You can do this, of that I am quite sure.  
+No worries, I'm behind you all the way 
+There is no I in quit: oh, wait there is -- but you still shouldn't do it. 
+I have no doubt that we can do this! 
+Someone has disconnected from the game - it's a shame really, they had such potential. 
+Someone disconnected. 
+A player has returned, we welcome them with open arms, unless of course they're on the other team... 
+A player returns. 
+I'd buy that item too, if I could. 
+Well purchased. 
+Nicely spent. 
+A fine pick up. 
+Now you'll be able to take on even more. 
+Let's get back to the action! 
+Right, now back to it! 
+We now return our regularly scheduled carnage! 
+No more time to rest, stay sharp! 
+Really, already? 
+Well, lets do this again soon. Very soon. 
+I think we should do this again sometime. 
+Looking forward to next time.

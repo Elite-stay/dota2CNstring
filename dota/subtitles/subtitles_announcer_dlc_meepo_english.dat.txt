@@ -1,0 +1,480 @@
+Choose your hero. 
+Choose your hero. 
+Choose your hero or somethin. 
+Choose your hero. 
+Choose your hero. Wait, you only get one?! 
+It's hero choosin time! 
+This here's where you choose your hero! 
+Dire's turn to pick. 
+Dire pick! 
+Radiant's turn to pick. 
+Radiant pick! 
+Enemy's turn to pick. 
+Aw, it's the enemy's pick... 
+It's the enemy's pick, not yours. 
+They recruitin' some sorta gang over there? 
+Ok, your pick now. You know what to do! 
+Your pick. This is where you win or lose! 
+Remember, the goal is to have fun. Ahaha. Who am I kiddin? 
+Your pick now. Meepo! Huh what? 
+Dire's turn to ban. 
+It's Dire's ban now. 
+Radiant's turn to ban. 
+It's Radiant's ban now. 
+Your turn to ban. 
+Whose ban is it? Oh! Yours. 
+Hehe, we'll hold 'em down, you knock 'em out. 
+Ooh! Ooh! You get to ban someone! 
+Ban their best hero! Wait, ain't that kinda cheap? Yep. And effective! 
+It's the enemy's ban. 
+Who's the enemy gonna ban? 
+Who they gonna ban? I dunno, wait n see! 
+Enemy ban. They got nothing! 
+Enemy's ban now. Any second... 
+Enemy's gonna bury someone before the whistle even blows! 
+Wait, what's going on?  
+No pressure or anything. Hahaha. 
+Ten seconds! 
+Ten seconds to go! 
+Five seconds left. 
+You only got five seconds! Even less now! 
+Reserve time. 
+Reserve time. That stuff don't replenish. 
+Still don't know what you wanna do? 
+What's taking so long?! Hey hey, settle down. 
+Prepare for battle! 
+Prepare for battle! 
+Fortune and glory await! 
+Thirty seconds to battle! 
+Thirty seconds to showtime! 
+Thirty seconds to showtime! 
+Thirty seconds to battle. But feel free to start killin' before that. We're not sticklers. 
+Ten seconds to battle! 
+Oh boy, I think it's starting. What is? Do you even know why we're here? 
+Ten more seconds and it's on! 
+I love watchin 'em scamper around out there. 
+Aww, I see lotsa good diggin' spots out there. What are we waiting for? 
+If you're not already heading somewhere, now's the time to start! 
+Lots to do before the battle starts, so get crackin! 
+The battle begins! 
+The battle's starting. Just remember: you gotta job to do! 
+Pay attention now, the battle's started! 
+When the horn blows, the blood flows! 
+I always wanted to see an Ancient fall. Ehh, that stuff's overrated. Don't make me come over there. 
+This one's for all the marbles! If marbles were at all valuable... 
+Let the battle begin! OK, Meepo. Play your cards right and this gig'll land ya on easy street. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower...don't look good. 
+Dire's bottom tower's getting push around. I mean, it's not moving, but... 
+Dire's middle tower is under attack. 
+Dire's middle tower looks to be disintigrating... 
+Dire's middle tower's in trouble! Which one's Dire again? 
+Dire's top tower is under attack. 
+Dire's top tower is under attack. 
+Dire's top tower might be goin down... 
+Dire's top tower's about to be Radiant's top rubble. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower needs a hand. 
+Radiant's bottom tower's still there. But not for long. 
+Radiant's middle tower is under attack. 
+Radiant's middle tower is under attack. 
+Dire's putting the hurt on Radiant's middle tower. 
+Radiant's middle tower's not feeling the love. 
+Radiant's top tower is under attack. 
+Radiant's top tower is under attack. 
+Radiant's top tower's about to topple! 
+Radiant's top tower ain't looking too steady. 
+Your bottom tower is under attack. 
+Your bottom tower is under attack. 
+Oooh, your bottom tower. It's kinda bad. 
+You better poof on over to your bottom tower. 
+Your middle tower is under attack. 
+Your middle tower is under attack. 
+If your mid tower could talk, it'd be pretty mad at you. 
+Look. The enemy's attackin your middle tower. Don't let 'em do that! 
+They're tryna knock down your middle tower. 
+Your top tower is under attack. 
+Your top tower is under attack. 
+Your top tower needs some help. 
+Are you even watching your top tower?! 
+Dire's bottom tower has fallen. 
+Dire's bottom tower has fallen. 
+Hey, where's dire's bottom tower? Uhh... 
+Dire's middle tower has fallen. 
+Dire's middle tower has fallen. 
+Dire's middle tower's takin' a dirt nap. 
+Dire's top tower has fallen. 
+Dire's top tower has fallen. 
+Dire's top tower ain't a tower no more. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower musta been dizzy. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower had a run in with the Dire... 
+Radiant's top tower has fallen. 
+Radiant's top tower has fallen. 
+Radiant's top tower just tapped out. 
+Your bottom tower has fallen. 
+Your bottom tower has fallen. 
+Whaddaya mean your bottom tower's gone? 
+Your bottom tower just took a dirt nap. 
+Your middle tower has fallen. 
+Your middle tower has fallen. 
+And over here, we have your middle tower not being there no more. 
+You got one less middle tower now, by the way. 
+Your top tower has fallen. 
+Your top tower has fallen. 
+Hello top tower. Goodbye, top tower! 
+You'll be fine, long as that top tower don't fall... Oh wait, it's already gone. 
+The enemy's bottom tower has fallen. 
+The enemy's bottom tower has fallen. 
+Hey, lookit you, knockin down that bottom tower. 
+Enemy's bottom tower's gone. Nice! Right?! 
+The enemy's middle tower has fallen. 
+The enemy's middle tower has fallen. 
+Enemy's middle tower is no more! 
+Enemy's middle tower just turned into a pile of rocks. 
+Haha, enemy's middle tower just bit the dust. 
+The enemy's top tower has fallen. 
+The enemy's top tower has fallen. 
+Hey, the enemy's top tower's gone. You done good! 
+Best thing about the enemy's top tower is it's gone! 
+Dire's bottom tower has been denied. 
+That dire bottom tower just got denied... 
+Dire's middle tower has been denied. 
+Dire's middle tower has been denied. 
+Dire just denied their middle tower. 
+Dire's top tower has been denied. 
+Dire's top tower has been denied. 
+Dire's top tower just got denied. Bad luck for the Radiant. 
+Radiant's bottom tower has been denied. 
+Radiant just denied their bottom tower. 
+Radiant's middle tower has been denied. 
+Radiant just denied their middle tower. 
+Radiant's top tower has been denied. 
+Radiant just denied their top tower. Bet that stings, eh Dire? 
+Your bottom tower has been denied. 
+Hey! Your bottom tower just got denied. 
+Your middle tower has been denied. 
+Lookit that! Your middle tower just got denied. 
+Your top tower has been denied. 
+Your top tower just got denied. Nailed it! 
+The enemy's bottom tower has been denied. 
+The enemy just denied their bottom tower... 
+The enemy's middle tower has been denied. 
+You let the enemy deny their middle tower... 
+The enemy's top tower has been denied. 
+Sooo... The enemy just denied their top tower... 
+I bet your tower really appreciated that. 
+Ahahahah. Did you see the look on their faces?! 
+Send 'em home with nothing! 
+Get outta here with that garbage. 
+You know last hits are a pretty big deal, right? 
+That's the worst thing that could have happened to it. 
+Dire's bottom barracks are under attack. 
+Dire's bottom barracks are under attack. 
+Who knew Dire's bottom barracks had so many enemies? 
+Is Dire even watchin? Their bottom barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks could use a friend. Or five... 
+Is this how Dire's middle barracks fall? Looks like it... 
+Dire's top barracks are under attack. 
+Dire's top barracks are under attack. 
+Dire's top barracks are feeling the pressure! 
+Radiant showin' no mercy to Dire's top barracks. 
+Radiant's bottom barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Radiant's bottom barracks probably gonna die... 
+This might be the last look Radiant gets of their bottom barracks. 
+Radiant's middle barracks are under attack. 
+Radiant's middle barracks are under attack. 
+Radiant's middle barracks are still there... But for how long? 
+I always liked seein' Radiant's middle barracks take a beating. 
+Radiant's top barracks are under attack. 
+Radiant's top barracks are under attack. 
+Radiant's top barracks are gettin' the business! 
+Radiant's top barracks ain't gonna be barracks for long. 
+Your bottom barracks are under attack! 
+Your bottom barracks are under attack! 
+Hey, your bottom barracks need help! 
+You'll do something if you know what's good for ya. 
+Your middle barracks are under attack! 
+Your middle barracks are under attack! 
+Your middle barracks are lookin' shaky! 
+You'll be sorry if they fall! 
+Your top barracks are under attack! 
+Your top barracks are under attack! 
+Your top barracks never did nothing to deserve this! 
+They're tryin' to break through! Stop 'em! 
+I don't see the angle here. Nope. Nuh-uh. 
+It's real simple. Protect your buildings! 
+All hands! Time for some of that hero stuff! 
+Someone oughta build a barricade or something. I know a couple a guys. Don't work cheap though. 
+Dire's bottom barracks has fallen. 
+Dire's bottom barracks has fallen. 
+Dire's middle barracks has fallen. 
+Dire's middle barracks has fallen. 
+Dire's top barracks has fallen. 
+Dire's top barracks has fallen. 
+Radiant's bottom barracks has fallen. 
+Radiant's bottom barracks has fallen. 
+Radiant's middle barracks has fallen. 
+Radiant's middle barracks has fallen. 
+Radiant's top barracks has fallen. 
+Radiant's top barracks has fallen. 
+The enemy's bottom barracks has fallen. 
+The enemy's bottom barracks has fallen. 
+Enemy's bottom barracks just took a dive. 
+The enemy's middle barracks has fallen. 
+The enemy's middle barracks has fallen. 
+The enemy's middle barracks are just a sweet memory. 
+The enemy's top barracks has fallen. 
+The enemy's top barracks has fallen. 
+Wave goodbye to the enemy's top barracks. 
+Your bottom barracks has fallen. 
+Your bottom barracks has fallen. 
+Bad news about your bottom barracks... 
+Your middle barracks has fallen. 
+Your middle barracks has fallen. 
+If you wanted your middle barracks to not fall, you're doing it wrong. 
+Your top barracks has fallen. 
+Your top barracks has fallen. 
+Your top barracks ain't nothing no more... 
+Everyone's got a plan till you smash down their racks! 
+I like where this is going. 
+Let's see 'em push out now! 
+Someone's puttin in the leg work. 
+One step at a time! 
+I hope they ain't throwin on purpose! Not without tippin' me off... 
+Honestly, the opposite woulda been a heckuva lot better. 
+I hope you don't pay for lessons or nothin. 
+Oh, come on! You're diggin your own grave! 
+Ah, the old rip n' run... 
+Exactly what you're supposed to do! Don't let 'em tell you different! 
+Dire's Ancient is under attack! 
+Dire's Ancient is under attack! 
+So this is the part where Dire's Ancient is under attack. 
+Dire's Ancient is really taking a pounding. 
+Dire's Ancient's not looking too good. 
+Radiant's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+The Radiant Ancient needs a little help. Make that a lotta help. 
+That Radiant team's just letting Dire bang on their Ancient. 
+Radiant Ancient's in some serious trouble. 
+Your Ancient is under attack! 
+Your Ancient is under attack! 
+Your Ancient is under attack! He ain't lyin! 
+You gotta defend your Ancient! ...Now! 
+Were you not paying attention to the rules? Defend your Ancient! 
+That is absolutely how you lose the game. 
+Is nothing sacred? Yeah, no. I thought so. 
+Yep, this one's just about over. Hope you didn't bet on these knuckleheads... Oh god what have I done? 
+Coulda made a pretty penny off this one. Not that I condone such things. 
+The Dire now have megacreeps. 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+The Radiant now have megacreeps. 
+The enemy now have megacreeps. 
+The enemy now have megacreeps. 
+You now have megacreeps. 
+You now have megacreeps. 
+All your buildings are gone. That glowy thing's probably next. 
+Don't give up now. Come back from this and you are a legend! 
+Put your back into it! This one's almost done! 
+Oh good, let them do all the work. Time for a snack! 
+Figures. Lazy bums show up just in time for the looting! 
+Radiant dug a pretty big hole here. Then fell right in. 
+I hope you didn't have your heart set on Radiant winnin this thing... 
+So Dire's about done for, right? Unless they pull off some miracle. Or maybe a bribe? 
+I think we all saw this coming. Not me! You weren't even watching! 
+Dire structures are fortified. 
+Dire structures are fortified. 
+Dire's putting up a barricade. 
+Dire's doing that glowy thing. Eh, nothing doing till that's done. 
+Radiant structures are fortified. 
+Radiant structures are fortified. 
+Radiant called in the fortification... 
+Radiant fortified their structures. Pretty good move if you ask me. 
+Radiant are scanning for enemies. 
+Radiant are scanning for enemies. 
+Radiant are scanning. How does that even work? 
+Dire are scanning for enemies. 
+Dire are scanning for enemies. 
+Dire are scanning. Trying to find those sneaky bums. 
+Dire's top shrine is under attack. 
+Dire's top shrine is under attack. 
+Dire's bottom shrine is under attack. 
+Dire's bottom shrine is under attack. 
+Radiant's top shrine is under attack. 
+Radiant's top shrine is under attack. 
+Radiant's bottom shrine is under attack. 
+Radiant's bottom shrine is under attack. 
+Dire's top shrine has fallen. 
+Dire's top shrine has fallen. 
+Dire's bottom shrine has fallen. 
+Dire's bottom shrine has fallen. 
+Radiant's top shrine has fallen. 
+Radiant's top shrine has fallen. 
+Radiant's bottom shrine has fallen. 
+Radiant's bottom shrine has fallen. 
+Your top shrine is under attack. 
+Your top shrine is under attack. 
+Your bottom shrine is under attack. 
+Your bottom shrine is under attack. 
+Your top shrine has fallen. 
+Your top shrine has fallen. 
+Your bottom shrine has fallen. 
+Your bottom shrine has fallen. 
+The enemy's top shrine has fallen. 
+The enemy's top shrine has fallen. 
+The enemy's bottom shrine has fallen. 
+The enemy's bottom shrine has fallen. 
+Nothin' last forever... 
+That's what it gets, being so far away... 
+This is why we can't have nice things. 
+No more sanctuary here! 
+Radiant's courier has been killed. 
+Radiant's courier has been killed. 
+Radiant's courier is dead. Wonder what idiot got it killed... 
+Dire's courier has been killed. 
+Dire's courier has been killed. 
+Here come's dire's plucky little courier -- oops. It's dead now. 
+It's tough out there. Courier's just tryin' to make a living... 
+Too stupid to live... Too beautiful to die... 
+Anything good on it? 
+I worked as a courier once. Absolutely degrading. 
+Serves you right. Stupid courier. 
+Roshan has fallen to the Dire. 
+Roshan's dead. You ever been underneath his pit? Lotta good stuff down there! 
+Goodbye, Roshan! See you soon! 
+Roshan has fallen to the Radiant. 
+Radiant just murdered Roshan. Hasn't he suffered enough?! 
+Roshan's dead. Man, him and that Aegis. Glad I never messed up that bad! 
+Roshan falls again. I understand the bit about the Aegis... But what's with that stinky cheese? 
+Dire victory! 
+Dire victory! 
+The Radiant Ancient is nothing but rubble. Dire take it all the way! 
+Dire have done it! They've done it! We're freeeee! 
+Dire does it! Finally a bet pays off... I'm outta here! 
+Radiant victory! 
+Radiant victory! 
+The Dire Ancient collapsed! All's right in the world. 
+Radiant win! Time to get outta here! 
+Radiant smash the Ancient. This one's in the books. 
+You gonna do something about it or just sit there looking funny? 
+Dig in and defend that sucker! 
+You and a couple of friends could probably stop that. 
+What, not your job or something? 
+Rally the troops and get over there. 
+There better be something important goin' on. 
+This is one of the things in the bad column. 
+That's the spirit. The losing spirit! 
+Aww, that's my favorite tower. 
+Who said that tower could fall? 
+Why do I get the feeling you ain't taking this seriously? 
+I don't even know where start with you! 
+Stop it! That's not helping! 
+You oughta be ashamed of yourself. 
+You gotta work together or else you're gonna die! 
+Oh, I see. You're letting 'em think you're helpless. Classic! 
+Finally, someone with worse luck than me! 
+Shoddy construction? No... Something worse. 
+My father was right about you! You're never gonna amount to nothing! 
+Someone oughta scramble in there n' get the shiny bits. 
+I guess they built on a fault line. Ahahah. 
+Goodbye, sweet tower. You won't be missed! 
+I like these troublemakers. 
+That'll show 'em! 
+How many of those things are there? 
+I couldn'ta done it better myself. Well, probably... 
+A lot better ventilation now. Ask any creep. Those barracks are stuffy. 
+Hey, super creeps! Get your butts out here! 
+I'm no numbers guy, but I suddenly like your chances. 
+They don't know what hit 'em! 
+That's the power of elbow grease. And, you know, a bit of murder. 
+That's the stuff. Keep 'em on their back paws! 
+Those racks think they're special or something?! 
+Oh god, sentry wards? I love it! 
+Sentry wards? You're some kinda saint or something! 
+Pops always said seeing where you're going helps ya get there. 
+If I had friends like you, I'd never lose! Haha. Hey! 
+Whoa, is that what I think it is? 
+Never saw much use for that, personally...  
+This is either brilliant or insane. Probably both! 
+Hey, welcome back! 
+Get up, get up! Get out there! 
+It ain't over till the last building falls. So fight! 
+Look, I know I'm gettin' paid for this, but... Gimme something to do! 
+Dear Diary, today I watched a bunch of dumbos wander around doing nothin'...  
+Did you guys hear there's a war on? Sure can't tell! 
+Where do you go for a little action around here? 
+Uahh. Anyone else gettin' sleepy? 
+Oh. My. Goooood! Do somethin' or somethin! 
+You come here to fight or dance with creeps? Yeesh! 
+Heads up. We're back! 
+I'm all for a little down time. Feelin' fresh? 
+Ok, where were we? 
+Three, two, one. Let's go! 
+Whoa whoa whoa! Where you think you're goin'? 
+I never quit a day in my life. Ain't startin' now! 
+Givin' up that easy huh? 
+So you're just wastin' everybody's time? 
+I don't feel so good... 
+We lost someone! Quick, nobody move! 
+I'm not technowizard or nothing, but I think that player just disconnected. 
+Someone didn't call the digger's hotline! 
+This is why I always liked LAN parties. 
+Hey, it ain't fun if we ain't all here. 
+Look, if you pause for people, people gonna pause for you. It's just science! 
+Hey, they're back! Good for you. 
+Welcome back to the war. Is it everything you remember? 
+All mid. 
+All pick. 
+All random. 
+Captains draft. 
+Captains mode. 
+Death match. 
+Easy mode. 
+Least played. 
+Random draft. 
+Reverse captains mode. 
+Single draft. 
+You can choose anyone. But there's only one right choice. Ehe. Yeah. 
+It's all on you. Unless you click Random. Then it ain't on you at all. 
+Look at this bunch of jokers. 
+Where'd all the rest go?! Ya' bums... 
+That's a lotta power for one player... 
+You'll take what you get n' like it! 
+I mean, I guess you could play it this way... 
+This some sorta nightmare? 
+Why would you let them do this? 
+Ok, now you're just being silly. 
+I'll take those odds... Ahahaha. 
+This one's not so bad... 
+Pick one, ok? It ain't that hard... 
+I hope you can handle one of these... 
+Welcome to Dota. 
+Welcome to Dota. You're amongst friends. Hnhnhnhn. 
+Welcome to Dota, friend. 
+Welcome to Dota. Ahahah. You're in it now! 
+Welcome to Dota. Sure beats diggin' holes! 
+Welcome to Dota. Soo... I heard you can make a lotta money round here? 
+It's Dota time, baby. Ain't got nothing to lose! 
+Pack it in. This one's already over! 
+Oh yeah, baby. I can dig it! 
+Time to go punch some rocks. 
+Oh, no. Who invited this guy? 
+I ain't one to judge, but this guy creeps me out. 
+Hello! 
+Hello! 
+Hey there! 
+How you doin? 
+I don't know, they seem pretty great to me. 
+Wish I had some of that kinda mine! This job'd be a piece of cake! 
+Ok, not what I expected... Is the betting window still open? 
+That rounds it out! 
+I guess we'll see how this turns out... 
+And now the moment you've all been waiting for!

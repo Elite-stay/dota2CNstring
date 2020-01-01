@@ -1,0 +1,246 @@
+Choose your hero. 
+Dire team pick. 
+Radiant team pick. 
+Enemy's turn to pick. 
+Enemy's turn! Don't look now, they're picking bashers! 
+Your turn to pick. 
+Come on. Your turn to pick now! 
+Go on! Choose what mate you want! 
+Go on! Choose what mate you want! 
+Dire team ban. 
+Radiant team ban. 
+Your turn to ban. 
+Your ban now. Go on, ban what basher you don't want to face, mate. It's easy! 
+Enemy's turn to ban. 
+Enemy's turn to ban. They're gonna ban your best mate, you can be sure of that! 
+So this is the lot you picked then, is it? Well good luck to you son. You'll need it. 
+Dire team's done. And I mean that. They are done. Proper! 
+Radiant's team's full up. That is one bruising bunch of fighters! 
+Dire's team is complete! 
+Radiant's team is complete! 
+Your team is complete! 
+Alright, try putting a little thought into it this time, okay? 
+Ten seconds remaining. 
+You got ten seconds. What's the holdup, sunshine? 
+Five seconds remaining. 
+Five seconds! You're cutting this close! 
+Reserve time. 
+Breaking into reserve time now! 
+Hold on a minute. Are you throwing darts or something to decide your picks? What is your strategy here? 
+Prepare for battle! 
+Thirty seconds to battle! 
+Ten seconds to battle. 
+Tick tock mate. Tick tock! 
+The battle begins! 
+Let's be about it! 
+Let's get this fight started! 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is taking a beating. 
+Dire's middle tower is under attack. 
+Dire's top tower! It's under attack! 
+Radiant's bottom tower is under attack! 
+Radiant's middle tower is under attack! 
+Radiant's middle tower is taking a drubbing! 
+Radiant's top tower is under attack! 
+Your bottom tower is under attack, son! 
+Your bottom tower, mate! You better hop to it! 
+Oy come on! Your middle tower is under attack! 
+Your middle tower! Are you seeing that? 
+Oy! Your top tower! It's under attack! 
+Dire's bottom tower has fallen. 
+Dire's bottom tower has crumbled to the dust from which it came. It's the fate of us all. 
+Dire's middle tower has fallen! 
+Dire's top tower has fallen! 
+Dire's top tower just died. Sad, really. I heard that tower had kids. 
+Radiant's bottom tower has fallen. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower ain't radiating no more, I'll vouch for that. You know what I mean? Ha ha ha! 
+Radiant's top tower has fallen! 
+Your bottom tower has fallen! 
+Oh, your bottom tower just passed mate. Yeah, I am sorry for your loss. 
+Your middle tower has fallen! 
+Your middle tower! Oh... Don't even looks at it. It's brutal what they've done. 
+Oh, your middle tower. No mate, don't even look at it. It is brutal what they have done. 
+Your top tower has fallen. 
+Your top tower, let's just say it's no longer a going proposition. 
+The enemy's bottom tower has fallen! 
+The enemy's bottom tower. It's about time. 
+The enemy's bottom tower has fallen. Some towers, they just can't be reasoned with. 
+The enemy's middle tower has fallen. 
+The enemy's middle tower got what was coming to it. Yeah, it did. 
+The enemy's top tower has fallen! 
+The enemy's top tower regrets the day it was born. 
+Dire's bottom tower has been denied! 
+Dire's middle tower has been denied! 
+Dire's top tower has been denied! 
+Radiant's bottom tower! It's been denied! 
+Radiant's middle tower has been denied! 
+Radiant's top tower has been denied! 
+Your bottom tower has been denied! 
+Your middle tower has been denied! 
+Your top tower has been denied! 
+The enemy's bottom tower has been denied! 
+The enemy's middle tower has been denied! 
+The enemy's top tower has been denied! 
+It was a hard choice, mate. But it had to be done. 
+Oh, that is cold, that is. Oh, freezing! Brrr! 
+Now that's dirty fighting! 
+Oh I thought I'd seen dirty fighting in my day but that! That takes the cake! 
+They gone and done in their own tower! 
+Dire's bottom barracks! They're under attack! 
+Dire's middle barracks are under attack! 
+Dire's top barracks are under attack! 
+Radiant's bottom barracks are under attack! 
+Radiant's middle barracks. They're under attack! 
+Radiant's top barracks are under attack! 
+Your barracks are under attack! 
+Your bottom barracks! They're under attack! 
+Your bottom barracks! Come on, do something! 
+Your middle barracks are under attack! 
+Ey your middle barracks! They're under attack! 
+Oy your middle barracks needs you, son! 
+Your top barracks are under attack! 
+Your top barracks. I mean are you even seeing this? Come on. 
+I bet barracks to a barn door those rax are going down soon! 
+Oh! Look at em go! Ha ha ha! 
+Dire's bottom barracks have fallen! 
+Dire's middle barracks have fallen! 
+Dire's top barracks have fallen! 
+Radiant's bottom barracks have fallen! 
+Radiant's middle barracks have fallen! 
+Radiant's top barracks have fallen! 
+The enemy's bottom barracks have fallen. 
+The enemy's middle barracks have fallen. 
+Ey! The enemy's top barracks have fallen! 
+The enemy's top barracks won't be troubling you again. 
+Your bottom barracks have fallen! 
+Your middle barracks have fallen! 
+Oh, your top barracks have fallen! 
+They was brave barracks, as far as barracks go, but it weren't enough. 
+Well, that is just a straight kick in the barracks. 
+Oh, this don't bode well. 
+You done good, son. 
+Dire's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+Your Ancient is under attack! 
+You seeing your Ancient? 
+You're just going to let them bash your Ancient like that? 
+Something tells me that Ancient ain't gonna be getting any more ancient... 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+The enemy now has megacreeps. 
+You now have megacreeps. 
+Uh oh. This don't look good. 
+Oh these creeps is serious now. 
+You see the size of these creeps? 
+Dire's structures are fortified! 
+Dire's fortified, I see. 
+Oh, look. Dire's fortified, I see. 
+Radiant structures. They're fortified! 
+Radiant forts have been fortified. 
+Radiant's been fortified. Nah, mate. Don't waste your time. 
+Radiant's been fortificated. Don't waste your time. 
+Radiant's courier has been slain! 
+Dire's courier has been slain! 
+Dire's courier, well, caring and feeding ain't gonna be a problem now. 
+Oh! Why'd they have to go and do that? 
+That courier never did wrong by nobody. Now that is a crying shame. 
+Poor little courier! 
+Poor little courier! I'm gonna miss that little guy. Oh he's got me all going over emotional. Oh you little poor courier... 
+Roshan has fallen to the Dire! 
+The big guy, he got himself killed. That Dire team, they don't muck about. 
+That big bastard got done for looks like. Dire's to blame! 
+Roshan has fallen to the Radiant! 
+I didn't think it could be done, but Radiant, they pulled it off! 
+Well, look who's dead. Radiant's to blame! 
+Dire victory! 
+Dire came out on top! 
+Radiant victory! 
+Radiant's the tops today! 
+Well, that's the end of that. 
+Oy. You might wanna do something about that. 
+Are you seeing what I'm seeing? 
+I'd look out if I was you. 
+Ah, that's a tight spot. 
+This don't look good. 
+No. No. Not good. Not good. 
+Ah. That hurts. 
+Oh, tough luck there. 
+Oh, that is rough that is. That is proper rough. 
+All right, buck up now. No sense in crying. Come on! 
+Ah, you'll get 'em next time. 
+Well done! 
+Now that set their ears back a bit! 
+Yeah that put them on their heels. 
+A scrapper after me own heart! 
+Pretty as a picture. 
+Nice! 
+There we go! 
+Nice wards! 
+Someone's buying wards? I can't believe it! 
+Oh, they are in for it now! 
+Spending gold like it's water. Ha ha ha! 
+Less hiding, more fighting! Come on, let's have it! 
+Now go get 'em! 
+Oy! Try to do better this time! 
+Top's gone missing! 
+Middle's gone missing! 
+Bottom's gone missing! 
+Oy! Bottom's gone walkies, just so's you know. 
+Nothing like watching a good fight while sharpening the bristles. Ha ha! Love it. 
+Oy where's Tusk, anyway? 
+The battle resumes! 
+Here we go! 
+Yeah, it's about time! 
+You sure you wanna do that? 
+There is a lower plane of hell for folks like you. 
+You dirty fighter. 
+Couldn't handle it, could ya? Ey? Couldn't handle it! 
+Where you going, son? 
+Oh! Un, a player's disconnected. 
+Oh? Oh, looks like someone's just dropped out. 
+Looks like you lost someone there, mate. 
+I've got a disconnect. 
+Got a disconnect. 
+Maybe should pause things for a bit till we find the little lost lamb. 
+The player has reconnected. 
+The prodigal hero returns. Yeah I knew they'd be back. 
+All mid. 
+All pick. 
+All random. 
+All random. 
+The captain's draft. 
+Captain's mode. 
+Death match. 
+Easy mode. 
+Least played. 
+Random draft. 
+Reverse captain's mode. 
+Single draft. 
+Every muck and his brother. 
+If it's really random, how do I know you'll pick the worst one. 
+If you're the captain, I don't have high hopes, I gotta tell ya. 
+Random takes the thinking out of it. It's for the best really, all things considered. 
+What? Like, malt liquor? 
+Son, I don't think you're up for this. 
+Now there's a mode you can handle. 
+Reverse what? What exactly are you reversing? What does that even mean? 
+Now this, this is a strategy after me own heart. Here's what you wanna do: run straight at 'em and bash! 
+Put on a brave face, son. 
+Captain's draft. More like captain's daft. Ha! 
+Son, I don't think you're up for this. 
+Welcome to Dota. 
+Ah, so you's come back for another beating, have ya? Ha ha. 
+You again? You ain't learned your lesson yet, have ya? 
+Well, look what we've got here. You come to pick a fight, have ya sunshine? Ha ha! 
+Welcome to Dota. 
+Ey! Good choice! 
+A little runty, isn't he? 
+Invoker? Are you sure about that? 
+Who brings a gun to a sword fight? I mean, that's a bit like cheating. I approve. Ha ha ha! 
+Wisely done, sunshine. Wisely done! 
+What? Oh, come on, really? You just did that? You're having a laugh! 
+What? You left me on the subs bench? You're mental, son. Mental! 
+You ain't picking me? You're leaving me on the subs bench? You're mental mate. Mental. Chicken fundamental. 
+Are you serious? You're not going to pick me? Nah, you're having a laugh mate. You're having a proper laugh. A bubble bath. A giraffe. 
+Oh mate you've just made a grave error. A grave error not picking me. Yeah mate, you're having a laugh. You're having a giraffe. A bubble bath. A wizard's staff. Ha! See ya later.
