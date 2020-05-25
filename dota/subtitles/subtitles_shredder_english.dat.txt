@@ -1,3 +1,54 @@
+s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
 Timbersaw! 
 I'm Rizzrack. Don't touch me. 
 I cut things. It's what I do. What else would I do? 
@@ -322,4 +373,7 @@ Ha ha!
 He he he he! 
 He he he he he! 
 Oh ho ho ho ho ho ho ho ha! 
-Ah ha ha ha ha ha!
+Ah ha ha ha ha ha! 
+Get away from me! 
+Oh oh oh oh! Ahhhhhhhhhhhhhhhhh! 
+Waaaaaaaahhhh!

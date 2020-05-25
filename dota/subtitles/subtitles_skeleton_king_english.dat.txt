@@ -1,3 +1,54 @@
+s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
 Wraith King! 
 Bow to your king! 
 King am I of all the wraiths. 
@@ -408,4 +459,844 @@ Oh ho ho!
 Ah ha ha ha! 
 Ah ha ha ha ha ha! 
 Ah ha ha ha ha ha! 
-Wah ha ha ha ha!
+Wah ha ha ha ha! 
+When I look out my window, I see a kingdom of bone. 
+When I don't see a kingdom of bone, I see a land begging to be a part of it. 
+One kingdom after another falls as I build my great empire. 
+And when there are no more worlds to conquer... Will I weep? 
+Do I look like the sentimental type? 
+By that point the first additions will need a good reminder anyway. 
+If you chop off my arm, I'm just going to stick it back on there. 
+If you sever my head, eventually my body will find its way home. 
+Hold no hope to defeat me. I am immortal royalty and you are lower than a peasant. 
+I have no need for memories of flesh. 
+Flesh decays. Flesh ends. 
+But I will not end. My reign will not end.  
+Those who understand that fact can find a place in my empire. 
+Those who oppose it... Well, I'll find a place for them in my empire, too. As crafted BONE. 
+Skeleton King! 
+Bow to your king! 
+King am I of all that is flesh and bone. 
+Do not question my purpose -- just follow my commands. 
+The Bone King! 
+And so the war begins! 
+They could all surrender now, but something tells me they aren't smart enough. 
+Worry not, peasants. This war can finally begin. 
+Let's get this over with quickly. I've got nations to kill. 
+Run from it if you will. But none can stop the legion of bone. 
+At this point you really should just address me as Emperor. 
+In a pathetic way, I sometimes envy those who get to wake each day in my kingdom... free of the worries concerning its expansion. 
+There's something different today. But I can't put my finger on it... 
+Where I tread, a kingdom of bone follows. 
+Count yourselves fortunate, mortals and other base creatures, you finally have a chance to be part of something that will last forever. 
+There's nothing unhealthy about my obsession. Here, let me show you. 
+I have a very good feeling about today. Call it kingly intuition. 
+Don't call it a comeback! 
+Kneel before your king... and I might spare your head! 
+Kneel, peasants. I. Said. KNEEL. 
+A fresh harvest begins. 
+Submit to the empire of bone! 
+People keep asking if I'm back. Yeah. I'm thinkin' I'm back! 
+Who dares approach my throne? 
+Swear you fealty to the empire of bone? 
+Wherever I lay my throne is home. 
+I swing the executioner's blade myself. 
+Bow before me. Or prepare to meet your fate. 
+I do not suffer fools in my court. I prefer to make THEM suffer. 
+Have you come to surrender? Very well then. <sigh> Prepare to die. 
+Surprised to see me? Yeah, I get that a lot. 
+Look at all these plots. I've got work to do. 
+Never put off until tomorrow killing those you can find today. 
+Trust me. These graves'll be filled in no time. 
+I just thought of the perfect place to kill a few rivals in no time. No questions asked! 
+I better not hear of any doubts. OR YOU'LL BE THE FIRST BODY BURIED HERE. 
+Look upon my collection and rejoice! 
+The graves of nations build a glorious empire. 
+I've laid waste to nations. But these here? These are the special ones. 
+After lifetimes of gratuitous slaughter, it's nice to bring new meaning to things. 
+Nothing brightens up the aeons like a good game of Collect the Corpse. 
+Who are we going to kill today? 
+Slaughter is just one letter away from slaughterS. So lets not limit our imaginations to one at a time. 
+It's the little things that make a life: Hearth, an Empire of Bone, and collecting the corpses of noteworthy opponents. 
+The smart ones consider it an honor to be added to my collection. But most still put up a fight. 
+Different bones for different reasons. Do I need these bones specifically? ...We'll say yes. 
+There's a fine line between a collection and a compulsion. 
+My schemes are all about plots. Plots as far as the eye can see. 
+It was kind of you to grow that skeleton to maturity for me. 
+The Empire of Bone knows no bounds. Nor should it. 
+Long life has made me something of a completionist. 
+What the king wants the king gets. 
+It's good to be the king. 
+Who else should have such a fine collection? 
+An empire of bones is built atop rivers of blood. 
+You can't build an empire without breaking a few bones. 
+If it has bones, I've killed it. Hell, if it doesn't have bones, I've probably killed it. 
+The bone war begins! 
+Comes now the King of Bones! 
+You haven't known war until you've warred with me! 
+I won't go easy on you. The weak and stupid die where they stand. 
+I'LL HELP MY WEAK AND PUNY ALLIES WHERE I CAN. 
+First Blood! I've still got it! 
+It is only right that First Blood should go to your king! 
+First Blood! Now to the business of the day! 
+First Blood! The bone harvest begins. 
+If you were going to live, this would make a great story for you. 
+I envy your tears. Though I would never have need to shed them. 
+Believe it or not, there IS a painless way to remove your all your bones. It just involves killing you first. And what fun would that be? 
+You can remove yourself now. I mistook those abnormal growths for interesting bone structure. 
+We are in agreement. 
+By my decree. 
+Wise counsel. 
+As you advise. 
+I'll consider it. 
+By any measure. 
+Your king moves of his own accord. 
+So what if I swagger? 
+Death is my bitch. 
+Who's in charge here? 
+War is torn. 
+Make way for your better. 
+Behold the Bone King! 
+Kneel -- your king is here! 
+Tis I! 
+I walk among you. 
+Prostrate yourself. 
+Keep your thoughts to yourself. 
+You are in my presence. 
+I'm always at my best. 
+Tis your honor. 
+Questionable. 
+Travel my bones! 
+Your king moves! 
+Well begun is half done! 
+A path opens! 
+Time to fight! 
+Never cross me. 
+Death is my shadow. 
+As I command. 
+All out war! 
+That's a good edge. I shouldn't have executed the blacksmith. 
+Nope, no bodies down there. 
+Target or no, the sword arm likes to swing. 
+Who put that ground there! 
+Pre-emptive flesh trench. 
+I'd gladly hit something. 
+Is the war already over? 
+Good soil here. 
+Gotta keep limber. 
+Did I feel a crick in my joint? 
+Batter up! 
+Where next to sink my blade? 
+I'm feeling strangely introspective... 
+Which side is my good one? 
+Hey, what happened to that rib?! 
+Do you hear a rattle? 
+What are you afraid of? 
+Bow before me. 
+Take a knee, peasant. 
+Who dares look upon my face? 
+Come, let's be about it. 
+Submit to the Bone King's rule! 
+By my crown. 
+Be not timid. 
+At my word! 
+Be about it! 
+Go to! 
+Fall upon them! 
+Behold your king! 
+Obey me! 
+I am your liege. 
+I'll cleave your skull! 
+I'll impale you! 
+A bone to pick! 
+Submit to the Empire of Bone. 
+A bone of contention! 
+Fracture! 
+Behold your king! 
+The wrath of royalty! 
+Flee while you can! 
+Your liege approaches. 
+I'll run you down! 
+I'm coming for your bones. 
+All to ashes! 
+Hellfire! 
+Blast you! 
+Blast it all! 
+Ah! 
+Ahhh! 
+Hoowaa! 
+Ash and bone! 
+Your king incarnates! 
+Still I rise! 
+My bones knit! 
+You can't kill a king who's dead! 
+Your once and future king is crowned! 
+My next incarnation! 
+I rise again! 
+I could do this all day. 
+Tis the next reign of Skeleton King! 
+You can't kill the dead. 
+Not even death can kill me. 
+Fresh from the grave! 
+Death has no grip on me! 
+Bone is strongest where it's mended. 
+Now it's your turn! 
+Let's see YOU try. 
+Guys? Guys?! 
+This is gonna hurt. 
+I don't like where this is going. 
+But I'm the king! 
+Uh, let's call it a draw! 
+I'll bite your legs off! 
+All right... Time for plan B. 
+Is it too late for terms? 
+Give to your king. 
+I want it all! 
+I'll take that! 
+Mine to claim. 
+Your king requires. 
+Submit! 
+Rise and shine! 
+A wise king always has an army in the wings. 
+What, don't you roll with a crew? 
+A king and his court should never part. 
+A good toadie's worth his weight in bone. 
+I knew they were lying around here somewhere. 
+I could have sworn there were more... 
+Where are the rest? 
+Three of you? Grrr. It'll do... 
+Hmm. I guess I haven't been killing enough. 
+A passable muster. 
+You know what to do! 
+Kill the living and smash the stone! 
+I had a lot of fun collecting this lot. 
+Now we're rolling deep! 
+A prince no longer. 
+Behold, my reach extends. 
+King me! 
+My next coronation. 
+A king's ascension. 
+Soon perhaps I'll choose a queen. 
+It's a king thing. 
+Now, this is truly the game of kings. 
+I'm your once and future thing. 
+Oh, roll the bones! 
+Living forever has its advantages. 
+The royal prerogative! 
+Servants! Bring me more of that. 
+Even I'm not perfect. Yet. 
+One step closer to world domination. 
+My plans haven't changed. Only the means to carry them out. 
+And my father said I'd never amount to anything. Who's laughing now dad? 
+Ohh! Ho ho ho ha ha! 
+Oh! Ho ho! Ho ha! 
+Hm hm hm ha ha ha haaa. 
+Another subject for the Bone King! 
+You come to a bad end. 
+I merely release the servant within! 
+Your flesh falls, your bones belong to me. 
+Prostrate yourself! Oh good, you did. 
+Very well, I accept your surrender. 
+An acceptable show of loyalty. 
+I'll take that as a compliment. 
+Was that some sort of misguided tribute? 
+Don't question it. Just let it roll over you. 
+Deal with it. 
+Consider yourself quashed. 
+Now for your co-conspirators. 
+Nipped that coup in the bud. 
+I decree you deceased. 
+Ah ha ha ha ha ha ha hah! 
+Lord have mercy? I think not. 
+It's a pity surrender wasn't an option. 
+He he hee! 
+Ahh ha ha haa! 
+Hoo ho ho ho! 
+Hoo hoo hoo ha ha ha ha! 
+Ha ha ha ha ha ha ha! 
+I see you take my sword point exactly! 
+IT'S THE EXPRESSION ON THEIR LITTLE FACES I LIKE. 
+I TAKE YOUR LIFE AS IT COMES. MOSTLY WITHOUT NOTE. 
+But the deathless...cannot die. 
+The King... uncrowned! 
+My reign in ruins. 
+Dig my grave and I'll put you in it. 
+I left no heirs! 
+I should have chosen a queen! 
+Who will lead my kingdom now? 
+This makes no sense. 
+My throne grows cold. 
+Death by decrees. 
+So this is how it ends? 
+The age of kings has ended. 
+Back again! 
+Fresh from the grave! 
+Death has no grip on me. 
+Now it's someone else's turn to die. 
+Your liege returns! 
+Bow to your king! 
+Tis I! 
+Once more, with screaming! 
+Hnn hnn hnn hnn ahh hahh hah. Ahh ha ha ha haa! 
+Come now! 
+Good grief! 
+Treason! 
+Such disrespect! 
+Wait! 
+But--but! 
+You rat! 
+Ah! 
+Uh! 
+Dead again. 
+Wait! 
+But--but--but I--! 
+Uhhh! 
+Uaaahh! Aya Aya uhhhh.... 
+Huh... 
+See you sooner than you think! 
+The grave won't long hold me! 
+This too shall pass! 
+I never fall without rising. 
+Don't carve my headstone just yet. 
+Death is not my end. 
+Oh now you've done it. 
+A minor set-back. 
+Death, my old friend. 
+Once is never enough! 
+Noooo! 
+Bone loss! 
+Cut to the bone! 
+By my bones, I swear revenge! 
+Many the day I shall rest in clay! 
+This bone shall stick in your throat! 
+Grind me to powder, even then I shall return! 
+Oh my aching bones. 
+Bone fracture. 
+I'll be right back. 
+Aegis? Aegis?! I don't need no stinkin' Aegis! 
+No! 
+Who's idea was that? 
+Execute all my advisors! 
+I need better counsel! 
+Good thing I already lost my skin. 
+That was my last raw nerve! 
+This is regicide! 
+There's been a coup! 
+Overthrown! 
+I don't believe this. 
+Poor timing! 
+Too soon. 
+No resurrection? 
+Rebirth out of reach! 
+What sort of king am I? 
+I'll be right back. Wait? What? 
+Would it not please you to cut me down? 
+Come at me, I beg you. 
+Do your worst, I'll not resist. 
+You'll have no trouble beating me down, dog. 
+I dare you. 
+Just try me. 
+Kill me! 
+Come on and kill me. 
+Best death yet! 
+Oh, the irony is rich! 
+I am legend! 
+Once is a bit of fun. Twice makes it personal. 
+All right. Enough with the bone jokes. 
+The Bone King reigns again. 
+That was a brief interregnum. 
+My subjects will be glad to hear my voice. 
+I have dreamed of this day. 
+What is a kingdom without a king? Just dom. 
+I'll not be so easily dispatched. 
+Alert the heralds. I'm back! 
+Issue a proclamation. The Bone King's throne is occupied. 
+The kingdom's gone to hell while I was away. 
+My bones mend. 
+I'm unfettered by the needs of the flesh. 
+I wage life anew! 
+I owe many days to the grave. 
+Death sheds its skin. 
+Long live the king, which is to say: Me. 
+Would you jump in my grave that fast? 
+Any pretenders to my throne will be sorely disappointed. 
+I've had a lovely tour of the boneyard. 
+The King of Bones reigns again. 
+A fine fealty. 
+Good day, peasant. 
+Every king has his coffers. 
+For the treasury. 
+For the treasury. 
+Another paltry offering. 
+Die, peasant. 
+Every coin counts. 
+Your life is spent. 
+I'll make thralls of you all. 
+Obey. 
+Fealty! 
+A fine show of obedience. 
+Don't get up. 
+Did I give you permission to fall? 
+Death tax. 
+Yours was a crushing debt. 
+The honor is yours. 
+Rattling bones AND jingling coins?! 
+I'll swim in it later. 
+Denied. 
+Denied. 
+Uh uh. 
+No no no. 
+No. 
+No. 
+Tut tut! 
+Oh no. 
+Never. 
+Tis not your time. 
+For the king! 
+In the name of the king. 
+Mine. 
+All mine. 
+As I will it. 
+Ha haa! Ha ha ha! 
+Bad peasant. 
+Denied! 
+Denied. 
+A good king makes hard decisions. 
+Ooh. 
+No no no. 
+No! 
+No! 
+No! 
+Never! 
+Mine. 
+Mine! 
+All mine. 
+Ha! 
+Huh! 
+Ha ha! 
+A wondrous prize! 
+I'd empty every treasury for this. Even my own. 
+Very nice. 
+Earned in pairs. 
+Ah, scepter! 
+What's a king without his scepter? 
+Blink Dagger! 
+Blink Dagger! Heh heh. Surprise, your King is here! 
+I claim the armlet. 
+Armlet of Mordiggian. 
+Black King Bar! 
+Bone King Bar! 
+Vladmir's Offering! 
+Assault Cuirass! 
+Battlefury! 
+Heart of Tarrasque! 
+Satanic! 
+Radiance! 
+Divine Rapier! 
+Refresher Orb! 
+Heaven's Halberd! 
+Desolator! 
+Force Staff! 
+It's the three R's--Refresher, Rapier, and whatever the hell I want! 
+It's the three R's--Refresher, Rapier, and you will show me RESPECT. 
+Oh, Rapier. NOW YOUR KING IS BALLING OUT OF CONTROL! 
+I am a patient king. 
+For the king's collection. 
+Immortality! 
+As if I needed more of this. But I'll take it. 
+Haste! 
+Haste in everything but judgment. 
+Double damage! 
+Crown me twice, shame on you! 
+Regeneration! 
+I usually have people for this. 
+Illusion! 
+We'll lead as three kings! 
+Rolling bones! 
+Invisibility! 
+Your king unseen. 
+My bones are cloaked. 
+An arcane trick. But I like it. 
+Now I have all the spells. 
+Bounty! 
+Bounty! 
+Technically, these all belong to me. 
+Just what I needed. 
+Who gave you permission to build this here? 
+I claim this outpost for the Empire of Bone. 
+I claim this outpost in the name of ME. 
+You have done the kingdom a service. 
+Your king thanks you. 
+We are grateful. 
+Thank you, peasant. 
+I'm under attack! 
+I'm under attack! 
+Curs! Your king is under attack! 
+It's as certain as my choice of heir, this one is in the bag. 
+This one is in the bag. And not one of those drab bags the lot of you are using. A ROYAL bag well beyond your petty means. 
+Shitty wizard! 
+Crummy wizard! 
+Missing top! 
+Missing middle! 
+Missing bottom! 
+I believe I have a storeroom full of these. 
+You can buy a lot of allies with one of these. 
+This will be a jewel in my already sparkling crown. 
+Not yet. 
+Not yet. 
+Not yet. 
+I'm not ready. 
+I'm not ready. 
+I'm not ready. 
+It's not time yet. 
+It's not time yet. 
+It's not time yet. 
+Out of mana. 
+Out of mana. 
+Out of mana. 
+No mana. 
+No mana. 
+No mana. 
+Not enough mana. 
+Not enough mana. 
+Not enough mana. 
+Yes... 
+Yes. 
+Yes! 
+No... 
+No. 
+No! 
+No! 
+Nooo! 
+Defeated! 
+Has any king ever had a shorter reign? 
+My bones crumble to dust! 
+What do you mean it isn't two out of three? 
+This isn't over until I say it is! 
+Yeah-heh-heh-hea. 
+Victory! 
+Welcome to all my new subjects. Now let's get to know each other. 
+Oh how the skeletons shall dance! 
+I think I'll rebuild this Ancient in bone. 
+Ok that's over. Where are we fighting next? 
+Uah! 
+Uah! 
+Gah! 
+Huah! 
+Gaah! 
+Huh huh huh huh! 
+Ooah! 
+Gaaah! 
+Uuuaaahh! 
+Gah! 
+Oof! 
+Hrah. 
+Ahh! 
+Urgh! 
+Arggh! 
+Gaaah! 
+Ahhh! 
+Urrrrrh! 
+Grah! 
+Ooooo! 
+Gruah! 
+Ahhh. 
+Heh hah. 
+Ah hah! 
+Ahh! 
+Uuah! 
+Oooah! 
+Ha ha ha! 
+Ahh! 
+Oh ho! 
+Ahh! 
+Huah! 
+Huah! 
+Huah! 
+Gyah! 
+Hah! 
+Oof! 
+Uryah! 
+Huah! 
+Huah! 
+Huah! 
+Rgng! 
+Eeyah! 
+Urrryah! 
+Urraaah! 
+Urrah! 
+Ha ha ha! 
+Oh ho ho ho ho ha! 
+Oh ho ho ho ha! 
+Ah ha ha ha ha haa! 
+Ahhh ha ha ha ha! 
+Woa ho ho ha ha haaa! 
+Ahhh haah hah haha hahaha! 
+Ah ha ha haah hahahahahaa! 
+Ahh haha hahahaaa! 
+Oh ho uh huh uh haha haha hahaha! 
+I regret that I can no longer feel the true depths of pain. 
+I welcome the Spirit of Earth, though I'll not be buried in it. 
+Ah, Phoenix, one who knows what it's like to fall and rise again. 
+Oracle, you must have foreseen that your future lies with me. 
+I dub thee Chaos Knight! How's that for a name? Not bad, eh? 
+What sort of king was that? 
+My queen. 
+Oh Queen of Pain, I still can't feel your touch. 
+I would that you had joined me as my queen. 
+Undying, they called you. That's a laugh. 
+You'll make a better subject than anything in your book. 
+You dared raise a hand or whatever that is against your king? 
+Your spirits have abandoned you in the kingdom of the damned. 
+Your shades guided you to my kingdom. Perhaps they weren't your allies after all. 
+That ember was easily snuffed. 
+From ashes reborn. I know the feeling. 
+Sorry, Doom, I was a great admirer of your work. 
+Underlord. Your title is worthless here. 
+Go back and guard your arcs. 
+And you call yourself a lord. 
+Lord of what land were you again? 
+Was that some sort of lord? 
+Funny, I don't remember knighting that one. 
+You should know better than to oppose a king. 
+Even titans must bent the knee. 
+Court mage? More like court jester. 
+Your spirit was too lowly to stand before a king. 
+No amount of foresight could have prepared you. 
+You were a poor pretender to my throne. 
+You are here out of season, Winter Wyvern. 
+I could not tolerate such an explosive presence in my kingdom. 
+Invertebrate scum! 
+I have no use for an exoskeleton! 
+What lacks a skeleton also lacks a soul! 
+A small pile of bones you'll make! 
+A more repugnant skeleton I've never seen! 
+You call yourself a king? 
+What's this, Sand King, no bones? 
+Clinkz...still playing at bow'n arrows, I see. 
+My Queen. 
+Oh Queen of Pain, if I had flesh I'd let you torment it. 
+Ah, Queen of Pain, my bones are yours to crack. 
+Don't expect me to sing your dirge. 
+The Death of Dirge is a most pleasant melody. 
+Dirge's death plays sweetly in my ears. 
+Dirge...learn from the master and bow to your king. 
+I had a steed like this once. It's good to be reunited. 
+I don't want your mist. Just the brittle innards. 
+Two bags of bones? A nice bit of fortune. 
+Even two of you combined hardly stack up. 
+Leave me to my mission, Apparition. You're a waste of time. 
+Little more than a distraction, in the end. 
+Your bones would be wasted on the Dead God. 
+No bones blink from MY grasp, Anti-Mage. 
+Time to crack that thing open and find out what you're really about. 
+The ancients are just another footnote in my story. I don't care what you think your role is. 
+I always enjoyed your brutal simplicity, Axe. Until it got in my way. 
+Let me tell you a little story about nightmares, Bane. 
+What I really wanted was the bat, but I won't say no to the rider too. 
+Let that be a lesson to ALL who refuse my offers of employment. 
+The Flayed Twins could be on to something... Maybe I should get a bone seeker. 
+You didn't need to track me. The King doesn't hide. 
+I really wanted to like you, too. 
+The feast will go on without you -- in my honor. 
+A dangerous carcass like that must hide rare bones indeed. 
+I've got no use for arachnids! 
+We'll have leg bones for days! 
+If only the phantoms remained corporeal too... 
+Chen, I thought so little of you I'm not even going to offer any parting words. 
+Born followers get no respect from the likes of me! 
+Here lies a mortal who truly knew the meaning of duty. 
+Let's test this immortality of yours a bit further. 
+Why, there's bone underneath there after all. 
+Damn you! I hate it when they shatter! 
+I know the perfect place for this one. 
+Such vitality is wasted on the young. 
+I have no need of your sorcery, you Nothl weirdo. 
+You see, prophet? I know aaalll about death. 
+Confound me no more, sorcerer! 
+No, I'M the bringer of doom. They have you confused for someone else. 
+Dragons are still below Skeleton Kings on the bad ass hierarchy. 
+Why do they let these hideous creatures procreate? 
+Pretty fancy moves for a talking statue. 
+Time to fit you for a totem of bone. 
+I thought you'd hit harder than that, Titan. 
+I need not fear flames, Spirit. 
+I thought to wait for more little creatures to arrive, but I became impatient. 
+I do not waste words on amorphous blobs. 
+In the land of the blind... I'M still king. 
+Count yourself fortunate I didn't do worse with the brush. 
+You were past your years anyway, old man. Best to get you before your bones go completely brittle. 
+Killing the crazy ones isn't as fun because they don't even care if they lose. 
+I have no words for disembodied balls of light! 
+Trust me, Invoker. Everyone knew you had this coming. 
+You remind me of the advisors I like to kill. 
+This rare a specimen calls for celebration! Bring me a peasant to kill. 
+I always enjoy killing the last of one's kind. 
+Helpless old man. I guess your looks weren't deceiving. 
+Time to answer this question once and for all, Kunkka. 
+Bring on your legions, Tresdin. I welcome more vassals. 
+You'll make a nice wall mount for my summer home. 
+I generally prefer to remove a victim's flesh myself, but I'll find ways to divert my disappointment. 
+Your gaolers mustn't have been very skilled. 
+Nothing left but ashes. What a waste. 
+I'm long past need for your services, demon witch. 
+The bear isn't real? But that was the part I wanted! 
+You weren't worthy of such a fine animal. 
+Don't worry, Nova. I'll fix you. I fix everything. 
+It was thoughtful of you to bring the wolves too. 
+I told you there's no marrow! 
+Who are you again? 
+Talking beasts coming out of the woodwork... 
+Haha, if you were the god of war, I guess that likens me to the god of death. 
+Your magic is far less effective on bone! 
+I guess I have to clean up the riff raff myself! 
+I generally dislike killing felines, but the rider died quite well. 
+Don't worry, Sagan. I can bring you back to life...ish. 
+I've been waiting to shut your mouth for a long time, Wu Kong. 
+Gods can't kill you, but I'm not a god. Hail to the real king. 
+You're useless to me! 
+Get this water puddle out of my way. 
+I see you more as an instrument type. 
+I love a nice set of antlers. Really ties a room together. 
+Your plague works no wonders on me. 
+Fear of the dark is basic. Wouldn't you say? 
+I could have used an assassin who only knows one word. Pity. ... I'm assuming nyx means kill? 
+The others don't see it, but your bone value is off the charts. 
+I love to watch for that moment when belief leaves the eyes. 
+This was MY divine right. 
+Which quip am I going to drop over your corpse, Oracle? 
+A forgettable death. Perhaps that's why you could not avoid it. 
+Well, killing me obviously wasn't your purpose. 
+You fight for justice, pangolier? THERE?S NO JUSTICE, THERE?S JUST ME. 
+Your kind follows too many rules for my liking, assassin. You only need one rule: my rule. 
+I bet you thought things were going to get pretty funny. I don't like funny! 
+I was going to give you the benefit of the doubt on account of the whiskers. But safer just to kill you. 
+I think it's best if I remain the resurrection expert around here. 
+I hate faerie dragons more than real dragons! 
+Well at least the flesh'll fall right off the bone. 
+I heard they need a xylophone player in hell. 
+I bear no more fears of the flesh, Akasha. 
+There's no place for the likes of you in my collection. 
+As I suspected, the bones appear just fine. 
+Not even you can unravel my best tricks, magus. 
+How can SAND be king? It can't. That's how. 
+Most pretenders have rocks in their head...not literal dirt. 
+I've advanced beyond umbral concerns, Shadow Demon. 
+The punishment for molesting my soul is extreme indeed. 
+We have laws against street performers where I'm from. OFF WITH HIS HEAD. 
+I WILL NOT BE SILENT. I WILL BE THE OPPOSITE OF SILENT AND YOU'LL BE DEAD. 
+The good news is that your petty problems won't follow you in death. 
+I think I'll carve your spine into a whistle, Slardar. 
+I hired you for one simple job. What do I care if they threw you in prison? 
+GODS ABOVE AND DEMONS BELOW, DO YOU EVER SHUT UP WOMAN? 
+The lizard had its charms, but even the best keen are hardly tolerable. 
+I think I stepped on something. 
+I don't get you transdimensional types. It seems like this fate was easily avoided. 
+Tell your master our contract is void. He didn't hold up his end of the bargain. 
+I have no use for electricity. I want BONE. I already have POWER. 
+The intermingled creatures always have the most interesting physiology. 
+Three for the price of one! Sometimes life's too easy. 
+Blast my bones, that was annoying! 
+NOW YOU KNOW THE SECRET. 
+Tell your master I want my sundial back. 
+Nothing I hate more than a demon with ambiguous goals. 
+At last, the great Tidehunter. A scrimshander's delight! 
+Tis fortunate I don't require his brain. 
+I know his type -- better off dead! 
+Why'd you roll across my path, anyway, Tiny? 
+I told you I have NO INTEREST IN TREES. They can all be cut down AFTER the war is over. 
+Even as an unofficial title, warlord was pushing it. 
+A chance to bone up on my scrimshaw! 
+All the collectors had their eyes on you. 
+You should have bowed to your rightful king. Subservience is literally in your name. 
+Kids these days. EVERYTHING is hyperbole... 
+Undying done did die! 
+You mentioned a den, Ursa. Where would I find that? 
+Taking back your own kingdom lacks imagination. I'll settle for nothing less than ALL the kingdoms. 
+Do these things even have bones? I can never tell. 
+All you did was give me a bit of polish, Viper. 
+I told you I don't belong there! 
+No bones about it. You suck. 
+All that effort for nothing. 
+That's for breaking my sundial! 
+I used to have need of men like you. But no longer. Obviously. 
+Ugh. Is this the start of an infestation? We'll see about that. 
+I half expected your corpse to just blow away. 
+We have very different opinions on the subject of art. 
+I'll never need a doctor again, thank you. 
+Mortals have this phrase... god's bones. Let's unpack that a bit. 
+You should have stayed on your mountain, Zeus. My forces won't get THERE for ages. 
+Ditch that other loser and take a walk on the dead side. 
+Your parts are useless to me! 
+Inarticulate and savage. A fitting way for you to die. 
+The simple tools are the best ones. Especially when sharpened. 
+Your tiny carcass was almost a waste of my time. 
+Hollow bones?! Why, I'd kill you again if you weren't already dead. 
+Abyssal Blade 
+Aeon Disk 
+Aether Lens 
+Basher. 
+Blademail 
+Bloodstone 
+Bloodthorn 
+Boots of Travel 
+Just in case! 
+Crystalys 
+Daedalus 
+Dagon 
+Demon Edge 
+Desolation reigns. 
+Diffusal Blade 
+Drums of Endurance 
+Dust of Appearance 
+Eaglesong 
+Echo Sabre 
+I don't need to bottle anything up. I'm the king! 
+Ethereal Blade 
+Eul's Scepter 
+Gem of True Sight 
+Ghost Scepter 
+Glimmer Cape 
+Hand of Midas 
+Helm of the Dominator 
+Hood of Defiance 
+Shadow Blade 
+Kaya 
+Kaya and Sange 
+Lotus Orb 
+Maelstrom 
+Manta Style 
+Mask of Madness 
+Medallion of Courage 
+Mekansm 
+Meteor Hammer 
+Mjollnir 
+Monkey King Bar 
+Mystic Staff 
+Necronomicon 
+Nullifier 
+I see all. 
+Octarine Core 
+Orchid Malevolence 
+Pipe of Insight 
+Burn for me. 
+Rod of Atos 
+Sange 
+Sange and Yasha 
+Revealing... 
+Scythe of Vyse 
+Shiva's Guard 
+Silver Edge 
+Eye of Skadi 
+Smoke of Deceit 
+Solar Crest 
+Soul Ring 
+Linkin's Sphere 
+Spirit Vessel 
+No one can have these but me! 
+Aghanim's Beloved Scepter! 
+Urn of Shadows 
+Vanguard 
+Veil of Discord 
+Yasha 
+Yasha and Kaya
