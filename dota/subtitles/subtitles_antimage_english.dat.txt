@@ -1,4 +1,7 @@
-s2:%s3:%s4 
+s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
 %s1:%s2:%s3 
 %s1:%s2 
 %s1d %s2h %s3m %s4s 
@@ -258,4 +261,416 @@ Ha ha ha ha ha ha ha ha ha ha ha ha!
 Ha ha ha ha ha. 
 Ha ha ha ha ha ha ha. 
 Ha ha ha ha ha ha ha. 
-Ha ha ha ha ha ha ha ha!
+Ha ha ha ha ha ha ha ha! 
+I don't bow to magic. 
+I don't bow to magic. 
+My will is strong. 
+I won't succumb to magic! 
+You're not as powerful as you thought. 
+You'll have to try harder than that? 
+You think a couple cantrips are gonna stop me? 
+Counter magic was my first lesson. 
+Not so fast. 
+I won't be broken by magic. 
+Your tricks won't work on me. 
+It will take more than that, magi? 
+You have no power over me. 
+I bring an end to magic. 
+I bring an end to magic. 
+Die, Magi? 
+Bye-bye. 
+Boom. 
+Boom. 
+I am the wizards bane? 
+Those who turn to magic will be punished! 
+Let the void consume you! 
+You will be destroyed by your own magic? 
+It's over. 
+Say goodnight. 
+Say goodnight. 
+You brought this on yourself. 
+Your magic has failed you. 
+Forbidden magic? 
+I will use the magi's own power against them? 
+I strike, swift and sure. 
+I'll make short work of them. 
+This shouldn't take long. 
+I'll make it quick. 
+You're no match for me! 
+I'm taking you down. 
+I've waited for this moment! 
+I won't be defeated! 
+Give no quarter! 
+Show no mercy! 
+Face me! 
+I don't fear death? 
+I don't run from a fight? 
+Surrender or die! 
+You won't beat me! 
+Fight till the end! 
+We must be relentless. 
+I'm coming for you? 
+Only one of us will survive! 
+Only one of us will survive! 
+Alright Wei? don't embarrass yourself? 
+OK? here we go. 
+Wow, that was louder than I thought it be. 
+It's starting! 
+Jungle, here we come? 
+This feels redundant. 
+Do I need this?  No.  Am I buying this because I can?  Absolutely. 
+*sigh* blink dagger. 
+I'll save this for later? 
+This will come in handy? 
+I can use this later. 
+Oooo 
+Oooo 
+Oooo 
+Got it! 
+I'll find the right time to use this 
+Bounty! 
+More gold never hurts? 
+It's not cheap getting the gear I need? 
+Behold the power of the Anti-Mage 
+Behold the power of the Anti-Mage 
+By focused mind, and sharpened will? 
+Just like my mentor taught me? 
+I got a few tricks up my sleeve? 
+No! 
+No! 
+My training failed me. 
+The Anti-Mage is gonna give me hell for that? 
+Was that good?  No.  But we can still turn things around. 
+I will learn from this? 
+I won't lie, I didn't see that coming. 
+Ow. 
+Ow. 
+Ow. 
+Yeah, that was bad. 
+Ugh, that was embaressing. 
+I can't let that happen again. 
+They're good, I'll give them that. 
+Looks like this won't be so easy afterall. 
+This is gonna be harder than I thought? 
+Impossible! 
+Impossible! 
+nu-uh. 
+nu-uh. 
+I don't think so. 
+Sorry friend. 
+Sacrifices must be made. 
+You force my hand? 
+I'll steal your victory. 
+Your effort was wasted! 
+Not today. 
+Not today. 
+Not today. 
+You didn't think you were gonna collect, did you? 
+Denied! 
+Denied! 
+You thought you were winning? 
+I'll do whatever it takes! 
+Double Damage! 
+I'll cut our enemies down. 
+They will fall before me. 
+Not bad, not bad? 
+Let's see what I found? 
+Looks like it's my lucky day? 
+Wait until the Anti-Mage sees this! 
+Fortune's smiling on me? 
+This isn't over! 
+This isn't over! 
+We can still win this! 
+Looks like all that training paid off. 
+Man, I thought that would be harder. 
+We are off to a helluva start. 
+I don't get what the boss was talking about, these guys aren't so tough. 
+Haste! 
+Let's see them catch me now. 
+I'm faster than ever. 
+I have trained for this moment? and I am ready. 
+The Anti-Mage trained me.  Molded me.  I will make him proud. 
+I've waited so long for this moment? to prove not just to my mentor, but to the world what I'm capable of. 
+The Anti-Mage is not a name.  It is a title worthy of respect from the righteous? and fear from the wicked. 
+There's no Magi that I can't track and kill. 
+The Anti-Mage and I are similar, but we do have differences? for instnace, I know how to talk like a normal person. 
+I've dedicated my life to be good at one thing: hunting mages.   
+Am I afraid about the war of the ancients?  Buddy, I've had to conduct an investigation in Weeping Rose, theres nothing scary about some glowy rocks. 
+I don't look forward to bloodshed, but I'm not afraid of it either. 
+Illusion! 
+I will cloud their minds. 
+Let's have some fun? 
+The Ageis of Immortality! 
+Death will hold no power over me. 
+I don't fear death. 
+I don't fear death. 
+It's over. 
+Their suffering is about to end. 
+Call it, this thing is in the bag. 
+Invisibility! 
+They'll never see me coming? 
+Let's go hunting. 
+Fun while it lasted. 
+Aeon Disk 
+This doesn't make any sense... 
+Why would I buy these? Must be cursed... 
+What was this one called again? 
+Assault Cuirass? Don't mind if I do. 
+Time to crack some skulls. 
+I've wanted one of these for a long time. 
+Magic ends today. 
+I think they'll like this one. 
+Superfluous. 
+Bloodstone 
+Bloodthorn 
+I could get into some trouble with these. 
+Gotta have the essentials. 
+Butterfly 
+Ugh. Not a fan. 
+Ugh. Not a fan. 
+It looked like fun. 
+Top-shelf damage. 
+Dagon? Filthy. 
+Dagon? Filthy. 
+Better not cut myself. 
+Desolator. Yep, that's me. 
+Don't all blades do that? 
+Time to give Weeping Rose something to cry about for real. 
+Dragon Lance 
+Drums of Endurance 
+This should solve THAT problem... 
+Echo Sabre 
+Kind of expensive for a bottle of water... 
+Ethereal Blade 
+Eul's Scepter! 
+Force Staff 
+Gem of Truesight. Thought I had one of these... 
+Ghost Scepter. 
+Glimmer Cape 
+Hand of Midas. 
+I'm not usually into money, but did you see those weapons in the secret shop? 
+Heart of Tarrasque 
+Heavens Halberd 
+Helm of the Dominator 
+Hood of Defiance 
+Hurricane Pike 
+Shadow Blade 
+Kaya 
+Kaya and Sange 
+Sure. Why not? 
+Maelstrom 
+Hmm... 
+Hmm... 
+Hmm... 
+Manta Style 
+Mask of Madness 
+Medallion of Courage 
+Mekansm 
+Meteor Hammer 
+Mjollnir 
+Monkey King Bar 
+Necronomicon 
+Nullifier 
+Always be aware of your surroundings. 
+Octarine Core 
+Orchid Malevolence 
+Pipe of Insight 
+Radiance! 
+Refresher Orb 
+Rod of Atos 
+Sange 
+Sange and Yasha 
+Satanic! 
+Can't be too careful. 
+Can't be too careful. 
+Wait, this thing's real? 
+Wait, this thing's real? 
+Shiva's Guard 
+Silver Edge 
+Eye of Skadi 
+I'm all for the cunning approach... 
+Solar Crest 
+Linkin's Sphere 
+Spirit Vessel 
+Knowledge cuts like a sword. 
+Oh yeah. Almost forgot... 
+Trust me. You're gonna wanna lay off the magic for a while. 
+Urn of Shadows 
+Vanguard 
+Veil of Discord 
+Vladmirs Offering 
+Yasha 
+Yasha and Kaya 
+Die! 
+Die! 
+Too easy. 
+No problem. 
+My training paid off. 
+The Anti-Mage would be impressed 
+I think I'm getting the hang of this. 
+To think I was worried? 
+Another one down. 
+Onto the next one 
+I'll cut you all down! 
+These guys can't keep up with me. 
+You're all going to die! 
+You're all going to die! 
+yes! 
+yes! 
+Whew? 
+Whew? 
+This isn't over yet? 
+One of many victories? 
+I can't get cocky? 
+This fight is far from over? 
+Yes! 
+Keep the money coming? 
+I'll need more gold than that? 
+Good. 
+Good. 
+Easy money. 
+Who's next? 
+Bring me more. 
+Let's keep the momentum going. 
+Gotta keep this up. 
+Perfection. 
+My form was perfect. 
+Just like I was taught. 
+I'm getting into a rhythm now? 
+Keep the gold flowing? 
+More gold.  I need more gold. 
+I'll take that? 
+More coin never hurt. 
+I'm gonna need a lot more where that came from. 
+That's how it's done! 
+I don't think you'll be needing that gold anymore? 
+I'm feeling warmed up? 
+My training continues? 
+I grow closer to my full potential? 
+More training never hurts? 
+You pick things up fast in the field? 
+The enemy is crafty? I must prepare. 
+My weapon is an extention of my instincts.  My hands an extention of my will. 
+There's so much more for me to learn? 
+I rise to meet this challenge. 
+Another step towards perfection. 
+They will yield or they will die. 
+My mentor would be pleased. 
+This is gonna be tough to explain to The Anti-Mage. 
+I?I lost. 
+I?I lost. 
+What did I do wrong? 
+That wasn't the way this was supposed to go? 
+Damn it! 
+How  did I let this happen! 
+Forgive me Anti-Mage?. I failed you. 
+My best wasn't good enough. 
+Tops missing! 
+Middles's missing! 
+Bottom's missing! 
+On it. 
+On my way. 
+Moving. 
+Let's go. 
+They won't know what hits 'em? 
+Ready to fight 
+Let's keep moving. 
+This is what I trained for. 
+I won't let you down. 
+Let's get to work. 
+it's time. 
+Let's make some gold. 
+We don't have time to waste. 
+I go where I'm needed. 
+I go where I'm needed. 
+I'm ready. 
+Let's stop these bastards. 
+I'm with you. 
+The battle continues. 
+We have a plan, right? 
+Moving into position. 
+Let's move. 
+Let's move. 
+I'm coming? 
+No mana? 
+No mana. 
+No mana! 
+I'm out of mana? 
+I'm out of mana. 
+I'm out of mana! 
+Need mana? 
+Need mana. 
+Need mana! 
+Mana's low? 
+Mana's low. 
+Mana's low! 
+Not yet? 
+Not yet. 
+Not . Yet. 
+Not ready?. 
+Not ready. 
+Not Ready! 
+I can't do that? 
+I can't do that. 
+I can't do that! 
+It's not time? 
+It's not time. 
+It's not time! 
+I need this. 
+Good. 
+I'll use this for now. 
+Just what I needed. 
+God this stuff is expensive. 
+Regeneration! 
+I'll stay in the fight as long as I can. 
+I won't fall in battle. 
+OK, let's try this again? 
+Maybe I wasn't as ready as I thought I was. 
+Alright Wei? let's try not dying this time. 
+I can't let the Anti-mage down? he's trusting me 
+I can do this.   
+I'm back in the fight? 
+I still have time to get revenge? 
+Take me to the battle.. 
+They're gonna pay for that? 
+Now where were we? 
+I need to be better equipped so that doesn?t happen again 
+I didn't spend years training in a cave just to sit on the sidelines now? 
+I can feel the power course through me. 
+This power is forbidden to wield, and yet it is mine. 
+Aghanim's Scepter is a thing to be feared? 
+The Anti-Mage has arrived. 
+I'm Wei, we can get to know each other better after I kill these guys. 
+I've been training for this moment. 
+I won't fail you? 
+I won't let my mentor down. 
+Together we can bring an end to magic. 
+I have my orders. 
+My life doesn?t matter, the mission does. 
+I'm here on behalf of the Tyler Estate. 
+Run mages, run? 
+OK, time to kill a lot of people? 
+Breathe Wei, breathe? its just an army, no big deal. 
+No turning back now? 
+Let's show them who they're dealing with. 
+I'll show them what I've learned? 
+This is the moment I've been waiting for. 
+I can almost taste the anticipation in the wind. 
+We don't have much time, we need a plan. 
+Now is the time for action. 
+We will fight and we will win. 
+We will fight and we will win. 
+Thanks! 
+Thanks! 
+Thank you. 
+I owe you one. 
+Appreciate it. 
+We're under attack! 
+The enemy is here! 
+The tower is under attack! 
+See?  No problem. 
+The war is over? 
+Of course we won? 
+I was never worried for a second? 
+It was an honor to fight beside you all. 
+This was over the moment the battle started.

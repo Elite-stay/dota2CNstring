@@ -1,4 +1,7 @@
-s2:%s3:%s4 
+s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
 %s1:%s2:%s3 
 %s1:%s2 
 %s1d %s2h %s3m %s4s 

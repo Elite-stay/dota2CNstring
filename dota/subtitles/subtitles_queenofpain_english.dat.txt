@@ -1,4 +1,7 @@
-s2:%s3:%s4 
+s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
 %s1:%s2:%s3 
 %s1:%s2 
 %s1d %s2h %s3m %s4s 
@@ -297,4 +300,825 @@ Hm, ha ha ha ha!
 Ha ha! 
 Uh ha ha ha! 
 Ha ha. 
-Mu ha ha ha ha ha ha ha, he!
+Mu ha ha ha ha ha ha ha, he! 
+What's not to love about the mortal realm? 
+Plenty to see, plenty to kill. 
+And, hells, some of the best screamers. 
+But sometimes a girl's gotta go home. 
+And a lot can change. Time passes differently down there... 
+Influence abandoned is influence lost. 
+And, in my brother's case, finders keepers. 
+My brother, B'Kor... A more wretched demon you will not meet. 
+He barely crosses the bar. 
+But in the Court of Ristul, he has won much favor of late. 
+While I enjoyed my time away, he made new friends...and eliminated a host of foes. 
+He has powerful allies now...and it seems they have grand plans. 
+But none of those plans, I gathered, include me. 
+So. I guess it's time to misbehave. 
+It's amazing what one can find in Weeping Rose. 
+If you look past the useless arcanists and seers, there are some real treasures. 
+Look hard enough, one might even find Knogh. 
+He who -- like I once was -- is bound to another. 
+But Knogh's star falls even further than mine. 
+All but forgotten by the demon lords -- by those like my brother. 
+My enemies are now Knogh's as well. His former allies. And they have taken much from him. 
+But I am no longer bound to serve. I can still hold sway in the Court of Ristul. 
+I can take back what has been lost. 
+So, as demons do, we struck a bargain. And the measure of Knogh's power flows through me now. 
+Let Nevermore gloat about the soul of his pet vhoul... And Vrogros plan his assaults. 
+Let B'Kor laugh and play Master of Ceremony for the other demons to his black heart's content. 
+In time I will come for all of them. In time... I will be Queen of all that is above AND below. 
+Where there's a whip, there's a way. 
+Queendom come! 
+There will be pain, there will be screaming. 
+So begins the reign of pain. 
+Queen of Pain. 
+Akasha. 
+Akasha. 
+The reign of Akasha endures. 
+Watch closely. I'll only do this once or twice. 
+I rise to rule. 
+The ones who live will never forget me. 
+Can't win a war without a bit of pain. 
+Empires rise, kings fall...and pain endures. 
+I need no kingdoms. All that I see is mine. 
+How far are you willing to go? 
+I presume we're fighting in my name? 
+My dagger is ready. And don't forget about the whip. 
+What's on the menu today? 
+I'm always... up for a party. 
+Make way for your Queen. 
+Who does a girl have to kill to get some attention around here? 
+Who does a girl have to kill to get some attention around here? 
+Oh, I don't care what we're fighting for. Just that we're fighting. 
+What say we get straight to the point? 
+I've been waiting... 
+I promise to make it last. 
+Did anyone else hear that? What an abhorrent sound. 
+I don't think they're ready for this. 
+Torturous anticipation... 
+The suspense must be killing them. And now I'm really going to kill them. 
+They should enjoy their last moments. I know I will. 
+I already know how it ends. Everything else is just foreplay. 
+I thought we'd never get started. 
+Ha ha ha ha! Who were you expecting? 
+Ha ha ha ha ha ha ha ha! Who were you expecting? 
+I didn't come here to play nice. But I did come to play. 
+The wise will cower before me. The first I'll flay are those who run. 
+Torture and mayhem are bad. Nh hn ha ha ha ha ha ha ha ha ha ha ha. I'm bad... 
+Eh, he he he he he he he he. Hnh! 
+First blood! Just a little, he he he he. 
+First blood! Ah ha ha ha ha. 
+First blood! Hn hn hn hn hn. 
+First blood! For the Queen! 
+First blood! Just my kind of fight. 
+First blood! You fell so quickly... 
+First blood! Aren't we having fun? 
+Oh yes! 
+Oh yes. 
+Your Queen moves. 
+A royal path! 
+Forward. 
+A path to pain. 
+Forward. 
+The pain train. 
+Here here! 
+Swiftly. 
+As I will. 
+Quickly now. 
+Oh yes! 
+I'll take my time. 
+If it pleases me. 
+I do enjoy a good stroll. 
+Sometimes you just need to stretch your wings. 
+Wait'll they get a load of me. 
+Watch me now. 
+Have whip, will travel. 
+Don't you just love war? 
+I could just blink... 
+By means mundane... 
+This way walks pain. 
+Yooo hooooo.... 
+Where does the time go? 
+I feel... Divine. 
+I'm almost spent. 
+I could use a pick-me-up. 
+Can't I just blink? 
+Yaay, walking... 
+My legs are made of jelly. 
+Don't you just love war? 
+I didn't come here to just sit around. 
+There's harm to be done. 
+Have whip, will travel. 
+This way walks pain... 
+I'm the belle of the ball. 
+What a delightful mess. 
+If I wanted safety, I'd be in hell. 
+Attack! 
+Reign of pain! 
+Share my pain! 
+Does this hurt? 
+A love bite! 
+Feel this! 
+Suffer! 
+Suffer! 
+Sweet pain. 
+Scream! 
+Pain builds character. 
+Submit. 
+I love a struggle. 
+For you. 
+I'm ready! 
+Just for sport. 
+Playtime. 
+Surrender. 
+Quiver! 
+Tell them to come closer... 
+I'll lay their weary heads to rest. 
+Just leave me to it. 
+Shall we begin? 
+Are we going to fight or what? 
+Say when. 
+Let's make it... personal. 
+Closer now... 
+Afraid of little old me? 
+Hi there. 
+Cur! 
+Kneel! 
+Your queen commands. 
+Obey! 
+Can I show you something? 
+I love that sound. 
+I love that sound. 
+Now for a hands-on approach. 
+Careful! It bites. 
+Careful! It bites. 
+I love it when you resist. 
+You've got it coming. 
+Agony awaits! 
+Agony awaits! 
+I don't believe in playing nice. 
+Everyone screams for me. 
+Poison dagger! 
+A little knife play? 
+You'll like your new piercing. 
+Oh! I love your new piercing! 
+Despair! 
+Oh no. You're bleeding. 
+Slow down some. 
+A gift, from me to you. 
+Was it really that bad? 
+You were weak. 
+Death comes in at the ears. 
+Didn't like the sound of that? 
+Piercing! 
+You weren't ready for me. 
+Just a whisper of my talents and you're gone. 
+I think I broke my toy... 
+Ah he he he he he he he, that was the sound of your death. 
+The last sound you'll hear. 
+Let the waves of pain carry you off. 
+Death travels faster than sound. 
+It's all in the lungs. 
+I'm a natural. 
+Even demons envy. 
+Everything shatters if you find the right frequency. 
+Add another to the tally. 
+Who knew two could be such... bliss? 
+Three is the key. 
+I do like four, but let's try...more? 
+Everyone loves a good streak. 
+I stopped counting ages ago. 
+Who needs sleep? 
+We'll need more shackles. 
+Let the bodies hit the floor. 
+Prostrate yourselves! 
+Who can keep up with me? 
+One is child's play. 
+One and done, I guess. 
+Sometimes it takes two. 
+Double the trouble. 
+Triple play. 
+Three isn't company at all. 
+Four on the floor! 
+I'll take four! 
+Five were alive! 
+Check please! 
+Well, that's embarrasing. 
+This never happens to me... 
+Maybe I'm losing my touch. 
+Sometimes you just gotta scream for no reason. 
+I couldn't hold it back any longer. 
+Don't tell me when I can or can't scream. 
+Listen. Who's the queen here? 
+I didn't hear anything. 
+Keeping the pipes warm. 
+Yeah, ok. My bad. 
+It would have been a shame to waste it. 
+That got loud. 
+I've still got it and I'll always have it. 
+Who could resist my song? 
+And now, blessed silence. 
+Your queen saves the team! 
+Checkmate! 
+They walked right into it! 
+Believe in your queen! 
+All praise the queen! 
+Growing pains! 
+No pain, no gain. 
+Queen me! 
+Ooh! I felt that! 
+Growing stronger! 
+More, more! 
+My pain tolerance increases. 
+My bindings tighten! 
+ah ha ha ha ha! 
+oh ho ho ho! 
+hn hn hn hn hn ha ha. 
+hn hn hn hn hn. 
+Oh, I shouldn't have... 
+There's something I wanted to do today... 
+Adulation for your queen! 
+Your agony is my ecstasy. 
+The pain intensifies... 
+I don't think they can take it. 
+You thought I was dangerous before. 
+Dark ritual! 
+Hm, one of the three best feelings in the world. 
+Hope? Ah ha ha ha ha ha ha! Abandon hope. 
+Queen of Pain...Queen of EVERYTHING! 
+Queen of Pain...Queen of EVERYTHING! 
+Where do we go from here? Oh, I have a few ideas... 
+Mine are the true dark arts... 
+The last sound you'll ever hear. 
+I do suffer fools. 
+I'm a pain specialist. 
+Pain is the best teacher. 
+Did you forget your safe word? 
+I scream bloody murder. 
+The ecstasy of agony. 
+You hurt the ones you love. 
+Exquisite agony. 
+ohh, such a little death. 
+Sound of mind and body. 
+That was perfect. 
+I'm sorry, did you say stop? 
+mu ha ha ha ha ha ha ha ha ha ha ha ha ha ha 
+oh, ho ho ho ho ho ho ho ho hn hn 
+nh hn hn hn hn hn ah ha ha ha ha ha ha 
+Are we stopping? 
+Ah hn hn hn hn ha ... Oops? 
+I thought you'd last longer than that. 
+I thought you'd last. Longer than that. 
+That's all the torment you can take. 
+I'm exercising my... royal prerogative. 
+Torture? Darling, I haven't the time. 
+No substitute for a good bloodletting. 
+Is that sobbing I hear? 
+Hm, one of the three best feelings in the world. 
+Mm. That's the spot. 
+Cry some more. 
+Submit to the will of Akasha! 
+I found my happy place. 
+Ohhh, let it all out! 
+Aha. Ha! You call that a fight? 
+I'd say we crushed them, but it was more of a... slicing motion. 
+Did they die screaming? I forgot to listen... 
+I don't even need a reason. 
+That didn't last long... 
+That's what I'm about. 
+Don't let my casual demeanor fool you. 
+Who's the real villain here? Ah ha ha ha ha ha ha ha. Ok, it's me. 
+As you can see, I could do this all day. 
+While we were doing this, your team was busy losing. 
+You don't even deserve to look at me. 
+We add to your rich tradition of failure. 
+Oh, I get around to business eventually. 
+You didn't think I was going to let you win, did you? 
+Now that you've had a little hope, time to snatch it away. 
+Ok, my turn to be on top. 
+I've gotta get my kicks SOMEHOW. 
+Maybe this'll get things started. 
+Is this the road to victory? It can't hurt. 
+I just wanted to watch you die. 
+I turn away for one minute and the world's on fire. 
+I probably enjoyed that too much. 
+Proper torture cannot be rushed. 
+Where does the time go? I've got work to do. 
+No! 
+No! 
+Our roleplay, ends. 
+Losing my voice. 
+Under pain of death. 
+Bury me in the royal catacombs. 
+I felt that! 
+I leave this world of hurt. 
+Oh! That hardly hurt at all. 
+I declare a month of mourning. 
+What a pain in the aaaaaaaaaa! 
+I felt that! 
+Your queen is dead. 
+No! 
+I won't go! 
+This will not be the end of my reign... 
+You will learn the true meaning of pain! 
+I embrace this pain...to return stronger. 
+I'll be my own successor! 
+Let's die a little. 
+Long live your Queen! 
+My voice returns! 
+Play it again. 
+I know I'm a pain, but you love me anyway. 
+I'm feeling no pain. 
+The Queen is dead, long live the Queen. 
+I guess the crown passes to me. 
+Bringing the pain! 
+A royal return. 
+I'm in a world of pain, it's wonderful! 
+I think they like me. 
+I know just how to respond. 
+Never was much for caution... 
+Rejuvenating! 
+I think I learned something... 
+Well... Let's take this new body for a spin. 
+That was kind of exhilerating... But enough! 
+Are you trying to anger the queen?! 
+So they have a bit of spirit after all... 
+Who do they think they're dealing with? 
+Do I have to do everything myself? 
+I'm starting to lose my patience... 
+I came here to have fun... 
+This isn't the kind of pain I signed on for. 
+Pleasure always comes after pain. 
+<sigh> Ok...THIS is where my reign begins. 
+Just so we're clear: it's on. 
+Sometimes a girl could just scream. 
+Did we make it to the good part? 
+For the royal coffers. 
+The treasury grows. 
+Worthy tribute. 
+Your pain ends. 
+Your pain, my gain. 
+Pay for the privilege. 
+Oh, royalties! 
+Gold for my crown. 
+Hello there. 
+What can I say? I like shiny things. 
+For the effort. 
+I earned it. 
+You're too kind. 
+All within my rights. 
+Oh, poor things. 
+Delightful! 
+I always get what I want. 
+They get theirs, and I get mine. 
+Now we're talking. 
+Denied. 
+Denied. 
+No! 
+You're simply not worthy. 
+Oh, did that hurt? 
+Thought you had that, didn't you? 
+Ah, no gold for you! 
+uh uh uh. 
+mm mm mm. 
+Too bad. 
+Too bad! 
+ah ha ha ha ha ha ha ha. 
+nh hn hn hn hn hn hn hn. 
+ah ho ho ha hn hn hn hn. 
+uh uh uh. Hn hn hn hn. 
+uh uh. 
+Nope. 
+No 
+Nope. 
+No. 
+Were you dreaming? 
+I don't think so. 
+Some people! 
+What timing! 
+Style AND grace. 
+It must be torture. 
+Oh, my! 
+Nothing to it really. 
+Do you want to know my secret? 
+That felt demonic. 
+I'm sure that was agony... 
+Oops. Isn't that what you wanted? 
+I couldn't resist! 
+But you were so close to death! 
+Just a little nudge over the edge. 
+I thought you could take it... 
+You knew what I was about. 
+They say pain is all in the mind, but they're wrong: It's all in my hands. 
+Yes, I supposed I?m a bit of a trauma Queen. 
+You'll find that I'm all stick and no carrot. 
+You always hurt the ones you love, also the ones you hate. 
+Bought for a song! 
+It pains my pocketbook. 
+Fit for a Queen. 
+Bottle royale. 
+Something for the pain. 
+Into the bottle. 
+Blink dagger? That was quite unnecessary. 
+What need have I for this? 
+A scepter for the Queen! 
+So much sweeter with scepter! 
+Scepter shock! 
+Sonic scepter! 
+Top is missing! 
+Middle is missing! 
+Bottom is missing! 
+Immortality! 
+My voice carries forever! 
+Haste! 
+Twice the speed of sound! 
+Double damage! 
+I'll have them screaming duets! 
+Regeneration! 
+Pain without consequence! 
+Illusion! 
+Misery loves company. 
+Invisibility! 
+What you don't see can most certainly hurt you. 
+Not yet. 
+Not yet! 
+Not yet! 
+I'm not ready. 
+I'm not ready! 
+I'm not ready! 
+It's not time yet. 
+It's not time yet! 
+It's not time yet! 
+Out of mana. 
+Out of mana! 
+Out of mana! 
+No mana. 
+No mana! 
+No mana! 
+Not enough mana. 
+Not enough mana! 
+Not enough mana! 
+My thanks. 
+I'm ever so grateful. 
+I'm under attack! 
+This one is so in the bag! 
+Shitty wizard! 
+Crummy wizard! 
+Ah ha ha ha ha ha! 
+ah ha ha ha! 
+Oh ho ho ho! 
+Ah hn hn hn hn heh. 
+Ah ha ha ha ha ha ha ha ha ha! 
+Ah hn hn ha ha ha ha! 
+Oh ho ho ho ho ho ho! 
+Hm hm hm hm hm huh huh ha ha! 
+Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha! 
+Ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha! Hnn.. 
+Ah hn hn hn hn hn hn hn hn hn hn ah ha ha ha ha ah ha ha. Hh... 
+Nh hn hn hn hn hn hn ah ha ha ha ha! Hn. Ohhh... 
+Nh hn hn hn nh hn hn hn hn! 
+Ah ha ha ha ha ha ha ha! 
+Ah ha ha ha ah ha! 
+Noooo! 
+No! 
+Noooo! 
+Defeated! 
+You'll hear no more from me! 
+Tell my brother... I hate him! 
+Tell my brother... I hate him! 
+Yes! 
+Yes! 
+Victory! 
+The pain shall set you free, ha ha ha ha ha ha ha ha ha ha ha ha 
+The pain shall set you free, ha ha ha ha ha ha ha ha ha ha ha ha 
+And my team even helped. 
+Uh! 
+Oh! 
+Uh! 
+Oh! 
+Ah! 
+Ah! 
+Ah! 
+Ow! 
+Uh! 
+Oh! 
+Ah! 
+Ah! 
+Uh! 
+Rah! 
+Huh! 
+Ahh! 
+Gr! 
+Rrrh! 
+Hmm! 
+Ah! 
+Eeh. 
+Ah! 
+Ha ha! 
+Oh! 
+Hm! 
+Ah ha ha! 
+Oh! 
+Ah! 
+Ha ha! 
+Oh! 
+Huh! 
+Huh! 
+Oooh! 
+I told you I could play misty better than you. 
+That's an intoxicating mixture. 
+That one made my fingers tingle. 
+Poor little warrior boy thinks he can blink. 
+Blink and you miss me. 
+I never was much for being ruled. 
+Some of my best work. Pity it doesn't show. 
+You're just the idea of pain. I'm the real thing. 
+That wasn't much of a ride. 
+No no no. You call ME master. 
+What did you expect to find at the end of the blood trail? 
+Don't be shy, Gondar. I've got enough pain for everyone. 
+You wouldn't know what to do with me if you caught me. 
+I never had much use for a man in his cups. 
+Who could turn away from me? 
+I can't use OR abuse you, Broodmother. How boring. 
+When I say prance... YOU PRANCE. 
+Why cover such a wicked canvas? 
+All your friends are welcome, Chen. As long as they don't mind dying. 
+Even I had to get creative with that one. 
+See? Life's so much more fun without all that heavy armor. 
+Someone had to spoil the fun. 
+You could have been put to much better use. 
+Trying to be a bad girl, Mireska? Well, hail to the queen. 
+Shallow grave? If you insist. 
+Why are you in such a hurry, Krobelus? There's so much to enjoy. 
+The electricity is intriguing. But the rest of you? Boring. 
+I always had a soft spot for the good ones gone bad. 
+You always were full of yourself. Poser. 
+My scratch won't turn you into anything but dead. 
+Nice to put some blush in those cheeks. 
+Well you weren't so hard. 
+What? I heard you wanted to go on a journey... 
+When you think about it... All this suffering's your fault. 
+Nothing like snuffing out an old flame. 
+Oh you na?ve little doe. Time to learn how the world really works. 
+I guess that answers the fundamental question. 
+If you could see the look on your face... 
+Such a big brush. Are you going to paint me a picture? 
+Silly mortals and their silly toys. Children, the lot of them. 
+Faster! Faster! 
+If it has a will, I can break it. 
+Nice orbs. Compensating for something? 
+Oooh, we can try the carrot AND the stick. 
+All that spinning could make a girl swoon. 
+It wasn't wise to tangle with me, old man. I don't discriminate. 
+The world just got delightfully darker. 
+All you sailors just want one thing. 
+I know how to make a sea dog howl. 
+Scream a little louder, Tresdin. I don't blanch at the demon tongue. 
+So endeth your lesson in pain. 
+Defeat me? <hahah> Please. You were once mortal. 
+I wouldn't mind keeping you around as a pet. The possibilities are endless. 
+Aww, you flamed out much too soon. 
+Finger of death? Leaves much to be desired. 
+What was I expecting from someone who spends all his time alone with a bear? I guess...more. 
+Forget Nightsilver. I could take you places you've never dreamed. 
+See, I told you you'd sing for me. 
+A rare trophy indeed. 
+I don't even need to quip, Mars. You're a walking punchline. 
+Your hair was amazing. 
+I really thought I'd get to torture each of you in turn... 
+We might not have the creature comforts you're accustomed to, Princess. But I assure you a good time. 
+I'd heard tales of such a weapon, but I could hardly believe my eyes. 
+Stoke the fire. It's time for a bath. 
+Your lyrics are garbage. But, seven hells, what a lovely voice. 
+Just a tiny sapling in the end. 
+And I really thought I was going to like you. 
+Who turned out the lights? 
+Nyx Nyx Nyx... Hn hn hn hn! Nixed. 
+I usually don't mind them dumb. But you pair are an exception. 
+You know what they say, Purist. What's in a name? 
+You presumed much. 
+I'll tell my own fortune, thank you. 
+Do you spend too much time alone, or were you always this way? 
+Great debaucher? More like amateur hour.  
+I could have taken you places, Assassin. Such wonderful places. 
+I always know which one truly bleeds. It's a gift of mine. 
+I don't even know what to make of you. A corpse, I guess. 
+Don't feel bad. This was better for you than growing up. 
+Eat your heart out. 
+I told you to scram, kid. 
+You're just a glorified referee. 
+You're a cog in a machine. I own the machine. 
+All the blood made it easy to see. 
+Magicians? I don't like magicians. 
+They sure don't make kings like they used to. 
+I've been waiting a long time for this. 
+Amazing how much good will you can earn with a single kill. 
+You wish you could have a piece of me. 
+There's a pun here somewhere, Nevermore... 
+Oh, sorry. I got tired of your tricks. 
+I hate wizards as much as the next girl, but at least they've got some personality. 
+I leave you with a broken body to match your mind. 
+You mer-folk have your own demons, but I don't think they'll mind. 
+Dark Reef sounds fascinating. Too bad you can't say more. 
+I like your vinegar. But how could you compare? 
+Don't you point that thing at me. 
+Just a bit more focus. You almost had it. 
+Cute nickname, Barathrum. How about I teach you what it really means? 
+Who doesn't love a good storm in a battle? 
+Now, let's get a look under that mask. 
+You were almost too hilarious to kill. 
+Now that I've shared my secret, it's your turn, Lanaya. Lanaya? Ha ha ha ha ha ha ha! 
+Who let you out of your cage? 
+I've always wanted to meet this Maelrawn. I hope you're nothing alike. 
+This one was crazy before I got to him. But we still had some fun. 
+You... I remember you. What an interruption! 
+Hold on. Let me think of a good rock pun. 
+I heard that, Treant. It happened. 
+I thought you might last forever. 
+What a waste of potential. 
+In my eyes, you're not even a real demon. Decree or no decree. 
+Unsatisfying. 
+Next time, send a den mother. 
+What a terrible waste. I wish we'd met sooner. 
+Now I've seen everything. 
+I'm not even sure he actually felt the pain. Kind of disappointing. 
+You dare lay a hand on me? 
+Such impudence! 
+Oh, right. The boring one. 
+Hard to speak Ozkavosh when you haven't got a tongue. 
+What will the universe come up with next? 
+We'll call this one a blow out. 
+You know what I hate? Uppity dragons. 
+I don't think there's an ointment for that. 
+You never had a chance with me, Mr. King. 
+Oops. Are you all the way dead? 
+I'd heard fun stories about you, Zues. I guess I leave disappointed. 
+Tell my brother what's in store! 
+Which one are you again? I get confused. 
+Who doesn't like a little bit of control? 
+Mindless is useless in my book. 
+Care to invent a way out of this one? 
+In my storybooks, all the forest creatures died. 
+You know, I didn't realize until just now that you were taking yourself seriously. 
+Do you spend ALL your time training, Anti-Mage? 
+Lend me a hand, Zet? And you, too, Zet. 
+Who can resist a little chaos in their life? 
+So you feel no pain, Clinkz? Or nothing BUT pain? Can you tell the difference at this point? 
+Stick with me, Rylai. I've got so much to teach you. 
+I like your spark, little willow. 
+Do they think they can hurt us? 
+So tell me more about your daddy issues, Lucifer. 
+You created all this suffering? I guess I should thank you. 
+Check out the big brain on Carl. 
+There's nothing I can say to get the mask off, Yurnero? 
+You remember how to use that staff old man? 
+I've been a fan of your work for a long time, Tresdin. 
+You've learned some Ozkavosh, I hear. But only the curses? I love it. 
+Why do you always have to be such a buzzkill, Leshrac? 
+Leave your sister to me, Lina. When I'm done, you won't recognize her. 
+There's something about you I like, Luna. 
+Feel like hurting someone? 
+I'm always up for a bit of mischief. 
+Don't you know any demon songs, Siren? 
+Please, Necrophos, continue your hard work. 
+Let's go start a scary story. 
+Don't be bashful, Purist. I won't bite. 
+I wish I could have met your parents, Purist. And tortured them. 
+I dig the look, Assassin. Kind of a retro thing going on. 
+I can't turn around without finding you, Pudge. You're everywhere! 
+Don't you have a job to do, Razor? 
+Walk away, Shadow Demon. I'll deal with you later. 
+I'll be civil, Fiend. 
+Enjoy the show, Nevermore. 
+I'm sorry, dear. Guns bore me. This lizard on the other hand... How charming! 
+Why serve a master at all, Lanaya? You were born to be free. 
+Great, they leave me with one of the crazy ones... 
+I swear, outlaw. If you so much as THINK of sundering me... You won't draw another breath. 
+No one told me I'd have to work with you. 
+Shoo! Get out, Visage! 
+No, that's quite interesting, Inai. I just have somewhere to be... 
+I'm sorry, Warlock. It's rude to laugh at someone just learning... Tee ha ha ha ha ha ha! 
+Oh, there are much better phrases than THAT. Listen closely... 
+My answer is no, Ostarian. It will always be no. 
+You used to be something, Zeus. Kind of sad to see you now. 
+You've got questionable taste, but I guess that doesn't matter now. 
+Say... I had an idea... 
+Uh, no thank you? 
+Listen, if you want to get rich, I've got an idea for you. 
+Aren't we precious? Ugh. 
+Why am I even talking to you? 
+Night Stalker, you aren't the only thing that goes bump in the night. 
+Night Stalker, you're only a little pain. 
+Maybe now you'll stop blinking around, Anti-Mage? 
+Oh, Anti-Mage, I'll make you break your vows. 
+It's all about discipline, Anti-Mage. 
+Enchantress, such an innocent creature. 
+Enchantress, how little you know, you poor plain thing. 
+Oh, Enchantress, what I could do with those hooves. 
+Didn't know you could be broken, Enchantress. 
+Crystal Maiden... are you really, I wonder? 
+Silencer? I'd prefer a Screamer. 
+King for a day... Queen for eternity. 
+Bones and no flesh? Where's the pleasure in that? 
+I like them with a little more meat on their bones. 
+That's why I'm queen, and you're nothing. 
+Submit to your lady, little girl. 
+Blink. You're dead. 
+Done already? 
+Oh, I almost missed you! 
+You want me? Come get me. 
+It feels so good to be bad. 
+You can look but don't touch. Come to think of it, don't look either. 
+The queen will thank you later. 
+Rare are thanks from a queen. 
+Only in your dreams. 
+Unworthy of my attention. 
+You have to earn the attention of a queen. 
+Why are you not bowing? 
+Shouldn't there be more kneeling? 
+You should be honored I deigned you with my presence at all. 
+Enough with the pleasantries. It's time for tears. 
+Pain is such a wonderful subject. An endless kingdom to explore. 
+Oh, cry yourself to sleep. 
+Don't think I'll forget this. 
+So... Who wants to play a game? 
+Time to...unwind a bit. 
+Abyssal Blade 
+Aeon Disk 
+Aether Lens 
+Assault Cuirass 
+Basher 
+Black King Bar 
+BladeMail 
+Bloodstone 
+Bloodthorn 
+Boots of Travel 
+Butterfly 
+Oh, I like these. 
+Crystalys 
+Daedalus 
+Dagon 
+Desolator 
+Diffusal Blade 
+Divine Rapier 
+Dragon Lance 
+Drums of Endurance 
+Dust of Appearance 
+Echo Sabre 
+Gotta stay hydrated. 
+Ethereal Blade 
+Eul's Scepter 
+Force Staff 
+Gem of Truesight 
+Ghost Scepter 
+Glimmer Cape 
+Hand of Midas 
+Heart of Tarrasque 
+Heaven's Halberd 
+Helm of the Dominator 
+Hood of Defiance 
+Hurricane Pike 
+Shadow Blade 
+Kaya 
+Kaya and Sange 
+Lotus Orb 
+Maelstrom 
+Manta Style 
+Mask of Madness 
+Medallion of Courage 
+Mekansm 
+Meteor Hammer 
+Mjollnir 
+Monkey King Bar 
+Necronomicon 
+Nullifier 
+I seeee you. 
+Octarine Core. 
+Orchid Malevolence 
+Pipe of Insight 
+Radiance 
+Refresher 
+Rod of Atos 
+Sange 
+Sange and Yasha 
+Satanic 
+I see all. 
+Scythe of Vyse. 
+Where have you been all my life? 
+Shiva's Guard 
+Silver Edge 
+Eye of Skadi 
+Hmm. Smoke. 
+Solar Crest. 
+Linkins Sphere 
+Spirit Vessel 
+A bit dry, but it'll come in handy. 
+One, please. 
+Urn of Shadows 
+Vanguard 
+Veil of Discord 
+Vladmirs Offering 
+Yasha 
+Yasha and Kaya
