@@ -1,0 +1,668 @@
+s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+Choose your hero. 
+Select your hero. Make the ultimate choice. 
+Who will enforce your will upon the battlefield today? 
+Dire's turn to pick. 
+Dire's turn to pick. 
+Dire must choose. 
+Radiant's turn to pick. 
+Radiant's turn to pick. 
+Radiant must choose. 
+It is the enemy's turn to pick. 
+It is the enemy's turn to pick. 
+The enemy makes a choice... 
+Your enemy decides... 
+Who will the enemy call upon in their time of need? 
+It is your turn to pick. 
+It is your turn to pick. 
+Your team must pick. 
+The choice is yours. 
+Make your choice! 
+Dire's turn to ban. 
+It is Dire's ban. 
+Radiant's turn to ban. 
+It is Radiant's ban. 
+It is your ban. 
+It is your ban. 
+Ban something. 
+Ban some scourge of the battlefield. 
+Make your ban! 
+Whom would you remove from this battle of the ancients? 
+It is the enemy's turn to ban. 
+The enemy makes their ban. 
+We wait now for the enemy ban... 
+What plan reveals itself in the enemy's ban? 
+The enemy's ban is imminent. 
+A decision that will echo into eternity. 
+One small moment becomes the hinge of fate. 
+Ten seconds. 
+Ten seconds remain. 
+Five seconds. 
+Five seconds remain. 
+Reserve time. 
+Will it pay off? 
+A pool of limited supply. 
+Prepare for battle! 
+The time for preparation is short. Use it wisely. 
+Prepare yourselves for the main event! 
+Thirty seconds to battle! 
+Just thirty seconds now. 
+Thirty seconds and counting. 
+Ten seconds to battle! 
+Ten second warning. 
+Ten seconds until showtime. 
+Consider yourself warned. 
+As pressure builds, the stalwart remain true. 
+Let the countdown begin! 
+We may never witness another match like this. 
+What drum sounds this beat of war? 
+Ladies and Gentlemen! Welcome to THIS DOTA MATCH! 
+The match of matches STARTS... Now. 
+With the fate of the universe and the pride of ten people on the line! This is Dota. 
+And now, the moment you've aaaalllll been waiting for. Let's DOTA! 
+Welcome one and all! To the main event! 
+They have trained hard to get here. It's time now for the final fight. 
+Those who bear witness will not soon forget that which transpires. 
+The crucible of greatness awaits. 
+Radiant VERSUS Dire! It all comes down to this. 
+Radiant VERSUS Dire! 
+Remember: The International spirit lives in us all. 
+Ten players compete for ultimate glory. 
+Who will emerge victorious? 
+Who will emerge victorious? 
+The battle begins. 
+The battle begins. 
+Ten players compete for ultimate-ish glory... 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is under attack. 
+Dire's bottom tower is in danger. 
+Dire should look to their bottom tower. 
+Dire's middle tower is under attack. 
+Dire's middle tower is under attack. 
+There is little hope for Dire's middle tower. 
+Dire should look to their middle tower. 
+Dire's top tower is under attack. 
+Dire's top tower is under attack. 
+Dire's top tower is in danger. 
+Dire should look to their top tower. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower is under attack. 
+Radiant's bottom tower is in danger. 
+Radiant should look to their bottom tower. 
+Radiant's middle tower is under attack. 
+Radiant's middle tower is under attack. 
+There is little hope for Radiant's middle tower. 
+Radiant should look to their middle tower. 
+Radiant's top tower is under attack. 
+Radiant's top tower is under attack. 
+Radiant's top tower is in danger. 
+Radiant should look to their top tower. 
+Your bottom tower is under attack. 
+Your bottom tower is under attack. 
+The enemy attacks your bottom tower. 
+Look to your bottom tower. 
+Your middle tower is under attack. 
+Your middle tower is under attack. 
+Your middle tower faces a terrible test. 
+The enemy attacks your middle tower. 
+Your middle tower is defending itself. 
+Your top tower is under attack. 
+Your top tower is under attack. 
+The enemy attacks your top tower. 
+Look to your top tower. 
+Dire's bottom tower has fallen. 
+Dire's bottom tower is no more. 
+Dire's middle tower has fallen. 
+Dire's middle tower is no more. 
+Dire's top tower has fallen. 
+Dire's top tower is no more. 
+Radiant's bottom tower has fallen. 
+Radiant's bottom tower is no more. 
+Radiant's middle tower has fallen. 
+Radiant's middle tower is no more. 
+Radiant's top tower has fallen. 
+Radiant's top tower is no more. 
+Your bottom tower has fallen. 
+Your bottom tower has fallen. 
+You've lost a bottom tower. 
+Your bottom tower is gone. 
+Your middle tower has fallen. 
+Your middle tower has fallen. 
+Your middle tower is no more. 
+Your middle tower can no longer be saved. 
+Your top tower has fallen. 
+Your top tower has fallen. 
+There's nothing left of your top tower. 
+Your top tower has been overcome. 
+The enemy's bottom tower has fallen. 
+The enemy's bottom tower has been demolished. 
+The enemy's bottom tower is gone. 
+The enemy's middle tower has fallen. 
+The enemy's middle tower has been destroyed. 
+The enemy's middle tower can withstand no more. 
+The enemy's middle tower passes into history. 
+The enemy's top tower has fallen. 
+The enemy's top tower brought to ruin. 
+The enemy's top tower falls to oblivion. 
+Dire's bottom tower has been denied. 
+Dire's bottom tower has been denied. 
+Dire's bottom tower denied. 
+Dire's middle tower has been denied. 
+Dire's middle tower has been denied. 
+Dire's middle tower denied. 
+Dire's top tower has been denied. 
+Dire's top tower denied. 
+Radiant's bottom tower has been denied. 
+Radiant's bottom tower has been denied. 
+Radiant's bottom tower denied. 
+Radiant's middle tower has been denied. 
+Radiant's middle tower has been denied. 
+Radiant's middle tower denied. 
+Radiant's top tower has been denied. 
+Radiant's top tower has been denied. 
+Radiant's top tower denied. 
+Your bottom tower has been denied. 
+Bottom tower denied. 
+Bottom tower denied. 
+Your middle tower has been denied. 
+Your middle tower has been denied. 
+Middle tower denied. 
+Your top tower has been denied. 
+Your top tower has been denied. 
+The enemy's bottom tower has been denied. 
+The enemy's bottom tower has been denied. 
+Enemy bottom tower denied. 
+The enemy's middle tower has been denied. 
+The enemy's middle tower has been denied. 
+Enemy middle tower denied. 
+The enemy's top tower has been denied. 
+The enemy's top tower has been denied. 
+Enemy top tower denied. 
+A tested warrior does what they must. 
+The opponent gains ground, yet they lose face. 
+Every measure must be taken. 
+Such opportunities are precious in battle. They must not be wasted. 
+A foul taste lingers. 
+A triumph for the other side. 
+Dire's bottom barracks are under attack. 
+Dire's bottom barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's middle barracks are under attack. 
+Dire's top barracks are under attack. 
+Dire's top barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Radiant's bottom barracks are under attack. 
+Radiant's middle barracks are under attack. 
+Radiant's middle barracks are under attack. 
+Radiant's top barracks are under attack. 
+Radiant's top barracks are under attack. 
+Your bottom barracks are under attack! 
+Your bottom barracks are under attack! 
+Look now to your bottom barracks. 
+Will you give the enemy a foothold on bottom lane? 
+Your middle barracks are under attack! 
+Your middle barracks are under attack! 
+Look now to your middle barracks. 
+Will you let the enemy cut through your center? 
+Your top barracks are under attack! 
+Your top barracks are under attack! 
+Look now to your top barracks. 
+Will you let the enemy claim the top lane? 
+A moment of truth arrives. 
+They've broken high ground. 
+How will you answer? 
+Do not let them fall without a fight. 
+Dire's bottom barracks has fallen. 
+Dire's bottom barracks has fallen. 
+Dire's middle barracks has fallen. 
+Dire's middle barracks has fallen. 
+Dire's top barracks has fallen. 
+Dire's top barracks has fallen. 
+Radiant's bottom barracks has fallen. 
+Radiant's bottom barracks has fallen. 
+Radiant's middle barracks has fallen. 
+Radiant's middle barracks has fallen. 
+Radiant's top barracks has fallen. 
+Radiant's top barracks has fallen. 
+The enemy's bottom barracks has fallen. 
+The enemy's bottom barracks has fallen. 
+You've destroyed the enemy's bottom barracks. 
+The enemy's bottom barracks crumbles. 
+The enemy's middle barracks has fallen. 
+The enemy's middle barracks has fallen. 
+You've destroyed the enemy's middle barracks. 
+The enemy's middle barracks crumbles. 
+The enemy's top barracks has fallen. 
+The enemy's top barracks has fallen. 
+You've destroyed the enemy's top barracks. 
+The enemy's top barracks crumbles. 
+Your bottom barracks has fallen. 
+Your bottom barracks has fallen. 
+Your bottom barracks stands no more. 
+Your middle barracks has fallen. 
+Your middle barracks has fallen. 
+Your middle barracks is gone. 
+Your top barracks has fallen. 
+Your top barracks has fallen. 
+Your top barracks exists only in telling. 
+Radiant move one step closer to the enemy Ancient. 
+Is victory within grasp? 
+Will Dire stand tall? 
+Dire carve a path to the Radiant Ancient. 
+Will this speed the fight? 
+Will Radiant resist? 
+Little good can come of this. 
+Such destruction cannot be undone. 
+How far will they go? 
+Spirits have broken from less. 
+No victory of chance. 
+Another barrier falls. 
+Dire's Ancient is under attack! 
+Dire's Ancient is under attack! 
+Dire must fight to protect their Ancient. 
+The Dire Ancient faces its greatest test. 
+Is the Dire Ancient about to fall? 
+Radiant's Ancient is under attack! 
+Radiant's Ancient is under attack! 
+Radiant must fight to protect their Ancient. 
+The Radiant Ancient is in grave danger. 
+Is the Radiant Ancient about to fall? 
+Your Ancient is under attack! 
+Your Ancient is under attack! 
+Your Ancient demands defense. 
+Protect your Ancient. Or pay the ultimate price. 
+Defend your Ancient to the very end. 
+Do any dare intervene? 
+Who will beat back the tide? 
+Will this be the end? 
+What chance have they now? 
+The Dire now have megacreeps. 
+The Radiant now have megacreeps. 
+The enemy now have megacreeps. 
+The enemy now have megacreeps. 
+You now have megacreeps. 
+Who will rise to meet this challenge? 
+The time for the final test has come. 
+They stand upon the precipice of greatness. 
+Loyal servants granted strength in the final hour. 
+Victory is within your grasp. 
+The final moments may be at hand. 
+They march ever forward. 
+The next moments will decide much. 
+In waves unending. 
+Dire structures are fortified. 
+Dire structures are fortified. 
+Dire have fortified their structures against attack. 
+The Dire glyph is now active. 
+Radiant structures are fortified. 
+Radiant structures are fortified. 
+Radiant have fortified their structures against attack. 
+The Radiant glyph is now active. 
+The top outpost has been captured by Radiant. 
+The top outpost has been captured by Dire. 
+The bottom outpost has been captured by Radiant. 
+The bottom outpost has been captured by Dire. 
+The bottom outpost has been captured by the enemy. 
+The top outpost has been captured by the enemy. 
+Your team has captured the bottom outpost. 
+Your team has captured the top outpost. 
+Radiant are scanning for enemies. 
+The Radiant scan, eager to know Dire's whereabouts. 
+Dire are scanning for enemies. 
+The Dire scan, on the hunt for Radiant forces. 
+Dire's top shrine is under attack. 
+Dire's bottom shrine is under attack. 
+Radiant's top shrine is under attack. 
+Radiant's bottom shrine is under attack. 
+Dire's top shrine has fallen. 
+Dire's bottom shrine has fallen. 
+Radiant's top shrine has fallen. 
+Radiant's bottom shrine has fallen. 
+Your top shrine is under attack. 
+Your bottom shrine is under attack. 
+Your top shrine has fallen. 
+Your bottom shrine has fallen. 
+The enemy's top shrine has fallen. 
+The enemy's bottom shrine has fallen. 
+Radiant's courier has been killed. 
+Radiant's courier has been killed. 
+Radiant's courier makes the ultimate sacrifice. 
+Dire's courier has been killed. 
+Dire's courier has been killed. 
+Somewhere, someone lays blame. 
+Radiant's courier has been slain in cold blood. 
+Cut down in service of another's cause. 
+All who step onto the battlefield risk this ultimate price. 
+One side's misstep is the other's cunning play. 
+Each brave courier knows the risks. 
+Roshan has fallen to the Dire. 
+Roshan has fallen to the Dire. 
+Roshan has been slain by the Dire. 
+Dire have faced Roshan and claimed his mighty prize. 
+Roshan has fallen to the Radiant. 
+Roshan has fallen to the Radiant. 
+Radiant fell the mighty Roshan. 
+Radiant have destroyed the mighty Roshan in his pit. 
+Roshan has been destroyed. But his fate will always be to rise again. 
+Dire victory! 
+Dire victory! 
+Victory goes to the Dire! 
+To the Dire go the spoils! 
+Dire are the single-match champions! 
+Radiant victory! 
+Radiant victory! 
+Victory goes to the Radiant! 
+To the Radiant go the spoils! 
+Radiant are the single-match champions! 
+Now you must decide: What comes next? 
+Long has that tower stood against the rising tide. 
+They seek an advantage. 
+Where will the line be drawn? 
+That which protects also requires protection. 
+Will one side come to regret this? 
+Sparks that may blaze into a skirmish. 
+Pray it is of no consequence. 
+Some sacrifices must be made. 
+What will be the next to fall? 
+It is but one. 
+May it be the last. 
+An equal bounty must be claimed. 
+A single misstep can bring all to ruin. 
+Is there hope still to be found? 
+It would have been critical to save. 
+A loss not to be taken lightly. 
+How many can one afford to lose? 
+The line must be drawn here. 
+A single moment can spark the rise to greatness. 
+And more territory is ripe for gain. 
+It marks but a moment in the glory to come. 
+It will pain them to lose this. 
+Now to leverage for more. 
+Legends are born from such deeds. 
+The road to the Ancient is all the shorter. 
+You forge a path to conquest. 
+Who might seize this chance? 
+The dawn of victory draws near. 
+Such moments define us. 
+Their heroes helpless to stop it. 
+A decided push towards victory. 
+Step now over the ruins. 
+Much remains unseen. 
+Use them wisely. 
+One would expect to see a lot of these. And with these. 
+A choice for one who is truly wise in the ways of the world. 
+A new element of chance has emerged... 
+They seek to carve their name to last like the legends of old. 
+The hungry rise again. Battered but unbroken. 
+Nothing is free in this world. You must earn your take. 
+A mere detour on the road to victory. 
+The tension grows... I'm sure. 
+The grass grows. The leaves fall. And nothing else apparently happens. 
+Each warrior saves their strength for a skirmish to come. 
+Apparently each warrior saves their strength for a skirmish to come... 
+Dire's Ancient--and Radiant's for that matter--are possibly in no danger at all. 
+Songs will be written to commemorate this day. And they will leave this part out. 
+The Aegis of Champions is a prize claimed only by warriors -- not idlers. 
+The silence is deafening. 
+A battle seeks resolution. 
+The quest for ultimate glory... continues. 
+Now the fight resumes. But will it follow the same thread? 
+The true heroes are the ones who wait all the way. 
+A player has disconnected from the fight. 
+A legend interrupted. 
+Remember that a true competitor honors a pause. 
+How might this rebalance the fight? 
+Ten were called to battle. Not all remain. 
+The stalwart will hold, the weak will falter. 
+None on this stage shrink from a fight. 
+A true warrior never rage quits. 
+All mid. 
+All pick. 
+All random. 
+Captains draft. 
+Captains mode. 
+Death match. 
+Easy mode. 
+Least played. 
+Random draft. 
+Reverse captains mode. 
+Single draft. 
+Ability Draft. 
+Make your choice. 
+Your options are vast. 
+Anything goes. 
+A curated collection. 
+Ample talent here. 
+For ye of high esteem. 
+Can you make do with what is given? 
+Trust in the wisdom of the team. 
+Buy accordingly. 
+Let them pick their poison. 
+There is only one lane that truly matters. 
+A battle of wills commences. 
+What will you make of your options? 
+Choose your fate. 
+One of three it must be. 
+Welcome to Dota. 
+Welcome to Dota. 
+They have come from far and wide to test their mettle and their might. 
+One game stands between each team and ultimate victory. 
+It all comes down to this. 
+Welcome to the ultimate test. 
+Who will carve their names into the chronicles of history? 
+The eyes of the world look now to you. 
+The choice is made. 
+The die is cast. 
+The lines of fate converge. 
+Behold -- a chosen one. 
+Each road leads to this single end. 
+A doodle for the ages. 
+An ephemeral masterpiece. 
+A masterful mark. 
+Master of the mist... Or its servant? 
+One who celebrates the cold, creeping dark. 
+Will today mark the final test of the anti-mage? 
+Even the grass will be made to bleed. 
+Let fire rain from the skies. 
+He who knows the majesty of beasts and the savagery of man. 
+One who celebrates each victory along the way. 
+Chaos is all around you. 
+Some have a zealot's eyes for victory. 
+Pity the frozen soul that underestimates the ice maiden. 
+An intellect that spans both time and space. 
+He who will not be shackled. 
+A steady friend in times of need. 
+Some were destined from the beginning to be here at the end. 
+Comes now the ever burning flame. 
+Fear the grizzled who do whatever it takes. 
+Enigmatic and immensely powerful. 
+Masked but honorable. 
+An indispensible light. 
+The line between good and evil often blurs in times of great need. 
+A fierce protector appears. 
+Who can help but fall under her spell? 
+Verdant hope springs eternal. 
+It's no small thing to outwit death. 
+A creature of timeless mystery awaits.  
+Who would refuse the master of mimicry? 
+None can doubt the veracity of his powers now. 
+He who seeks to return to the deep. 
+A most charming devil indeed. 
+Some secrets are only revealed in the thick of a fight. 
+On sand, in surf, atop stony peaks, this fearsome creature will never run from a fight. 
+The line between genius and madness can bet quite thin indeed. 
+From unknown origins to the ultimate stage. 
+Some threads can only be grasped on the field of battle. 
+Godly with or without the divine. 
+Abaddon 
+Alchemist 
+Ancient Apparition 
+Anti-Mage 
+Arc Warden 
+Axe 
+Bane 
+Batrider 
+Beastmaster 
+Bloodseeker 
+Bounty Hunter 
+Brewmaster 
+Bristleback 
+Broodmother 
+Centaur Warrunner 
+Chaos Knight 
+Chen 
+Clinkz 
+Clockwerk 
+Crystal Maiden 
+Dark Seer 
+Dark Willow 
+Dazzle 
+Death Prophet 
+Disruptor 
+Doom 
+Dragon Knight 
+Drow Ranger 
+Earth Spirit 
+Earthshaker 
+Elder Titan 
+Ember Spirit 
+Enchantress 
+Enigma 
+Faceless Void 
+Grimstroke 
+Gyrocopter 
+Huskar 
+Io 
+Invoker 
+Jakiro 
+Juggernaut 
+Keeper of the Light 
+Kunkka 
+Legion Commander 
+Leshrac 
+Lich 
+Lifestealer 
+Lina 
+Lion 
+Lone Druid 
+Luna 
+Lycan 
+Magnus 
+Mars 
+Medusa 
+Meepo 
+Mirana 
+Monkey King 
+Morphling 
+Naga Siren 
+Nature's Prophet 
+Necrophos 
+Night Stalker 
+Nyx Assassin 
+Ogre Magi 
+Omniknight 
+Oracle 
+Outworld Devourer 
+Pangolier 
+Phantom Assassin 
+Phantom Lancer 
+Phoenix 
+Puck 
+Pudge 
+Pugna 
+Queen of Pain 
+Razor 
+Riki 
+Rubick 
+Sand King 
+Shadow Demon 
+Shadow Fiend 
+Shadow Shaman 
+Silencer 
+Skywrath Mage 
+Slardar 
+Slark 
+Snapfire 
+Sniper 
+Spectre 
+Spirit Breaker 
+Storm Spirit 
+Sven 
+Techies 
+Templar Assassin 
+Terrorblade 
+Tidehunter 
+Timbersaw 
+Tinker 
+Tiny 
+Treant Protector 
+Troll Warlord 
+Tusk 
+Underlord 
+Undying 
+Ursa 
+Vengeful Spirit 
+Venomancer 
+Viper 
+Visage 
+Void Spirit 
+Warlock 
+Weaver 
+Windranger 
+Winter Wyvern 
+Witch Doctor 
+Wraith King 
+Zeus
