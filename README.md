@@ -98,7 +98,7 @@
 ### 2018年幽穴风云文本
 > cavern
 
-包含以下内容：
+不再更新，包含以下内容：
 * addon_schinese.txt
     * 包含自定义模式中几乎所有文本
 * addon_english.txt
