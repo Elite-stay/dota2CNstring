@@ -1,0 +1,123 @@
+s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+Toil and trouble takes the lives of two! 
+Toil and trouble takes the lives of two! 
+Two have been killed! 
+One, now two! 
+One, now two! 
+One, now two, will there be three? 
+A story written in blood. 
+A story written in blood. 
+Another walks under the blade. 
+Another walks under the blade. 
+Three. As it is written. 
+Now there are three. 
+Now there are three. 
+Three kills. As foretold by the Mad Moon. 
+Three kills. As foretold by the Mad Moon. 
+Lo, there were four. 
+Do the slivers of the mad moon drive us to kill? 
+Do the slivers of the mad moon drive us to kill? 
+Four, as told by the Moon. 
+More death, as expected. 
+More death, as expected. 
+More death, as expected. 
+You are the darkness in the woods. 
+Four have fallen, as seen by the moon. 
+Four have fallen, as seen by the moon. 
+Five! 
+Five! 
+Five went into battle and five did not return. 
+Five went into battle and five did not return. 
+Five went into battle and five did not return. 
+The moon's dark promise fulfilled. 
+The moon's dark promise fulfilled. 
+The moon's dark promise fulfilled. 
+Don't turn your back on this one. 
+Five graves. Fresh red soil for the woods. 
+Five graves. Fresh red soil for the woods. 
+The darkest things in the woods are not the monsters. 
+The darkest things in the woods are not the monsters. 
+This one walks towards the dark. 
+Torn; meat torn from blood and bone. 
+The woods will always want the dead. 
+The merchant of death wanders our wood. 
+I take no joy in seeing this. 
+The slivers of the moon sing their songs. 
+This is the work of the Mad Moon. 
+Torn; torn from ligaments, meat hangs from the bone. 
+The losers of war left lifeless and torn. 
+When beggars die the moon doesn't care. 
+The moon has sung! 
+Butchery and blood, bile and bluster. 
+They rage on, mindless to the power of the moon. 
+What powerful trouble! 
+First blood! 
+First blood! 
+First blood! 
+Death arrives. 
+Death arrives. 
+Blood bubbles from open wounds. 
+Blood bubbles from open wounds. 
+The first of you has died. 
+The first of you has died. 
+The first of you has died. 
+One has died, there are more to come. 
+One has died, there are more to come. 
+These woods will be soaked to the root in blood. 
+These woods will be soaked to the root in blood. 
+They romp and stomp over brash of bone! 
+The mad moon sings its mad song! 
+The mad moon sings its mad song!

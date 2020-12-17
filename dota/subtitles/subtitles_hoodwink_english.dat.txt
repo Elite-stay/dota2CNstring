@@ -1,0 +1,1312 @@
+s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+Early release! 
+Launch it! 
+Launch it! 
+Yoinks. 
+Fire fire! 
+Now! 
+Now! 
+Now or never! 
+There it is! 
+Whoops! 
+Three-tw-NOW! 
+Rip and run! 
+Rip and run! 
+Displace! 
+Eat this! 
+Wing it! 
+Ya nuthead! 
+You earned it. 
+Here's one from my stash. 
+That'll knock yer noggin'. 
+This is gourmet cooking around here. 
+Nutbuster! 
+Nutbuster! 
+Acorn in your eye! 
+Oaknut! 
+Food for thought. 
+Just deserts. 
+What an egg! 
+No reason to get agro. 
+Bang on of course. 
+All new meaning to the term critter! 
+How about a warm fuzzy? 
+Sprout shot! 
+Just doing my part. 
+Can always use more trees. 
+I got heaps of 'em. 
+Functional AND feelgood. 
+Now to kill some fertilizer. 
+A forest from the trees. 
+We can make a little fort! 
+Here's a happy little fella. 
+Hello tree! 
+Spruce the place up a bit. 
+Evergreen possibilities! 
+Bringing back arbor ardor. 
+Yeah, I throw some shade. 
+I'll just cozy up with this one. 
+Right. See the key to throwing a rider is misdirection. Lemme show you. 
+I played around with concoctions when I was younger. But now I prefer the natural path. 
+I'm not keen on frost, yeah? Let's keep it to a minimum. 
+You do your thing, Anti-Mage. I'll go take care of this lot. 
+If I had a nut for every bloke came through these parts with a big head and stories to match... 
+Yah, I get the loner thing, Axe. Just easier that way, eh? 
+So like what's your personal favorite nightmare, Bane? 
+Why you let that fella ride you around then? 
+Who said you could be on my team Beastmaster? Go on, get out of here. 
+Yeah, hunting's only really fun if it's not work. So you're doing it wrong, is what I'm saying, bloodseeker. 
+I know you think you're collecting contracts, Bounty Hunter, but all I see is selling yourself one piece at a time. 
+No thanks, Brewmaster. I'm a bad drunk. 
+There's a fella can handle his handles. 
+Who says you need a good reason to fight, bristleback? Sometimes you just gotta rain hell for the kicks. 
+None of these ugly mugs are going to keep up with us, broodmother. 
+Get that scepter first, centaur. Then you can join the fun. But lay off the trees eh. 
+I'm gonna have to rethink some things if you're the god of chaos. 
+Okay first I'm gonna murder all of them, Chen, and then I'm definitely gonna get back around to you. 
+There's gotta be an easier way to light your arrows than the whole self-immolation thing... 
+Look, I can blame whoever I want for whatever I want, Clockwerk. So why don't you just back off? 
+Hey, another bubbly little killer. This is going to be a great time. 
+There are plenty of things I hate more than military commanders, Dark Seer. But I still hate them quite a bit. 
+Hey, Mireska, you ever leave Jex's cage in a tree? Might be we could set up some real neat traps. 
+I don't understand a word you're saying, Dazzle. But I was barely listening, so's probably ok? 
+There's a dealth cult that worships in the Tomo'kan. You ever been there Death Prophet? 
+Which one of you's the smart one? 
+We all got issues, Doom. Deal with 'em. In a way that's better than this. 
+Why are all you dragon kind so stingy with the piggy backs eh? 
+Look, social skills are like any other, Traxex. You gotta miss a few shots before you start hitting the mark. 
+I nicked a statue that looked kinda like you once. Yeah, threw it by the side of the road. Wonder if somebody grabbed it. 
+Which direction is Nishai from here anyway? 
+You made a world, yeah? How about making me some new bolts? 
+On behalf of my tail, I'd kindly ask you to keep about ten paces off at all times. Killer. 
+What'd you bring me, Auntie A? Something good? 
+Yeah, I'm good, Auntie. Feeling strong and my rig here's doing all right. 
+Hey, faceless void. What do those glyphs mean? I saw a bunch just like em on some broken archway I found in a cave. 
+Yeah nah, I think you actually wished people liked you, Grimstroke. This loner thing's all just an act. 
+I haven't decided on you yet, Gyrocopter. But I'm leaning towards dislike. 
+Who teaches these maniacs how to make fire? 
+Know where I've always wanted to go, Io? Hah, what am I saying. Of course you do! 
+Did you have anything to do with the curses of the Tomo'kan? 
+I dunno how you do it. That level of cooperation's beyond me. 
+Hey, give us your mask for sec? 
+I kind of wanted to sleep in today, gramps. 
+I'm not real interested in sea legs. Tree legs is more my style. 
+Oh you're gonna make things easy for me today, Tresdin. 
+Move along. 
+Who asked you anyway Lich? 
+Get back to me when you learn something 'telligible. 
+Long as you're carefull, I think we're gonna get on like gangbusters. 
+Not real interested in your life philosophy, Lion. 
+Oh, what a cutie. I wouldn't even guess he's not real. 
+Keep the saliva in your mouth, Nova. Or I'll pin it shut. 
+You stop having fun just to join some cult? 
+I've run across some shapeshifters in the dark wood. They move around a lot, but I can tell you about where. 
+I'll get an acorn ready, Magnus. This is gonna be bloody epic. 
+That song's really catchy, Mars. Too bad you're tonedeaf. 
+So...do the snakes get hungry? Asking for a friend... 
+Hey Meepo, got that special varnish I ordered? 'Member? I paid you up front. 
+Still slummin' in that temple life, Mirana? 
+I see you eyin' me, Sagan. Not bloody likely. 
+I heard you came to my neck of the woods once, Wu Kong. But it was before I was born. 
+Yeah, but like, in a pinch could someone drink ya? 
+Sweet as! Let me grab my togs. 
+So were you like really weirded out the first time you heard your voice on dry land? 
+You always think you know best, Prophet. I don't care who sprout you, no one bosses me around in my woods. 
+Here come's double the fun. 
+So do you miss thinking for yourself? Guess not, else you'd still be doing it. 
+I'm not interested in my future. Now's all I need. 
+I'm all in for your shenanigans, Donte. 
+How do they grow 'em so big in your place? 
+Someone's been looking for you, Puck. I got a message. 
+You're a polarizing figure, mate. 
+So is that how people dress where you're from or are you making a statement? 
+Want me to give you some tips on how I roll? 
+Just gonna tell you now: nothing shuts me up. 
+Wings up, chooka boy. Time to stop moping about. 
+Do you even know what you did to me, Snapfire? To everyone?! 
+I don't blame you, Mortimer. But your saddle partner's gotta die. 
+Stay away from me with that stink wagon. 
+You don't seem to be friends with that wretched lady, Kardel. Maybe you're all right... 
+How do I hitch a lift? 
+Why's all my hair standing on end? 
+That sword's bigger'n you are. Pretty neat! 
+Oh bugger, it's these kegheads. 
+I'm gonna have to learn to compartmentalize if I wanna get through this. 
+Your stuff's worse than powder. Remind me to show you something after the fight. 
+Is it time, Tiny? Is it time? 
+Hey can I check out your upper branches? It'll only take a sec. 
+Your style is right by me, Troll. I think everyone but me is an idiot, too. 
+I need to suss out some peppermint or something. 
+I'm down with Dipper.  
+Vengeance can be bloody good fun, lady. I think you're missing most of the point. 
+Can you magic me up a portal into Krimwohl big enough for a Durana swarm? 
+There's heaps of musty old spellbooks scattered around the Tomo'kan. Most of 'em are half rotten. But you might find something stupid enough to catch your eye. 
+I don't think we've got much in common, Weaver. But have a nice one. 
+Nothing like a choice bit of green, eh Windranger? 
+I bet I get twice as many notches as you, Lyralei. 
+I'm just saying, a squirrel riding a dragon into battle would be pretty damn epic. 
+Yeah, nice cask bro. 
+I grok'd smoking was bad for you, Ostarion, but this is bloody nuts! 
+I don't care if you can turn into a squirrel. The answer's always gonna be no. 
+Where do you find the time for all this? 
+I know I'm a born star, but the answer's still no. 
+Nah yeah...thought I might be seeing you when I noticed your leash was nicked. No hard feelings? 
+We used to be friends, a long time ago. What say we give it another run? 
+I couldn't have known everything'd go nuts up like that. Honest! 
+What's the good word from the Crow's Nest? 
+Hey, you ever been shot? 
+See keen, shoot keen. It's simple really. 
+Hrah! 
+Hey! 
+Huh! 
+Grah! 
+Hah! 
+Huh! 
+Hrh! 
+Rah! 
+Yeah! 
+Yeah! 
+Yeah! 
+Yeah 
+How's that for a wallop? 
+Hahah. What's wrong? 
+Backbreaker! 
+Oh did that clip you? 
+Right in the eye! 
+I can't believe you just stood there! 
+I don't relish hurting folks. But it can be funny. And sometimes I do relish it a bit. 
+Blows you back a bit eh? 
+That's a bingo! 
+Ohh, satisfying. 
+You're better off dead. 
+Break it up! 
+A bolt from the blue. 
+Hello! 
+Bang on. 
+Clanger! 
+This is why I get outta bed in the morning. 
+Now you gotta work for it. 
+Nothing's ever easy eh? 
+What! 
+No way. 
+Come on! 
+Aww nuts! 
+Aww nuts! 
+Shut it. 
+Shut it. 
+Bit wide. 
+Eh, I'm easily distracted. 
+Can't hit nothing if you don't pull the trigger. 
+Damn. 
+Damn. 
+Wide? How? 
+You're going to regret this. 
+Any second now... 
+Good news. I've decided how I'm going to kill you. 
+Stand right there. 
+Ok now? Now I'm mad. 
+I'm done with talking. 
+Sure, wind me up. Great idea. 
+Right. So it's the hard way. 
+Chin up. This'll only hurt quite a bit. 
+I can take the kick. Can you? 
+Prepare for pain. 
+Prepare for pain. 
+Ready for some kick? 
+It'll go the distance. 
+It's a solid workout. 
+Pick a lung! 
+Better than a goat's foot. 
+Not my fault they don't duck. 
+It's funny cuz it's really unwinding for me. 
+Uh. 
+Ah. 
+Urr! 
+Uah. 
+Urrh 
+Uaah 
+Arcane Power! 
+Arcane Power! 
+Time to dish it out. 
+A smidge can't hurt. 
+Prod up. 
+What do you reckon? 
+Incoming! 
+Throw down your gold! 
+Let her rip! 
+What's a warning shot? 
+I aim to please. 
+yeah nah 
+Get stuffed! 
+Rippaah! 
+Rippaah! 
+Catch one! 
+Hey, did you hear?! 
+Hey, you! 
+Hey, you! 
+Have a squizz! 
+I'll make ya famous. 
+Look at this clown. 
+Hey, you ever been shot? 
+Gidday then. 
+See my point? 
+Time to kill something! 
+Let's do this the easy way. 
+Hey listen to this. 
+Rack off! 
+Enough yaking! 
+Time to die! 
+Hands up! 
+A reckoning! 
+Well ain't this cute. 
+Say hello to old painless. 
+How ya like my rig? 
+Hrrrraah! 
+Hey! 
+Woah! 
+Hoa! 
+Hey! 
+Woo! 
+Ha! 
+Hey! 
+Woah! 
+Jeepers 
+Do us a favor and stand real still? 
+I can still clobber. 
+Come at me. 
+It's why you came, isn't it? 
+Aim for the face. 
+Claw 'em to death if I have to. 
+Better hope I miss. 
+Steady... 
+That's a hard crank. 
+Serves you right. 
+Hah! 
+Hah! 
+Ahh! 
+Hur ah! 
+Rah! 
+Hrah! 
+Yeah, I guess sometimes people think they can push me around, but it's easy enough to educate 'em. 
+Like the Thornridge Gang. Thought they could bully me into being some sorta gopher. 
+The first two came to find me I let go minus a few pints and pieces. 
+The next four, well only one of them crawled away at all. And I kept more than my fair share. 
+Of course you'd have to be an idiot to keep coming at me after a thing like that. 
+So the next six I treated real special. Enough to make a demon cry. 
+After that, I'd be the idiot if I just left things on course. 
+So I crossed out the whole lot of 'em. 
+The locals who found the bodies decided the place is cursed. 
+So it makes a choice hideout if you're ever in need. 
+I don't see what all the fuss is about. For me the battle never stops. 
+So we're keeping score now? Gotcha! 
+I dunno the rules, but I'll learn along the way. 
+They say whoever wins this fight'll get to call all the shots. But me? I don't want anybody callin' the shots. 
+There's something hauntingly familiar about all this... 
+Step fast and shoot straight. It's gonna be a hell of a fight. 
+Blink Dagger! 
+Hop skip and a Blink. 
+And you thought I was hard to keep track of before... 
+Ripe for new purpose. 
+Nothing I can't use. 
+Yep yep. That's coming with. 
+Scoop it up. 
+Just chunk it on in there. 
+Who doesn't like preserves? 
+Just a little nick. 
+Never skint in the woodlands. 
+Bounty! 
+Bloody bounty! 
+Bounty! 
+I'm not opposed to taking the occasional bounty. 
+Guess it's my shout. 
+I've been patient enough. 
+I've been patient enough. 
+So you ready? 
+So you ready? 
+Take yer hiding! 
+Take yer hiding! 
+You crossed the line! 
+Look here real quick. 
+They're bloody asking for it. 
+Time to flush 'em out. 
+Have some! 
+Ugh. I got this. 
+This is nothing. 
+Gonna take more n' that... 
+Hrr! 
+Hrah! 
+Ahh! 
+Uah! 
+Every now and then some city-stinking crew will venture out into the brush trying to find whatever dumb thing's the latest fancy. 
+Even without my help they'd end up dead one way or another. 
+Sure as. No greenhorns last long in the deep wood. 
+So I reckon what's the harm in taunting them a bit before they go. 
+There's always the classic Durana bait game. 
+But you can also get creative with the dangerous terrain and other fun features of the forest. 
+Have you ever seen a carniverous plant could take down a man? 
+Yeah, none of those blokes had either. 
+Crummy Wizard! 
+Bloody...  Grr rah! 
+Blimin fools... 
+Barkrot! 
+Barkrot! 
+Barkrot! 
+One good cock up deserves another. 
+That'd rark anybody up. 
+The last laugh? They can have it. I'm not gonna be laughing after what I do to 'em. That's just sick. 
+We'll see who's carked it next time. And it'll be you. It'll be the whole bloody lot of you! 
+Aww nuts. 
+Watch the tail, eh. That's genuine fur. 
+I'll shake this off--ugh. 
+I beat the odds, lasting this long... 
+That's what I get for being distracted... 
+We'll call it...knackered... 
+Stink one... 
+Well that plan's munted... 
+They're gonna regret this... 
+Toss that one in the dunny... 
+Well bloody good on you... 
+Sure stuffed that one up... 
+Make something nice...outta me. 
+From one muppet to another... 
+Of course I underestimated you. Look at you! 
+Served up like a snack... 
+Where...do you get off... 
+Gizza minute eh? 
+How could you...you monster... 
+We'll get you...in the end... 
+Have you ever seen...a more beautiful corpse? 
+Before I die...I just need you to know...you suck. 
+Denied. 
+Denied. 
+Denied! 
+That would be no. 
+No, see. This is my sorry face. 
+Just teachin' ya a lesson for next time. 
+And you were looking proper stoked too... 
+Yeah nah, cuz. 
+Hehehe. 
+I'm gutted. Really. 
+Keep your brass on. 
+Less gawkin, more aiming. 
+No need to get snooty over it. 
+Bugger all for you. 
+Look at that one. 
+You were just, like a second too slow. 
+I make a very fine point. 
+Don't bust a gut on me. 
+It's better this way. 
+What do you know? 
+Perfection! 
+Yeah still nah. 
+Yeah still nah. 
+I thought we talked about this. 
+You look a bit crook, mate. 
+Thought I'd miss that, eh? 
+Still a steady hand. 
+The crank does most of the work. 
+I never said he was my friend. 
+He looked unsteady. 
+He won't hold it against me. 
+Suck it up. 
+Double Damage! 
+Double Damage! 
+That'll bolster a point. 
+Double trouble. 
+I take what I get and use it right. 
+Always was a bit lucky. 
+Yeah, ok. That's pretty shiny. 
+See, the forest always provides. 
+Paws down, the most dangerous beastie in the deep wood is the Durana. 
+And the danger's not just the tentacles or the teeth or the paralytic secretions neither. 
+It's the temptation. The loss of control. 
+Because Durana pheromones aren't for breeding. They're for feeding. 
+And they affect different folk in different ways. 
+You haven't seen bonkers till you've seen a column of cavalry get swept up in the durana daze. 
+Some going giggly, others going mad. 
+Not a single one looking out for hungry beasties slinking up behind. 
+I don't have to worry though. 
+That stuff only works on bigger prey. 
+So even when one does does feel inclined to snatch at me... Well, tentacles and teeth only go so far. 
+First thing you need to know about the Durana: they aren't natural. 
+Sure, they breed faster'n swamp rabbits.... 
+But the first ones were conjured up outta thin air by some wizard. 
+And wizards are morons. So of course the beasties got outta control and ran amok. 
+So now everybody's gotta deal with this horrific invasive species that likes to eat grown men for a snack. 
+Heh...though there's some in the pacified lands who think I'm in an invasive species. 
+Maybe they're not wrong. 
+When I can figure out how to bait the Durana into Krimwohl anyway, I guess we're gonna find out. 
+All we needed was a dirt nap. 
+Don't call it a comeback. 
+First blood! 
+First blood! 
+First blood! 
+First blood. Always the sweetest. 
+First blood. Well that sets a tone. 
+First blood! Gotta be quick when I'm around. 
+First blood! And it's still pulsing. 
+First blood. And just a crazy amount of it really. 
+Wow! 
+Mmmm 
+woah 
+hu-hey! 
+Hah! 
+Mmmmmmm. 
+Haste! 
+High-tail it! 
+Oh wow my heart is beating really fast! 
+The first time I saw one of the work camps, I knew I'd be back. 
+There was so much to muck up, I could keep busy for days. 
+I never really thought about helping anyone escape. 
+I thought they wanted to be there. Even now, I know heaps of 'em do. 
+But there were some who saw the lure of freedom...even if the price seemed too steep. 
+Life in the darkwood's not easy. But the cunning can step free from the sight of would-be rulers. 
+And for some folk -- like me -- that's enough. 
+My uncle used to say we'd never 'a had to leave home if that little goblin lady never showed up selling her magic powder.  
+Krimwohl was mostly harmless before they got the black powder. 
+And whether she meant for them to suss out how to make it for themselves or not, point is they'd never in a jillion years've done it without getting their mitts on it in the first place. 
+Once they got it though, their appetites grew. All their appetites. 
+And any of us living on the lands they wanted had no choice but to surrender, run, or die to make a stand. 
+So we came to the Wood Tomo'kan. The dark wood -- where they say bad things await all warm bloods that enter. 
+Wasn't always that way, I guess. But it has been the stretch of my life. 
+Used to just be some normal woods. But then the wizard trials came. 
+Some big old wizard schools set 'em up. Big tests to show off and challenge their rising stars. 
+But nothing's worse in the world than a wizard out to prove something. 
+And they go and gather them all up in one place? 
+Something bad was bound to happen. And it did. 
+So all the normal folk had to leave the Tomo'kan. 
+All you got left living there now's the outlaw type and those who got no other choice. 
+No sane folk would settle in the darkwood now. 
+And of course, while all their little traps and beasties and jimjams are everywhere, there's not a wizard to be found. 
+Who needs 'em. 
+Have to admit. This really is a beautiful place to do some murder. 
+You know, you're right. It's important to take care of the mind as well as the body. It can't just be run run run, kill kill kill all the time.  
+They'll sing songs about this one. 
+Nothing makes an epic like a bunch of wet blankets all standing around. 
+Sorry, was off with the faeries. 
+How it going mate? 
+Why are we just standing here? 
+I generally only like standing around when turning a crank. 
+Anybody seen any action? 
+Illusion! 
+You go this way and I'll go that way. 
+Finally some decent help around here. 
+You know... I finally get the compulsion to touch the tail. But unlike most of you maniacs, I'm a model of self control. 
+Immortality! 
+You'll be lucky if I only live twice. 
+Ever seen a body with nothing left to lose? 
+Ok, let's see if I can murder all of you before I lose the first one. 
+You want a bag? I can get you a bag. What kind of bag? 
+I don't care what's in the bag. I just know I'm not about to let the other lot have it. 
+There's a lot more we could do with the bag, if you ask me. Which no one ever does. Because why on earth would they? We're not exactly talking about geniuses are we? Honestly, there's a real lack of imagination around here. 
+Watch your step, eh? Heaps of danger about. 
+There's no end to the things I can do to you. 
+Throw down your gold. I might let you live. 
+Well who were you expecting? 
+What's this then? Not gonna pay the toll? 
+Allow me to introduce myself. 
+Got yourself in a bit of a quandary eh? 
+Say hello to my little friend. 
+Don't even think about it! I can drop the lot of you before you can spit. 
+Let's not get squirrely now. It'd be a shame to have to kill you. 
+Maybe I'll get straight to the point. 
+Could've had you a ways back, but I always pick my spots. 
+Let me tell you a little story about your gold and my pocket. 
+I'm sorry, did you think you were hunting me? 
+Where do you think you're going! 
+Who said you could stroll in my woods?! 
+You don't even have anything interesting. 
+And don't think I'll run out of ammo. I've ALWAYS got another stash. 
+Drop your gold and run along then. 
+Anyone seen an ugly little goblin lady riding a big dumb lizard? 
+hah 
+hah 
+hah 
+hah 
+hah 
+Hah 
+Hoo 
+Hup 
+Woo 
+Woa 
+yaa 
+yaa 
+Woo 
+Waey 
+hyah 
+Waoo! 
+hah 
+whoa 
+hey 
+hoo 
+hoo 
+Invisibility! 
+Invisibility! 
+Which way to scurry? 
+A shame to tame the tail. 
+Abyssal Blade 
+Yeah what's this then? 
+You ever looked through one of these? 
+I don't normally go for footwear, but these are kind of nice. 
+I'm the strongest critter that ever lived! 
+I didn't think this would fit! 
+Basher 
+Battle Fury 
+I'll take it over faith any day. 
+Now I'm a porcupine! 
+Bloodstone 
+Bloodthorn 
+Is there a sole-less version? 
+This cost how much? I'm in the wrong business.  
+Butterfly 
+A cool refreshing drink. 
+This side goes towards the enemy. 
+Eh that's not as good as a hood. 
+How'd I get swindled into paying for this? 
+I'm just throwing money away at this point. 
+There's a proper cronker. 
+Crystalys 
+I like the aesthetic. 
+There's always something funny about a good zap. 
+I'll try not to cut myself. 
+Desolator 
+Diffusal Blade 
+What even is this! 
+It's like it was made for me. 
+Drums of Endurance 
+Dust of Appearance 
+Sure, I sing sometimes. But only by myself. 
+Echo Sabre 
+I prefer a waterskin, but magic's magic. 
+Hey hey. Anyone else feeling like really really ready right now? 
+Ethereal Blade 
+Eul's Scepter of Divinity 
+Force Staff 
+Nothing better than a boost. 
+Gem of Truesight 
+Ghost Scepter 
+Glimmer Cape 
+Hand of Midas 
+Scull it! 
+Heart of Tarrasque 
+Heaven's Halberd 
+Helm of the Dominator 
+What's this thing do, anyway? 
+Yeah, already had one, mate. 
+Hurricaine Pike 
+Sorry everybody. Trouble just found you. 
+Hyper? What're you impyling? 
+They could barely see me as it is. 
+Kaya 
+Kaya and Sange 
+Lotus Orb 
+Maelstrom 
+I always do stir up a storm. 
+Yeah, sure. A magic stick. You're lucky I like sticks. 
+Manta Style 
+Mask of Madness 
+They give out medallions for that now? 
+Mekansm 
+Meteor Hammer 
+How am I even lifting it? 
+Does that monkey guy know you nicked his stuff? 
+Mystic Staff 
+What's this even say? Klaatu...barada...whatnow? 
+Null Talisman 
+Nullifier 
+Honestly, this is about all I need to get down to business. 
+Octarine Core 
+Orb of Venom 
+Orchid Malevolence 
+Perserverance 
+It's not just a phase! 
+Solving the world's problems one sesh at a time. 
+I like to swap on the fly. 
+That's the devil's tool. 
+Radiance 
+Refresher Orb 
+I love it when they stand real still. Just whimpering and begging for their miserable little lives. What now? 
+Guess I could bulk up a bit. 
+Sange and Yasha 
+Deadly grace. 
+This'll start a panic. 
+This'll suss out any sneaky little scumbags. 
+Scythe of Vyse 
+Shiva's Guard 
+Silver Edge 
+Eye of Skadi 
+Oh this stuff's the best! 
+Everybody's laughing...everybody's happy... Heh 
+Soul Ring 
+Linkin's Sphere 
+Spirit Vessel 
+Insidious little bugger, this. 
+Tome of Knowledge 
+Sweet as. I should get heaps of these. 
+Pretty neat scepter thingy! 
+Urn of the Shadowtale 
+Vanguard 
+Like a blanket of strife. 
+Some primal vitality. 
+Yasha time. 
+I'm a casual fan, yeah. 
+Yasha and Kaya 
+What a lovely pair. Or I guess together we're a trio. 
+That's good feed. 
+Ooh, those...are kind of comfy. 
+Gleipnir... 
+Gleipnir?! 
+Wait. If the Gleipnir's here, then HE'S... I gotta-go. 
+Geez, this thing was impossible to make. How'd you get your hands on it? 
+You really should have left this thing where it was. For all our sakes. 
+Aw mate... Do you know how hard I had to work to get that thing the first time I needed it? 
+Well there's your problem. 
+You shoulda stayed outta the woods. 
+Stay outta the pines! 
+Quit packin' a sad, eh. Ya lost fair-ish n' square. 
+I was born for this. You're just a pretender. 
+Am I this good or is my weapon blessed? 
+Another notch for the Hood. 
+Wish you'd made better choices? 
+Yeah na, don't get ahead of yourself. 
+That one?s a bit sus, eh? Maybe poke him with a stick. 
+You?re lucky I didn?t do worse... But I got time. 
+You? On a battlefield? Yeah right. 
+Let's not get too worked up about it. 
+Don't let it get you down. I'm good. Really, really good. 
+You might take this time to reflect upon why you messed with me in the first place. 
+You might not think it to look at me, but I've racked up quite the body count. 
+Not today, drongo! 
+About carked it, eh? 
+Try not getting caught with your trousers down. 
+Do you mind? I'm trying to celebrate. 
+If I'd known you?re a bloody winger, I'd have aimed for the mouth. 
+Now I should tell you, I don't usually kill my victims straight away. 
+I could have toyed with you a bit, but you're just not that interesting. 
+Did you fall outta the nest as a baby? 
+Any life experience you'd like me to collect on your behalf? 
+Barked up the wrong tree, I reckon. 
+Could I kill you just as easy without the crossbow? Of course! But it'd make a helluva mess. 
+I don't need to gloat. That'd get exhausting. 
+I got a knack for that. 
+Clincher! 
+Gotta pay the tiller tax. 
+Sleep tight little guy. 
+The shoppie'll appreciate it. 
+Crack shot I tell ya. 
+It's a precision instrument. 
+Chocka! 
+Chocka! 
+Good as gold. Worthless, useless gold. 
+Sweet as! 
+Cadge a coin? 
+I'll bury this later. 
+Oh yay, gold. Like I haven't seen that before. 
+Any of you creeps got something better? 
+I could go for a bit of brekkie. 
+I'm all snarked out. 
+What another one? 
+How many of these creeps are there? 
+That's gotta be the last one. 
+Oh yay, gold. 
+Like I haven't seen that before. 
+I don't care about money. 
+I just like taking what's yours. 
+Clincher. 
+That takes some sting out. 
+How's that help? 
+Choc-a-block. 
+Put some plaster on it. 
+Why do I even bother? 
+Don't I have better things to do? 
+I'd rather be healing. 
+Worse than ticks, this lot. 
+Worse than fleas, this lot. 
+You don't see me crying. 
+Skinned and skint 
+Ha ha ha ha ha 
+He he he he 
+Ha ha ha ha ha 
+He he he he 
+He he hee he he 
+Ah ha ha ha ha 
+Ha ha ha he he he he 
+Ha ha ha ha 
+He he ha ha ha he 
+Hu hu hu hu hn 
+He he he he 
+Ah ah ha ha ha ha ha ha 
+Eh he he he he he 
+He he ha ha ha ha 
+Ah ha ha ha ha ha ha ha 
+Ah ha ha ha 
+Nice. Do it again. 
+Just adding on to perfect. 
+It doesn't hurt the other side's proper thick. 
+Always was a bright spark. 
+It's almost like divine intervention. If I believed in that sorta stuff. Which I do not. 
+You could bottle my essence. 
+That all went straight to the tail. 
+Everything's above board here. 
+Right on. Keep at it. 
+Just cuz I'm never gonna grow old doesn't mean I don't wanna level up. 
+Makes me feel all warm and fuzzy. 
+I'm a quick study. 
+There's good, there's better, and then there's plain old me. 
+Don't any of you ever get tired of congratulating yourselves? 
+Yeah yeah, don't get a big head. 
+I'm field smart. 
+Everything just got a little bit keener. 
+Rip and roll. 
+Always on the level. 
+I'll punch a Durana right in its stupid eye and take a tentacle for snarlers! 
+Oh sweet. Wanna see something really cool? We'll need a handy target. 
+Woah. 
+I didn't get this good NOT to kill stuff. 
+My oh my. Now's when we get to the good stuff. 
+OK, so this is what a god complex feels like. Cool. 
+Starting to feel a bit nutty. 
+Look, I don't need to be a god here. Let's just win this thing already. 
+If someone asks me if I'm a god, I'll say yes. 
+Might need to get myself a new shooting rig if this keeps up. 
+Call me critter now! 
+Just give it away then. 
+But that was so winnable! 
+Am I the only one taking pride in their work? 
+I guess best outta three? 
+Right. Plan B it is. Hunt down their families. 
+Sore loser? Of course I'm a sore loser. I just bloody lost! 
+Bugger! 
+Bugger! 
+Bugger! 
+Noooo! 
+Noooo! 
+Top is missing! 
+Middle is missing! 
+Bottom is missing! 
+I've been yapping long enough. Let's fight! 
+Enough of story time. We gonna win this thing or what? 
+Prob'ly the right way. 
+Sure. 
+I'm keen. 
+I'm keen. Not literally, of course. 
+What's over here? 
+Did you see a branch move? 
+One in the groove, just in case. 
+It's how I live. 
+Nah, yeah. 
+Wicked. 
+I'll suss it. 
+This way. 
+No, this way. 
+No, that way. 
+What, this way? 
+Now you tell me. 
+It's all on the way. 
+Listen! 
+You smell something? 
+Time to kill something? 
+Paws a' peddlin. 
+Who we fightin? 
+Trampin' time. 
+Rippah. 
+Got any scrog? 
+Hardly see nothing down here. 
+Any bloodtrails? 
+When's the murder start? 
+No worries. 
+Yep. 
+Yep. 
+Yeah. 
+Yeah. 
+Uh huh. 
+Uh huh. 
+That's the one. 
+I'm keen. 
+Just follow my trail. 
+Just follow my tail. 
+Yeah I see it. 
+Always a step ahead. 
+I'm always on the right trail. 
+My tail's a sail. 
+Always wanted to go this way. 
+You couldn't stop me. 
+Leave it. 
+I'll lead the way. 
+Not far is it? 
+Nah yeah, I know I know. 
+Nah yeah, I know I know. 
+We're all goods yeah. 
+Come again? 
+Nah, yeah.... 
+Do I look tired? 
+I'm just about knackered... 
+Glorious. 
+Choice. 
+Bloody genius. 
+Hey, how ya going in there? 
+Get a bit caught up then? 
+It's more for fun than sport. 
+Always always always watch where you're walking. 
+You look all sorts of wrong. 
+Guess what comes next. 
+Caught ya in your stubbies did we? 
+Ever seen someone bleed out in a net? No? Let's get started. 
+I usually like my trees to myself, but I'll make an exception. 
+It's not even my birthday! Well I guess it could be... 
+All wrapped up for takeaway. 
+Got ya! 
+Got ya! 
+Got ya! 
+In ya go! 
+In the stringer! 
+You're a treehugger. 
+Wanna see what we do for fun around here? 
+For the record, I did hit the tree. 
+Just keeping it loose. 
+Maybe my finger got twitchy... 
+Ah, more fun this way. 
+Mate... 
+Aw, mate... 
+Stupid net. 
+Well they could've been invisible... 
+Bad intel? 
+I'll get over it. 
+Yeah, nah. 
+Yeah, nah. 
+Yeah, nah. 
+Nope. 
+Nope. 
+No! 
+Yeah, no mana... 
+There's no mana. 
+There's no mana! 
+Outta mana... 
+I'm outta mana. 
+I'm out. of. mana! 
+Fresh out, mate. 
+I'm all out. 
+There's no more of that right now! 
+Sure, if you got some mana. 
+Gimme mana. 
+I need mana! 
+Seen any mana? 
+No more mana. 
+There's no mana! 
+Not ready... 
+I'm not ready eh. 
+I'm not ready! 
+Uh huh. 
+Yeah, right. 
+Just...OK! 
+I'm on it... 
+I'm said I'm on it. 
+I'm on it! 
+Just about ready... 
+I'm trying I'm trying. 
+This isn't easy you know! 
+Chill it, yeah? 
+Settle down. 
+Are you gonna be a problem?! 
+Are you gonna be a problem? 
+Takes a sec... 
+These things take time. 
+I said these things take time! 
+Another one of these bloody things? 
+Who even keeps these up? I should boost 'em. 
+There's some abandoned ones of these round where I grew up. Fun to play in. 
+I don't want it. But they sure as heck aren't getting it. 
+Wait, we're not burning it? I already got the pine pitch... 
+Whose stupid idea was it to put these things here anyway? 
+ooh! 
+ah! 
+uh! 
+eh! 
+ah! 
+uh! 
+uay! 
+Dunno why you'd want any of this dumb gold, but I'll definitely take your wares. 
+That's choice merch, bro. 
+Aren't ya getting a bit ripped off? 
+Now that's proper flash. 
+I coulda just flogged it. 
+Regeneration! 
+Regeneration! 
+Luxurious as ever. 
+Oh that'll get the grot off. 
+Best to be of sound constitution if you're aiming to murder folks. 
+What on earth was that all about?  
+Some people take things way too personally. 
+Get off. I'll be right. 
+Well that's a cracker of a day. 
+Guess I don't need to worry about the afterlife just yet. 'Less this is the afterlife? 
+I think I just sussed out what went wrong. 
+Let's keep that between you me and the trees. 
+Always knew I'd come back. I'm way too cute to die. 
+It looks like the same tail. But is it really? Am I even me? 
+What did we learn from that? That even eggheads get lucky. 
+Note to self: extract bloody vengeance. Preferably before lunch. 
+Let off a minute. I've got to liberate some souls from some bodies. 
+I've always got another stash. 
+Just a bit of respite. 
+Ugh, hang on a sec. Gotta stretch. 
+Rig's in one piece. So that's covered. 
+If I kept a journal, I'd leave that dying part out. 
+Guess that just happens round these parts. 
+I dunno what that horse had against me, but enough's enough. 
+That's what happens when you get a bruiser to fight your battles for you. You get soft. 
+Hate to shatter your dreams, you frigid idiot. 
+You eh? To be honest, I was hopin for the other one. 
+The other one might've had better luck. 
+This one's heaps of fun. Get to kill him again and again. 
+Glad I didn't get zapped. 
+If I had a gold piece for every Oglodi I killed, I'd have enough to start using acorns for impractical purposes. 
+I'll never burn that sight outta my brain! 
+That bat had a giant parasite. I probably did him a favor. 
+Look, you knew we weren't gonna get along just on general bloody principle. 
+You're better off drinking maple syrup. 
+Oh, mate. This one must really sting for you, eh? 
+I'm getting tipsy just from the stench. 
+Neath those pickers, you're mince like all the rest. 
+Choice. I needed some silk. 
+I reckon this one was worthy of at least a little respect. 
+What's more chaotic than that? 
+If I say what I feel, my tongue might turn black and fall off. 
+This one feels better than most. 
+You're lucky we never ran into each other when you were alive. You never would've survived to be cursed. 
+Yeah you were pretty chill. Shame really. 
+Cheer up eh. Now you can stop whining about your great sacrifice. 
+Yay for the mischief, but what's with the greed? That's just a waste of your time. 
+Are they bloody serious with these people? Where does someone like that even come from? 
+Never had much time for pity parties. Where do you get off? 
+Oops, killed 'em both 'steada just one. 
+As you can see, I'm somewhat of a disruptor myself. 
+All that power... Just another case of a stunning lack of imagination. 
+Wait a second. That Dragon could've chosen anyone, and he chose you? What the hell is wrong with this world? 
+You obviously weren't born for this. I'm surprised nobody showed you sooner. 
+Hey what a coincidence. My first hard targets to practice with were little rolling rocks. I guess it prepared me better than I thought! 
+It was like aiming at the broadside of an oak. What could be easier? 
+See, the trick is never set limits for yourself. I never set out to kill a Titan, but I never thought I couldn't neither. 
+Shooting out candles and torches is easy. But destroying the essence of flame itself? Yeah I'll take it. 
+You can't tell me what to do! I tell me what to do! 
+How can someone with no face look so damn smug? 
+Ha ha look, I gave him a proper face. Let's just call those bloodstains tears. 
+I'm all out of pity for the likes of you. 
+Should I tell you what I've got planned for your little contraption? 
+That's for singing the fur. 
+Dying light's already a clich? after all. 
+Yeah, magic's pretty neat and all, but nothing compares to a heavy bolt and a dead shot eye. 
+Those two dragons crashed together so hard they merged into one dumber slower Dragon. 
+Hoods are way better than masks. Just saying. 
+Hey old-timer. The sun sets on everybody. Whether they like it or not. 
+You can think of these trees as masts, if it helps you die in peace. 
+I'm not joining your bloody legion. 
+Wait there's one of you here too?! 
+Bro she is not going to be happy that I killed you. Oh well, she already had it out for me anyway. 
+You cold dead guys are all the same. Don't you have a convention to be at or something? 
+Did you see that bloke? There's no way he's not thanking me. And if he's not, he should be. 
+You singed the fur. There's no coming back from that mate. 
+Don't mind me. I'm just gonna lop that hand off. I heard I could trade some favors for it in some dumb wizard town. 
+I'm not here to explain what went wrong. It's just obvious that something did. I mean, otherwise... 
+I reckon a lot of people felt you had this coming. But that lot's just a bunch of bloody whingers. I did this for fun. 
+Yeah with how fast you are, you got no one to blame here but yourself. I mean you could have been literally anywhere else. 
+Spare me your noble sob story. What's it got to do with me? 
+Okay okay. This is a real feather in my cap. Sure as. 
+Yeah, dodging snakes is nothing new for me lady. What else you got? 
+Sorry Meepo. You shouldn't have looked at where I was digging. That was classic misdirection. 
+Even if the lady hadn't been crazy, I'd have had to kill the cat. Can't have mass murderers running around. 
+Looks like I'm the king of mischief now. 
+aw, mate. That kinda makes me need to go. You know? 
+Heck, with that singing voice it was either bolt or bolt her. And I felt like staying. 
+Look, I told you I'm not big on affiliations. Stay outta wherever I am. 
+Yeah sorry. People with your attitude just rub me the wrong way. 
+My uncle used to tell me bedtime stories about you. Those were some great adventures. Real happy to have killed you. 
+Who doesn't like squishing bugs? 
+Yeah I got a fair bit of luck myself. My uncle used to say I was right blessed. You know, on account of not dying like all my other kin. 
+Hey just what this place needed, another self-righteous metal marcher on some higher quest. 
+Wait wait, I want to think of one you never heard before or after. 
+Yeah, I'm not real keen on what you said about dying in a fire. That's what my crossbow likes to call a trigger warning. 
+Heard you were some kind of big hullabaloo. I didn't come here to prove anything, but I guess I just did. 
+Bloody muppet. What were you thinking? 
+Roll along home you silly bastard. 
+I can hit anything. Doesn't matter how blurry. 
+Wouldn't it been better to die all peaceful like, dangling a pole in the river? Not with two bolts in the dome... 
+When I was just a little bit, I used to wish upon shooting stars. Then I realized that was stupid and just learned to shoot instead. 
+They used to tell stories about this one in the Tomo'kan. Quite the little troublemaker. This'll gain me even more respect. 
+Ugh uh, the stench though! How do you get that taste outta your mouth? 
+You coddled little tail-jerker! Someone shoulda done this ages ago! 
+Ma'am. This is a forest, not...wherever it is you think you're spozed to be. 
+You shoulda gone to ground. 
+Yeah we're light years apart, mate. 
+Whatever can be made can be unmade, I figure. 
+Had to leave you cracked and bleeding. 
+I could smell those fakes a mile away. 
+Shadowtail over Shadow Demon. 
+That's what you get for hoarding! 
+Shadowtail over Shadow Fiend. 
+I said no snakes of any kind! 
+Shadowtail over Shadow Shaman. 
+Yeah, a lot of people have tried to shut me up. This is how it always plays out. 
+Anyone feeling peckish? 
+I don't take kindly to being punched by fish! 
+I told you to stay off my turf, gill boy. 
+Don't cry for the likes of her. 
+Ignorance isn't innocence! 
+Eat that, you powder-using puffer! 
+One keen down, but plenty more to go. 
+No one's gonna miss you. Not even you. 
+On this plane you're just a bobby after all. 
+Sorry. I didn't feel like staying in today. 
+Looks like the power grid's out, mate. 
+My first thought was your sword's impractical. But now I see it's actually impracticable. 
+That's for ruining such a choice word! 
+Choke on your black powder, scumbags. 
+Never had much time for book smarts. And this right here's the reason why. 
+I don't need books to argue a point. 
+Don't you ever get tired of yourself? 
+Oh bloody hell. This one's corpse is gonna reek. 
+If I see one more of you little bastards in my trees, I'll rain down blood on every last one of ya! Dig? 
+Nothing personal, Tinker. I'm just prejudiced. 
+I've known some Tinies in my time. You, sir, are no Tiny. 
+Bummer, I think he had some of my stash. Ah well. I'll find more. 
+Chill, bro. 
+Chill, bro. 
+What, did you think I got a problem with snow? I'm right at home. 
+Wonder if I can turn these horns into some sorta charm. 
+That's a smell'll strip bark off trees! 
+Got enough critters in these woods already. 
+Everyone's got problems, lassie. Yours ain't mine. 
+Eh, I'd eat slug if times were tight. But they ain't. 
+Lot harder to fly with all those arrows in you. 
+Even if I cared for your rules, it's not even close to my time yet. 
+Guess you shoulda showed up sooner. 
+So you cut down trees to turn 'em into books about demons? Yeah, you had this coming. 
+Honestly, I just saw him out of the corner of my eye and started shooting. Was instinct really. 
+Couldn't take my word for it, could ya?  
+Yeah, friends is kind of a loose term for me. Sorry. 
+I don't know if we were on different sides, but that poem was depressing as all get out. 
+Think I'll pass! My uncle went to the doctor once and never came back. 
+You want these little bones of mine? Gonna have to do better than that! 
+Since you're not a god anymore, I feel like I can ask you: why are you so messed up? 
+You think you're special or something? 
+We coulda been great together. But you always get blinded by the floodlights... 
+I'm gonna get huge props for this back home. 
+Yeah if you don't mind I'm gonna help myself to some of your gear. 
+I don't even know enough about you to care you're dead. 
+Stay outta my lane! 
+What's this? Some sort of big deal or something? 
+Oh wow, that feels nice. Wanna kill something? 
+You take this thing off that Aghanim fella yourself? 
+How about a short cut? 
+Gap it! 
+Go go go! 
+Go go! 
+Mind the branch! 
+This way looks clear. 
+Dip this way. 
+Nothing to it. 
+Piece of piss. 
+I know just the tree. 
+Tail a'trailing. 
+Watch it! 
+Flat out! 
+Bush it! 
+Rattle the dogs. 
+Stay in the trees. 
+Now I'm the dodgy one. 
+Scurry out of it. 
+It's what I do. 
+Till recently, I never had much interest in seeing my old home. 
+Who wants to see pacified lands when the stories of old are better? 
+In the end, it wasn't the idea of the place that took me scouting back...but memories of my kin. 
+I wondered if some might still be out there -- proper citizens of Krimwohl now. 
+It was enough to take me to the treeline, anyway. 
+Even if I didn't find anyone worth seeing, I was sure I could scare up a bit of good fun. 
+Shitty Wizard! 
+Most of my life, I thought my little sis' carked it back on the Night of Fire. 
+But a few seasons back, I was tracking along the treeline near the pacified zone, and... 
+Well I'd know that red tail anywhere. 
+She was out with some sort of work crew. 
+Farming or some nonsense. Like there weren't a world of food a few leaps away. 
+I couldn't get two steps towards her 'less I wanted to light the place up. 
+And I didn't even know if she remembered me. She was hardly bigger than a biscuit back when. 
+Not the right move to re-introduce myself with a massacre probably. 
+I watched for a spot to catch her out, but the overseers kept a bloody harsh eye. 
+Then the whole bunch scampered off. And I burned the crops. 
+I've been back there now lotsa times. But she hasn't, far as I can see. 
+I have seen some familiar faces amongst the work crews. 
+And I'm sure I woulda known heaps 'a the others if all our lives hadn't gone up like a keg of powder. 
+I always try not to hurt any of those types when I go in for a bit of fun with the guards. 
+But anyone who tries to fight is fair game. 
+I doubt we woulda been that close anyway. 
+Hoodwink! 
+Hoodwink! 
+What's this then? Some kind of fight? 
+What's this? Amateur hour? I'll hand out a few pointers. 
+Sooo... Side bets on the body count? 
+Oh wow, I've never seen so many interesting people to kill in one place. I'm sure heaps'll be friendly too. 
+Cross me n' I'll cross you out. 
+The wood teaches one rule: step fast or you're snack meat. 
+I'm mean as, and twice as quick. 
+I step through the forest like it's not even there. 
+Better watch where you?re going. Never know what?s lurking in the deepwood. 
+Eh. There's some nice woodland around here. Guess I could be bothered. 
+I'm not for hire... But this does pique my interest. 
+Everything's a bit of a game, you ask me. 
+Fair's for you to worry about. 
+Gonna stand here all day? Or sniff out a bit of fun?  
+If you've heard of me, I must be doing something wrong. 
+What do I look like, a hunter? I'm a vegetarian. Most of the time. 
+My aims are my own. Best you don't end up as one of 'em. 
+Civilization always looked an awful lot like a boot heel. 
+Krimwohl's the ones obsessed with fire. So what if I burn some of their stuff? 
+I've been dodging Durana beasts since before I could crawl. What's this lot gonna do to me? 
+All them idiots can keep the big smoke. Out here's where a body's really free. 
+No worries really only applies to me. That bunch should have heaps of worry. 
+You ever hear the one about the tortoise and the hare and the squirrel that shot 'em both? 
+Every time you hear a twig snap, that's me about to end your run. 
+I was born with nothing to lose. There's nothing they can do to stop me. 
+Why would I name it? It's just a piece of wood. A really awesome piece of wood, but still. 
+Let's chase down a few bolt holes. 
+Surviving adolescence was a harder fight than this. 
+Down here, hungus! 
+Down here, hungus! 
+I could run circles around ya, but I'd rather just shoot ya. 
+Cheap party tricks. Neat right? 
+See this? This is for you. 
+Looks like this is goodbye. 
+Here we go again. 
+Am I here and there...or neither here nor there? 
+Who doesn't love the swirly bits? 
+You ever feel really exposed? 
+Hope I read it right. 
+Better not end up anywhere suss. 
+I'm not sure this isn't killing me! 
+Anywhere's better than here. 
+And that's all that. 
+Good thing there's not a blood price. 
+Please work - please work. 
+It's definitely one way to travel. 
+Hope it's not a one-way ticket. 
+Did I do it right? 
+I had a good run. 
+Thanks! 
+Thank you. 
+Chur. 
+Chur bro 
+Chur bro 
+Chur bro 
+Cheers bro! 
+I'll see you right. 
+Nice one, bro. 
+I'm under attack! 
+Don't let 'em hide me! 
+Get 'em off me! 
+Hey hey hey! Ow! 
+Bloody Wizard! 
+All's well that ends with me winning. 
+Catch you later, dingleberry! 
+That's crack up! 
+I resent the implication. 
+That'll grind your teeth. 
+That's enough to make me wish I could vomit. 
+Hands off the tail, cuz. 
+Hands off the tail, bro. 
+Hey you wanna see something really cool? 
+Touch my rig and you'll lose a finger. 
+I'm not looking for trouble. It's looking for me. 
+Why's everyone always blame me? 
+Better not catch you littering, bro. 
+You bloody egg. 
+You bloody egg. 
+Hey, hold this target for a sec. 
+People say I talk too much. 
+Anyone know where we're going? 
+Less talking more shooting. 
+I got blisters on me fingers! 
+Yeah, nah. Let's not. 
+What else you planning that I can ruin? 
+Read the tail. 
+Ahahahahahah 
+Ah ha ha ha ha ha ha ha 
+Ha ha ha ha ha ha haa haa 
+Ha eh eh he he 
+Eh he he ha ha ha ha 
+Sweet as, cuz. 
+Proper skux. 
+Wheeee! 
+Hahah ha ha ha ha ha. woah 
+Drafty! 
+Guess we're going up! 
+Woah! 
+Uaah! 
+I've never seen me this happy! 
+Wind the cranequin, good things happen. 
+Home and hosed before bedtime. 
+Now that's what I call short work. 
+That's why ya give it heaps. 
+I probably used 80% of my stash. 
+Right! Who wants to party? 
+Break out the fizzies! 
+Nah, yeah. 
+Nah, yeah. 
+Nah, yeah. 
+Yep. 
+Yep. 
+Yes! 
+Yes! 
+Yeaaaah! 
+Ripppaah!
