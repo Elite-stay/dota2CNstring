@@ -14,6 +14,7 @@
 1. 2019年魔罗兽之怒文本
 1. 2020年阿哈利姆的天地迷宫文本
 1. 2020年夜魇暗潮文本
+1. 新手教程
 
 ### 客户端主要文本
 > 调用了[Decompiler](https://github.com/SteamDatabase/ValveResourceFormat)获取vpk内的文本文件
@@ -133,6 +134,15 @@
 
 ### 2020年夜魇暗潮文本
 > diretide2020
+
+包含以下内容：
+* addon_schinese.txt
+    * 包含自定义模式中几乎所有文本
+* addon_english.txt
+    * 对比使用
+
+### 新手教程
+> npx_2019
 
 包含以下内容：
 * addon_schinese.txt
