@@ -383,33 +383,33 @@ Cloud9's turn to ban.
 Digital Chaos' turn to ban. 
 DC's turn to ban. 
 Infamous' turn to ban. 
-OG?s turn to ban. 
-Team Liquid?s turn to ban. 
-Liquid?s turn to ban.  
-NewBee?s turn to ban. 
-LGD?s turn to ban. 
-LGD Gaming?s turn to ban. 
-MVP Phoenix?s turn to ban. 
-MVP?s turn to ban. 
-Na'Vi?s turn to ban.  
-Natus Vincere?s turn to ban. 
-Team Secret?s turn to ban. 
-Secret?s turn to ban. 
-Alliance?s turn to ban. 
-Wings Gaming?s turn to ban. 
-Vici Gaming Reborn?s turn to ban. 
-VGR?s turn to ban. 
-TNC Pro Team?s turn to ban. 
-TNC?s turn to ban. 
-Fnatic?s turn to ban. 
-Evil Geniuses? turn to ban. 
-EG?s turn to ban. 
-DC?s turn to ban. 
-Complexity Gaming?s turn to ban. 
-Complexity?s turn to ban. 
-EHOME?s turn to ban. 
-Escape Gaming?s turn to ban. 
-Execration?s turn to ban.  
+OG's turn to ban. 
+Team Liquid's turn to ban. 
+Liquid's turn to ban.  
+NewBee's turn to ban. 
+LGD's turn to ban. 
+LGD Gaming's turn to ban. 
+MVP Phoenix's turn to ban. 
+MVP's turn to ban. 
+Na'Vi's turn to ban.  
+Natus Vincere's turn to ban. 
+Team Secret's turn to ban. 
+Secret's turn to ban. 
+Alliance's turn to ban. 
+Wings Gaming's turn to ban. 
+Vici Gaming Reborn's turn to ban. 
+VGR's turn to ban. 
+TNC Pro Team's turn to ban. 
+TNC's turn to ban. 
+Fnatic's turn to ban. 
+Evil Geniuses' turn to ban. 
+EG's turn to ban. 
+DC's turn to ban. 
+Complexity Gaming's turn to ban. 
+Complexity's turn to ban. 
+EHOME's turn to ban. 
+Escape Gaming's turn to ban. 
+Execration's turn to ban.  
 Vici Gaming's turn to ban. 
 Evil Geniuses' turn to ban. 
 Team Secret's turn to ban. 
@@ -507,33 +507,33 @@ Cloud9's turn to pick.
 Digital Chaos' turn to pick. 
 DC's turn to pick. 
 Infamous' turn to pick. 
-OG?s turn to pick. 
-Team Liquid?s turn to pick. 
-Liquid?s turn to pick.  
-NewBee?s turn to pick. 
-LGD?s turn to pick. 
-LGD Gaming?s turn to pick. 
-MVP Phoenix?s turn to pick. 
-MVP?s turn to pick. 
-Na'Vi?s turn to pick.  
-Natus Vincere?s turn to pick. 
-Team Secret?s turn to pick. 
-Secret?s turn to pick. 
-Alliance?s turn to pick. 
-Wings Gaming?s turn to pick. 
-Vici Gaming Reborn?s turn to pick. 
-VGR?s turn to pick. 
-TNC Pro Team?s turn to pick. 
-TNC?s turn to pick. 
-Fnatic?s turn to pick. 
-Evil Geniuses? turn to pick. 
-EG?s turn to pick. 
-DC?s turn to pick. 
-Complexity Gaming?s turn to pick. 
-Complexity?s turn to pick. 
-EHOME?s turn to pick. 
-Escape Gaming?s turn to pick. 
-Execration?s turn to pick.  
+OG's turn to pick. 
+Team Liquid's turn to pick. 
+Liquid's turn to pick.  
+NewBee's turn to pick. 
+LGD's turn to pick. 
+LGD Gaming's turn to pick. 
+MVP Phoenix's turn to pick. 
+MVP's turn to pick. 
+Na'Vi's turn to pick.  
+Natus Vincere's turn to pick. 
+Team Secret's turn to pick. 
+Secret's turn to pick. 
+Alliance's turn to pick. 
+Wings Gaming's turn to pick. 
+Vici Gaming Reborn's turn to pick. 
+VGR's turn to pick. 
+TNC Pro Team's turn to pick. 
+TNC's turn to pick. 
+Fnatic's turn to pick. 
+Evil Geniuses' turn to pick. 
+EG's turn to pick. 
+DC's turn to pick. 
+Complexity Gaming's turn to pick. 
+Complexity's turn to pick. 
+EHOME's turn to pick. 
+Escape Gaming's turn to pick. 
+Execration's turn to pick.  
 Vici Gaming's turn to pick. 
 Evil Geniuses' turn to pick. 
 Team Secret's turn to pick. 
@@ -870,6 +870,9 @@ Your attention please.
 The next game is about to begin. 
 versus 
 Welcome to the Dota 2 International! 
+Your tower is under attack. 
+An enemy tower has fallen. 
+Your tower has fallen. 
 Welcome to the Battle Cup. 
 The struggle for the Battle Cup begins. 
 Eight teams enter, one team leaves. 

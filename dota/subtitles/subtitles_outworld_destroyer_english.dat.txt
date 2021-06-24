@@ -52,7 +52,9 @@ rd
 st 
 nd 
 rd 
+Destroyer. 
 Outworld Devourer. 
+Outworld Destroyer. 
 From the outer dark I come. 
 From the fortress afloat in the dark. 
 I could hear your caterwauling from clear out on the rim. 
