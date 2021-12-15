@@ -1,4 +1,5 @@
-, %s3 (%s4:%s5:%s6) 
+%s1, %s2 %s3, %s4:%s5 %s6 
+%s1 %s2, %s3 (%s4:%s5:%s6) 
 %s1 %s2, %s3 (%s4:%s5:%s6) GMT 
 Unknown 
 %s1d %s2:%s3:%s4 
@@ -52,6 +53,253 @@ rd
 st 
 nd 
 rd 
+United States 
+Afghanistan 
+Åland Islands 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antarctica 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Bouvet Island 
+Brazil 
+British Indian Ocean Territory 
+Brunei Darussalam 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Republic of Cabo Verde 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo 
+Congo, the Democratic Republic of the 
+Cook Islands 
+Costa Rica 
+Côte d'Ivoire 
+Croatia 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+French Southern Territories 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guernsey 
+Guyana 
+Haiti 
+Heard and Mc Donald Islands 
+Vatican City State (Holy See) 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Korea, Republic of 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Lao People's Democratic Republic 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+North Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia, Federated States of 
+Moldova, Republic of 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+Netherlands Antilles 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestinian Territory, Occupied 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Pitcairn 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Reunion 
+Romania 
+Serbia 
+Russian Federation 
+Rwanda 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+Sao Tome and Principe 
+Saudi Arabia 
+Senegal 
+Serbia and Montenegro 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Georgia and the South Sandwich Islands 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Eswatini 
+Sweden 
+South Sudan 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania, United Republic of 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom 
+United States Minor Outlying Islands 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Venezuela 
+Viet Nam 
+Virgin Islands, British 
+Virgin Islands, U.S. 
+Wallis and Futuna 
+China 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
 Mirana. 
 Mirana and Sagan! 
 Priestess! 
@@ -315,4 +563,951 @@ Ah!
 Ha ha ha ha ha. 
 Ha ha ha ha ha. 
 Ha ha ha ha ha ha! 
-Ha ha ha ha ha!
+Ha ha ha ha ha! 
+Are you a friend of Herzog? 
+You're a strange little man, aren't you... 
+If you're looking to kill a wizard I have a wonderful suggestion for you... 
+So how would you feel about assassinating Invoker? 
+It would appear that Goodkind wasn't exaggerating about you. 
+I'll cover you, Axe. 
+Love the bat, what's it's name? 
+That thing's house broken, yes? 
+So long as you're not working with my uncle, we'll have no problems Gondar... 
+Summered in Revtel once, lovely place. 
+You should see what they pass for alchohol in Barrowhaven, euyck... 
+You didn't make that revolting stuff in Barrowhaven did you? 
+You and Davion would get along swimmingly... 
+Well, you certainly don't lack for confidence, Bristleback... 
+Good to see you again Rylai... 
+It's a pleasure to fight alongside the Warden of Icewrack... 
+I'm sure Davion would love to pick your brain sometime... 
+I bet you and Kaden are a laugh riot at a dinner party... 
+I see you so much as give my coin purse a sideways glance I'll put an arrrow through your hand. 
+My uncle's an ass; I can relate. 
+Looks like there's more to the Oglodi than I thought. 
+After the battle, can you please teach Axe some decorum? 
+It's like old times, Eh Davion... 
+Whoever gets the least gold has to buy the whiskey... 
+If we die, at least we die together... 
+I don't suppose you forgot to wear those pants Invoker gave you... 
+It's nice to see you've made peace with Slyrak... 
+Where's Bram? 
+You're more Slyrak than you are Davion... 
+You're not MY davion, are you... 
+You're good Traxex... I mean, not as good as you think you are, but a solid 7. 
+Your ego is going to get in your own way Traxex. 
+Enchantress, you are simply a ray of sunshine. 
+You're a positive person Enchantress, I like that... 
+What do you know about the Pillar of Creation? 
+Tell me, Lord of Clazureme, is time maleable? There are mistakes that need to be rectified... 
+Light the way, Io. 
+Well aren't you a useful little companion... 
+You're a good father, Invoker... I won't take that away from you... 
+I understand why you did what you did... and I've made peace with it. 
+Never seen a two headed dragon before... 
+Are there more dragons like you Jakiro? 
+It would seem a temporary alliance with Galanius is in order... 
+If the Helio Imperium and Stonehall stand united, we cannot fall. 
+Show them how you earned the title Slayer... 
+I expect fealty from you, Lina... 
+Luna, we've had our differences, but I trust you. 
+Don't hold back, Luna...we need to win this war. 
+I'm sorry to hear about your family, Lycan... I know how that feels. 
+Your birthright was stolen from you, Lycan...if we win this, I'll do what I can to help you get it back. 
+With you by my side, I know we can take on anything... 
+Gods I missed you, Marci... 
+Let's show them how professionals get it done, eh Marci... 
+I love you Marci, I won't let anything happen to you. 
+If you need me, just whistle... 
+Once this is over we need to catch up...I'd love to know what you and Wei have been up to... 
+Thank you Marci, you always know exactly what to say. 
+I like your bow 
+Oh look. It's Meepo.  Great. 
+If you're looking to gamble, I'd try talking to Davion, he's horrible at it. 
+You're like a furry Davion. 
+I never thought I'd meet a man more full of himself than Davion, but there you are, shattering expectations. 
+Tell me Oracle, are we going to win this? 
+You being here is a good omen, Oracle... I can't imagine you showing up to a battle that you knew you were destined to lose. 
+When this is over we should talk about Heronimo and Luna... 
+Don't let my Uncle's actions color your impressions, I have great respect for the Nivan Gallants. 
+My name's not on the list, right? 
+So this murder list of yours: how does it work?  Like if you kill someone on your sister's list are they happy they don't have to do any work, or are they upset because you basically took a comission? 
+You are strangely endearing pudge... 
+I wish more zombies were as affable as you... 
+It's always a relief to learn that the Jasper Circle is on your side... 
+Oh, didn't see you there... 
+Reconcile things with your father, Rubick - life's too short. 
+Here's my question: did you pick up your father's neurosis?  Or did you develop your own hangups because you grew up in your father's long shadow? 
+I'd rather deal with you than Terrorblade any day of the week... 
+What can you tell me of Foulfell? 
+You demons love to name things on the nose. 
+I don't suppose there's room in the Tyler Estate for Invoker... 
+I don't suppose you and the Anti-Mage are interested in going to a wizards tower in the valley... 
+I'm fighting alongside an escaped convict.  Great. 
+How in the world did I find myself working with Slark... 
+Have you ever considered opening a bakery in the helio imperium? 
+Mortimer is adorable 
+You're an oathbreaker Sven, you have a lot of work to do to earn my trust. 
+It's hard to trust a man who breaks a sworn oath with ease. 
+The sooner you work things out with Yurnero, the happier you'll be. 
+Trust me: You don't want things to go unsaid between you and Yurnero. 
+This is a temporary alliance, demon. 
+I let you in, Terrorblade. 
+I'll help you win this fight, just promise me you'll stay away from Nightsilver Woods... 
+Try not to make eye contact, try not to make eye contact... 
+Any friend of Rylai's is a friend of mine. 
+You and Davion should have a boys night... 
+I don't want to sound insulting, but can I ride you?  I bet we'd look incredibly intimidating... 
+You tear their armor open, and my arrows will find the holes.. 
+Stick with me, Windranger... you may learn a thing or two. 
+I'll admit it, you have a certain...raw talent. 
+It's good to see you again, Auroth... 
+I don't suppose you've written Bram lately, have you? 
+You remind me of my Uncle... I hate my uncle. 
+If I wanted to deal with egotistical old men, I would have gone to court... 
+Ahhh 
+Uhh. 
+Uhhh. 
+Uhhh. 
+Raah! 
+Yaah! 
+Arcane power. 
+The power... it's incredible... 
+Magic is in abundance here... 
+You're joking. 
+You're joking. 
+Move! 
+Out of the way. 
+Move it, creep! 
+What are you doing?! 
+Bloody creep. 
+What a wasted arrow. 
+Might as well have shot nothing. 
+Chalk that one up as a miss. 
+I just had to lead them a bit. 
+By Nightsilver's grace. 
+My eye never misses. 
+All lined up for another shot. 
+Time to finish this. 
+What were you expecting? 
+Perfect. 
+Perfect shot. 
+As I expected. 
+As I expected. 
+Stay where you are. 
+Stay where you are. 
+I admit it's satisfying. 
+Marci never doubted me. 
+Bullseye. 
+There's no honor in preening. 
+Yes! 
+Yes! 
+See? 
+I knew it. 
+A brilliant shot. 
+I take it for granted. 
+I didn't even need Marci. 
+You don't get to walk away from this. 
+I'm not in the mood for a chase. 
+I have an eye for angles. 
+You're not as cunning as you think. 
+Sagan has a nose for this. 
+Even I'm impressed. 
+Was that a personal best? 
+I'll have to tell Marci later. 
+Even at a distance, they had no chance. 
+I don't have time for this. 
+You should never have tried me. 
+You didn't know your place. 
+It was easy enough to lead you. 
+Were you hoping I'd miss? 
+Only in defense of the temple. 
+You should have been looking for this. 
+Consider this merciful. 
+Saved me the trouble of a mercy shot. 
+They should have run while they had the chance. 
+Wasted. 
+A rare miss. 
+I don't believe it. 
+What? 
+What?! 
+How did that miss? 
+The spirits test me. 
+I need to focus. 
+Don't think about it. 
+Ok. That missed. 
+Call it divine intervention. 
+Spirits grant me patience. 
+There's something else at work here. 
+Oh, balls. 
+An easy target. 
+It didn't even move. 
+I'm told they fetch a reasonable price. 
+I'll take a few more of those. 
+Not very exciting, but I don't have much choice. 
+It's what the ancestors give me... 
+Thrilling. What's up next? 
+Is that the last of them? 
+He'd have eaten me if given half a chance. 
+Sorry, Roshan. But we need all of your stuff. 
+It would have been shameful had I missed. 
+Not a very sporting shot, but he is quite tough. 
+No precision, really. I just kind of pointed at the pit. 
+Not even Roshan can resist. 
+That does it. Time to fight or run. 
+As if the poor beast hasn't suffered enough. 
+Yes, it was easy. But it still felt good. 
+You're welcome, everyone. 
+You're mine. 
+Face me! 
+I see the target. 
+Opening fire. 
+Taking the shot. 
+Aiming 
+This arrow will land. 
+Firing. 
+I'll take 'em out! 
+My aim is true. 
+I see them. 
+releasing arrow. 
+They're mine. 
+They can't run. 
+I won't miss. 
+I see 'em Sagan... 
+Tracking the target. 
+knocking arrow. 
+I'll fight as long as it takes. 
+I don't run from a fight. 
+Putting them down. 
+Let's see them dodge this. 
+Plenty of arrows left in the quiver. 
+Takka! 
+Takka! 
+Rrgh! 
+Ahh! 
+Uh! 
+Mwa! 
+Bwa! 
+Uhgh! 
+Agh! 
+R'uh! 
+Yah! 
+Eh! 
+Oh uh! 
+Ooh! 
+Eh! 
+Aah! 
+Ah! 
+Yaaah! 
+I'm holding the line! 
+Can't lay off em... 
+I won't stop fighting... 
+Can't give up... 
+We can still win... 
+It's you or me... 
+You won't break me... 
+That the best you got? 
+Just gotta hold on a little longer... 
+Gotta get 'em before they get me... 
+Uh! 
+Eh! 
+Uh! 
+Ah! 
+Eh! 
+Come Sagan, we ride to battle... 
+Victory wil be assured. 
+This war is mine to lose. 
+TO BATTLE! 
+If I can survive the machinations of the Helio Imperium, I can survive this... 
+The horn calls, and we shall answer... 
+Well if isn't this the cutest little thing... 
+Oh look, another way to bounce around the field... 
+I'll save this for later... 
+I could use this later... 
+I'll find the perfect time to use this... 
+I'll need this later... 
+Don't want to use this now... 
+Well what do we have here... 
+This will come in handy... 
+I'll use the rune later... 
+Bounty. 
+Needed that coin... 
+I'll put that money to good use... 
+I won't fail! 
+I'm taking you out! 
+You give me no choice! 
+It ends here! 
+It's all over! 
+Your side started this fight. 
+My patience has a limit. 
+You should apologize. 
+We're done talking. 
+Time to pay up for your slight. 
+It's not over yet... 
+Gotta make this count... 
+This better work... 
+Please work... 
+Crummy wizard. 
+I failed.... 
+How is this possible... 
+Fymryn is laughing at me, I know it.. 
+I lost my focus... 
+They got the better of me... 
+I can't let that happen again... 
+Damn it! 
+Damn it! 
+Maybe they're right... maybe I am the princess of nothing... 
+I have to keep fighting... 
+I won't give up hope... 
+I'll find a way to win this... 
+The Oracle lied to me... 
+They were ready for me... 
+I should have saw that coming... 
+That was stupid of me... 
+No. 
+No. 
+You get nothing. 
+Denied. 
+You won't have the satisfaction. 
+I'll steal your glory. 
+You think you're winning? 
+You won't get that gold... 
+Sacrifices must be made... 
+You won't get what you want... 
+I don't think so... 
+Not today... 
+You'll never touch that coin... 
+It's an act of mercy... 
+Leave them with nothing... 
+They won't profit from us... 
+I won't let you have it! 
+You'll leave here with nothing... 
+You failed! 
+You thought you won? 
+No sacrifice is too great... 
+I'll do whatever it takes to win... 
+We all knew the risks... 
+These are desperate times... 
+I'm half dead, and I'm still outwitting you... 
+You will never match my conviction.... 
+Double damage. 
+I'll rain death upon them. 
+My arrows will strike true. 
+Well that's a pleasant surprise... 
+Ooooo... 
+I cant wait to see what I got... 
+Looks like my lucky day... 
+This isn't over... 
+I don't give up so easiliy... 
+First blood! 
+Well this is off to a lovely start... 
+I can see the way this battle is going to go... 
+They were the first... they won't be the last. 
+If they knew what was good for them they would run... 
+I think I made a suitable example... 
+Haaah. 
+Hmm. 
+Hah. 
+Ah. 
+Ha. 
+Hmm. 
+Haste! 
+Let's see 'em catch Sagan now... 
+Picking up speed. 
+Illusion. 
+Let's see if they can hit me now... 
+This will cause some confusion... 
+Immortality! 
+They won't harm me... 
+I fear no one... 
+This is in the bag... 
+Of course we're winning, I'm here... 
+They don't have a bloody chance... 
+I think you'll find at this range I'm fairly accurate... 
+I am the savior of Nightsilver Woods. 
+I bring poise and victory.  And a giant cat. 
+I'm no one's pawn. 
+If you're going to war, you're going to need more than a leader... you're going to need me. 
+The beloved daughter of Nightsilver and The Helio Imperium has returned. 
+Someone needs to make sure Davion doesn't get himself killed. 
+Sagan, how abouts we go win a war? 
+Sagan, quit being cute I'm trying to be intimidating... 
+Oh who's a good boy Sagan... you want to win the war of the ancients?  Does that sound fun? Let's go win the war of the ancients... 
+Sagan, that tickles! 
+Invisibility. 
+They cant fight what they can't see... 
+I'll move into position, and then I'll strike... 
+We stalk a dark path, Sagan. 
+A single moment is all I need. 
+A good fulcrum for my abilities. 
+I was worried about leaving the temple, but these will help in a bind. 
+Is it going to be that kind of fight? 
+A low purchase, even in battle. 
+Battle Fury 
+Black King Bar. To think wizards live in fear of this. 
+Remember: the crown always strikes back. 
+Blood magic is difficult to trust. 
+We never think ourselves evil. But how does one argue with this? 
+I should buy a pair for Marci. Otherwise they do me no good. 
+Why was I so drawn to this? 
+I could almost forget I'm an archer... 
+I thought this was simple snake oil. Until I experienced the effects. 
+I was told you never charged for this. 
+Can't the courier make its own way? 
+What am I thinking? 
+They will bleed for this. 
+I never wanted such power. But I won't waste this. 
+They will suffer horribly. Though mine is a righteous path. 
+Victory here is worth any price. 
+Will they remember only my cruelty? 
+Let them try to interfere. 
+The enemy forces my hand. 
+Even at that range, it's wise to trust my bow. 
+I would have preferred chimes. 
+I should have carried this back in Nightsilver. 
+I had hoped to be worthy of this. 
+It has an abnormal heft. 
+I've been under-equipped before. It won't happen again. 
+I'd wager Davion still fills his with stronger stuff. 
+It unsettles me greatly to toy with the veil of death. 
+Judging by the scepter, Eul was a craftsman of unerring taste. 
+If this is of Fae origin, what's the hidden price? 
+We can aid others as well as ourselves. 
+Not this bloody thing. 
+There are times retreating into shadow isn't enough. 
+A child's plaything when compared to Nightsilver's gifts. 
+It degrades me to scrounge for scraps. 
+Good enough for scrapes and bruises. 
+Almost as strong as a dead god's heart. 
+Heaven's Halberd 
+I'd rather have loyalty than control. 
+I wonder which deity gave blessings to this. 
+Anything that wizards hate is acceptable to me. 
+Hurricane Pike 
+This will speed us towards the end. 
+I admire its simplicity. 
+They may already be prepared for this. 
+Kaya 
+Kaya and Sange 
+A lesser lotus, but helpful all the same. 
+Maelstrom 
+I find safety in the storm. 
+A crude essential. 
+It seems that three of us might get something done. 
+I should be careful. Don't want to end up like Traxex. 
+Who couldn't use a little boost? 
+If anyone is wounded, send them to me. 
+What are the origins of this? 
+Mjollnir. 
+Does this belong to that insufferable monkey? 
+I feel honored. 
+I shouldn't look. 
+It's just something to start with. 
+With the proper tools, anything can be killed. 
+I prefer to see where I'm going. 
+Intriguing. I'd heard these were dangerous magics. 
+The smallest edge might be all it takes. 
+I'm at the edge, Sagan. Help me not fall off. 
+Standard issue boots. 
+I've never cared for the types of insight found in pipes. 
+I'm not indecisive, I'm adaptable. 
+It may be useful, but can't Marci carry this? 
+As long as it doesn't singe Sagan. 
+For when they make me repeat myself. 
+I'll keep it as a fallback plan. 
+Sange 
+Sange and Yasha 
+Does this make me a monster? 
+If only it revealed ill intentions... 
+It dehumanizes me to even use it. 
+I'll stay warm with the help of Sagan. 
+This is a monarch's nightmare. 
+The famed Eye of Skadi... 
+This stuff is a fallback at best. 
+I feel a strange connection. 
+This will give Sagan a chance. 
+This Spirit Vessel will sing to them. 
+I read this in one of my father's libraries. 
+Oh, I guess I'd forgotten that bit. 
+This one covers the Helio Imperium. Filled with inaccuracies of course. 
+It's not very dignified, but I'm learning to adapt to a lot of new things. 
+If Aghanim won't guard his power, then it's mine to claim. 
+Let wicked souls not go to waste. 
+I seize a vanguard's might. 
+Veil of Discord. 
+I pray that I live to regret this. 
+Yasha 
+Yasha and Kaya 
+Oh, mango. Do you have any chili to spice it? 
+They'll help Sagan as well. 
+Where did you get this? 
+Proof that even a god can be killed. 
+Helm of the Overlord. 
+I can feel the malevolence. 
+Where did they find this? 
+And I thought Eul's was impressive... 
+The only kind of shroud I'll need. 
+Where did this one come from? I've never heard of it. 
+I couldn't understand what I was missing. 
+I wasn't sure I could even lift this. 
+Almost in my hand before the gold hit the table. 
+Don't worry sagan, you can eat the corpse... 
+I don't miss. 
+Bullseye. 
+Got 'em. 
+Dead. 
+What else did they think would happen. 
+No one stands agains me. 
+Victory is my birthright. 
+There's a reason I'm soverign. 
+Killed another... 
+They won't be bothering us for a while... 
+Never had a chance. 
+I make this look easy. 
+More arrows where that came from... 
+There's still work to do... 
+This war's far from over... 
+I won't be denied victory. 
+I think even Luna would be impressed... 
+My training won't fail me... 
+Got it! 
+Thanks for the gold. 
+I'll take that. 
+It's mine now. 
+Money for the war effort... 
+The crown takes what's theirs... 
+Tax time. 
+This will finance the team... 
+Need more gold. 
+The gold will help. 
+The more coin the better. 
+I won't say no to more gold... 
+The spoils of war... 
+We need that coin... 
+I earned that... 
+Got it... 
+It's mine... 
+Secured the gold... 
+Got the gold... 
+Hope the money's worth staying exposed... 
+We need that money... 
+Can't leave until we get the gold... 
+Got what we came for... 
+Took 'em down... 
+Got one... 
+Ah ha ha ha. 
+Ah ha ha ha. 
+He he he. 
+Ha ah ha ha ha ha ha! 
+No ho ho ho! 
+Ha ha ha ha ha ha! 
+Ah ha ha ha ha ha! 
+Ha ha ha ha ha ha ha ha! 
+Ha! No hohoho! 
+Sagan. 
+Now, Sagan. 
+Up. 
+Go! 
+Go, Sagan! 
+Quickly! 
+Leap! 
+Hya, boy. 
+Ladmit. 
+Gaiyah. 
+Jaro. 
+Hya. 
+Hyup. 
+Hoo. 
+Hoa. 
+My father's strength flows through me... 
+I remember... 
+Such power... 
+I'll harness this power... 
+This is the strength of the helio Imperium. 
+The eye of the world wyrm gives me strength... 
+I shall reach my full potential. 
+I have so much potential... 
+What is this power... 
+I will rival Selemene... 
+As bright as the moon... as radiant as the sun... 
+Davion isn't the only one with suprises... 
+Learning more about myself every day... 
+My power continues to grow... 
+I'll learn to control my gifts... 
+Like father, like daughter... 
+They won't find me easy pray... 
+You feel that too Sagan? 
+We shall rise to meet any challenge... 
+My will shall not be broken... 
+How embaressing... 
+Fymryn is going to rub this in, I know it... 
+There has to be a way to fix this... 
+I...I lost... 
+The invoker is to blame for this, I'm sure of it... 
+I can almost hear Selemene laughing at me... 
+Is this what the Oracle's prophacy was leading towards? 
+I thought I was destined for so much more.... 
+Missing top! 
+Missing middle! 
+Missing bottom! 
+I think about my father often.  
+He was a good man.  An honorable man. 
+And Gods know a patient man.  
+To be honest, I was a bit of a terror when I was younger, 
+and while I imagine that's true of most children I was a special brand of spoiled and entitled. 
+I try not to dwell on it, 
+but there are nights when I can't help but think that my father died when I was at my worst...  
+and he'll never be able to see me at my best. 
+The Invoker keeps trying to tell people that Selemene is a gaslighting sociopath, which is just patently ridiculous. 
+Did she encourage Luna to murder a tribe of elves just because they wouldn't revere her as a god?  Sure, but - 
+ok, yeah that does sound pretty bad, maybe Invoker was onto something. 
+I'm past relying on lotuses for power. 
+Unless of course I deside to buy a lotus orb 
+In which case I would in fact be relying on a lotus for power, but that doesn't really count because in that instance 
+I'm an adult woman deciding how to spend my hard earned coin as opposed to a lost small child whose mother was killed in a coup and found a way to fill the gaping void in her heart by allowing herself to be pressed into service by a goddess who would weaponize the devotion of said girl by posing as a mother figure, and man the more I'm talking the more it makes me realize I was in a moon cult. 
+Davion was talking in his sleep the other night. 
+I swear to the gods he was dreaming that he was Kaden's sidekick 
+it was adorable. 
+Marci's quite fond of Wei. 
+Watching them train together, laugh together, start a bar fight together.. 
+it was a joy to see.  
+She was by my side for so long I think we both forgot who we were as individuals. 
+She deserves to be her own person. 
+She deserves to live a life free of my shadow. 
+We slip into shadow. 
+Hidden even from the brightest light. 
+I fear nothing that moves in the night. 
+We bathe in mystic light. 
+All I can give us is a chance. 
+Only the wary might find us. 
+Step softly and leave no trace. 
+Raise no hand in anger and you'll pass from sight. 
+Stay silent and move quickly. 
+It's time. 
+We can't let them see us. 
+I trust everyone was out of sight. 
+Vanish. 
+Shadows, take us! 
+On the move. 
+Moving. 
+Sagan! Komi! 
+Come on sagan! 
+Let's go sagn. 
+We ride. 
+Let's get to it. 
+Time to move. 
+Come, Sagan... 
+The battle awaits. 
+We need to move. 
+Gotta get moving. 
+Can't stand around here. 
+Coming. 
+And away we go. 
+need to hurry 
+No time to dally 
+I can't sit here and wait. 
+Need to keep moving. 
+Where to. 
+Wherever I'm needed. 
+Hurry! 
+We have no time to waste. 
+My help is needed... 
+Moving into position. 
+Riding. 
+Hurry up Sagan.. 
+Ya! 
+The battle waits for no one. 
+No time to stand around... 
+We need to keep moving. 
+We gotta keep moving... 
+Come on Sagan... 
+Keep your eyes open, sagan... we can't rest yet... 
+I'll be there... 
+Yeah, I'm coming... 
+Gods everything hurts... 
+Glad I'm not walking... 
+Komi, Sagan... 
+Let's ride... 
+We're moving... 
+No... 
+No. 
+No! 
+No! 
+Nooooo! 
+No mana... 
+No mana. 
+No mana! 
+I have no mana... 
+I have no mana. 
+I have no mana! 
+Out of mana... 
+Out of mana. 
+Out of mana! 
+Mana's low... 
+Mana's low. 
+Mana's low! 
+Can't cast... 
+Can't cast. 
+Can't cast! 
+Not yet... 
+Not yet. 
+Not yet! 
+I'm not ready... 
+I'm not ready. 
+I'm not ready! 
+I can't do that... 
+I can't do that. 
+I can't do that! 
+It's not time... 
+It's not time. 
+It's not time! 
+Not now... 
+Not now. 
+Not now! 
+Taking the outpost! 
+The outpost is ours! 
+This outpost belongs to us! 
+Seize the outpost! 
+We need to control the outpost! 
+Unh! 
+Ah! 
+Ahh! 
+D'ah! 
+Oh! 
+Eeh! 
+Oh! 
+Ah! 
+Ahhh! 
+Ah! 
+I need this. 
+This will help. 
+Let's see what this does. 
+Ill try your wares, shopkeeper... 
+I need better equipment. 
+Regeneration. 
+I'll endure whatever they throw at me... 
+I know how to survive... 
+This war isn't over yet... 
+I won't be made a fool of... 
+You ok Sagan? 
+I shall have my satisfaction... 
+They won't get away with that... 
+I think we can pretend that never happened... 
+I won't be caught off guard again... 
+Shake it off and get back to work... 
+They think they got the best of me, but I'll prove them wrong... 
+I'll wipe that smirk off their face... 
+The moon rises... 
+Whaddya say, Sagan? Want some revenge? 
+It's ok boy, we'll get revenge soon... 
+Back to the mists with you! 
+What is the House of Avernus compared to the Helio Imperium. 
+Stay away from Marci! 
+I don't want you influencing Marcii! 
+You're the one who brought sickness to Selemene! 
+You're just another of Invoker's puppets! 
+What challenge could a brute like you be to someone like be? 
+More Oglodi rabble to deal with... 
+The nightmare is over... 
+I'm not afraid of you, Bane... 
+The Flayed Twins must be stopped, no matter the cost. 
+You won't butcher my people, Bloodseeker! 
+You're a good hunter, just not good enough... 
+I'm no stranger to bounty hunters tracking me down... 
+You're not a champion, Warrunner, you're just a brute... 
+Brute strength only gets you so far... 
+The Helio Imperium won't tolerate slavery... 
+You're just like Selemene! 
+What's gotten into you, Maiden! 
+Have you become Terrorblade's pawn as well? 
+You're not half as clever as you think you are, Mireska. 
+What chance did a petty grifter like you have? 
+So you must be another one of Terrrorblade's little friends... 
+I'll send you screaming back to the 7 hells! 
+I'm sorry Davion! 
+You didn't give me a choice! 
+What's gotten into you Davion! 
+I won't tell Bram about the monster you became... 
+You're not the Davion I thought I knew... 
+This is for Kaden! 
+Learn to use a bow. 
+Pff. Amateur. 
+Well I feel rather guilty about killing that one, she seemed so happy... 
+Sorry Enchantress! I still think you're lovely! 
+My power rivals the Fundamentals! 
+I don't fear the Void, Enigma.... 
+You're here at Invokers behest, aren't you! 
+So the Lord of Time finally makes his presence known.... 
+The Keen are a threat to the Helio Imperium! 
+What unearthly contraption was that... 
+You're a noble man. I'm sorry. 
+You fought well, Huskar... 
+Snuffed out that light... 
+Annoying little wisp... 
+I'm done believing your lies, Invoker! 
+I'm no one's puppet! 
+I think I might have what it takes to be a Dragon Knight... 
+Kaden will love to hear the story about how I killed you. 
+So goes the last of your kind... 
+The time of the Isle of Masks is over... 
+Time to rejoin your crew... 
+You failed your crew, and you failed yourself. 
+Stonehall's reign ends here! 
+The Helio Imperium will not be threatened by Stonehall! 
+Monsters like you have no place in this world... 
+I'll stop your machinations, lich! 
+Putting down a wretched creature like you is a mercy. 
+Don't put your filthy hands on me! 
+Die, Slayer! 
+I knew I could never trust you, Lina! 
+It's rude to point. 
+Don't stick your finger at me! 
+You're a monster Luna! 
+You'll never be more than Selemene's war doll. 
+Time to rest, prince of Slom. 
+Today wasn't your day, my friend. 
+Forgive me Marci... 
+Don't make me do this Marci! 
+I'm so sorry Marci... 
+I love you Marci, I'm sorry... 
+I had to do it... I had no choice... 
+This will haunt me, the rest of my days... 
+I take great pleasure in putting men like you in their place... 
+Braggarts like you are all the same. 
+Sing your song somewhere else... 
+There's nothing for you here on the surface... 
+I never was a fan of prophet's... 
+I'll bury you by a nice tree. 
+I'll finish what Lady Anshu started! 
+Die, plague bearer! 
+Looks like the moon favor's me... 
+You're not the only one strengthened by the moon. 
+Better assassins than you have tried... 
+Skitter off already! 
+My fate is not predetermined! 
+Your prophacies are nothing but lies! 
+From what Heronimo said, I'd have thought you'd be tougher.... 
+Spent too much time in your cups and not enough time training, Donte... 
+This world is for the living! 
+You're an abomination, Pudge! 
+You're not a queen, you're just a cliche... 
+Should have tried wearing some funcitonal armor... 
+The Jasper Circle tried to kill me?  I'm flattered. 
+I don't need to see you to kill you. 
+The helio imperium will never bow to the Ghastly Eerie! 
+That out to shut him up... 
+I hope they drag your corpse back to Dark Reef... 
+What a grotesque little fish man... 
+I'd have waited an eternity to kill you... 
+You will pay for the suffering you've caused. 
+You're a long way from sea... 
+Stick to the water, Tidehunter... 
+Keep practicing Lyralei... one day you may get to be half as good as me. 
+I'm not impressed. 
+Bram will miss you. 
+Everything Kaden said about dragons was true... 
+You're unfit to wear a crown, Ostarion! 
+Turns out I'm more of a fan of regicide than I thought I'd be. 
+If the Invoker got his hands on this... 
+It's as powerful as the World Wyrm's Eye... 
+Shitty wizard. 
+Sagan and I  stand with you. 
+I'm a long way from the Helio Imperium.. 
+The Princess of the Moon has returned. 
+Today I don't fight for Selemene, I fight for myself. 
+Come Sagan, we have a war to win. 
+Can't let Davion have all the fun. 
+I'll show them what it means to lead. 
+Follow me to victory! 
+If Davion were in charge we'd all be half drunk by now... 
+My poise and my skill are without equal. 
+Once I was called the princess of nothing...and I've been proving them wrong ever since... 
+Well, Fymryn isn't here so today's already off to a lovely start. 
+From the Nightsilver Woods to the Helio Imperium, my name is spoken with awe and respect. 
+Let Traxex and Lyralei argue about who's the better archer... we all know the real answer. 
+Well aren't we a proper motley band... 
+I have everything I need for victory: sagan and a full quiver. 
+We all have our roles to play in this. 
+Selemene held me back... today I reach my full potential. 
+Looks like we have our work cut out for us, eh Sagan? 
+I didn't survive innumerable terrors just to die today... 
+Nightsilver protect us. 
+Flee my fury. 
+Take flight! 
+Fear the wrath of Nightsilver. 
+Your death will find you. 
+The moonstorm breaks. 
+Shelter cannot save you. 
+I pierce the heavens. 
+My arrow calls the night. 
+Starfall. 
+Starflight. 
+You cannot run from the light. 
+Starlight take you. 
+A starfall decides this fight. 
+Better you than me. 
+Your choices betray you. 
+Your fate was written in the stars. 
+You succumbed without much fight. 
+That should make your friends think twice. 
+For the glory of Nightsilver. 
+To kill you, even the sky takes flight. 
+You're majestic, Sagan, you know that? 
+Never come down from the throne to deal with peasents... 
+What chance does someone like you have against someone like me... 
+Bram always hates this part... 
+Returning home... 
+Time to leave. 
+Bram always hates this part... 
+Returning home... 
+Time to leave. 
+I need to get outta here... 
+Thank you. 
+My thanks. 
+I appreciate it. 
+I'm greatful 
+You have my thanks. 
+I'm under attack! 
+I need help! 
+They're here! 
+Someone give me a hand! 
+Fresh water. 
+Refreshing... 
+I'm parched... 
+Rubbish Wizard 
+This is madness. 
+Stupid. Brave, but stupid. 
+It's not my responsibility to protect people from themselves. 
+You simply need to do better. 
+I refuse to lower myself. 
+Arrows speak louder than words. 
+I didn't ask your opinion. 
+Your strategy was rather childlike. 
+Ask yourself: What would Marci do? 
+I accept your terms. 
+What kind of fight is this?! 
+Why are you smiling? 
+You're not even worth my scorn. 
+What did I do to deserve this? 
+It's difficult to impress me. 
+There are monsters about. 
+You look terrible. 
+There's no shame in walking away from a pointless fight. 
+I will shoot through you. 
+Ha haha ha ha ha! 
+Eternal gratitude for your assistance. 
+Stop trying to make things better. 
+We did it! 
+We've cause to celebrate! 
+Well done Sagan! 
+I knew we'd win! 
+For Nightsilver woods! 
+For the Imperium! 
+The Helio Imperium will celebrate my victory! 
+Now where did I put that dragon's fire whiskey... 
+Yes... 
+Yes. 
+Yes! 
+Yes! 
+Yeeessss! 
+Haha Yes!

@@ -1,4 +1,5 @@
-, %s3 (%s4:%s5:%s6) 
+%s1, %s2 %s3, %s4:%s5 %s6 
+%s1 %s2, %s3 (%s4:%s5:%s6) 
 %s1 %s2, %s3 (%s4:%s5:%s6) GMT 
 Unknown 
 %s1d %s2:%s3:%s4 
@@ -52,6 +53,253 @@ rd
 st 
 nd 
 rd 
+United States 
+Afghanistan 
+Åland Islands 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antarctica 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Bouvet Island 
+Brazil 
+British Indian Ocean Territory 
+Brunei Darussalam 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Republic of Cabo Verde 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo 
+Congo, the Democratic Republic of the 
+Cook Islands 
+Costa Rica 
+Côte d'Ivoire 
+Croatia 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+French Southern Territories 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guernsey 
+Guyana 
+Haiti 
+Heard and Mc Donald Islands 
+Vatican City State (Holy See) 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Korea, Republic of 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Lao People's Democratic Republic 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+North Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia, Federated States of 
+Moldova, Republic of 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+Netherlands Antilles 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestinian Territory, Occupied 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Pitcairn 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Reunion 
+Romania 
+Serbia 
+Russian Federation 
+Rwanda 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+Sao Tome and Principe 
+Saudi Arabia 
+Senegal 
+Serbia and Montenegro 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Georgia and the South Sandwich Islands 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Eswatini 
+Sweden 
+South Sudan 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania, United Republic of 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom 
+United States Minor Outlying Islands 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Venezuela 
+Viet Nam 
+Virgin Islands, British 
+Virgin Islands, U.S. 
+Wallis and Futuna 
+China 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
 Traxex! 
 Traxex here. 
 Drow Ranger! 
@@ -293,4 +541,903 @@ Huh.
 Mm hm. 
 I found a secret. 
 Something glimmers in the shade. 
-A treasure true as an arrow's flight!
+A treasure true as an arrow's flight! 
+I respect what you did for Wei. 
+I never understood what you went through, Anti-Mage. I couldn't remember my past. Now I do. 
+Do you have any nightmares that could scare mine away? 
+I don't need any social skills, tree rat. 
+We're not so different Hoodwink. But I don't mask my fury with a smile. 
+Is Valora some sort of family pet? 
+Why waste time on your sister? There's so much more vengeance to go around. 
+I've got more sinister things on my mind than old rivalries, Lyralei. 
+Uaah! 
+Ruh! 
+Raah! 
+Yeh! 
+Ooh! 
+Uah! 
+Arcane oddities. 
+Power beyond understanding. 
+My words fail me. 
+Your time comes. 
+Hands where I can see them. 
+Take the shot. 
+You transgress. 
+Fire! 
+Loose! 
+Loose! 
+Run faster. 
+I see prey. 
+Pray. 
+Arrows ready. 
+I don't miss. 
+An easy draw. 
+Latched and loaded. 
+Fully stocked. 
+I've got a steady grip. 
+Armed and aimed. 
+In my sights. 
+I take the right. 
+You should run. 
+Fitting target. 
+I don't discriminate. 
+Eat bolt. 
+Why cross me? 
+Haa! 
+Ha! 
+Urgh! 
+Urghh! 
+Huuh! 
+Haah! 
+Urmmh! 
+Uraah! 
+Rah ha ha! 
+Ahh! 
+Haah! 
+Urrhh! 
+Urah! 
+Attack! 
+Into the fray! 
+Arrow, find your target! 
+Death comes silently. 
+Feel the frost! 
+Arrow, fly! 
+Feel the bite of frost! 
+Ice shall nip my enemies! 
+Bite, frost! 
+Quiver! 
+Arrow, fly! 
+My aim's still steady. 
+My breath is steady. 
+I can still shoot straight. 
+We'll die together. 
+Running wouldn't feel right. 
+Last stand. 
+Feeling wreckless. 
+Now. 
+Draw fire. 
+I see them. 
+Unh! 
+Huh! 
+Uh! 
+Hah! 
+Urah! 
+Ah! 
+Hu! 
+Gah! 
+Huh! 
+Uh! 
+I've enough arrows for everyone. 
+Nothing would bring me greater pleasure than to kill them all. 
+That horn only matters to the creeps. 
+I'll step lightly until the moment's right. 
+There's death in the air all right. 
+I aim to make a short fight. 
+Blink Dagger 
+They won't keep up. 
+I came prepared. 
+I'll take it with me. 
+Random. 
+Timely use could be deciding. 
+Stowed away for later. 
+It wouldn't do to use it yet. 
+Saved for maximum effect. 
+I'm not complaining. 
+Bounty! 
+Bounty! 
+Easier than shooting creeps. 
+Better than money. 
+I won't let them. 
+Fear what you've awakened. 
+I decide how it ends. 
+Others have tried to stop me. 
+I'm not feeling patient. 
+I have waited for this moment... 
+I thought you'd never ask. 
+At last.... 
+Finally... 
+All I need's a target. 
+By the power of the mask. 
+I won't let them stop me. 
+This weakness will pass. 
+Crummy wizard. 
+All of my life was...borrowed time... 
+My family have been waiting... 
+Perhaps now some peace... 
+I fear it all...just ends... 
+I celebrate a clean death... 
+Come with me... 
+At last this madness ends... 
+I expected to die...just not yet. 
+I'll take revenge...in another life. 
+Not an unexpected end... 
+That was...careless of me. 
+You've done me a favor. 
+I laugh at fate...and this cruel life. 
+I should have died...with my family. 
+What hells await the likes of me? 
+What can you do? 
+You've got nothing. 
+No. 
+No. 
+Never. 
+Denied. 
+Worth the shot. 
+Makes good habit. 
+It was ready. 
+You get the next one. 
+Just clearing space. 
+How about another? 
+Did I call that one? 
+I'm sure you've killed more. 
+What's my problem? 
+My heart is hardened. 
+I'll reload and try for more. 
+A nice distraction. 
+Unfriendly fire. 
+Always got time for that. 
+Did you see that? 
+Denied. 
+Denied. 
+No. 
+I'll take it. 
+Good for me. 
+I know the rules. 
+Easy. 
+Had nothing to live for. 
+He served his task. 
+Double damage! 
+It must affect the weapon. 
+There's energy all around to harness. 
+Perfectly functional. 
+I can figure a use. 
+It looks suited to grand purpose. 
+I can't begin to guess its worth. 
+You'll have to bury me deeper than that. 
+Payback doesn't need to wait. 
+First blood! 
+First blood. Just a drop of what needs be done. 
+First blood. I decide who dies. 
+First blood. Call me crazy but I anticipate a lot more. 
+First blood. Now you know the stakes of the fight. 
+First blood. Look at your teammate and know your fate. 
+Cold fury. 
+Slow down some. 
+Be cool. 
+Now you're cool. 
+Try some ice in your veins. 
+Brain freeze. 
+Frigid. 
+Boreal bolts. 
+Frost flight. 
+It's too cold to hurt. 
+A sliver of shiver. 
+They go fast in the cold. 
+Don't expect that body to thaw. 
+You'll be well preserved. 
+Looks like rigor mortis already set in. 
+So cool it killed you. 
+That's a cold that cuts. 
+A frozen heart can't beat. 
+Didn't you know I had a death zone? 
+A cold enough dish to savor. 
+Too much shiver from my quiver. 
+Silence! 
+I'm not unprepared. 
+Get back. 
+Off! 
+You're nothing. 
+The silence before my storm. 
+Your words are unwelcome. 
+Shiver. 
+Shiver. 
+Freeze your soul. 
+Icebound anger. 
+Away. 
+Be silent. 
+I think not. 
+Bold plan. 
+A fierce gust. 
+He he he. 
+Ahhh. 
+Ahh... 
+Ahh! 
+Hmmm. 
+Ha ha ha ha ha. 
+Ooh. 
+Haste! 
+How best to use this? 
+I can get anywhere deemed of worth. 
+Illusion. 
+The wise will fear them. 
+The foolish will give chase. 
+Immortality! 
+Immortality! 
+Undying retribution. 
+I can fight with wrathful abandon. 
+I'll keep it simple. This one's in the bag. 
+Why should I predict victory? That would suggest the results of this battle are even in doubt. 
+Look elsewhere if you need reassurance. Come with me if you just want to win. 
+I see villainy in your eyes. 
+Everyone's guilty of something. 
+Justice is impossible. But vengeance will be mine. 
+Your fate is whatever I decide. 
+I'm the arbiter in this lawless land. 
+A touch of evil is necessary to destroy even more. 
+They say it's madness in my eyes. I call it clarity. 
+I can't stop the evils that came before. I can only stop those who would mete out more. 
+I don't care who you are. I just need you to die. 
+You won't hear stories about me. 
+I leave no witness alive. 
+They say a just killing needs a reason. 
+I've got plenty of reasons. 
+I don't care who you are. 
+We're all guilty of something. 
+It was brave of you to come for me.  
+But nothing good comes from a brave death. 
+Invisibility. 
+I'll find dark purpose. 
+For them to see me vanish is almost enough. 
+With this I can do dire things. 
+Aeon Disk 
+Unexpected. 
+They'll grow on me. 
+A lovely shade. 
+I can't argue with the results. 
+Basher 
+I've got enough fury already. 
+Would be nice to get by without it. 
+They'll feast upon their failure. 
+It will soak in crimson plunder. 
+They will beg. Needlessly. 
+Watch your six. 
+No ordinary branch. 
+Let's give them a moment for the fear to set in. 
+What is clarity? 
+Useful. 
+More useful. 
+Leave them drooling. 
+Old habits die hard. New targets die easy. 
+Keep me alive and the rest is trivial. 
+Dagon 
+Beware the demon's edge. 
+I've always fancied it. 
+Diffusal Blade. 
+I would have just started with this. 
+I was hoping you'd have this. 
+Drums of Endurance. 
+Annoying now, but satisfying later. 
+A dark horizon draws near. 
+Echo Sabre. 
+Rangers don't waste what they find. 
+Sturdier than it looks. 
+Ethereal Blade 
+A divine scepter. 
+Invigorating. 
+The perfect boost. 
+I guess it's up to me... 
+Ghost Scepter 
+Glimmer Cape 
+Well, no one said we couldn't get rich in all this. 
+My wounds run too deep. 
+What blood beats amongst my own? 
+Heaven's Halberd. 
+I will have beasts under my control. 
+Strange locket. 
+It would be more defiant to throw it away. 
+Nothing will survive. 
+The hurricane arrives. 
+Still not fast enough. 
+I don't like being followed. 
+Kaya 
+Kaya and Sange 
+Lotus Orb 
+My ire is a storm. 
+Maelstrom. 
+I may carry it for a time. 
+Manta Style. 
+You have no control over me, mask. In the end, I took a measure from you. 
+I need no courage. 
+Mekansm. 
+Meteor Hammer. 
+Mjollnir is mine. 
+Monkey King Bar 
+I care nothing for mysticism. Just give me the staff. 
+Don't read too much into this one. 
+Good enough for now. 
+Nullifier. 
+I don't let pride interfere with increased knowledge. 
+Octarine Core 
+A vexing orb. 
+Sinister. 
+Interesting. I shouldn't leave these behind. 
+Pipe of Insight. 
+More comfortable than I'd imagined. 
+If it'll help me fell the enemy. 
+Radiance. 
+Refresher Orb. 
+Rod of Atos 
+Sange 
+Sange and Yasha 
+Satanic 
+Let nothing slip past me. 
+Scythe of Vise. 
+Shiva's shivering Guard. 
+Silver Edge 
+Eye of Skadi 
+A trick or two to aid us. 
+Solar Crest 
+Linkin's Sphere 
+Spirit Vessel 
+I seek greater wisdom. 
+I've heard it was fascinating. 
+I will try to understand. 
+Always need more. 
+It augments my powers perfectly. 
+Urn of Shadows 
+Vangaurd 
+Veil of Discord 
+Vladmirs Offering 
+Yasha 
+Yasha and Kaya 
+Unfortunately I never learned to like the taste. 
+Not really my color. 
+Falcon Blade 
+Orb of Corrosion 
+Helm of the Overlord 
+Witch Blade 
+Gleipnir 
+Windwaker 
+Eternal Shroud 
+Mage Slayer 
+Unexpected power. 
+Unexpected strength. 
+A tool unrivaled. 
+Your transgressions were known. 
+There was only one end to this. 
+Wasn't sure I'd make time for you. 
+Warms my heart to watch yours grow cold. 
+Who doesn't have this coming? 
+An arrow for everyone I meet. 
+You should have lived a different life. 
+A fork for me, terminus for you. 
+Let's just call it murder. 
+A likely outcome in war. 
+It's not murder if they had it coming. 
+Your death becomes me. 
+I don't get tired of that feeling. 
+Someone had to pay the blood price. 
+Yep. That's a nice place for a corpse. 
+Such a clean exit wound. 
+I'll admit it. I'm proud of my work. 
+Try as you might, I remain perfectly collected. 
+The simple truth is you were unprepared. 
+I only wanted your life, but I'll take the gold too. 
+Easy. 
+He would have done the same. 
+I didn't ask you. 
+Lowly creeps. 
+Speed this up a bit. 
+Like practice. 
+Have to pay for this gear somehow. 
+Keeps me ready. 
+On the scale of good and evil, creeps are of no account. 
+It's down. 
+Pathetic. 
+Another. 
+Automatic. 
+I shouldn't miss. 
+Takes the edge off... 
+Is that courier here yet? 
+I'm not fooled by creeps. 
+Seems hardly worth it. 
+Any gold I keep. 
+Whatever pays the debts. 
+Painless. 
+Just however many more. 
+Nothing special. 
+He knew better. 
+Ha ha ha. 
+Ha ha ha ha ha ha ha. 
+He he he he he he he. 
+Ha ha ha ha ha ha. 
+Ho ho ho ho hoo ho ho ho ho ho ho. 
+Ha ha ha ha ha ha ha ha ha. 
+Ha ha ha ha ha ha ha ha. 
+Honed finer than my points. 
+They started this, and I will end it. 
+Glory at a bloody price. 
+I knew the tolls of the road when I started. 
+Gifts of a maddened mind. 
+Crime might not pay, but vengeance does. 
+See? Vengeance does make you feel better. 
+The universe affirms my bloody path. 
+What would it take to get me to stop? The impossible. 
+I've come far. But not far enough. 
+Well I'm not dead yet. 
+Keep the body count rising. 
+The death road grows longer. 
+I'll take it as a sign. 
+I'll continue this dark journey. 
+My grief is worthy. 
+I am a dark avenger. 
+How many must die to set the world right? 
+Let them all fall. And the forest reclaim the rest. 
+Well-earned skill. 
+A bitter dispute. 
+Failure was my fate. 
+Learn from this failure. 
+There's nothing to redeem us. 
+I fall into oblivion. 
+It defies understanding. 
+The final retribution...finds me. 
+I knew this would happen. 
+Missing top. 
+Missing middle. 
+Missing bottom. 
+Some memories are best forgotten. 
+Like the day my family died. 
+All my life, that was lost in a blissful fog. 
+But my time in the manic mask burned away that mist. 
+I remember the looks in those killers' eyes. 
+I remember the mundane cruelty. 
+I see it when I close my own eyes. 
+But I also see my new path. Of vicarious retribution. 
+I won't be cruel. I will be merciless. 
+I won't be cruel. I will be merciless. 
+Most who claim the mad mask die soon after. 
+It stokes a mania that leads to violent death. 
+A fighter cannot survive without regard to safety. 
+But for those who can resist the pull, there's power in that fervor. 
+I resisted the influence of the mask. I freed myself from it. 
+But I can't unsee the horrors it still shows me. 
+I feel traces of magic.  
+A dark stain remains from its awful curse. 
+The bloodlust is ever rising. 
+I fight to aim my bow only at those that deserve the worst. 
+My days of helping lost travelers are over. 
+I don't trust myself around others anymore. 
+Everyone's guilty of something. 
+Everyone's guilty of something. 
+This weapon is fit for a prince. 
+I like to remember how he squealed as he died. 
+He had it built to do harm, and his spirit need not worry. 
+I aim to do harm. 
+And if I can help it, mostly to his twisted kind. 
+I know. 
+Cunning. 
+Quiet now. 
+A deadly destiny. 
+I've been here before. 
+This way. 
+A silent terror. 
+To a point. 
+Pass undisturbed. 
+A deliberate step. 
+I hide no longer. 
+I'll find vengeance anywhere. 
+Violence follows. 
+They cannot track me. 
+A ranger at heart. 
+I see. 
+I saw. 
+This way to madness. 
+I follow. 
+It crossed my mind. 
+No use waiting. 
+I've made good time. 
+Trail's cold. 
+That decides it. 
+Stay downwind. 
+To cover. 
+A deer path. 
+Stay out of the open. 
+They could be near. 
+Be wary. 
+Silence speaks. 
+To battle! 
+I go in silence. 
+My bow is drawn! 
+Silent as mist... 
+Very well. 
+that was my thought. 
+Way ahead of you. 
+My sentiments as well. 
+Agreed. 
+Good enough. 
+So be it. 
+Forward. 
+Onward. 
+Yes! 
+No time to rest. 
+Almost easier this way. 
+Stay focused. 
+Careful... 
+Go. 
+I'm all right. 
+For cover. 
+Eyes open. 
+Remember line of sight. 
+Moving. 
+I cover all the angles. 
+Endless ammo. 
+Let 'em fly. 
+I don't need to pray. 
+All spray, no pray. 
+I'm aiming. Kind of. 
+Hipshot. 
+Gotta have my fun. 
+A barrage of bolts. 
+Doesn't matter if they see 'em coming if they can't get out of the way. 
+Feel my agony! 
+Unleash hell. 
+So much for discretion. 
+Just die already. 
+Covering fire. 
+There was nowhere to go. 
+An arrow for every bolt hole. 
+Would have been hard to miss. 
+Bound to hit something. 
+Overkill. 
+Accurate enough. 
+I admit, it lacks finesse. 
+Did they just stand there? 
+I knew which one would get you. The rest were just a ploy. 
+I wasn't even aiming at you. 
+What can I say? It just went off. A lot. 
+I guess it was worth the quiver. 
+A quiver full of malice helps the enemy go down. 
+Sometimes I get carried away. 
+No... 
+No... 
+No. 
+No. 
+No! 
+No! 
+Noooo! 
+Noooo! 
+No mana... 
+No mana. 
+No mana! 
+I'm out of mana. 
+Out of mana. 
+Out of mana! 
+That takes mana. 
+Need mana. 
+Need mana! 
+I have no mana. 
+Get me mana. 
+More mana! 
+Never enough mana. 
+Should've saved more mana. 
+I need mana! 
+Patience. 
+Learn to wait. 
+Not now! 
+Can't do that. 
+Not happening. 
+I said no! 
+Soon... 
+Let me be. 
+Wait for it! 
+Not so fast... 
+Not yet. 
+I said wait! 
+No. 
+I can't. 
+Not yet! 
+A fine vantage. 
+Leave no foothold. 
+Should we set an ambush? 
+I'd prefer to fight. 
+Easy enough. 
+Ughh! 
+Ugh! 
+Ahhh! 
+Ugh agh! 
+Hua uh uh! 
+Uhhh! 
+All it's good for anyway. 
+What are you gonna do with all this gold anyway? 
+A bold price. 
+Hand it over. 
+I might bring it back when I'm done. 
+Regeneration. 
+At least I'll be sound of body. 
+Some things can never be reversed. 
+I won't tire before they break. 
+They'll have to kill me deader than that. 
+What's a little more pain? 
+Add another name to my list. 
+I don't feel clever. 
+Resupply and let's hit the road. 
+Resupply and let's hit the trail. 
+A nice respite from the visions. 
+I've had worse. 
+Just some casual trauma. 
+There's still time to recover. They haven't seen what I can do. 
+Ok. Blood for blood. 
+I have no problem taking that out on everyone. 
+Is that the sound of fury in my veins? 
+This was vengeance, not sport. 
+Did you think I wouldn't find you? 
+I told myself I'd savor this. 
+Breathe it in. 
+I told you I'd find you. 
+I told you I'd find you. 
+I don't need to hurt you. Your death is enough. 
+You're nothing to me but a paid debt. 
+I don't care about you in particular. I just have standards. 
+I've wasted enough time on you. 
+You started us along this path. 
+They might mourn you. If they find the body. 
+Tell me: was it worth it? 
+I've been tracking you for awhile. 
+This is what you signed on for. 
+The next time you kill me, make sure I stay down. 
+I barely remember your transgression. Only that you had to pay. 
+I don't even know your name. 
+I want you to know that it was me. 
+I deserve no less. 
+I misjudged myself. Or you. 
+A long time coming. 
+I thought myself beyond pride... 
+Well...that's a relief. 
+I've seen worse... 
+My hatred only grows. 
+I will find you. 
+The universe is indifferent. 
+Still a cold wind blows. 
+Last mistake you'll ever make... 
+I'll greet you with arrows. 
+I'll hunt you even after I've forgotten my own name. 
+Who has time to die? 
+Untouched amidst the chaos. 
+Death can wait another day. 
+I kill without consequence. 
+No one would mourn me. But they wouldn't have to. 
+My only blessing is skill. 
+I live. They die. 
+I walk the line. 
+Perfection. 
+Retribution is mine. 
+I'm right at home in the mist. 
+You're both equally deserving. 
+I may be uncaring, but your limits are too extreme. 
+How many orphans have you made? 
+You should have suffered more. 
+I could never abide a mindless killer. 
+At least your nightmares were a change of pace. 
+You made a fun target. Shame you didn't last longer. 
+You always were overconfident. 
+I don't mind using myself as bait. 
+Given your reputation, I thought you'd be more skilled. 
+A master of drink is master of nothing at all. 
+Quiver triumphs over the quill. 
+I hardly knew which part to shoot first. 
+How'd I find you? Stealth isn't your strongsuit. 
+I was almost of a mind to let you live. 
+Add another Fold knight to my notches. 
+I used to pity you, Clinkz. But I got over it. 
+If your armor were thick enough to stop my shot, you wouldn't be able to move. 
+There was a lot to like about you. But not quite enough. 
+Your strategies were tired, old man. 
+Half the world just cheered. 
+I don't mind shooting with the sun in my eye. 
+Sorry, Dazzle. You'll be skipping the Nothl realm. 
+I didn't do this because you asked. I did it because I wanted to. 
+You should've learned how to blend in. 
+Sorry to ruin your old school vibe. But I've got things to do. 
+Wasn't sure if I had to kill you twice. 
+I've had enough of you do-gooders. 
+Well, that one's not going in the stew pot. 
+Wonder if I can sell this one for meat. 
+You made the world, I'm a nobody. How'd I get the drop on you? 
+You had enough mass, I could aim for center. 
+Someone get me outta these woods. 
+Pretty hard to miss. 
+Did you go back in time to stop me? Guess it didn't work. 
+That brush was happier as a tree. 
+You were ruining the ambiance with that racket. 
+Maybe in another life, kiddo. 
+A Nothl dog gets his due. 
+Easy to see a target that brings its own light. 
+Your crimes shock even me. 
+I'd bet ice will get along just fine without you. And I couldn't care less about fire. 
+Your own people didn't even care about you. Get over it. 
+That old man act won't work on me. 
+Is this where I make some gibe about your jib? 
+Why fight for Stonehall, Tresdin? Death is your only reward. 
+I don't want this carcass. My guess it's real tough meat. 
+The path of the selfish leads to lots of arrows. 
+I don't blame the mindless for their crimes. But that doesn't mean I offer mercy. 
+Your entire life was a self burn. 
+You going to deny you had this coming? 
+Wait a second. Was the bear just in my head? 
+Consider this a mercy. Most would have tortured you first. 
+Never cared much for pets. 
+A measure of nobility can't erase what you've done. 
+I told you to stay out of the woods. 
+Shame. I liked this one. 
+That's just for being tone deaf. 
+Enough with that stupid song. 
+Everyone steps on someone along the way. 
+Gambling debts were the least of your worries. 
+Just a stepping stone to regicide. 
+I'll just wait here for your friends to be along. 
+Monkey King? Sounds small time. 
+I'm just surprised arrows worked... 
+Yes, I'm sure you were a big hit back home. 
+I told you to stop following me around. 
+They've all got it coming, but some a lot more than others. 
+This one must have traded brains for teeth. 
+There were enough voices in my head already without you. 
+Even I still appreciate a double headshot. 
+It's strange the Omniscience didn't protect you from all those arrows. 
+Did you let that happen? 
+Hard to say what you were guilty of, but I trusted it was something. 
+Pity the orphans I make today. 
+I bring your tortured existence to an anti-climactic end. 
+Strip an enemy of their strength and victory is guaranteed. 
+That one fit the definition of monster to me. 
+Trust me, that one was on someone's list. 
+I wasn't sure I had enough arrows. 
+You're proof of the ills, Pugna. A just world wouldn't contain the likes of you. 
+Holiday's over, Akasha. Topside's closed for play. 
+Know your place, revenant. I'm not in the Narrow Maze yet. 
+The Drow taught me never to rely solely upon my eyes. 
+If this is all a game to you, let's say playtime's over. 
+Why did you ever care about this fight? 
+The vulnerable have troubles enough. 
+I always thought you were a bit puffed up. 
+We don't scare as easy as hill folk around here. 
+The quiet forest will feast on your bones. 
+He was way too tempting. Couldn't help but wing him. 
+That blob fish held his breath for a really long time. 
+Your wickedness was apparent. 
+The suffering you unleashed sadly won't end with you. 
+It was cruel to even give you a chance. 
+I will say... She had a strangely enchanting voice. 
+Does your so-called master even remember you exist? 
+You were more of a gust than a storm... 
+And that's what happens when I keep my distance. 
+I almost sully myself just by acknowledging your demise. 
+I'll just collect my arrows and move on. 
+I've learned a secret or two in my time too. 
+Hell-kind must be lacking to be afraid of the likes of you. 
+These are dry lands, Tidehunter. Maelrawn holds no sway here. 
+Unchecked fear always leads to a bad end. 
+Such casual cruelty in your hubris, Tinker. 
+If the hills have eyes, easy to know where to shoot 'em. 
+Your kind could have intervened more in the troubles of others. 
+I don't need to know you well to know that was for the best. 
+When ego drives you, others are bound to get hurt. 
+It's not hard to justify this kill. 
+No questions asked outside of Quoidge. 
+I'm no different than a natural death. Just a faster timeline. 
+Your quest was selfish. But I'll take vengeance on and for everyone. 
+I'll dispose of your sister for you. And anyone else I please. 
+Was it just me or could that slug talk? 
+I should have read up on whatever that thing was. Because that hurt. 
+Who watches the watchers, then? I guess me. 
+I thought you were just a rumor. Now you're just a memory. 
+Did the map you used to get here also mark your own grave? 
+If I don't think of a good pun now, it'll bug me later. 
+I'd hardly call what you do rangering. 
+About the level of competition I expected. 
+Worry not, Wyvern. I'll lay claim to your library. 
+If that one had a people, they must have kicked him out. 
+You don't get a second chance. 
+Not this time, bone king. 
+What did you do to deserve this? Zeus, who has that kind of time? 
+I've seen a lot braggarts come through here. But you were kind of funny. 
+You were so much nicer on your leash. 
+That's one hell of a death rattle. 
+So this is Aghanim's scepter... 
+A worthy scepter. 
+Shitty wizard. 
+I like to be honest. You're all going to die. 
+The weak can save themselves. I come for retribution. 
+Hunting rogues helps keep the pain at bay. 
+We'll get ourselves situated and then the rest will suffer. 
+I'm going to savor every minute. 
+This world is filled with suffering. Why not add a little more? 
+Where once they shared tales about me, now they'll give warning. 
+Fear the whisper of my footfall, for it means you're already dead. 
+I was always cold. And now I'm angry. 
+Why should I give you my name? 
+We just need to get along. We don't need to be friends. 
+I might tell you my name. If you survive. 
+Kill an Ancient? All right, I'm convinced. 
+I'm just here for some violence along the way. 
+Leave me to my business and we might win this thing. 
+There's no I in team, but it does contain me. For now. 
+This four might have a chance. 
+I used to ignore people. But they make decent sport. 
+A shadow of retribution. 
+Nothing you do matters. 
+How can I consider you a real threat? 
+No wonder you're on the other team. 
+My bow will be ready. 
+I don't need to take the long way. 
+At this price, a good bargain. 
+Hold on to your bolts. 
+Can't help but feel exposed. 
+Have to let it finish. 
+Don't interrupt. 
+Thank you. 
+I wasn't expecting you to be useful. 
+I trust my gratitude is enough. 
+I offer rare kindness. 
+I hope your help will be enough. 
+They found me! 
+Under attack! 
+Time to move. 
+Remember their faces. 
+Unique water. 
+Refreshing. 
+I should have more of this each day. 
+Haven't seen that wizard in ages. 
+Act like you've been there before. 
+A loud mouth betrays a lack of skill. 
+I should have stayed with the Drow... 
+This is why I hate people. 
+This is why I hate people. 
+Skip the banter and get back to work. 
+Time to put dark thoughts to action. 
+There's only one way to see behind the eyes. 
+Who wants to test me? 
+The world doesn't answer to you. 
+Now my problems are your problems. 
+You were focused on the wrong threat. 
+How could you let me do this? 
+How could you let me do this? 
+That was something I needed to get off my chest. 
+At least you left behind a beautiful corpse. 
+Dreams do come true. 
+I'm not here to waste words on you. 
+I don't see your point. Wanna see mine? 
+As you can see, I disagree. 
+Hn hn hn huh ha ha ha ha ha ha ha hn hn hn hn hn hn. 
+Ah ha ha ha ha ha ha ha ha haa. 
+Hn hn hn hn hn hn hn hn hn hn hn hnn. 
+Ah ha ha ha ha ha ha ha ha ha ha haa. 
+Ah ha ha ha ha ha ha ha ha ha ah ha. 
+Ha ha ha ha ha ha ha ha ha ha ha ha ha haa! 
+I'm not much for gratitude. 
+I didn't ask for your help. 
+Victory! 
+I have a choice before me. 
+The world will drown for my bloodthirst. 
+Bow before me or suffer. 
+All will fall before me. Let nature reclaim the earth. 
+I feel...dark visions...clearing. 
+I scarce remember fighting. Only a dark cloud that was my curse. 
+Can I now return to the woodland? 
+Yes... 
+Yes... 
+Yes. 
+Yes! 
+Yeessss! 
+Hahaha. Yes! 
+Hahaha. Yes!

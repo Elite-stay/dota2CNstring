@@ -1,4 +1,5 @@
-, %s3 (%s4:%s5:%s6) 
+%s1, %s2 %s3, %s4:%s5 %s6 
+%s1 %s2, %s3 (%s4:%s5:%s6) 
 %s1 %s2, %s3 (%s4:%s5:%s6) GMT 
 Unknown 
 %s1d %s2:%s3:%s4 
@@ -52,6 +53,253 @@ rd
 st 
 nd 
 rd 
+United States 
+Afghanistan 
+Åland Islands 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antarctica 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Bouvet Island 
+Brazil 
+British Indian Ocean Territory 
+Brunei Darussalam 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Republic of Cabo Verde 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo 
+Congo, the Democratic Republic of the 
+Cook Islands 
+Costa Rica 
+Côte d'Ivoire 
+Croatia 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+French Southern Territories 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guernsey 
+Guyana 
+Haiti 
+Heard and Mc Donald Islands 
+Vatican City State (Holy See) 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Korea, Republic of 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Lao People's Democratic Republic 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+North Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia, Federated States of 
+Moldova, Republic of 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+Netherlands Antilles 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestinian Territory, Occupied 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Pitcairn 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Reunion 
+Romania 
+Serbia 
+Russian Federation 
+Rwanda 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+Sao Tome and Principe 
+Saudi Arabia 
+Senegal 
+Serbia and Montenegro 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Georgia and the South Sandwich Islands 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Eswatini 
+Sweden 
+South Sudan 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania, United Republic of 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom 
+United States Minor Outlying Islands 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Venezuela 
+Viet Nam 
+Virgin Islands, British 
+Virgin Islands, U.S. 
+Wallis and Futuna 
+China 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
 Welcome to Dota! 
 Begin your training. 
 Your training begins now. 
@@ -196,6 +444,79 @@ Game 5.
 Final game. 
 You have been granted an item. 
 An item has been granted. 
+Alliance's turn to ban. 
+Team Aster's turn to ban. 
+beastcoast's turn to ban. 
+Evil Geniuses' turn to ban. 
+Elephant's turn to ban. 
+Fnatic's turn to ban. 
+Invictus Gaming's turn to ban. 
+OG's turn to ban. 
+PSG LGD's turn to ban. 
+Quincy Crew's turn to ban. 
+Team Secret's turn to ban. 
+SG esports' turn to ban. 
+Team Spirit's turn to ban. 
+T1's turn to ban. 
+Thunder Predator's turn to ban. 
+Undying's turn to ban. 
+Vici Gaming's turn to ban. 
+Virtus Pro's turn to ban. 
+Alliance's turn to pick. 
+Team Aster's turn to pick. 
+beastcoast's turn to pick. 
+Evil Geniuses' turn to pick. 
+Elephant's turn to pick. 
+Fnatic's turn to pick. 
+Invictus Gaming's turn to pick. 
+OG's turn to pick. 
+PSG LGD's turn to pick. 
+Quincy Crew's turn to pick. 
+Team Secret's turn to pick. 
+SG esports' turn to pick. 
+Team Spirit's turn to pick. 
+T1's turn to pick. 
+Thunder Predator's turn to pick. 
+Undying's turn to pick. 
+Vici Gaming's turn to pick. 
+Virtus Pro's turn to pick. 
+Alliance victory. 
+Team Aster victory. 
+beastcoast victory. 
+Evil Geniuses victory. 
+Elephant victory. 
+Fnatic victory. 
+Invictus Gaming victory. 
+OG victory. 
+PSG LGD victory. 
+Quincy Crew victory. 
+Team Secret victory. 
+SG esports victory. 
+Team Spirit victory. 
+T1 victory. 
+Thunder Predator victory. 
+Undying victory. 
+Vici Gaming victory. 
+Virtus Pro victory. 
+Alliance 
+Team Aster 
+beastcoast 
+Evil Geniuses 
+Elephant 
+Fnatic 
+Invictus Gaming 
+OG 
+PSG LGD 
+Quincy Crew 
+Team Secret 
+SG esports 
+Team Spirit 
+T1 
+Thunder Predator 
+Undying 
+Vici Gaming 
+Virtus Pro 
+versus 
 Team Secret's turn to ban. 
 Virtus.pro's turn to ban. 
 Vici Gaming's turn to ban. 
