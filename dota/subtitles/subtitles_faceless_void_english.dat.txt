@@ -1,3 +1,4 @@
+s1, %s2 %s3, %s4:%s5 
 %s1, %s2 %s3, %s4:%s5 %s6 
 %s1 %s2, %s3 (%s4:%s5:%s6) 
 %s1 %s2, %s3 (%s4:%s5:%s6) GMT 
@@ -516,4 +517,854 @@ Hah heheh heh heh heah heh.
 Heh heh hah ha hah heh heah heh. 
 Heh heh heh he heh heh. 
 Eaheh heh heh heh heah heh. 
-Heh heh heh heh hah heh heh.
+Heh heh heh heh hah heh heh. 
+Forestalled. 
+Entombed by time. 
+Sealed your fate. 
+Like insects in amber. 
+Time's pendulum stops. 
+Stop where you are! 
+Tethers writhing. 
+All dimensions are one. 
+My tendrils find you. 
+Into the void! 
+I bring oblivion! 
+A gateway to Claszureme! 
+Nothing to see here. 
+Void of purpose... 
+Your time will come. 
+Next time... 
+Time stops for exactly no one. 
+Meaningful only to me. 
+A failure of perception. 
+I enjoy how it feels all the same. 
+A private bath in Claszureme. 
+I admit. I was careless. 
+See? It looks like I'm running fast! 
+I'm sure that'll be ready in time... 
+Turn the hourglass... 
+I certainly didn't see that. 
+Anyone missing a chronosphere? 
+How strange.... 
+I don't think so. 
+And back. 
+Take a step back. 
+Forward is back. 
+Where was I? 
+On second thought... 
+I liked it here. 
+Nope. 
+Undo. 
+Back now. 
+Return. 
+Back is forward. 
+Two steps for none. 
+I was always here. 
+I know my place. 
+How long a moment. 
+Time is fluid. And you're drowning. 
+Someday never comes. 
+Wait for it. 
+Wait for it. 
+I'm sorry... Hehehe 
+Feel eternity. 
+There's nothing you can do. 
+Having trouble? 
+Get control of yourself. 
+Take your time. 
+Enjoy every moment. 
+Take a breath. 
+How much time do you have? 
+Just a taste of Claszureme. 
+Where do you think you're going? 
+Not so fast. 
+I'm here. 
+Hah! 
+Hah! 
+Space walk. 
+Space negated. 
+Here -- not there. 
+All within my reach. 
+I was always here. 
+Forward! 
+Astride the void. 
+Here now. 
+I arrive. 
+Time for a jaunt. 
+There. 
+A potent power by my side. 
+We hope for more than the sum of your parts. 
+Your elder form would be more useful... 
+You view a mere fraction and think you understand the whole. 
+Your most useful aspects are in the Ancients now. 
+Your breath is foul, Axe. 
+Together we'll make nightmares come true. 
+We must make do with the tools at hand. 
+You say master. But what say the beasts? 
+I'll field any dog in this hunt. 
+Why bother tracking, Gondar? You should just wait near the end of their path. 
+Useless while sober, impossible while drunk. 
+I'm sure we'll have so much to discuss... 
+Your web spans the barest sliver of a vast expanse. 
+We make do with you. And at least you're not smart enough to take offense. 
+Do you even want to succeed on your mission? You look like you're having fun. 
+Zealotry has its uses. As I'm sure you must. 
+If you seek a way home, you've been looking in the wrong place. 
+None of what you possess is beyond my sight, Mireska. You play a part like all the rest. 
+With your full powers, you would be a terror in Claszureme. 
+I have a question, Valora. What would you think about killing Clasz? 
+I foresee endless possibilities. 
+I see your scars run deep. 
+Together we could rule everything. But that isn't your way. 
+It's fated, Wu Kong. This will be your greatest journey yet. 
+Your enemies are kin to Clasz. Let us destroy him together.  
+Your light might hold the expanse of Clasz at bay. 
+Your future is fascinating. 
+Do you actually enjoy your work, Akasha? Or is it mere demonic compulsion? 
+It's time to recapture your true fate. 
+To mimic my powers for even a moment is impressive. 
+I'll never understand demons and their imaginative perversions. 
+They seem so petty -- the goals of a demon. 
+For me there is no Dirge. Only the stirrings of Clasz. 
+You think Scree'auk a god? I tell you, she's anything but. 
+Why care you for some useless maze? 
+With your help, surely I can defeat Clasz. And take his place. 
+Even now, Clasz tries to consume me. But I will not submit. 
+To Clasz, you're a pest. That might be of use to me. 
+The mentally ill of this plane are fascinating to me. 
+I could talk to you forever. 
+We could make use of your true powers. But not like this. 
+Haaaaa 
+Ahhhhh 
+Ahhh 
+Ahhraaa 
+Ahh 
+Arcane intricacies. 
+As foretold. 
+A color out of my space. 
+Attack! 
+Attack. 
+Feel my mace! 
+Face your doom. 
+Primal shard. 
+It must be. 
+Time's up. 
+Time is the cruelest cut. 
+Your end comes. 
+Ended. 
+Time to fight. 
+Your time runs out. 
+Face the future. 
+Face me! 
+Make peace with your fate. 
+You're next. 
+I've already succeeded. 
+It's useless to run. 
+You won't escape me. 
+Accept your fate. 
+Hu raah 
+Hu aahh 
+Urh aahhh 
+Nyaaah 
+Ahrhhhhh 
+Uaaaahhhh 
+Ur aaaaah 
+Ur ha haaa 
+Wua haaaa 
+Ah ha ha ha haaaaa 
+Uryaaaa 
+Rrrhh uhh 
+Uyaaaaa 
+Nothing escapes my reach. 
+Finish it. 
+Enough. 
+Fools. 
+Vanish. 
+Time to leave you behind. 
+Attack! 
+Die. 
+Look upon me. 
+I have no limit. 
+Hu uh 
+Hua 
+Urahuh 
+Nya 
+Hu 
+Urh 
+Ah 
+Blink dagger, what need have I for this? 
+Blink dagger, ehh. 
+Time in a bottle. 
+I foresee a time when this will be useful. 
+For a time of need. 
+Bounty. 
+Time is money. 
+Fortune is mere fantasy. 
+It is presaged. 
+Your fate approaches. 
+Time catches all. 
+Where do you think you're going. 
+Your nightmare begins. 
+Time for suffering. 
+Don't test me. 
+I taste your fear. 
+You're right to fear me. 
+I might enjoy this. 
+Did you think I was alone? 
+I don't need to strike the killing blow to see my work is done. 
+We're all here. 
+I get by. 
+So long as Clasz receives the spoils... 
+My will, done. 
+The void place at the right time. 
+As I intended. 
+The outcome is all that matters to me. 
+It was I who sealed their fate. 
+But your friends will miss you... 
+Witness a divergence of fate... 
+Oblivion only for some... 
+Soon enough you'll join them. 
+Clasz desires more than a taste. 
+If the void has touched you, you've only prolonged your fate. 
+You live to die another day. 
+Your time will come again. 
+Clasz hungers. 
+You endanger us all with survival. 
+Your time has not yet come. 
+Soon enough Clasz will find you. 
+This was a mere preview of your sad fate. 
+Darkness still slithers on the other side... 
+I will not suffer to fail again... 
+Slipped from the grasp of Clasz... 
+I still hold barred this gate. 
+Your pain provides power. 
+You sate Clasz in my place. 
+Clasz searches. And he finds you. 
+Oblivion doesn't suit you. 
+Conscripted to the void. 
+You've learned an untimely lesson. 
+Darkterror delivers your fate. 
+I wouldn't call it failure. Because you never had a chance. 
+This realm moves on without you. 
+Only I note your passing. 
+There can be no return. 
+Cast into the void! Hahahaha! 
+Enjoy your stay? 
+So many lines, snapped. 
+So many of you. 
+There's always room for one more. 
+My power will devour Clasz...in no time at all. 
+All paths terminate. 
+I have seen the future. They won't be missed. 
+A fate that serves two masters. 
+With that my work is nearly done. 
+Outside of time, it's easy to accomplish much. 
+Clasz will feast upon your mass. 
+The void claims you all. 
+All of you go to Clasz in my place. 
+Soon I will have power to usurp upon even more of His expanse... 
+Like a terrible membrane, I grow upon the Claszian expanse. 
+Soon my full ascension will come to be. 
+Vast tribute to the void. 
+Crummy wizard! 
+Nooooo.... 
+Time grinds even mountains to dust. 
+As was promised. 
+An end...of an age. 
+Fate...finds me. 
+I've seen this...in my dreams. 
+I face the darkness that hunts me. 
+Commend me...to the void. 
+We all owe a life to the fates. 
+Unkind...rewind. 
+Drowning in a river of time... 
+At least the Acolytes won't find me... 
+Can the gateway still hold? 
+Friend or foe... Hide this body well... 
+May my death...not be your undoing... 
+Spaceless...void... 
+Look at the time... 
+This seems like the perfect time...for a joke... 
+You may cut down this form... But another will follow. 
+The mouth of madness...opens wide. 
+Urhh aahhhh 
+Hrh uhhhhh 
+Urr ahhhhh 
+Urr uuhhh 
+Urr aaaahhh 
+Uuhh ahhh 
+Fools. 
+Your suffering will last however long I please. 
+Enough. 
+Time for this mockery to end. 
+Fear not, friends. 
+We've got all the time that I need. 
+Looking for me? 
+What you find you might not wish to see. 
+Am I interrupting? 
+This will only take a moment. For me. 
+Foolish mortals! 
+You waste your time on hopeless schemes. 
+Your vision blinds you... 
+To the sights of the void! 
+Can you not feel it?... 
+The tremor of oblivion! 
+I have foreseen your plans... 
+And foretold your end! 
+Time is nothing... 
+In the face of oblivion! 
+Surrender... 
+To faceless oblivion! 
+Time... 
+For faceless oblivion! 
+Welcome... 
+To the dominion of Clasz! 
+Ah ha ha ha ha haaaaaa 
+Ah ha ha ha ha haaaaa 
+Ah ha ha ha ur yaaaaa 
+Denied. 
+Denied. 
+Denied. 
+Eh-huh-huh. 
+Uh em. 
+No. 
+No. 
+It was not meant. 
+You get nothing. 
+Steal your face. 
+Forget it. 
+Heh heh he heh heh heh. 
+You wish. 
+Never. 
+Stop wasting time. 
+Try something else. 
+Perhaps another time. 
+In your face. 
+Wasting time. 
+Taking pains. 
+If I must suffer, so must you. 
+That feels almost nice. 
+A gift of spite. 
+Anything for a laugh. 
+Double damage! 
+Two-faced. 
+The means provide the need. 
+First blood, hehehehaah! 
+First Blood! 
+First blood, just as I had foreseen. 
+Ahh 
+Hm hmm 
+Ahhh 
+Ahhhh 
+Haste! 
+Time flies. 
+It's relative, of course. 
+Illusion! 
+Me times three. 
+Never believe what you see. 
+Immortality! 
+Gift of eternity. 
+I'll have all the time I need. 
+It's in the bag! 
+In this realm, only a fool would doubt what I say I see. 
+Invisibility! 
+Eyes without a face, unseen. 
+Unseen. 
+Your eyes rendered useless after all. 
+Of Ivory origins... 
+Aether Lens 
+Interesting footwear. 
+This power demands a price. 
+Assault Cuirass 
+Basher 
+To the far reaches of the expanse... 
+Even gods make use of you... 
+Blademail 
+Bloodstone 
+Bloodthorn 
+A charming way to bend time and space. 
+Best take a few of these. 
+This speed is more than a mere change in perspective. 
+I'll take it with me. 
+A surprising choice. 
+The beast is useless without them. 
+Crystalys 
+Now true terror begins. 
+Dagon 
+Desolator 
+Their essence to oblivion. 
+They call this blade divine. 
+Dragon Lance 
+Drums of Endurance 
+They leave an easy trail with this. 
+A pale attempt to capture the mysteries of Claszureme. 
+Always useful. 
+Ethereal blade 
+Eul's Scepter 
+I thank myself for this. 
+Force Staff 
+Gem of Truesight 
+Ghost Scepter 
+Glimmer Cape 
+A gilded fate. 
+A tasty drink. 
+Heart of Tarrasque 
+Heavens Halberd 
+Helm of the Dominator 
+Holy Locket 
+Hood of Defiance 
+Hurricane Pike 
+Shadow Blade 
+Kaya 
+Kaya and Sange 
+Lotus Orb 
+Is there not one more impressive than this? 
+Anyone can see the value in this. 
+New timelines appear. 
+The face of madness adorns the gates of oblivion. 
+Medallion of Courage 
+Mekansm 
+Meteor Hammer 
+Even in Claszureme there are whispers of this tool. 
+A weapon made famous by a fool. 
+There's a lot in this one about Clasz. 
+Nullifier 
+Forewarned is also forearmed. 
+With this, even mortals can toy with time. 
+Orchid Malevolence. 
+The perfect color. 
+I don't need the insight, but I'll still take the pipe. 
+Somehow they fit... 
+Radiance 
+A timeless classic. 
+Rod of Atos 
+Sange 
+Sange and Yasha 
+I'll reattune these to the void. 
+There are dark forces in play. 
+One never knows what they'll see... 
+Scythe of Vyse. 
+Shiva's Guard 
+Oblivion unseen. 
+This one Eye is enough. 
+Use this wisely. 
+Solar Crest 
+Soul Ring 
+It's something of a failsafe. 
+Spirit Vessel 
+Seeds of power. 
+I'll hold it however I please. 
+There's nothing new in this. 
+Well written, in the end. 
+Scroll of Bending. 
+Once we deal with Clasz, perhaps Aghanim is next. 
+Urn of Shadows 
+Vanguard 
+Veil of Discord 
+Vladmirs Offering. 
+Yasha 
+Yasha and Kaya 
+I've never tried a mango. 
+Tranquility pairs well with the void. 
+A blade named in tribute to a timeless master's unforgettable prime. 
+Orb of Corrision. 
+The reign of the overlord begins. 
+Witch Blade. 
+Credit to that vermin. This is the perfect leash for unruly beasts. 
+Windwaker 
+Eternal Shroud 
+Mages, sages, whatever I please. 
+For my own ends. 
+All they must do is trust me. 
+My movements unrivaled. 
+From a time before Stonehall meant trash. 
+Eyes filled with anger. 
+An easy gateway through the veil of the dead. 
+Fragments to unlock new dimensions. 
+I never blink. 
+You lose face and life. 
+A death foretold 
+Your chronology ends! 
+Glad we could meet, mace to face. 
+You become past tense. 
+Your page in history ends. 
+I foresaw your death the moment you were born. 
+Suffer the ravages of time. 
+Birth is a promise; death its fulfillment. 
+We all owe a life. I take yours. 
+You've been voided. 
+I have seen the future; you're not in it. 
+A timeless classic. 
+Wasted your precious time. 
+You can't go back. But I could. 
+The tests of time were too much for you. 
+Time means nothing. Just like you. 
+If the Acolytes couldn't stop me, what chance had you? 
+You can't run from fate. 
+Your destiny? Death. 
+If only you could see all your choices that led to this. 
+I have seen the true terrors of the void. Do not call this an unkind fate. 
+Do you see me, Clasz? Glimpse a preview of your fate. 
+Gold is forever. 
+Fate takes you. 
+As foretold. 
+Out of time. 
+So it must be. 
+Null and void. 
+Heheh heh heh. 
+Time is money. 
+Fall. 
+Pathetic creature. 
+Meaningless. 
+More? 
+Never enough to fill the void. 
+My need consumes you. 
+A time of prosperity. 
+Timely. 
+I don't have pockets. 
+The shopkeeper's due. 
+Ordained but not enjoyed. 
+Acceptable. 
+Accurate enough. 
+I'll make use of it. 
+How many more? 
+You knew the stakes. 
+Another falls. 
+I like what I see. 
+Done. 
+Out of my way. 
+Ha haaa 
+Haa ha haaa 
+Ahh haa haa ha haaaa 
+Ahh haa haa haa haa ha ah ha ha haaa 
+Oh hoo ho ha ha ah haa ha ha ha haa 
+Ah ha ha ah ha ha oh ho haa ha ha ha ha haaa 
+My foresight sharpens. 
+Time quickens. 
+My control improves. 
+My powers grow. 
+A timely increase in power. 
+Hmm hmm hmmm hmm hmm hmm hmm. 
+Hmm hmm hmm hmm. Of course. 
+Hm hm hmm ha ha haaa. Yeesss. 
+Even Clasz himself need fear me. 
+To be an aspect of Clasz...is not enough. 
+I bide my time. And recruit wisely. 
+They think me a gateway. But I refuse. 
+My fate will not be written here. 
+This realm has much to offer. 
+I take power where I please. 
+Yes, I feel it. 
+Every day lived is a page of history. 
+Time is a river with many eddies. I have seen its head waters, and I have seen its currents reach the sea. 
+I may be faceless, but I'm not maceless. 
+No! 
+No! 
+Defeated! 
+Some things were just not meant to be. 
+The power of Clasz consumes me! 
+The final gateway opens! 
+And now this dimension will fall... 
+Ah, mask of madness. 
+Ah, mask of madness, a perfect fit. 
+I have a face now. 
+For one of my kind, initiation as an Acolyte of Clasz is the highest honor. 
+And I wore that mantle well. 
+Fully devoted to my future as an aspect of Clasz the Infinite. 
+Too naive to understand what such devotion truly means. 
+But I learned. That I would lose myself entirely to His expanse. 
+And slowly my pride turned to spite and anger. 
+My focus changed from supplication to subversion. 
+From my position of influence, I began to recruit fresh Acolytes to a secret cause. 
+Some witting, others much less so. 
+But all working towards my will. 
+To control my transformation ritual. 
+To keep my head above the surface of oblivion. 
+And bend Clasz's own powers against the infinite one himself. 
+We who thrive in Claszureme exist outside of time. 
+We do not age. 
+Our advancements are measured through study. 
+And the transformation of knowledge into power. 
+When we look upon your realm, we cannot see our own futures as we can yours. 
+But in study of the ripples and swirls of your flowing rivers... 
+We might divine something of our own fates. Amongst the impossible voids that manifest between the streams. 
+Those in this pathetic realm should thank me. 
+My attempts at survival have kept barred a dire gate. 
+Were I to complete my transformation... 
+the full power of Clasz would flow through this form. 
+And your plane, and all you wriggling denizens, would forever cease to be. 
+For now, Clasz hunts. And I evade his expanse. 
+I know to turn his tendrils against my own enemies. 
+And those he devours in my stead briefly sate his need. 
+But should I fail to provide worthy fodder... 
+One shudders to imagine what my fate could be. 
+We were not created by Clasz. 
+Such efforts are alien to him. 
+We are mere lichen or fungus. 
+The Claszian Expanse provided the conditions, and we materialized to feast. 
+But now I take the next step. 
+I demand more than just a piece from Clasz. 
+I carve a swath, and I claim it for myself. 
+Yes. 
+Yes. 
+It shall be. 
+I go. 
+The march of time. 
+Inexorable. 
+Dark portents ahead. 
+My path unspools. 
+Road to oblivion. 
+Time flows. 
+A path foreseen. 
+Face forward. 
+Foreseen is forearmed. 
+Presently. 
+As chosen. 
+A necessary decree. 
+In due time. 
+Still my own path. 
+Of true mind. 
+My will demands it. 
+The river curls. 
+The true course. 
+Unhindered. 
+All time to waste... 
+Of course. 
+Yes. 
+I know. 
+Fine. 
+Tedious. 
+I'm sure. 
+I know it. 
+We'll see. 
+Nooooooo! 
+Out of mana. 
+No mana. 
+Not enough mana. 
+Out of mana. 
+No mana. 
+Not enough mana. 
+Out of mana! 
+No mana! 
+Not enough mana. 
+Not yet. 
+I'm not ready. 
+It's not time yet. 
+Not yet. 
+I'm not ready. 
+It's not time yet. 
+not yet! 
+I'm not ready. 
+It's not time yet. 
+I light a beacon in the void. 
+A small piece in the outcome of this war. 
+Ah 
+Uhh 
+Ah 
+Aahh 
+Uaah 
+Aaahh 
+Heh, face value indeed. 
+I'm meant to own this. 
+Well bought. 
+Regeneration! 
+Turned back the clock. 
+It was meant for me. 
+Like the sun, I rise again. 
+Time tells, the mace fells. 
+I have seen the end of time. 
+A new age begins. 
+So begins...the final epoch. 
+The end is already written. 
+Returned from Clazureme! 
+I returned to fulfill my destiny! 
+Time is a river with many eddies. 
+My pendulum swings back to life. 
+I evade Clasz. Death holds no power over me. 
+Sever one tendril and another will always replace it. 
+I am a gateway that must remain closed. 
+We'll always have enough time. 
+I've grown to like it here. 
+I grow now like a weed. You cannot kill me. 
+Even the coldest mists dissipate in time. 
+I have little use for the pair of you. 
+Much easier to dispatch you here. 
+An ant amongst mages. 
+The ancient pales in the shadow of the infinite. 
+A life without meaning meets merciful end. 
+Dreams are fleeting. Death is not. 
+Fight or flight? You chose poorly. 
+The beasts will writhe before a new master. 
+Bloodlust leads to bitter ruin. 
+I need not hide my tracks from the likes of you. 
+Drunk on life, high on death. 
+Be honored I waste words on you. 
+My tendrils are the only web this world needs. 
+You should have known your place was in the dirt. 
+Even you are blind to your true intent. 
+Out of my way, worm. 
+Here burns the endless pyre of Clinkz. 
+What dents the armor liquifies the corpse. 
+Sturdy armor. Brittle bones. 
+Even the winter warden withers in true cold. 
+You cannot steal that which I allowed you to have. 
+You played your part unwittingly well. 
+You still ponder the universe with a child's mind. 
+Nothl is known to Clasz. As inconsequential. 
+Perhaps it will keep this time. 
+Your mortal squabbles could never prepare you...for me. 
+Your petulant needs count for nothing now. 
+It will take a more impressive pairing than that to challenge me. 
+Mortals perish so quickly. 
+Earth is little more than dust. 
+I am not a pebble that trembles in your wake. 
+Why join these children in death? 
+Nothing burns forever. 
+Nothing in your realm matters. Least of all some bags of meat. 
+You were but a shadow of your true self... 
+Your transformation was an accident. Mine was well earned. 
+So falls the withered branch. 
+Mash your controls harder. 
+Your little bones broke all too well. 
+Surprisingly vicious. 
+It takes cunning to face me. You never had a chance. 
+If only I could harness your power, and face the might of Clasz. 
+Your plans were transparent to me. 
+Twice the fool. In life and in death. 
+I can snatch anyone, mortal. 
+None will kill Clasz but me. 
+Did you take me for a kraken? 
+Did you think me a demon, Tresdin? I'm something far worse. 
+I never liked you. 
+You think your days long, but here lies your end. 
+You'll never steal enough to stay ahead of me. 
+All hope extinguished. 
+Your pathetic augmentation just wasn't enough. 
+Your line ends. 
+Next time bring Selemene to the fight. I'll kill her too. 
+You should never have crossed me. 
+It was fun for a moment, but I grew weary. 
+Impressive. For a human. 
+You don't even know why you fight. 
+How does this aid your sisters? 
+Cut off one head...and all the others die. 
+Mercy is a game for children. 
+Rest now. I'll defy the gods in your place. 
+You always were a fool, Wu Kong. But one with a glorious fate. 
+It seems you strayed away from a wiser path. 
+Your kingdoms will meet the same fate. 
+Now much darker roots are set to grow... 
+If nothing else, I've done the world a favor. 
+Age is meaningless here. 
+Fascinating creature... 
+Faceless Void meets mental void. 
+Can your bedtime story save you now? 
+You've seen much. From a limited perspective. 
+Everything you've accomplished was already meant to be. 
+Little more than a haggard dog. 
+Once void of purpose, now void of breath. 
+I was once like you. A pawn. 
+I have no time for phantoms. There are Ancients to kill. 
+Those aren't stars that shine in the void... 
+Useless beast. 
+Best to deal with you before you know what you are. 
+One less future to worry about. 
+But never to be rid of your carcass... 
+I don't have time for this. 
+I give you pain without end. 
+Your foolish masters will miss you. 
+Better to die here in freedom than thrive as the 'master' of that maze. 
+I don't need to see you, fool. 
+Go cry to daddy. 
+I make art of you. 
+Fear not. I'll slay your followers, too. 
+You were far too busy with trivial pursuits. 
+I don't know you. And I don't care. 
+Such hubris. This death was too good for you. 
+Your aims were small. I won't waste another thought on you. 
+You came of age on a playground. 
+Never bring a knife to a god fight. 
+A laughable obsession with fire. 
+That clever toy can't save you. 
+Your path stretched far enough. 
+Your master needs another pet. 
+So ends your flight of fancy. 
+Here lies a broken sword. 
+Mortal fungus. 
+Where's your precious master now? 
+Nothing to fear from you... 
+I'll overcome Maelrawn next. 
+There aren't enough blades in this world. 
+Do not pry into the affairs of Claszureme. 
+A minor impediment. 
+Our roots will replace you. 
+I dare say he enjoyed eating my mace. 
+Your pathetic story ends here. 
+I think you missed your stop. 
+I think nothing of the Dirge. 
+Barely worth the effort. 
+Sell your sob story somewhere else. 
+It feels good to squish a worm. 
+It seems I had the thicker skin. 
+And now a visage-less void as well. 
+To think I once feared you... 
+You have no power in that form. 
+No one will care to read about this. 
+You could have been useful, but my plans have never relied upon you. 
+So falls the wind that rises. 
+At last we've cured your disease. 
+Just mush beneath my feet. 
+Your sad encore comes to ignoble end. 
+The wrong side of a familiar coin... 
+Join yourself in death. 
+Ahhh, scepter. 
+Scepter. 
+Shitty wizard! 
+Faceless Void. 
+I have seen how this war ends. 
+I am the elder one. 
+From a place beyond time, and time beyond counting. 
+Always elder, now a god. 
+What Clasz surrendered, I refuse to let go. 
+I steal strength from the Claszian expanse. 
+Should I fall so too shall all of you. 
+I alone hold back the flood of Clasz. 
+Time enough to learn what I need. 
+Faceless oblivion. 
+I move freely amongst those shackled by fate. 
+The beggar's path. 
+Slow but still fast enough. 
+A cheap means of travel. 
+A low moment on my higher path. 
+Better than calling in a favor... 
+I thank you. 
+My gratitude. 
+I'm under attack! 
+Focus on the present. 
+Alien water... 
+You're going to have a bad time. 
+A moment for me. Eternity for you. 
+Look into my eye... 
+Your mind is a flat circle. 
+I saw your death coming and I still enjoyed it. 
+All of your sand is in the bottom of the glass. 
+Your failures were written before you were even born. 
+No surprise to me... 
+You were always destined to die. 
+If only I could see the look on your face... 
+A waste of time and space. 
+Put on a happy face. 
+Faceless annoyed. 
+Does this look like a face that cares? 
+If only you could turn back time... 
+Your fate was failure. 
+Ahhh ha ha ha ha ha haaa! 
+Gratitude would imply you had free will. 
+I have no use for decorum. 
+Grace means nothing in the void. 
+Yes! 
+Victory! 
+Just as I envisaged! 
+The power to destroy Clasz will set me free. 
+Now to destroy Clasz...and claim His expanse. 
+The Acolyte ascends!
