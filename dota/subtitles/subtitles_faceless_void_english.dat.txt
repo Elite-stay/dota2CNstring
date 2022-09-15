@@ -534,16 +534,12 @@ Nothing to see here.
 Void of purpose... 
 Your time will come. 
 Next time... 
-Time stops for exactly no one. 
 Meaningful only to me. 
 A failure of perception. 
 I enjoy how it feels all the same. 
 A private bath in Claszureme. 
 I admit. I was careless. 
-See? It looks like I'm running fast! 
-I'm sure that'll be ready in time... 
 Turn the hourglass... 
-I certainly didn't see that. 
 Anyone missing a chronosphere? 
 How strange.... 
 I don't think so. 
@@ -581,7 +577,6 @@ Not so fast.
 I'm here. 
 Hah! 
 Hah! 
-Space walk. 
 Space negated. 
 Here -- not there. 
 All within my reach. 
@@ -642,7 +637,6 @@ Ahh
 Arcane intricacies. 
 As foretold. 
 A color out of my space. 
-Attack! 
 Attack. 
 Feel my mace! 
 Face your doom. 
@@ -652,9 +646,7 @@ Time's up.
 Time is the cruelest cut. 
 Your end comes. 
 Ended. 
-Time to fight. 
 Your time runs out. 
-Face the future. 
 Face me! 
 Make peace with your fate. 
 You're next. 
@@ -713,7 +705,6 @@ I might enjoy this.
 Did you think I was alone? 
 I don't need to strike the killing blow to see my work is done. 
 We're all here. 
-I get by. 
 So long as Clasz receives the spoils... 
 My will, done. 
 The void place at the right time. 
@@ -764,7 +755,6 @@ The void claims you all.
 All of you go to Clasz in my place. 
 Soon I will have power to usurp upon even more of His expanse... 
 Like a terrible membrane, I grow upon the Claszian expanse. 
-Soon my full ascension will come to be. 
 Vast tribute to the void. 
 Crummy wizard! 
 Nooooo.... 
@@ -783,8 +773,6 @@ Can the gateway still hold?
 Friend or foe... Hide this body well... 
 May my death...not be your undoing... 
 Spaceless...void... 
-Look at the time... 
-This seems like the perfect time...for a joke... 
 You may cut down this form... But another will follow. 
 The mouth of madness...opens wide. 
 Urhh aahhhh 
@@ -1001,14 +989,12 @@ The tests of time were too much for you.
 Time means nothing. Just like you. 
 If the Acolytes couldn't stop me, what chance had you? 
 You can't run from fate. 
-Your destiny? Death. 
 If only you could see all your choices that led to this. 
 I have seen the true terrors of the void. Do not call this an unkind fate. 
 Do you see me, Clasz? Glimpse a preview of your fate. 
 Gold is forever. 
 Fate takes you. 
 As foretold. 
-Out of time. 
 So it must be. 
 Null and void. 
 Heheh heh heh. 
@@ -1067,7 +1053,6 @@ The final gateway opens!
 And now this dimension will fall... 
 Ah, mask of madness. 
 Ah, mask of madness, a perfect fit. 
-I have a face now. 
 For one of my kind, initiation as an Acolyte of Clasz is the highest honor. 
 And I wore that mantle well. 
 Fully devoted to my future as an aspect of Clasz the Infinite. 
@@ -1231,13 +1216,11 @@ It takes cunning to face me. You never had a chance.
 If only I could harness your power, and face the might of Clasz. 
 Your plans were transparent to me. 
 Twice the fool. In life and in death. 
-I can snatch anyone, mortal. 
 None will kill Clasz but me. 
 Did you take me for a kraken? 
 Did you think me a demon, Tresdin? I'm something far worse. 
 I never liked you. 
 You think your days long, but here lies your end. 
-You'll never steal enough to stay ahead of me. 
 All hope extinguished. 
 Your pathetic augmentation just wasn't enough. 
 Your line ends. 
@@ -1314,7 +1297,6 @@ You could have been useful, but my plans have never relied upon you.
 So falls the wind that rises. 
 At last we've cured your disease. 
 Just mush beneath my feet. 
-Your sad encore comes to ignoble end. 
 The wrong side of a familiar coin... 
 Join yourself in death. 
 Ahhh, scepter. 
@@ -1348,7 +1330,6 @@ Look into my eye...
 Your mind is a flat circle. 
 I saw your death coming and I still enjoyed it. 
 All of your sand is in the bottom of the glass. 
-Your failures were written before you were even born. 
 No surprise to me... 
 You were always destined to die. 
 If only I could see the look on your face... 
