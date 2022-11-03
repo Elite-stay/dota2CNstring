@@ -1,0 +1,1186 @@
+s1, %s2 %s3, %s4:%s5 
+%s1, %s2 %s3, %s4:%s5 %s6 
+%s1 %s2, %s3 (%s4:%s5:%s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+United States 
+Afghanistan 
+Åland Islands 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antarctica 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Bouvet Island 
+Brazil 
+British Indian Ocean Territory 
+Brunei Darussalam 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Republic of Cabo Verde 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo 
+Congo, the Democratic Republic of the 
+Cook Islands 
+Costa Rica 
+Côte d'Ivoire 
+Croatia 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+French Southern Territories 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guernsey 
+Guyana 
+Haiti 
+Heard and Mc Donald Islands 
+Vatican City State (Holy See) 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Korea, Republic of 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Lao People's Democratic Republic 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+North Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia, Federated States of 
+Moldova, Republic of 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+Netherlands Antilles 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestinian Territory, Occupied 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Pitcairn 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Reunion 
+Romania 
+Serbia 
+Russian Federation 
+Rwanda 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+Sao Tome and Principe 
+Saudi Arabia 
+Senegal 
+Serbia and Montenegro 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Georgia and the South Sandwich Islands 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Eswatini 
+Sweden 
+South Sudan 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania, United Republic of 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom 
+United States Minor Outlying Islands 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Venezuela 
+Viet Nam 
+Virgin Islands, British 
+Virgin Islands, U.S. 
+Wallis and Futuna 
+China 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
+All mid. 
+Cave Johnson here. Welcome to Dota. 
+Cave Johnson here. Welcome to Dota. 
+Cave Johnson here. It's Dota Time. 
+Cave Johnson here. Are we starting? We're starting! Welcome to Dota! 
+Cave Johnson here. Founder and CEO of DOTA. 
+Welcome to another exciting game of Dota! I'm Cave Johnson. 
+Cave Johnson here. What are we doing here? Dota? Great. Love this game. 
+I'm Cave Johnson. Who is ready to defend some ancients? 
+I'm Cave Johnson. Welcome to Cave Johnson's Dota. 
+All pick. 
+Interesting fact for you: this is also known as boring mode.  
+Let me ask you, and be honest: why'd you choose that mode? (pause) Can't hear you. One-way mic. 
+I like it. Find your comfort zone, stay inside it. 
+All random. 
+I hope you know what you're doing here. I'm not at all confident you do, but here's hoping. 
+Random. Nice. I like a gambler. 
+Captains draft. 
+Captains mode. 
+That's a lot of faith to put in one person. Yeesh. Especially now that I get a look at your captain. 
+Death match. 
+Ha! You remind me of me. Gutsy, high stakes. No muckin' around! Who is ready to die? 
+Easy mode. 
+That's okay. I know the harder game modes can be confusing. 
+Least played. 
+Y'know, there' probably a reason you never play as these guys. Just sayin'. 
+Random draft. 
+I like you. Not afraid to step outside your comfort zone. Play to your weaknesses. Make it more likely you'll lose. Come to think of it, I don't like you. 
+Reverse captains mode. 
+I like the idea of screwing your opponents over. I should propose this concept to Black Mesa. 
+Single draft. 
+Ability Draft. 
+Alright, time to choose your hero. 
+Choose your hero. 
+Alright. It's hero choosin' time. 
+Let's do this. Choose your hero. 
+Alright, get your finger out of your nose and let's get this over with. 
+It's time to choose. Who's going to defend those ancients? 
+All these heroes. All these possibilities. I envy you, hero chooser. 
+Alright, Dire's turn. 
+Dire's turn to pick. 
+Dire's choice. Let's give 'em a second. Lot of heroes to choose from. 
+Dire's turn to pick. 
+Radiant's up. 
+Radiant's turn to pick. 
+Radiant knows just who to pick here, I'll bet. First rate hero selection. 
+Radiant's up. 
+Dire's turn to pick. 
+Alright. Dire's turn to pick. 
+Time for Dire to pick. I'd keep an eye on 'em. They look like scum to me. 
+Dire's up. This might take a while, they look pretty stupid. 
+Uh oh, I can already tell they are better at choosing heroes than you. 
+Dire's turn to pick. 
+Radiant's turn to pick. 
+Alright. Radiant's turn to pick. 
+Radiant's picking. I'm sure it'll be fine. You're probably okay. You might be in trouble. 
+Okay, settle down, let's not panic until we see who Radiant picks. 
+Radiant's pick. Between you and me, I hope you win. These guys look like ten pounds of crap in a five pound bag. 
+Your pick.  
+Your turn.  
+You're up.  
+Your turn to pick. 
+Your pick.  
+Come on. Tick tock, time's a-wastin'. 
+Come on, pitter patter, let's get atter. 
+(polite cough) Still your turn.  
+We're all waiting. On you. 
+Come on, it's not rocket science. Hell, it's not even science. Just point at something. 
+Any time you're ready. Take your time. Faster would be better. 
+Lotta great choices here. 
+Alright. Dire gets to ban. 
+Dire gets to ban. 
+Radiant's up. Banning time. 
+Radiant gets to ban. 
+It's your ban. 
+You're up. Make your ban. 
+Who you gonna ban? How about them? I don't like the look of them. 
+Who you gonna ban? Oh -- how about that one? I've heard things about that one. 
+Alright, Dire's turn to ban. 
+OK, Dire's up to ban. 
+Alright, Radiant's turn to ban. 
+OK, Radiant's up to ban. 
+Buncha jerks, if you ask me. No idea what they're doing. 
+Banning is more of an art than a science. More of a hunch than an art, really. A wild guess, basically. 
+God knows what's going through those empty heads of theirs. 
+(chuckles) Can't wait to see how they (BEEP) this up. 
+The most important thing you can do right now is not let 'em see you cry. 
+Ten seconds. 
+Ten seconds left. Well, eight now. 
+Ten seconds! Just long enough to regret every choice you've made, if you hurry. 
+We're ten seconds out. Plenty of time to tell an announcer you love them, if that's what's in your heart. 
+Ten seconds!   
+Five seconds. 
+Five seconds. Four. Three. You get it. 
+We're starting in five seconds with or without you. 
+Five seconds. 
+Alright, you're on reserve time. 
+Alright, you're on reserve time. 
+Take your time. But hurry up. 
+Take your time. We're all watching you. And judging you, obviously.  
+No pressure. I mean, the entire game does rest on this decision. But once you get that in your head... (laughs) You're absolutely going to make the wrong call. So don't think about it. 
+You never really realize how precious time is until you see someone wasting it, like this. 
+You are really dragging this out, aren't you? 
+Alright, get ready! 
+You ready? Let's do it! 
+You ready? You don't look ready. Well, we're starting, so get ready. 
+You ready? You don't look ready. Remember, it's all on you here. Lot of pressure. All on your shoulders. Man, I'd be a wreck. Alright, let's go. 
+You got this? You look like you got this. Actually, you look scared. Or distracted. It's hard to tell with your face. 
+Alright, everybody, thirty seconds! 
+Alright, gang, thirty seconds! 
+Heads up, thirty seconds. 
+All right, battle time! In twenty-seven seconds. Twenty-six. 
+I wrote up a little pep talk. Just your standard, inspirational, incredibly powerful  and moving speech. Greg was sobbin' like a baby when he heard it. Longer than 30 seconds, though, so I'll skip it. 
+Thirty seconds to showtime, folks! Let's see those game faces. Not you. You -- just -- don't make any faces. 
+You've got this. Seriously, I just went took a look at the other guys and -- (whistles) If you do not have this, I don't know how you'll be able to show your face anywhere ever again. You are fighting human garbage. 
+You don't have to pee, do you? You got a bit of a... pee face going on right now. 
+No rush. Plenty of time. Five seconds. 
+Well, more like eight. Seven... 
+Alright, let's play this thing. Just a little game I threw together in my spare time. Hope you like it. 
+Today, in this fantasy forest land, history will be made. Blood will be spilled. Ancients will be defended. By you! And the four loads you came in with. 
+It's all up to you. And those other guys, but let's have some real talk here, they're about as useful as a stack of damp towels. It's basically you. 
+History will be made on this day. Not actual history. Make-believe history. Fiction, I guess you'd call it. 
+Alright, let's get started. Who is ready to Dota? Is that a thing? If not, copyright 2022 Cave Johnson. 
+Centaurs, wizards, Medusas --you're here because we want the best, and you are it. So: Who is ready to defend some ancients? 
+Look, here's the deal: they've got an ancient, and between you and me, they got no business with it. Who was the first person to think of having an ancient? You! Get mad. Go smash their ancient.  
+Ahhh. Smell that forest air! The wind at your back! Supports at your side! Cores safely behind you! I don't know what that guy's doing. 
+Thank god, we're starting! The main event! The big dance! The sport of kings! The field of dreams! The Quantum of Solace! The World of warcr-- alright. 
+You've trained hard to be here. Real hard. I've seen you. Not watching you in secret or anything. All above board. 
+Remember, the name of the game here is defense. But also offense. That's important, too. Defense and offense of the ancients.  
+That's YOUR ancient they've got! You should have two! Go get it back! Smash it to bits in front of 'em! 
+Here's how I see it: You've got an ancient. And they've got an ancient. And that's bad! Only YOU should have an ancient! Are you kidding me? Get MAD!   
+It all comes down to you. And your teammates, technically, but -- Greg, can they hear me? No? Good. Your teammates are garbage. This is all you. 
+I hope your shoulders are broad enough for four sacks of flour, because let's cut the crap, you will be carrying your teammates. 
+You know what to do! And if you don't, just head towards the sound of smashing towers and try to look busy. 
+Ancient killers, let's kill some ancients. 
+Radiant's throwing all they've got at Dire's bottom tower. 
+Man, Radiant does not like Dire's bottom tower, and it shows. 
+If Dire doesn't haul ass and help out that bottom tower, there's not gonna be a tower left. 
+Things are looking dire for Dire's bottom tow-- ugh, that was unintentional. Forget I said that. Their bottom tower is in trouble, though. 
+Dire's middle tower is takin' one hell of a beating. 
+Hope Dire's middle tower is insured. That thing is standing on its last brick. 
+You can tell Dire's middle tower is in trouble from the way it's being destroyed as we speak. 
+Looks like Dire's top tower is in some trouble. 
+Dire's top tower is really takin' a beating. 
+If you're in the vicinity of Dire's top tower, I'd put on a hard hat. That baby is coming down. 
+Looks like Radiant's top tower is getting torn down. Probably asbestos. 
+Dire is kicking sweet hell out of Radiant's bottom tower. 
+If you're a fan of Radiant's top tower, I'd shut my eyes right now.  
+Radiant might want to haul some ass down to their bottom tower. While they've still got one. 
+Radiant's middle tower is about to be a pile of smoking rocks. 
+Don't look now, but Radiant's bottom tower is getting obliterated. Okay, fine. You can look. It's kind of funny. 
+Looks like the Dire figured out where Radiant's top tower is. 
+Radiant's middle tower is hanging on by a brick. 
+I am not a betting man -- unless it's basketball, football, horse racing, rugby, cricket or curling -- but if I was, I'd bet on Radiant's top tower coming down. 
+Dire's bottom tower's gone to be with the big brick in the sky. 
+Dire's bottom tower's gone to a tower farm up north. 
+Dire's historical bottom tower is destroyed. It was named, of course, after Jeff Bottom. That's... looks like all the details I was given. Just the Jeff Bottom thing. 
+Dire's middle tower has kicked the concrete bucket. 
+Dire's middle tower is stone dead. 
+Dire's top tower just went brick-belly up. 
+Radiant's bottom tower is a a pile of dust and gravel. 
+Radiant's bottom has cashed in its brick chips. 
+Radiant's sturdy bottom tower was built to withstand a -- never mind. It's gone. 
+Radiant's middle tower just got smashed all to hell. 
+Radiant's middle tower is gone, but it lives on in our hearts. 
+That's it for Radiant's middle tower. We'll never forget you, Radiant's middle tower. 
+If you always hated Radiant's middle tower, I have good news. 
+Radiant's top tower just got demolished. 
+Radiant's top tower just got stomped to pieces. 
+Radiant's top tower has bit the big biscuit. 
+Dire's bottom tower just got denied. 
+Dire's bottom tower denied. 
+Dire's middle tower just got denied. 
+Dire's middle tower denied. 
+Dire's top tower just got denied. 
+Dire's top tower denied. 
+Radiant's bottom tower just got denied. 
+Radiant's bottom tower denied. 
+Radiant's middle tower just got denied. 
+Radiant's middle tower denied. 
+Radiant's top tower tower just got denied. 
+Radiant's top tower denied. 
+Your bottom tower's under attack, there. 
+Might wanna look into your bottom tower. 
+Your middle tower might need a little attention. 
+Your middle tower's takin' a beating. 
+Hey. Your top tower's under attack. 
+Might wanna haul ass over to your top tower. 
+Did you need your top tower? I'm only asking because it's being destroyed. 
+I don't see the benefit of letting them kill your towers, but you're the expert. 
+Look, Greg called the cops and apparently assaulting these towers is not a crime. So you're gonna have to handle this yourself. 
+I wouldn't just ignore this. You gotta show these idiots who's boss or they'll never stop bullying that poor tower. 
+(whistle) It is gettin' smashed ALL to hell. 
+I wouldn't worry about, though, it's not so -- hmm, no that... that looks pretty bad. 
+That thing's gettin' stomped on so hard it's gonna turn into wine. 
+Hey. You really need to handle this. 
+You are not going to like this. They are really tearing that thing to pieces. 
+Maybe don't let them do what they're doing.  
+They're really taking it to you here. 
+I'd get over there if I was you. 
+I don't like your odds here. 
+I wouldn't sweat it, these things are built to take a lot of punishment. Hmm. Well, probably not that much. 
+I'm not gonna sugar coat it. I don't like your odds here. 
+I mean... I'm no expert, but... yeah, that's comin' down. 
+Yeah, that doesn't look good. 
+You know what? It's probably fine. 
+Nah, it'll be fine. 
+Let's see how this plays out. Maybe it's just a very stupid trap. 
+Oof. This is gruesome. You have to feel some kind of responsibility for this, right? 
+Man, look at 'em go. They are destroying the HELL out of that thing. 
+Wow. That thing can really soak up some punishment. 
+Ah. Good. Perfect example. See, THIS, right here, is what you want to avoid. 
+You people - I'm using the term loosely here, I know you're probably a giant pink bat or a robot made out of fairy water or whatever - but you people need to handle this and I mean yesterday. 
+Are you letting them do this? If this is an insurance scheme, say no more. I can keep my mouth shut. 
+They say history is written by the victors, so you might save yourself a writing assignment here. 
+Bottom tower's no longer tip-top. It's just.... well, it's just tipped. 
+Bottom tower just bit the brick biscuit. 
+Alright, bottom tower's down.  
+I have good news if you hated your bottom tower. Great news, in fact. 
+How do you like your middle tower? I hope you like it destroyed, 'cause it is. 
+Alright, middle tower's down.  
+Your middle tower is now past tense.  
+Middle tower, we'll miss you. Largely ignored, badly protected. Good bye, middle tower. 
+You know, just because your tower's being attacked doesn't mean it's gone -- nevermind, it's gone. 
+Your top tower's gone to be with the big brick in the sky. 
+Your top tower just fell over. 
+Your top tower's down. 
+It is pretty fun destroying towers. Your opponents must be having the best time up there. 
+Oh no, your top tower. Former top tower, I should say. 
+You know what? This is Dota, you're gonna lose a tower here and there. Stay focused. 
+Cut down in the prime of its tower life. Rest in peace. Taken too soon. 
+It's... it's just one tower. In the grand scheme of things, it's... (exhales) still incredibly important. You really kneecapped yourself here. 
+I didn't want to say it, but that was my favorite tower. (wistful) Damn, I loved that tower.  
+I know you'll miss it. That tower was a part of you. But it would want you to go on.  
+You still have an Ancient. A less-protected, probably very worried Ancient, but you're still in this. 
+You know what? Let 'em have it. We got bigger fish to fry. 
+But hey, we play until the whistle blows. Get back in there. 
+Come on, brush it off. Let's get back out there. 
+Alright, walk it off. We're still in this. 
+You didn't need it anyway. Would it have helped? I mean -- yes. Absolutely. But it's gone now and there's no sense crying about it. 
+Man, we are in trouble. 
+I envy you. To be in such a terrible situation. A victim of your own many mistakes. I'd love to know what that feels like. 
+Cave's not gonna sugar coat it: You're in the soup here. 
+(exhales) This is trouble. 
+Not the worst news. It's in the top 10 worst newses, but stay positive! 
+Looking good out there! For them.  
+But hey: This is why we keep score. It's supposed to sting. Throw some salt in there and go get some payback.  
+Nice work. You just denied bottom tower. 
+That's a denial for bottom tower. 
+Nice one. You just denied middle tower. 
+Good work. You just denied your middle tower. 
+Nice. You just denied top tower. 
+Good. You just denied your top tower. 
+Let 'em take out the whole thing, then sneak in there and smash the last brick. I like it. It's poor sportsmanship AND it's spiteful. 
+I like your style. They can smash up your tower, but they're not makin' a dime off it. 
+That's a helluva nice D. D meaning denial. I guess I should start warning you when I'm making up new Dota slang on the spot. 
+No time to gloat. Ah, hell. OK, one second to gloat. You earned it. I'll time ya. Annnd one. 
+They wanted to take out YOUR tower? Ha! You showed THEM who's the boss at taking out your tower! 
+They did all that work for nothing. Well, you're still down a tower. But they did all that work for not everything. 
+You know what I like about you? You're willing to cut off your nose to spite your face.  
+You're down a tower, they're out a payday. Everybody loses, just like real life. Good lessons here. 
+Good thinking-- they can't destroy it if it's already gone. 
+They say strategy is seventy percent spite. 
+(chuckle) You are a spiteful, black-hearted piece of trash. 
+Ha! Their bottom tower is down. 
+Their bottom tower's down. 
+Great. Their bottom tower's all busted up. 
+Ha! Their middle tower is down. 
+Their middle tower's down. 
+Good stuff. Their middle tower's a sad pile of gravel. 
+Ha! Their top tower is down. 
+Their top tower's down. 
+Nice. Their top tower's smashed all to hell. 
+That wasn't just business. That looked personal. You HATED that bucket of bricks, I could tell. 
+Still, we should be respectful. A moment of silence, please, for their stupid tower. 
+It was an ugly tower. It even fell ugly. 
+(chuckles to self) That (BLEEP) got annihilated. 
+It was standing, it stood, you smashed it. Sunrise, sunset, it's the circle of life. 
+You laid the BOOTS to that thing. Nice work. 
+(chuckling) You just... you just hate to see it. 
+You've got 'em on the ropes now. Don't let up! 
+You got 'em on the ropes! Hit 'em again!  
+Wait'll they see what you have in store for an encore! 
+Now nothing stands between you and victory! Except a couple more things! 
+That thing is spitting bricks right now. 
+The enemy has denied their bottom tower. 
+Looks like they denied their bottom tower. 
+The enemy has denied their middle tower. 
+They just denied their middle tower. 
+They just denied their top tower. 
+Looks like they stole the credit down there on top tower. 
+That's a wet loaf no matter how you slice it. 
+We are in deep water here. 
+That plan didn't go according to... plan. 
+All right. Shake it off. No one said it was gonna be easy. 
+I think we all underestimated them. I mean, look at 'em. How could you not? 
+There's always next time. Usually. 
+Radiant's got a real hate on for Dire's bottom barracks. 
+Dire's middle barracks are taking a beating out there! 
+Dire's top barracks may not be long for this earth. 
+Dire's using Radiant's bottom barracks as a punching bag. 
+Dire's kicking the bejesus out of Radiant's middle barracks. 
+Dire's wiping their big purple butts with Radiant's top barracks.  
+Dire's bottom barracks just fell. 
+Dire's middle barracks just fell. 
+Dire's top barracks just fell. 
+Bet you ten bucks Dire does not like that one bit. 
+And so the grieving process begins for Dire's barracks. I'm done. How are you? 
+They're taking a real face washing out there. 
+Radiant's bottom barracks just fell. 
+Radiant's middle barracks just fell. 
+Radiant's top barracks  just fell. 
+Pretty cold move, Dire. Now where are the Radiant creeps going to sleep? 
+Radiant probably could've used those barracks. 
+Can Radiant come back from this? Between you and me: maybe. 
+Did you need that barracks down there? The one they're destroying? 
+When you can get to it, your bottom barracks is being dismantled. 
+Watch out! Action on your bottom barracks! 
+They're giving your middle barracks a once-over. 
+Break time's  over-- they're at your middle barracks. 
+Hey! Might want to defend your middle barracks! 
+Your top barracks are taking a serious pounding. 
+I think they found your top barracks. 
+Top barracks! Defend! Now! 
+Oh for -- ! You let them take out your bottom barracks! 
+Well, so much for your bottom barracks, genius. 
+Middle barracks. Gone. Destroyed. 
+Good news: You have a pile of bricks. Bad news: it used to be your middle barracks. 
+Every tower that was well defended, raise your hand. Not so fast, Radiant's Top tower. 
+Gah! They just deep sixed your top barracks! 
+Your barracks is gone. I mean, come on.' A poem by Cave Johnson. 
+Great work! Wait, no, I had you mixed up with the side destroying barracks. 
+Ha! Their bottom barracks is a smokin' pile of gravel! 
+Bottom barracks: demolished. Lotta dead creeps. Good stuff. 
+Ha ha! You RUINED those bottom barracks! 
+You smashed that middle barracks to pieces! 
+You just obliterated their middle barracks. 
+That was a master class in middle barracks smashing. 
+Aaaand that's all she wrote for their top barracks. 
+End of the road for their top barracks! 
+Dire's top shrine's under attack. 
+Dire's bottom shrine's under attack. 
+Radiant's top shrine's under attack. 
+Radiant's bottom shrine's under attack. 
+Dire's top shrine's a goner. 
+Dire's bottom shrine's gone. 
+Radiant's top shrine just bit it. 
+Radiant's bottom shrine just fell over. 
+Your top shrine's under attack, by the way. 
+Hey, uh... Your top shrine's under attack. 
+Uh oh. Looks like your bottom shrine's under attack. 
+Hey, uh... Your bottom shrine's takin' some heat there. 
+Crap. Looks like your top shrine's gone. 
+Your top shrine just bought it.  
+Your bottom shrine just kicked it. Sorry, man. 
+Uh oh. Your bottom shrine just carked it. 
+Hey, good news. Their top shrine crapped out. 
+Good news, enemy's top shrine's gone. 
+Hey, alright. Their bottom shrine's gone. 
+Looks like their bottom shrine's gone. 
+Now this is interesting. I think the Dire's Ancient's about to bite it. 
+Hey, check it out. I think the Dire's Ancient's comin' down. 
+OK, it's happening. I think Dire's ancient's coming down. 
+Oh, this should be good. I think the Radiant's Ancient's about to keel over. 
+Hey, take a look. I think the Radiant's Ancient's almost bought the big one. 
+Hey, something's up. I think Radiant's Ancient's about to crap out. 
+That Ancient is history! Hold on, I like that. Greg. Dota T-shirt idea: Your Ancient is History. What? No, it's the game we're watch-- what are you even doing over there? 
+They are really tearing that Ancient to pieces. Beautiful, in a way. No, I take it back. This is a horror show. 
+Hey, uh...Don't look now, but your ancient's under attack. 
+Hey, uh... are they supposed to be attacking your ancient like that? 
+Uh oh. I think your ancient's under attack. 
+Ah, crap. Your ancient's takin' a walloping there. 
+Hey, uh...Don't look now, but your ancient's under attack. 
+I think your ancient's under attack. 
+I'm pretty sure you lose the game if they smash that. And they are... wow, they are REALLY smashin' that up. 
+Hoo boy. You are -- I mean, you're probably fine. In the cosmic sense. There'll be more games after this. 
+Let's brush up on some of the basics. It's called Defense of the Ancients. 
+I forget what happens when this thing dies.  
+Looking back, I think the mistake was letting them get this close to your stronghold. 
+Look, it's not down yet. You're still in this. I'm rootin' for ya. 
+I don't know a lot about Ancients. Is it bad for them to be missing this many ancient chunks? 
+Well, great. Now they've got MegaCreeps. 
+Well, more bad news. They've got MegaCreeps. 
+Hate to break this to ya. They got MegaCreeps now. 
+Well, when it rains it pours. Now they've got MegaCreeps. 
+Looking on the bright side, at least... I'll get back to you on the bright side. 
+I'll be honest: I was kind of hoping they'd forget about the MegaCreeps. 
+Hey, have we got MegaCreeps now? 
+Nice work! We got MegaCreeps!  
+Holy Moses, have we got MegaCreeps now?  
+Hey, have we got MegaCreeps now? 
+MegaCreeps! 
+This is just great stuff. 
+This is great news. Congratulations, I'm proud of you. 
+Megacreeps. Hey Greg, wasn't that your nickname in high school? 
+Look at those beauties. Monstrous, beautiful MegaCreeps. 
+Good Lord! They just keep coming! 
+Uh oh. Dire's fortified their structures.  
+Dire's fortified their structures. That's no good for us. 
+Heads up, Dire's fortified their structures. Just more things for you to smash. 
+You've fortified your structures. 
+Nice work fortifying those structures! They are looking sharp! 
+You have fortified the HELL out of those structures! Good job. 
+You've fortified your structures. 
+Look at those structures! (whistle) For-tee-fied! 
+Don't get a big head about it. But your structures are fortified. 
+Uh oh. Radiant's fortified their structures.  
+Radiant's structures look stronger than before. Not saying much, but still. 
+Limber up. They've fortified their structures. 
+The top outpost has been captured by Radiant. 
+The top outpost has been captured by Dire. 
+The bottom outpost has been captured by Radiant. 
+The bottom outpost has been captured by Dire. 
+The bottom outpost has been captured by the enemy. 
+The top outpost has been captured by the enemy. 
+Your team has captured the bottom outpost. 
+Your team has captured the top outpost. 
+Radiant's scanning for enemies. Or maybe for friends. They look unpopular. 
+Radiant's scanning around for enemies. With their odd-looking bulging eyes. Ugh. I'm sorry, it's just creepy. 
+Dire's scanning all over for enemies. I promise, this will get more exciting. 
+Dire is scanning for enemies. Probably hoping to catch a glimpse of 'em nude. 
+That courier will be missed. Forever in our hearts. 
+That courier will be missed. Thoughts and prayers. 
+That courier will be missed. Cut down in its prime. 
+That courier will be missed. Taken too soon. Thank you for your service. 
+That courier will be missed. Gone but not forgotten. 
+Heaven just got another angel. That courier will be missed. 
+I don't know how to break this to you. Your courier just went to live on a farm up north. 
+It seems pointless to mention this now, but a mailman can't fight off a swarm of monsters by itself. 
+I'll miss that courier. Doug, probably. It looked like a Doug. 
+Their courier's dead. I'm glad they're dead. I don't care how that sounds. 
+Well, their courier's dead. Rest in peace. I dunno, who cares. 
+Their courier's dead. Tragic. But, you know -- good for us.   
+Their courier's dead. Tryin' to get sad about it. Nope. Big smile here.  
+Their courier's dead. Won't be missed. 
+Their courier's dead. Good riddance. 
+Their courier's dead. They knew what they were getting into when they took that job. 
+Don't kill the messenger, but I saw you kill that messenger. 
+That courier will be missed. Forever in our hearts. 
+That courier will be missed. Thoughts and prayers. 
+That courier will be missed. Cut down in its prime. 
+That courier will be missed. Taken too soon. Thank you for your service. 
+That courier will be missed. Gone but not forgotten. 
+Heaven just got another angel. That courier will be missed. 
+I don't know how to break this to you. Your courier just went to live on a farm up north. 
+It seems pointless to mention this now, but a mailman can't fight off a swarm of monsters by itself. 
+I'll miss that courier. Doug, probably. It looked like a Doug. 
+Their courier's dead. I'm glad they're dead. I don't care how that sounds. 
+Well, their courier's dead. Rest in peace. I dunno, who cares. 
+Their courier's dead. Tragic. But, you know -- good for us.   
+Their courier's dead. Tryin' to get sad about it. Nope. Big smile here.  
+Their courier's dead. Won't be missed. 
+Their courier's dead. Good riddance. 
+Their courier's dead. They knew what they were getting into when they took that job. 
+Don't kill the messenger, but I saw you kill that messenger. 
+Dire's courier has lost its brave battle with a bunch of swords and fireballs. Taken too soon. 
+Looks like Dire's courier just bit the bucket. 
+Dire's courier has gone to that big mailman cemetary in the sky. 
+Looks like Radiant's courier just kicked the biscuit. 
+Good stuff. Radiant's courier just took a dirt nap. 
+Radiant's courier has made one last run. To heaven. 
+Nice work! Roshan is pushing up big, ugly daisies. 
+Dire takes out Roshan. That'll get your name in the paper. 
+Well, they got Roshan. Not gonna lie, I was hoping you'd do that. 
+Good news: no more Roshan. Bad news: Dire got to him. 
+Roshan's dead. Well, Radiant killed him, I mean. He didn't die of old age. 
+Radiant has killed Roshan. Had money on YOU doing that. You are costing me here! 
+Thanks to you, Roshan has bitten the dust. And choked on that dust. To death. 
+Radiant takes out Roshan. That buttered his biscuit. 
+Radiant takes out Roshan the Immortal. Not the most accurate name, was it? 
+Radiant has killed Roshan. Too bad. You wouldn't guess, but he was a helluva cook. 
+Dire has killed Roshan the Immortal. Gotta question that title. 
+Dire killed Roshan in cold blood! Well, warm when they killed him. Cold now. 
+Well done! Go collect your trophy. Or belt. Prize money? Whatever you won, congrats. You won it. 
+Great work! You went out there as a team, gave it your all and took it to them! 
+Holy crap, you did it! Greg, they did it? Those idiots I was telling you about? They WON! 
+I want you all to know there's no shame in losing. What's that? They won? Oh. Good. There's nothing more shameful than losing. 
+Holy Hercules, you did it! You won! (laughs) That's great!  
+Wait, you won? That's fantastic! Greg, quick. Spray paint those silver medals. 
+They gave it their best, but you gave it an even better best! 
+I'm watching you! Keep fighting! What's that? They won? Alright, you got me. I wasn't watching. 
+Nice job! You went out there and used teamwork to murder a bunch of wizards and talking animals in a forest and destroy their buildings. 
+Congrats! You went out there and gave 110 percent. Feel free to just give 90 percent to everything else you do today. 
+Lemme tell you, I'm proud of you down there. I was pretty convinced there -- (exhales) Well, let's just say I'm  surprised. And proud. 
+Boy, I could not be prouder. You've all earned Aperture stock options! Just kidding. I will never be that proud. 
+Ha ha! Great work! 
+Ho ho, well done! Greg, cut these people their victory checks.  
+Holy crap, you did it!   
+Holy crap, you did it!   
+Great work! 
+Well done! Go collect your trophy. Or belt. Prize money? Whatever you won, congrats. You won it. 
+Great work! You went out there as a team, gave it your all and took it to them! 
+Holy crap, you did it! Greg, they did it? Those idiots I was telling you about? They WON! 
+I want you all to know there's no shame in losing. What's that? They won? Oh. Good. There's nothing more shameful than losing. 
+Holy Hercules, you did it! You won! (laughs) That's great!  
+Wait, you won? That's fantastic! Greg, quick. Spray paint those silver medals. 
+They gave it their best, but you gave it an even better best! 
+I'm watching you! Keep fighting! What's that? They won? Alright, you got me. I wasn't watching. 
+Nice job! You went out there and used teamwork to murder a bunch of wizards and talking animals in a forest and destroy their buildings. 
+Congrats! You went out there and gave 110 percent. Feel free to just give 90 percent to everything else you do today. 
+Lemme tell you, I'm proud of you down there. I was pretty convinced there -- (exhales) Well, let's just say I'm  surprised. And proud. 
+Boy, I could not be prouder. You've all earned Aperture stock options! Just kidding. I will never be that proud. 
+Ha ha! Great work! 
+Ho ho, well done! Greg, cut these people their victory checks.  
+Holy crap, you did it!   
+Holy crap, you did it!   
+Great work! 
+Just say you finished second. Makes it sound better. 
+Well, damn. But you know what? I'm proud of the fact you all kept fighting out there. 
+Those a-holes won. Can I say a-holes? (pause) Those b-holes won. 
+Alright, gang, take a knee. I want you to know I'm proud of you. Just not as proud as if you'd won. That would be... (whistles) ... top tier pride. 
+I don't want you to feel like losers today. I want you to feel like champions. Who lost. Alright losers, get out of here. 
+Well. We did not topple enough ancients to win the game. Simple as that. We'll get 'em next time. 
+Well, crap. You gave it 110 percent out there, we'll get 'em on the next one. C'mon, leave it on the field. 
+Well, the better team won today. That's what it takes to topple an ancient. We'll get 'em next time. 
+They just wanted it more. Or you wanted it less. We'll get 'em on the next one. C'mon, leave it on the field. 
+Just say you finished second. Makes it sound better. 
+Well, damn. But you know what? I'm proud of the fact you all kept fighting out there. 
+Those a-holes won. Can I say a-holes? (pause) Those b-holes won. 
+Alright, gang, take a knee. I want you to know I'm proud of you. Just not as proud as if you'd won. That would be... (whistles) ... top tier pride. 
+I don't want you to feel like losers today. I want you to feel like champions. Who lost. Alright losers, get out of here. 
+Well. We did not topple enough ancients to win the game. Simple as that. We'll get 'em next time. 
+Well, crap. You gave it 110 percent out there, we'll get 'em on the next one. C'mon, leave it on the field. 
+Well, the better team won today. That's what it takes to topple an ancient. We'll get 'em next time. 
+They just wanted it more. Or you wanted it less. We'll get 'em on the next one. C'mon, leave it on the field. 
+Dire just was not gonna take no for an answer today.  
+And Dire takes the ancient. This game got won in the trenches.  
+And that's one less ancient for Radiant, bringing them to a total of zero ancients. 
+Dire wins! (short, satisfied laugh) 
+Looks like Dire just wanted it more today. 
+Dire crosses the finish line. The smashing line. Whatever. They won. 
+And Radiant takes the ancient. The better team won today. They just wanted it more. 
+And Radiant takes the ancient. What can I say, they came here to win. 
+And that's one less ancient for Dire, bringing them to a total of zero ancients. 
+Radiant wins! (short, satisfied laugh) 
+And Radiant takes the big cake! Congratulations Radiant. You earned it. 
+Radiant gets the win! That was a close one. Unless it wasn't. Sorry, I stepped out to take a phone call. 
+Proud owner of a new sentry ward. 
+Ahhh. It's got that new sentry ward smell. 
+Brand new observer ward. Right off the shelf. 
+Brand spankin' new observer ward.  
+Brand new divine rapier. Still warm, just out of the oven. 
+Barely used divine rapier. Mint condition, still in the box. 
+C'mon, let's have some fun out there. 
+Alright, you're back in the game, chief. 
+OK, you're back. Let's see some hustle out there. 
+Alright, shake it off, shake it off. 
+Alright, you're back. Come on, defense, defense. 
+Alright. Again. Let's do this. 
+Let's go, let's go, don't get flustered out there. 
+C'mon, we're here to win, get out there and play. 
+Alright, you're back in, let's go. 
+Let's change it up. Keep 'em on their toes. 
+Alright, break time's over. Get back to work. 
+Oh, good, you're back. The creeps were asking about you. 
+I'm not paying you to be dead. Get back in there. 
+Come on, hustle it up. I'm not paying you to goldbrick.  
+And they're back.  
+Back from the dead! 
+And they are back on the field. Gotta love that grit. 
+No quit in them. You love to see it. 
+And they're back. That's not just a hero. That right there is a champion. 
+Just drink in that forest scenery. Sometimes you gotta stop and smell the ancients. 
+Remember, there's no me in team. Well, technically there is. Also meat.  
+I'm on the edge of my seat. No, wait. The back. I'm on the back of my seat. 
+Come on, now! Break time's over! 
+Let me take a moment here to tell you about some of our fine Aperture products. Greg, write me some ad copy. 
+I guess technically the ancients are being defended. In the sense that nothing's happening. 
+We're experiencing some technical difficulties. Technically, nobody's doing anything. 
+If slow and steady wins the race, everybody here is a winner. 
+These people are really taking the scenic route to killing these ancients. 
+Alright! Back in business! 
+And we're back! 
+Hey, look who's back! 
+Okay, now where were we? 
+Maximum unpause! 
+Wait, where'd he go? 
+Hold on, someone disappeared. 
+I think someone just got disconnected. 
+Ohp. Someone left. Don't tell them I said this, but: Not a huge loss. 
+Someone just left. Probably didn't need 'em anyway. 
+Oh thank god, they're gone. 
+They're back! See, Greg? I told you they weren't a coward! 
+They came back after all. Alright, I owe you five dollars. 
+Ohp. They're back. Alright, everyone stop talkin' about 'em. 
+Good choice. 
+Nice pick. 
+I like your style. 
+Good pick. 
+Good pick. If you lose now, that's on you. 
+I like it. 
+Yup. 
+Works for me. 
+Sounds good. 
+Well, your funeral. 
+If you say so. 
+Really? Alright. 
+Why not? 
+Ennnh. Why not? 
+Okay, well-selected. 
+Sounds good. 
+Surveyed the crew up here in the booth, and we're split. Half say you made a stupid choice. The other half say you made an idiotic choice. 
+You look like the kind of person who'd choose that hero. That's not an insult. But it's definitely not a compliment. 
+Listen, I don't use the word 'genius' often, but that decision you just made? It was a decision. 
+Good choice. 
+Nice pick. 
+I like it. 
+Yup. 
+Really? 
+Okay, well-selected. 
+Abaddon! 
+It's true what they say: people start to look like their pets. 
+Alchemist! 
+We tried alchemy at Aperture for a while. Managed to turn lead into third-degree burns. 
+It's a real power move to show up to work riding an ogre. 
+Ancient Apparition! 
+Ancient Apparition? Who the hell do I have to talk to to get a new apparition in here? 
+Order me a pineapple whip if he's got one. 
+Anti-Mage! 
+I don't blame this guy one bit. Magicians are terrible. 
+This guy reminds me of my friend, Anti-Kyle. 
+Arc Warden! 
+I like this guy. Go-getter. Looks science-y. We should snap him up at Aperture. 
+Axe! 
+Oh! The big red guy, nice choice. He looks like he works out. 
+His name is Axe and he's got an axe. Not everything has to be clever. 
+Bane! 
+Hey! It's Atropos. I used to golf with him. Or maybe I sapped brains with him. Anyway, good guy. 
+Batrider! 
+Bat rider... is a guy riding a bat. If you expected otherwise, I don't know what to tell you. 
+You've picked The Moon Swoopster. What? His name's Batrider? Well, that is much better. 
+Beastmaster! 
+Whoooo nelly, that is a BELT! 
+Bloodseeker! 
+Man, hide your blood around this guy.  
+I would not want to be a character named Blood-Haver right now. 
+What is that, an angry pile of teeth?  
+Bounty Hunter! 
+I like this guy. He's got kind eyes. 
+This guy does crimes. But for money. I can respect that. 
+Lot of stabbing options with this guy. 
+Brewmaster! 
+I like your odds in this drinking contest. What? It's a fighting contest? I don't like your odds. 
+That's an entire barrel of hard liquor. Is that just for him? That will some day be a problem. 
+Bristleback! 
+Does he...I mean, he knows you can wax that, right? 
+He's got bristles there. On his back. Well, his story checks out. Good pick. 
+Broodmother! 
+Ah, the nurturing love of a moth...ER OF GOD, get a load of that thing! 
+Centaur Warrunner! 
+That horse does not have a shirt on. 
+Chaos Knight! 
+Chaos Knight, huh? What's he supposed to be, some kind of knight? Of chaos? 
+Chen! 
+I hear this guy is management material.  
+Clinkz! 
+That skeleton's not wearing any pants. 
+Clockwerk! 
+Somebody should program this robot to wear some pants. 
+Crystal Maiden! 
+Well who is THIS little princess, aren't you just the prettiest-- whup, hold on, that is a grown woman on her way to work. 
+Dark Seer! 
+So this guy sees dark? We used to just call that being blind. 
+Dark Willow! 
+Hey, when you're done here, why don't 'cha take a pass at my lawn. 
+Dawnbreaker! 
+Look at the size of that hammer. 
+If your name's Dawn, look out. Sounds like she's got it in for you. 
+Dazzle! 
+Go on. Dazzle me. Unless that's his killing move, in which case, DO NOT DAZZLE ME. 
+He's a shadow priest, so if you need a shadow baptized, he's your man. 
+Death Prophet! 
+Look at the mitts on her. That's impressive. 
+Death Prophet? Ooh, someday, you will die. Thanks, Nostradamus. 
+Disruptor! 
+Whatever he's riding, get me one. No! Get me two! I'll be double disruptor. 
+Doom! 
+Big skeleton, flaming sword. Nice pick. 
+Dragon Knight! 
+This guy turns into a dragon. Sounds like your ex-wife, Greg. What? You're still together? Woof. That woman is unpleasant. 
+Drow Ranger! 
+Whatever you do, don't mention her giant birthmark. 
+Earth Spirit! 
+Might wanna look into those glowing fissures. You can probably get a cream for that. 
+Earthshaker! 
+What's that he's carrying? Is that a thermos? 
+Elder Titan! 
+Younger titans have tried to take his job. No dice. Watch the hip, though. He just had it replaced. 
+Ember Spirit! 
+Someone tell that guy his swords are on fire or we'll have health and safety on our asses. 
+Enchantress! 
+Part lady, part deer. I have a question for her parents. Or an accusation, I guess. 
+Enigma! 
+What's this guy supposed to be, some sort of mysterious puzzle? 
+Faceless Void! 
+Of course it's faceless! What kind of stupid void has a face? 
+Grimstroke! 
+Looks like someone went to art school. Parents must be very proud. Silently very proud.  
+Wait, so he attacks you with painting? (laughs) He's even got spikes on the brush. 
+Gyrocopter! 
+Get me one of those! No, not the little guy riding it. Wait. Get me one of those, too. 
+Hoodwink! 
+That chipmunk has a gun. 
+I think I watched this as a kid. They solve crimes in Robin Hood times, right? 
+Huskar! 
+No shirt, no shoes, no pants. Just all out there on display. 
+Io! 
+OK, so he's a... she's a... it's a little ball of stuff.  
+Invoker! 
+Invoker. How about you Invoke me a pay-bump, huh? Been in here, talking Dota for a while now, frankly. 
+Jakiro! 
+Hey, Double Dragon. Can we say that? Is that on Steam? Nevermind. 
+Juggernaut! 
+He's got a cereal box on his head. Good for him. 
+Keeper of the Light! 
+Hope you don't need any light. Sounds like this guy doesn't share. 
+Kunkka! 
+I don't even think that's a real peg leg. I think he's got his leg stuffed in there. 
+Legion Commander! 
+Ol' Lander Commedgian. How much you think she benches? 
+Leshrac! 
+Mix up the letters in this guy's name, you get He's Carl. Doesn't look like a Carl.  
+Lich! 
+That wizard skeleton... is wearing pants. Good.  
+Lifestealer! 
+We made Lifestealers at Aperture. Little candy rings. Killed you dead. Bad investment. Delicious, though. 
+Aren't you all technically trying to steal lives? That's just killing. This guy might as well be called character. 
+Lina! 
+How come she gets to use her name? Shouldn't she be Empress of embers? Or The Burn... Warden. The Princess of.... Matches, I guess I only had the two. 
+Lion! 
+Good Lord! That's not a lion! Who's in charge of this zoo?  
+Lone Druid! 
+Lone Druid, my ass! That bear probably talks, that's two people. 
+Luna! 
+Wearin' a hat. Ridin' a cat. Let's do this. 
+Lycan! 
+That... is a werewolf. Probably. Or a man with a sideburns. Oh! A werewolf with sideburns! 
+Magnus! 
+That is... some kind of space moose? Oh! Horn. That's a space rhino. 
+Marci! 
+Yep. That does look like a Marci. 
+Mars! 
+Mars! Although of course, we now know, not a real planet. 
+Medusa! 
+Don't look now, but I think she likes you. I am serious. Do not look. 
+Meepo! 
+Watch out for this guy, he looks like he's on drugs. 
+Mirana! 
+No hat, rides a cat.  
+Monkey King! 
+I had a monkey once. Horrible animals. Vicious. Jump right for your eyes. 
+Morphling! 
+Gonna get my boys down in applied sciences to figure this guy out. 
+Naga Siren! 
+That... is a topless mermaid. (pause) Good stuff. 
+Nature's Prophet! 
+Nature's Prophet. That sounds like a granola bar.  
+Necrophos! 
+Ah, NecroPhos, necros for dead and phos for phone. 
+Night Stalker! 
+Night Stalker. That is definitely something you wanna do at night. 
+Nyx Assassin! 
+Assassins are supposed to be stealthy. Anyone who doesn't see THIS freak sneaking up on them deserves to get shanked. 
+Ogre Magi! 
+Two heads are better than one. Just think: double the headbutts! 
+Omniknight! 
+Couldn't have brought your big hammer, huh? 
+Oracle! 
+Hey, it's a robot hippie. 
+Outworld Devourer! 
+That demon-dragon-gargoyle isn't wearing any pants. 
+Pangolier! 
+Pan-golly-ay. He must be French. 
+Phantom Assassin! 
+An assassin who's a phantom? Sounds effective! Why have I been throwing my money away on normal human assassins? (beat) Hypothetically. 
+Phantom Lancer! 
+That blue shirtless bear is... not wearing pants. 
+Phoenix! 
+Foe-eenix. Maybe the 'o' is silent. Puh-heenix. That's better. 
+Pheonix. My first wife was from Yuma. Wonder if they know each other. 
+Primal Beast! 
+Huh. That dinosaur is wearing another dinosaur for armor.  
+Puck! 
+Yeah. Well... that... well... hmm. 
+Pudge! 
+Wow. There is... there is a lot to unpack here. 
+Pugna! 
+We had Dougna and Brenda up to the lake last year. Lovely couple. 
+Queen of Pain! 
+That sexy bat lady is DEFINITELY not wearing pants. 
+Razor! 
+Razor! Now this guy looks like a smooth shave. 
+Riki Maru! 
+Ricky Ticky Tapdance. It's my favorite Rutger Hauer book. 
+Rubick! 
+Looks like some kind of wizard. Should be wearin' a pointy hat and a dress. I'm a traditionalist. You wanna be a wizard, I wanna see that pointy hat and dress. 
+Sand King! 
+Sad King. Very tragic. What's that? SAND king. Well, that's happier. King of the beach! 
+Shadow Demon! 
+Something tells me there is no MISSUS Shadow Demon.  
+Shadow Fiend! 
+Lock up your shadows, this guy can't get enough of them. 
+Shadow Shaman! 
+Shadow Shaman. Wonder if he's related to Shadow Fiend. I don't see a resemblance. 
+Silencer! 
+Former librarian, now a hero.  
+Skywrath Mage! 
+Sky. Wrath Mage. Look, you don't spend as much time in business as me and not develop a nose for bullcrap. Is it not good enough to be just a mage? The rest of this just sounds like marketing. 
+Slardar! 
+Now, I know... I shouldn't be bringing my prejudices to an underwater people's culture... but that fish-man is not wearing pants. 
+Slark! 
+That is an angry looking fish. Also, I don't wanna be a broken record here, but: not wearing pants. 
+This looks like the kind of guy who forges dark pacts. Somebody check his bio. Ha! Knew it. 
+Snapfire! 
+That's just sad. Someone of her years... let the poor woman retire! What kind of pension do you get for battling dragon toads? 
+Sniper! 
+Sniper. Wonder what this guy does. I'm kidding. Shut up. 
+Spectre! 
+Good old Mercurial. Or Maude. Mabel? It's an M name. Maude Spectre? That's it. 
+Spirit Breaker! 
+Why's he got the ring in his nose? He get led around at cattle shows or something? 
+Storm Spirit! 
+That is the happiest ghost I've ever seen.  
+Sven! 
+I knew a Sven once. Bastard son of a Vigil Knight, born of a Pallid Meranth. Maybe it was a different guy. 
+Techies! 
+Look at these two. We have a word for them back at Aperture: Morons. Good luck. 
+Templar Assassin! 
+If you're a templar, watch out around this one. She'll (BEEP) you right up. 
+Terrorblade! 
+This is why you shouldn't give yourself a nickname. They need to be organic. Spooky Trevor. That's better. 
+Tidehunter! 
+Tidehunter. So you hunt... you hunt water? It's like seventy percent of the planet, it's not hard to track down. 
+Timbersaw! 
+Ah. Tim Bersaw. Works in accounting. That's a good pick. Tim's a decent man. 
+Tinker! 
+Making stuff in your garage doesn't make you an inventor. One's a hobby and the other's a job. Figure it out and get serious. 
+Tiny! 
+He's big, though. I don't -- Oh, I get it. That's good. 
+Treant Protector! 
+Tree Ant Protector. Is he a tree that protects ants or a protector of tree ants? Either way he's hired.  
+Troll Warlord! 
+How far up the troll army do you have to get before they give you pants?  
+That's not a name, it's a race and an occupation. Also, no pants. 
+Tusk! 
+The Terror from the Barrier! The Snowball from Cobalt! Big T! Love this guy. 
+Underlord! 
+Looks like a Predator mated with a stegosaurus.  
+Undying! 
+Good pick in a game where not dying plays a big role. 
+Ursa! 
+Says here he's part of a urine tribe. Huh. No wait. Ursine tribe. That makes more sense. 
+Vengeful Spirit! 
+Vengeful Spirit. Yeah, I believe in ghosts. Not embarrased to say it. At least half of my homes are haunted. People die in 'em, what are are you gonna do. 
+Venomancer! 
+A spider-headed snake-bodied poison wizard.  
+Viper! 
+A dragon full of poison. That is the PERFECT thing to fill a dragon full of. Greg, why didn't we think of that? 
+Visage! 
+Visage means face. Looking at him, I wouldn't lead with that. 
+Void Spirit! 
+Says here Void Spirit leaves behind glowing ether remnants. Ugh. This is why I hate going to public parks. Pick up after your void spirit, that's your responsility. 
+Warlock! 
+Warlock. That's a... male witch.  Or a female warlord. 
+Weaver! 
+Wait a minute. Is that Brad Weaver? Fullback, University of Michigan? Giant bug monster? I think my sister dated this guy. 
+Windranger! 
+Had a Windranger once. Dependable mid-sized sedan. Great gas mileage. 
+Winter Wyvern! 
+Winter Wyman? Head of metallurgics at Aperture, 74 to 78. Now that girl could dropforge some aluminum.  
+Witch Doctor! 
+I don't think this guy's a real doctor. I'd get a second opinion. 
+Wraith King! 
+Wraith King. He's like the Burger King, but for ghosts. 
+Zeus! 
+Zeus. Didn't I see Mars in there somewhere? And an actual Satan? I am not sure about the mythology, here. 
+This looks like a tough customer. 
+This one means business. 
+Oh, I like her. 
+Is she new? I like her. 
+Oh, I like this guy. 
+Is this guy new? I don't remember him. 
+Would you look at this thing.

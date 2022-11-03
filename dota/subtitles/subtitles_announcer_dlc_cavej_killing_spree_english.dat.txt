@@ -1,0 +1,544 @@
+s1, %s2 %s3, %s4:%s5 
+%s1, %s2 %s3, %s4:%s5 %s6 
+%s1 %s2, %s3 (%s4:%s5:%s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+United States 
+Afghanistan 
+Åland Islands 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antarctica 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Bouvet Island 
+Brazil 
+British Indian Ocean Territory 
+Brunei Darussalam 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Republic of Cabo Verde 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo 
+Congo, the Democratic Republic of the 
+Cook Islands 
+Costa Rica 
+Côte d'Ivoire 
+Croatia 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+French Southern Territories 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guernsey 
+Guyana 
+Haiti 
+Heard and Mc Donald Islands 
+Vatican City State (Holy See) 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Korea, Republic of 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Lao People's Democratic Republic 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+North Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia, Federated States of 
+Moldova, Republic of 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+Netherlands Antilles 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestinian Territory, Occupied 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Pitcairn 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Reunion 
+Romania 
+Serbia 
+Russian Federation 
+Rwanda 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+Sao Tome and Principe 
+Saudi Arabia 
+Senegal 
+Serbia and Montenegro 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Georgia and the South Sandwich Islands 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Eswatini 
+Sweden 
+South Sudan 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania, United Republic of 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom 
+United States Minor Outlying Islands 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Venezuela 
+Viet Nam 
+Virgin Islands, British 
+Virgin Islands, U.S. 
+Wallis and Futuna 
+China 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
+Double kill! 
+Double kill! 
+Double kill! 
+Double kill! 
+Double kill! 
+Double kill! 
+Whoa-ho-ho! That is a double kill! 
+Whoa, yes! That is a double kill! 
+Ha! That's a double kill! 
+Was that a double kill? Hold on. Annnnd.... yep, it checks out. That WAS a double kill! 
+That is a double homicide! Kill! Homicide makes it sound bad, it was a double kill! 
+You are KILLIN' it out there! Double killing it. We need a term for what you're doing. 
+One, two -- Greg, are you seein' this? I think that's a double kill. 
+Ha! You got 'em both! Double kill! 
+Count it! One! Two! Double kill! 
+THAT... was a textbook double kill! 
+Triple kill! 
+Triple kill! 
+Triple kill! 
+Bing bang boom! That is three, count 'em THREE kills! 
+Aaaand that is a triple kill! 
+Aaaand that is a triple kill! 
+I know how to count to three, and that is a triple kill. 
+Holy Moses, that's a triple kill! 
+I don't believe this! Three kills! 
+Take a double kill, add another kill, BOOM. You got yourself a triple kill. 
+Ring up another one. That's three kills, folks! 
+Ha! Three kills! How many more you got in you? 
+Triple kill! And I think they're just getting started! 
+Triple kill! You can stop now if you like, but if you want my advice: keep killing. 
+Look, I know two things: I love senseless violence and I can count to three. That's a triple kill. 
+Ultra kill! 
+You seein' this, Greg? I think we're looking at an ultra kill here! 
+Look at those cold dead eyes! Those cold dead hands. That cold dead overall body! Greg, that's an ultra killer! 
+I'm losing count! We up to ultra kill here? 
+Four kills! An ultra killer is on the loose in Dota forest headquarters! 
+Ultra kill! Don't you dare stop! 
+I don't believe it! Ultra kill! Don't you dare stop! 
+Ultra kill! You'd better not be thinking of stopping! Because I won't let you ! Too proud of you! 
+Ultra kill! I can't believe it! I refuse to believe it! Alright, I believe it!  
+Ultra kill! I am running out of fingers to count up all these kills! 
+Four kills! One plus one plus one plus one equals ultra kill, folks!  
+I can't tell you how proud I am of you right now! Not fake-proud, like when someone runs a marathon or goes to the library! Real actual proud!  
+Ultra kill! Ha HA! Don't you dare stop what you're doing, because I love it. 
+Rampage! 
+Rampage! 
+Rampage! 
+Rampage! 
+This is a RAMPAGE! 
+This is a RAMPAGE! 
+I punch these kill numbers into a calculator, it spells RAMPAGE upside down. 
+HA! Rampage! I can't LOOK! And yet I... can't STOP looking. 
+Wait, what the hell is this? Is that a rampage down there? 
+Webster's Dictionary defines a rampage as... well, that. 
+This is a RAMPAGE! It's like watching a bull in a china shop taking candy from a baby! 
+Holy HELL, They're on a rampage! 
+Is it? It is! RAMPAGE!  
+Does this count as a rampage? I think we're in rampage territory here. 
+This isn't your basic off-the-shelf murder here, folks. No, THIS... is a rampage. 
+Greg, help me out. Would you call this a crazy rampage? Or a strategic rampage? You think they've got a plan down there? Or have they just gone kill crazy? Cause that happens sometimes. 
+Now this is rare. We are getting a chance to see a Dota hero in their natural forest habitat, going on what only be described as a rampage. 
+I can't believe it, a rampage! 
+Greg, is that a rampage? 
+Kill spree! 
+Kill spree! 
+Kill spree! 
+What the hell is going on down there? Is that a kill spree? I didn't authorize this. 
+Ha! Kill spree! Look at you go! Hacking at limbs, blood spraying everywhere. (sighs) Just adorable. 
+What's that, Greg? Nah, I don't buy it. They'd have to be on some kind of killing spree to get those numbers. 
+I thought I was excited before. Nope. Now I'm watching a KILL SPREE. 
+Wait, hold the phone. Greg, hold my phone while I look at this. Is this is a KILL spree?  
+Wait a minute. This is no ordinary rampage. (counting) One, two, three, four -- Holy HERCULES, this is a KILLING SPREE! 
+Hey hey hey, now, ease up there, champ. Ha! Nah, I'm just kiddin'. Stack up those corpses and build a cabin out of 'em for all I care. 
+Killing spree, killing spree, killing spree! 
+They are on a killing spree! 
+Dominating! 
+Dominating! 
+Dominating! 
+Dominating! 
+Utter, total domination! I can't believe what I'm seeing! 
+You down there! You are DOMINATING right now! 
+Ha! I knew we'd see a domination today! It's like watching a lion take out gazelles. 
+I don't think this has anything to do with defending ancients. This feels personal. Look at 'em go! 
+It's like watching a hammer pound on nails, and the nails are just FILLED with blood. 
+LOOK at you down there! You are DOMINATING right now! I'm so goddamn proud of ya I could punch a wall right now. 
+I'm so goddamn proud of ya I could punch a wall right now. 
+That, Greg? That there is dominating. 
+Greg, you looking at that? Cause that is dominating. 
+Mega-kill!  
+Mega-kill!  
+Mega-kill!  
+Mega-kill, you animal! Ha! Look at you go! 
+Ha! That's a mega-kill! 
+If I wasn't seeing it I wouldn't believe it! I still don't believe it! Either my eyes are liars or that's a mega-kill! 
+Mega kill! It's like watching a knife cut through butter! Weak, defenseless butter! 
+Megakill! This can't be legal. 
+Wait a finger-lickin' minute, am I looking at a mega-kill down there?  
+Wait. Are we in mega-kill territory here? Let me check. Trail of bodies. You, covered in blood. Big smile on your big dumb face Oh, this is a mega-kill alright. 
+Megakill! He's a megakiller! 
+Megakill! Greg, this guy's a megakiller! 
+I think... I think that's a megakill. 
+I know my megakills. And THIS... is a megakill. 
+Unstoppable! 
+Unstoppable! 
+Unstoppable! 
+You... are unstoppable! Look at this! Are you seeing this? 
+You are un-stoppable! Full stop! Don't actually stop!  
+Who's gonna stop you? Those jokers? Ha! They're not doing a great job of it so far! 
+You are un -- STOPPABLE. You cannot. Be. Stopped. That's what that means. 
+You... are unstoppable! Don't you make me a liar now! Don't let anyone stop you!  
+Cave, calm down! Nope! Won't do it! CAN'T do it! Not when I'm watching this! 
+Anyone who said THIS could be stopped, you're fired! This is TEXTBOOK unstoppable. This is literally what being unstoppable looks like! 
+What's the big deal, Greg? It's just stoppable. Wait. That's UN-stoppable! 
+Wicked sick! 
+Wicked sick! 
+I refuse to say wicked sick, I'm a grown man and I'd sound like I got kicked in the head by a mule. But I'm damn proud of you. 
+You down there! I want you to know this is murder, pure and simple. You're gonna hang for what you've done here today, you hear me? You're -- what's that? This is LEGAL?  
+It is senseless butchery down there! This is a Greek tragedy right out of the pages of Hercules! 
+Good work down there. Also, just so you know, I've called the police. 
+I'm not going to lie, this is hard to watch. It's not even a competition anymore, this is like watching the Harlem Globetrotters drive a schoolbus off a cliff. 
+This is what kids today call wicked sick. Well, a kid. I asked a single child about it. Could have been an adult liar in a child costume. 
+I'm not even sure you're in control anymore. If you're not, I like the way you lose control. 
+I'm not gonna say Wicked sick, I have a mortgage and drive a Chrysler. But you're doin' real good down there.  
+Monster kill! 
+Monster kill! 
+Monster kill! 
+Monster kill! 
+Got the heart of a champion and the conscience of a high school bully. Great combo, keep it up. 
+You are a monster and and a killer and I love it! Monster kill! 
+You've moved past bloodlust into a long-term relationship with blood! You and blood just bought a dog together. Blood just moved into your apartment. 
+Are we up to monster kill at this point? We must be.  
+Is this a monster kill? It sure looks like one. 
+I know my monster kills. I could write a book on 'em. And this... oh yeah. 
+I'd almost feel bad for 'em right now, if I hadn't seen 'em earn every last bit of it. 
+Greg -- that's a monster killer. 
+This is a monster killing! 
+Mobster kill! No, hold up. Monster kill! 
+Godlike! 
+That was godlike! 
+That was godlike! 
+That was godlike! 
+G-O-D! Godlike! 
+Ha! Godlike! 
+After thousands of years of a bunch of philosophers reading books in libraries, finally we have proof of god, because you are it. 
+Man! Everyone who's ever tried to prove the existence of god should have shut their dumb mouths and watched this. Because this is godlike. 
+It's like watching a god. Right? He's godlike right now! DAMN, this is impressive! 
+Folks, this is DOG-like. This is some dog-like killing. Hold on, let me check something. Nope, we're all good. 
+This can't be legal. Greg, is this legal? Okay, apparently this is actually against the law, you might be in some trouble here. 
+This is the second-most forest murder I have ever seen. 
+You're like a GOD out there. Hell, you're better than a god! Hold on, is that true? Let me think. Horus, Jupiter, Baphomet, Yeah, I've seen worse gods. 
+You're basically a god at this point. That's not even blasphemy, it's theology. You're THAT good. 
+Just like a god! So... godlike. 
+Holy shit. 
+Holy shit. 
+Holy shit. 
+Hooooo boy! 
+Hooooo boy! 
+I just saw it, and I still can't believe it. 
+WHAT. The HELL. Is HAPPENING? 
+What? WHAT?! Okay, this is just crazy now! 
+Okay, everyone calm down. Pay no attention to the amazing thing happening right now. I SAID EVERYONE CALM DOWN!  
+Holy Hercules, am I the only one seeing this? This is HERCULES-level! 
+Okay, COME ON! Really? 
+I do not believe it! In fact, anybody who says they believes this is fired! I don't want liars on my payroll! 
+Watch where you're stepping, because my jaw is on the floor here! 
+You are just straight up murdering people! You are going to jail! 
+It's going to have to be a series of closed-casket burials. If you've only got an ear left, do they put that in the casket? 
+That... is one HELL of a lot of funerals, with a lot of grieving families. Congratulations. You are a lunatic. 
+I DO not believe my eyes! My eyes are liars! Get out of my skull, eyes. I've got no time for liars. 
+Holy shit. I mean, seriously... holy shit. 
+I don't like to say it, but holy shit. No, that was kind of fun to say. 
+I don't say this often, but... holy shit. 
+Okay, kids, cover your ears. Holy BLEEPing shit. 
+First blood!  
+First blood!  
+First blood!  
+Ha! First blood!  
+First blood!  
+That's a first kill! 
+Annnd we have a first kill! 
+And there's a first blood!  
+Annnd we have first blood! 
+Drink it in! That's first blood. 
+Ha! First blood! I knew it'd be you. 
+You've got a thirst for the first. That's first kill, killer. 
+First kill goes to the killer! Nice one. 
+You got first blood! I hear second blood is even better, so go get that! 
+First blood! They'll be out for payback too. Don't let 'em pay you back, though. Just keep killin' em. 
+And that's first blood! Theirs. Followed by first tears. Also theirs. 
+I came here to see killing, and you did not disappoint. If I was in your shoes, I'd keep killing. 
+They say the first is always special. You, me -- let's both cherish this forever. 
+Had to happen sometime. That's first blood! 
+Had to happen eventually. That's first blood, everybody! 
+Ownage! 
+I'm being told I'm supposed to say ownage right now. No. I don't like it.  
+I'm being told I'm supposed to say ownage right now. I don't like it. No. I don't like it.  
+Ha! They're all dead! And you're all still alive! I punch those numbers in my calculator, it makes a happy face. 
+That was a work of art. Messy performance art, but still art. 
+I'd say look at them run away, but you've cut most of their legs off at this point. 
+You hate to see it. I mean, I love to see it. I bet the the other team doesn't like it much. 
+Like stealing candy from a bunch of -- just SUPER weak babies!  
+The sad thing is, I think they're actually trying out there. 
+Considering how easy this is, does it even count as ownage? They'd probably choke on their own tongues if you weren't killing them. 
+I'm in my goddamn sixties, I feel like an idiot saying ownage. You broke off a boot in their ass. Do kids still say ass? If they do your boot's hanging out of it.  
+(laughing) Everybody... on both teams... is dead? 
+Well, SOMEone's gotta get back up. Who will it be? 
+Wait, is EVERYBODY is dead? On both teams? Everybody? You're kidding. What about that guy? He's still -- no wait, his head's missing. 
+It's almost impressive that NONE of you is alive. I mean, that should be nearly impossible, right? 
+Good news: they're all dead. Bad news: you're all dead. Great news: I am eating a fantastic sandwich right now. 
+How the hell are you ALL dead? Did you make a pact or something? I was promised no pacts! 
+Wait, so everybody on both teams is dead? Well, this oughta make for some thrilling viewing. 
+Wait, both teams are dead? How does that happen? 
+Teamwipe! BOTH teams! 
+Not looking great for the other team right now, on account of they're all dead. 
+Are they getting back up? I wouldn't blame them if they didn't. They got destroyed out there! 
+Is they gonna get back up? I don't see how they'll win if they don't. 
+They are WIPED! Time to cause a little mayhem! 
+Wait, they're ALL dead? You're kidding me. 
+They're down. They'll probably respawn, though, so stay steely. 
+How do you think they're feeling? Probably sad. No, wait. Probably all dead. 
+They're all down, but not out, so don't dance on their graves TOO long. 
+Ohhh, they are not gonna like all being killed. Go smash that ancient! 
+Your team's down, champ. Not out, though. Rub some dirt on it and get back out there! 
+All right. You all died. Minor setback, but nothing you can't overcome! 
+Not sure what you had in mind next, but I recommend revenge.  
+They took you ALL out? Make 'em pay. 
+Don't shoot the messenger here, but it's not a good sign when you're all dead. 
+I don't want to tell you your business, but STOP. DYING. 
+You probably thought your teammates would pick up your slack. Well, guess what? They thought the same thing. 
+How did you let them get you all? Are they better than you? HELL NO, THEY'RE NOT BETTER THAN YOU! 
+Let me try to phrase this as constructive criticism. You are all really good... at being dead.  
+Dire just ate a buncha crap. Did they enjoy it? (laughs) Not even a little. Ate it anyway. 
+I have never SEEN a team eat as much crap as Dire just did. That can't be healthy. Just eating crap like that.  
+If you're a friend or loved one of the Dire team right now, I've got good news, and bad news. Good news is they're all dead. Nope, read that wrong. That was the bad news. Good news is I caught the mistake. 
+This just in: SOME of the Dire team are dead. More news as we get it. This just in: They're ALL dead. 
+Show of hands, everyone who was hoping the Dire team'd make it out of this alive. You might want to sit down for this. 
+What I like most about Radiant is their can-do attitude. They might take a loss or two, but they wouldn't ALL die unless what's that? All of them? Right. What I like most about Radient is their can-die attitude. 
+Radiant can't come to the phone right now, since they're all dead. Please leave a message after the beep all the funerals. 
+Say what you like about Radiant, but they wouldn't give up until there's not one of them left standing. In other news, Radiant has given up.  
+If this game was called Defense of your own lives -- DOH-YOLL, I guess -- I think Dire just won. 
+I tell ya, the Radiant graveyard is just full to the BRIM right now. Barely any room for the dirt.
