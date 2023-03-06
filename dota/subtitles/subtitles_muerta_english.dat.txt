@@ -1,0 +1,2074 @@
+s1, %s2 %s3, %s4:%s5 
+%s1, %s2 %s3, %s4:%s5 %s6 
+%s1 %s2, %s3 (%s4:%s5:%s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+United States 
+Afghanistan 
+Åland Islands 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antarctica 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Bouvet Island 
+Brazil 
+British Indian Ocean Territory 
+Brunei Darussalam 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Republic of Cabo Verde 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo 
+Congo, the Democratic Republic of the 
+Cook Islands 
+Costa Rica 
+Côte d'Ivoire 
+Croatia 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+French Southern Territories 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guernsey 
+Guyana 
+Haiti 
+Heard and Mc Donald Islands 
+Vatican City State (Holy See) 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Korea, Republic of 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Lao People's Democratic Republic 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+North Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia, Federated States of 
+Moldova, Republic of 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+Netherlands Antilles 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestinian Territory, Occupied 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Pitcairn 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Reunion 
+Romania 
+Serbia 
+Russian Federation 
+Rwanda 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+Sao Tome and Principe 
+Saudi Arabia 
+Senegal 
+Serbia and Montenegro 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Georgia and the South Sandwich Islands 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Eswatini 
+Sweden 
+South Sudan 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania, United Republic of 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom 
+United States Minor Outlying Islands 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Venezuela 
+Viet Nam 
+Virgin Islands, British 
+Virgin Islands, U.S. 
+Wallis and Futuna 
+China 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
+How do you put up with these fools? 
+How long have you been on this world, Valora? 
+A grim end awaits you, friend. 
+Your existence is proof that justice is only a myth. 
+You're an enigma, Marci. Universally liked AND feared. 
+You make me sick. 
+A true reaper is never so petty as you. 
+It's all I can do to keep my pistols at my side... 
+Is this why my daughter died? So I could help you eons later in a meaningless fight? 
+Are you sure this world deserves your help? 
+An amusing fool, but a fool nonetheless. 
+Repent, Assassin. I'll hold until the moment this battle ends. 
+Do I care if you die, Assassin? Never. But I do care that we win. 
+I just want to say... I approve of your methods. 
+I envy you, Undying. You've long forgotten what you've lost. 
+Tell me, Visage... Am I famous? 
+I'm more freelance, Visage. You're the one with the masters. 
+I'll never take a knee. Coward. 
+You're far too happy for this dark work. 
+Destroy the Ancient and your real enemy won't stand a chance. 
+The odds were stacked against her... 
+What kind of game would they play? 
+How many of you would dare to challenge Death? 
+Does Death always win in the end? 
+Rules are rules. And powerful to those who know them. 
+A game to vex even Death... 
+The myths of Muerta shift with time. 
+Don't believe everything that you read. 
+Any tale worth telling is woven with lies. 
+The next chapter? Written in blood. 
+How much is true? You decide. 
+Memory is a strange beast. 
+Bandits will always feast upon the meek. 
+A brave mob. Loudly content to watch a martyr die. 
+What hope has one against so many? 
+Ahh 
+Gah 
+Ahhh 
+Ahhaha 
+Ah 
+Ah 
+Uah 
+Ah 
+Ahhe 
+Ahhh 
+Raaa 
+Strange arcana... 
+What does it mean? 
+No more games. 
+Die! 
+Die! 
+Marked by death. 
+Fire! 
+Fire! 
+Leave no one standing. 
+You're mine. 
+Kill them all. 
+Death finds you! 
+Silence! 
+Silence! 
+I grow tired of this. 
+For that I'll make you bleed. 
+Draw! 
+Draw! 
+Fight me! 
+Pray. 
+Got you! Ha ha ha ha 
+Yes! Ah ha ha ha ha! 
+Ah ha ha! 
+Ah ha ha ha ha ha! 
+Ha ha! 
+Like so! 
+Ah ha ha ha ha! Just like that! 
+Ahh ha ha ha ha ha! Yes! YES! 
+Ah ha ha ha ha! YES! 
+Huuaaah 
+Huah 
+Huh ahh 
+Ha gah 
+He uah 
+Huahh 
+Haaa 
+Raaaa 
+Haaa 
+Haa 
+Rahh 
+Uhh 
+Ah 
+Heaa 
+Haa 
+Huuh 
+Ah 
+Huh eh 
+Hah eh 
+Ah 
+Uah 
+A trail of the damned in my wake. 
+Rest easy. I know these haunts well. 
+Drums, horns, bells... They all sound for thee. 
+No me preocupa la muerte, me disolver? en la nada. 
+War. Chaos. Senseless butchery. Ahhhh. I'm home. 
+Ahh, I love a good battle. Who am I kidding, I love a bad one too. 
+Seven hells, it's good to be back on a battlefield. 
+Time to make friends and put holes in people. 
+A whole forest full of targets to pick from. 
+Blink dagger. 
+Too much like a sister of the veil... 
+For later. 
+I'll take it with me. 
+Never ignore such gifts. 
+To hell with moderation. 
+Drink up. 
+Let it decant a bit. 
+Bounty. 
+Bounty... 
+Just another bounty. 
+A feast of souls. 
+Who seeks death! 
+Now you die. 
+So beckon the seven hells. 
+Nothing can save you. 
+Crummy wizard 
+Closer. 
+Closer. 
+That's it. 
+You thought I missed? 
+I won't need to find you. 
+Come over here. 
+Approach death. 
+Face your fate. 
+That's right. 
+Get over here. 
+Too easy. 
+Come to Muerta. 
+Come. 
+Come! 
+Must have died of fright. 
+You died far too quickly. I wanted to see terror in your eyes. 
+Did you see that? 
+Even I'm impressed. 
+It's all in the wrist. 
+The shot was impressive. Your death? Not so much. 
+I've had a lot of time to practice. 
+It's 'skillshot', not 'trick'. 
+I lace my bullets with spite. 
+It's not worth toying with you. 
+Ha ha ha 
+Ha ha ha 
+Ha ha ha 
+A dead giveaway. 
+Dead and buried. 
+Drop dead. 
+Almost forgot about you. 
+Do as you please. 
+What. 
+What. 
+What. 
+You moved. 
+Just wide. 
+A bit high. 
+I thought they'd run faster. 
+This time for real. 
+Curse these stupid guns! 
+To hell with you! 
+I don't miss! 
+?Ay! 
+?Ay! 
+Coward. 
+Coward. 
+I decide your fight or flight. 
+Run from this place. 
+That way. 
+I'm sick of your face. 
+Your path is decided. 
+You can't escape this fear. 
+Get out of here. 
+You could use the exercise. 
+Run, coward. 
+Keep running. 
+Don't stop till I tell you. 
+Just... gathering strength... 
+There's no stopping me... 
+I've been here before... 
+Death holds...no power over me... 
+Killing me...earns you nothing. 
+We'll meet again. 
+You can pretend it'll stick... 
+I'll find justice...in another life. 
+I know...what awaits... 
+I just want...to join my family... 
+Be careful what you wish for... 
+I see my mistakes... 
+Don't count us out...just yet... 
+I pass back through the veil... 
+I return to my beloved... 
+To those most dear to me... I return... 
+To those most dear to me... Regresso... 
+I do not fear this passage... 
+Death smiles upon my work... and beckons me home... 
+I am not afraid to die... 
+You failed the test... 
+For you...there will be no redemption. 
+You could take control of your fate...if you were smarter. 
+Go and collect your reward... 
+You weren't...worthy... 
+I should have... let you die.... 
+Denied. 
+Denied. 
+Denied! 
+Denied! 
+Damned if you don't. 
+You've had enough. 
+You're too slow. Too... Soft. 
+Do you like this game? 
+Caught in the crossfire. 
+Not today. 
+Never. 
+I don't think so. 
+That would be too easy. 
+Consider it a challenge. 
+That was one of mine. 
+The little one gave me a sign. 
+Double Damage. 
+Even better when I fire twice. 
+Interesting. 
+You don't see many like this. 
+Where did this come from? 
+I've never seen it's like. 
+This means nothing. 
+Right where we want them. 
+First blood. 
+The first of many failures you face. 
+First to face me, first to fall. 
+First blood! Now your delusions fade. 
+First blood. I don't like your chances. 
+First blood. Do you believe in portents? 
+One gun for each of you. 
+Nothing escapes my eye. 
+I choose my shots carefully. 
+I don't need to pray. 
+The second gun was lonely. 
+There's enough death here for everyone. 
+Two for one. 
+Again. 
+And two. 
+Dos. 
+Yes. 
+Why not. 
+As long as I'm here... 
+You too. 
+Y tu tambien. 
+I didn't forget you. 
+Where do you think you're going? 
+I see you. 
+Not so fast. 
+Trick shot. 
+There you are. 
+This is the job. 
+Here is your target. 
+Here is your prey. 
+Kill them and be rewarded. 
+Make sure they fall before an Ancient does.  
+Make sure they don't see another sunrise.  
+Take out your target. You will be rewarded. 
+This is your quarry. Do it quick. Do it quiet. 
+This is your target. Don't miss. 
+I hear you take care of... problems. I have one. And I pay well. 
+Death comes for us all. But them first. 
+Do this for me... and I will pay tribute. 
+I have a job for you. Succeed... and you will be rewarded. 
+I don't care how it is done. But it must be done. 
+It has to look like an accident. Or a murder. Whichever's easier. 
+If you want a killing done right -- hire Death herself. 
+If you want a job done right -- do it yourself. 
+No need to hire a contractor. I'll do it myself. 
+I think I can handle this job by myself. 
+Come and get me! 
+Come and get me. 
+Your funeral. 
+You wouldn't be the first to try. 
+They're sending you... to kill me? Good luck. 
+If I am your target... then you are my prey. 
+I thought you were worthy. 
+Now you walk the pathways of the damned. 
+You make a mockery of life. 
+Kill for me. 
+Destroy your enemies. 
+They can beg for mercy in another life. 
+Dearly departed, full of grace. 
+I give you Grace. 
+Grace is yours. 
+Grace is given to you. 
+Your actions have earned you Grace. 
+Ahh hah 
+Ahhhh 
+Ahhh 
+Haa 
+Haaa 
+Ahhh 
+Ahhh 
+Haaa 
+Ahhhh 
+Haste. 
+A ghastly pace. 
+There's a difference between boring and tedious. 
+Moments are measured in eternities... At least in this place. 
+Please someone just let me fight. 
+Illusion. 
+Can it diffuse the pain? 
+I can't help but think of roads not taken... 
+Immortality... 
+I needed this in another life... 
+Another ace up my sleeve. 
+This one is in the bag. 
+I won't even remember this fight. 
+I'll drag them to hell myself if I must. 
+Do not fear me... 
+Do not fear me. I come for you all. 
+...I come for you all. 
+Muerta returns... 
+...the saint of all killers. 
+Look at me... 
+Look at me. Stare your death in the face. 
+...stare your death in the face. 
+Don't struggle. I can make your death peaceful... 
+...or less peaceful, if you like. 
+Muerta hungers... 
+...I have a craving for fresh souls. 
+The meaning of life?... 
+...is that it ends. 
+You don't come for death... 
+You don't come for death. Death comes for you. 
+...death comes for you. 
+Invisibility. 
+How close can I get? 
+I've seen this material before... 
+There's something unsettling about this. 
+Foolish sentiment turned useful tool. 
+We'll welcome the mana. 
+What have I got to lose? 
+I like how it feels. 
+A bit unconventional, but I like it. 
+Battle Fury. 
+The Black King's life pales in the shadow of this Bar. 
+I like the message it sends. 
+Not even this can restore me... 
+A little cruelty is fine by me. 
+Can you throw in the upgrade for free? 
+Root of victory. 
+I just liked how it looks. 
+Clarity is more elusive than this. 
+Fine. I'll buy it. 
+Well worth the utility. 
+Just a stepping stone to greater misfortune. 
+A famed weapon. Add it to the list. 
+By any means necessary. 
+Now they learn true fear. 
+They won't like this. 
+Have you ever seen a god bleed? 
+A gift at any price. 
+Useful for a time. 
+Never trust eyes alone. 
+I learned young to draw quick. 
+My father was fond of the bottle. But that's not why I killed him. 
+How do you shoot with this? 
+Give this Eul fellow my praise. 
+A fire visible on many planes. 
+Never underestimate it. 
+Best keep this close at hand. 
+Is this an improvement? 
+It shimmers with power. 
+I never saw much use for it. 
+More of this. 
+From the tales of this Heart...I hoped for more. 
+I'm not often this considerate. 
+I'm not here to discuss morality. 
+There is nothing holy in this land. 
+Hood of Defiance. 
+A storm of slaughter. 
+Now the shadows are everywhere. 
+Kaya 
+Kaya and Sange 
+Let them pay a price for aggression. 
+The perfect match for my mood. 
+As long as I remember to use it... 
+One of me was already enough... 
+I'm not sure I needed more of this... 
+To harness the heart of a lion. 
+Anyone could see the value in this. 
+A lodestone for celestial debris. 
+I don't care what they call it. Hand it over. 
+Monkey King Bar. 
+Now I'm depressed. 
+Enough with the sales pitch. 
+Find a good place for this. 
+Octarine Core 
+I like where we're going with this. 
+Cut a fine figure. 
+Useful again and again. 
+There is always power in choice. 
+A fire that mirrors my soul. 
+We must choose our moments well. 
+Rod of Atos 
+Sange 
+Sange and Yasha 
+I don't see the downside. 
+We need this. 
+You'll see... 
+Time to degrade them further. 
+Shiva's Guard 
+Let's put an end to this. 
+Eye of Skadi 
+Play this one close to the vest... 
+Solar Crest. 
+A fair enough trade. 
+Just in case. 
+It stinks of divinity. 
+We can't go without this. 
+Knowledge is a weapon of choice. 
+Dry, but useful. 
+I don't believe a word that was written. 
+I do prefer to buy them, if given a choice. 
+I wonder what I can do with this... 
+Urn of Shadows. 
+Never let down your defenses. 
+I knew it would fit. 
+One day we'll learn the catch... 
+Yasha 
+Yasha and Kaya 
+I used to love mango... 
+They're not sturdy enough for me... 
+Do you know the dark history of this blade? 
+Orb of Corrosion. 
+Whatever it takes. 
+Agony is a useful tool. 
+Fish in a barrel. 
+A storm is coming. 
+We take from their ire what we need. 
+This was old even when I was young. 
+The envy of every magician. 
+This would mar a mortal hand. 
+A new definition of speed. 
+Almost as nice as my old pair. 
+Wraith Pact 
+Lost long ago... Where did you get this? 
+It feels wrong to pay for this. 
+You should have listened to your heart when it told you to run. 
+Did you really think you could kill me? 
+You get off easy by dying. 
+Perhaps I'll kill you on the other side. 
+I feel...nothing. 
+Was it a good death? Not really. 
+A world without you? Makes no difference to me. 
+I've seen better. 
+Don't worry about your body now. Worry about your soul. 
+First time? 
+It looks like justice to me. 
+What will your fate be in the afterlife? 
+I'll grind your soul into the powder of the damned. 
+Dead as a doornail. 
+Kill or be killed. 
+Food for the worms. 
+You have passed beyond the veil. 
+Gotcha. 
+Death takes you. 
+You owed me a death. 
+Nothing personal. I had a quota to fill. 
+Stand aside. 
+Petty condemnation. 
+Easy. 
+Pay it no mind. 
+I'll put it to good use. 
+A necessary evil. 
+On to the next. 
+How much more? 
+Gold from your grave. 
+Lights out, little creep. 
+Blame the Ancients. 
+How could I miss? 
+And still, the other creeps don't run. 
+Nothing to it. 
+Clean. 
+Ah ha ha ha ha haa 
+Ha haaa 
+Ah ha ha ha ha heh 
+Ah ha ha ha ha heeh 
+Ha ha ha ha 
+Ha ha ha ha haa 
+Ha ha ha ha haaa 
+Ahh ha ha ha haa 
+Ahhh ha ha ha ha haaa 
+Ah ha ha ha haaa 
+Ahh ha ha ha ha haaa 
+Something just occurred to me. 
+I was waiting for that. 
+A deeper death. 
+Welcome, but unnecessary. 
+One more step down this dark path... 
+A beguiling light... 
+I thought that would feel...better. 
+More of the same. 
+What next? 
+But my aim was never in question. 
+Nothing can save them -- from me. 
+Would I give up this power to go back again? Of course, you fool. 
+A reward for all I've suffered. All I've done. 
+I'll step between the planes at will. 
+Soon even the gods will fear me. One in particular. 
+Much better. 
+A marked improvement. 
+Mmmm, yes. 
+Very nice. 
+Muerta is pleased. 
+We've earned nothing less. 
+What should I make of this? 
+We shame the memories of my kin. 
+Deafeated...but never dead. 
+I still have my guns. 
+Seek solace in the spirits... 
+I just have one parting thought --  
+I always kill quickly. You don't need to beg. 
+You begged for Mercy. You have it. 
+I have shown you Mercy. 
+Mercy is yours. 
+Mercy has been given to you. 
+Mercy comes easy. Grace demands more. 
+I promise you a quick death. The eternity of torment waiting for you in the afterlife might take a bit longer. 
+I call this one Mercy, and this one Grace. I offer them to anyone who needs it.  
+What do you want to lose first -- body or soul? 
+I call my girls Mercy and Grace. And I'll show you both. 
+I'll show you Mercy. You've earned it. 
+I will show you Grace. You deserve it. 
+I call my guns Mercy and Grace. And I'll show you both. 
+I am happy to show Grace and Mercy to everyone here. 
+Anyone deserving of Grace and Mercy -- they're both right here. 
+Top is missing. 
+Middle is missing. 
+Bottom is missing. 
+The story of my life, my death... Is not for the ears of a stranger. 
+The story of my life, my death... Is not for you! 
+Join the other fools. Make up whatever tales that you like. 
+If that proves not enough, find your answers with the reaper of souls. 
+I can arrange a meeting if you'd like... 
+For the living, death and destruction appear as agents of chaos. 
+But no matter the means of passing, there are strict rules to the structures of the afterlife. 
+When my family and I were murdered, I knew enough to win a second chance. 
+But rules play both ways... 
+When I demanded my family return with me, 
+The reaper chided: we only play the game of souls for one. 
+My loved ones were bound beyond the veil. Forever. 
+I alone was free to return home... 
+To find vengeance. To live a mortal life. 
+I thought I knew pain. And hatred. 
+But as rich as human life is, there are depths of suffering and malice unknown to the living. 
+Take heart, warm ones. Some truths in this world only the damned can tell. 
+But I'd had a life. My family. Taken from me. 
+Vengeance alone I needed from the mortal realm. 
+Instead, I struck a bargain. 
+My eternal services in exchange for a means to seek retribution and see my kin. 
+To share the reaper's burdens, walk in both worlds. 
+Haunt the lands of the living, and stalk the trails of the damned. 
+One pistol to destroy the body...the other to claim the soul. 
+I lived my death once. I do not need to live it again. 
+Not for your amusement. 
+Why not amuse ourselves with fairytales instead?  
+Some of what they say about me is...diverting. 
+Others -- not so much. 
+I have no master, but I pay my debts well. 
+Nothing too complicated. 
+Chasing down a few wayward souls... 
+Hardly the first bounties I've collected. 
+But those are tales from another life... 
+All but one of those who wronged me...are long departed. 
+But the fruits of that lineage still bear seed. 
+Soon I will destroy the last of that line -- and no more will grow to replace them. 
+When they came for my family, they were thorough.  
+None were left alive. 
+Except for me. 
+I clung to life, not for life's sake. But for hate.  
+I would have my revenge. 
+That's where Death found me. 
+Clinging to my life-thread.  
+My refusal to die impressed him.  
+So Death offered me a bargain. 
+I can cross the spirit veil and see my family. 
+And in exchange, I track down souls that do not want to be found. 
+To do that, Death gave me these. 
+I call them Mercy and Grace.  
+I am happy to show them to you any time you wish. 
+My story begins a thousand ways. 
+But the end is always the same. 
+Death offered me a bargain. And these guns. 
+And I TOOK them. 
+An endless road. 
+It seems ok. 
+Apparently so. 
+Phantom footsteps. 
+A whisper on the wind. 
+Because I say. 
+Yes fine. 
+It's one option... 
+Come. 
+Why there? 
+Long have I stalked these lands... 
+I miss my horse. 
+I know this trail. 
+Go. 
+There's always more to shoot. 
+Find the right moment to strike. 
+A revelation. 
+Maybe it's fate. 
+I'm there. 
+I'll make the most of it. 
+Death comes. 
+My guns abide. 
+How was my family taken from me? There are so many legends I've lost track. 
+My true story? Hehehe. I've heard so many versions, sometimes I forget myself. 
+Many think they know the story of Muerta. Hehe. Bedtime stories for children.  
+What fable of Muerta were YOU told? Whatever cruelties you've heard... the truth is far worse. 
+Whatever atrocities you think you heard about me, I assure you -- I committed them and worse. 
+The story of Muerta -- a comforting fairy tale for imbeciles and children. 
+If you want to know what happened to my family, you are welcome to ask them yourself. 
+I do not talk about my family. They are safe from the evil of the world. 
+I guess I could tell you what happened to my family. I'm going to kill you anyway. 
+You want to know what happened to my family? Look down this barrel. 
+If you want to know who killed my family, ask them yourself. I'm happy to arrange the meeting. 
+My family was murdered. By someone stupid enough to leave me alive. 
+No... 
+No. 
+No! 
+Noooo! 
+Ay noooo! 
+No mana... 
+No mana. 
+No mana! 
+Mana would be nice. 
+Need mana. 
+Get some mana! 
+Mana, please. 
+Mana. 
+Give me mana! 
+Where's my mana? 
+Just get some mana. 
+I need mana! 
+You forget mana. 
+That requires mana. 
+There's no mana! 
+You can wait. 
+Wait. 
+I said wait! 
+No. 
+Now now. 
+Wait for it! 
+It takes time. 
+Give me some time. 
+I need more time! 
+Patience... 
+Patience. 
+Give it time! 
+Just wait. 
+No no, not yet. 
+Not yet! 
+Just like the old days. 
+What a pile of rubble. I like it. 
+Just a quick stop. 
+There should be a flag for this. 
+Hrah 
+Awh 
+Ahhh 
+Uaah 
+Gah 
+Uhh 
+Urgh 
+Death doesn't rule this place, I do. 
+I cross over. 
+Now you see the true face of death. 
+Now begins the lesson. 
+There is darkness in the light. 
+Death is a journey. Take your first step. 
+Your end begins. 
+The beginning of your end. 
+Bring out your dead. 
+Bring out your dead! 
+Your reckoning is at hand. 
+I'll take this one, please. 
+I have gathered your precious gold, shopkeeper. 
+What will you give me for this? 
+What are you hiding in back? 
+I won't need any pennies for my eyes. 
+Regeneration. 
+Regeneration. If only. 
+I've had worse. 
+No one cheats death like me. 
+So. Where were we? 
+Sometimes we come back. 
+I'm not ready to die. 
+Ojo por ojo. 
+At least I know what they can do... 
+I guess I can spare a little room for a grudge. 
+This problem? I can solve with violence. 
+Now we show them why that was a mistake. 
+Voy corriendo. 
+A deal is a deal. 
+Much easier than the first time... 
+My family will never forsake me. 
+The spectres of my life deny you of yours. 
+Just the start of your endless nightmare. 
+Feel their hate. 
+It's all in the mist. 
+Death enshrouds you. 
+A captive audience. 
+A dance with death. 
+Death by committee. 
+Let me introduce you to some old friends. 
+Group hug. 
+Gather with me. 
+I call upon you now. 
+Share your suffering. 
+Weep with me, my loves. 
+Wraiths of ruin. 
+Say hello. And goodbye. 
+These revenants howl for you. 
+Your silence betrays your fear. 
+Now is when you run from here. 
+Death's embrace. 
+My daughter already had a sister. She didn't need yours! 
+You weren't alive when they took her. But you still bear the sin! 
+You knew what I would do to get what I need. 
+You started this. 
+YOU took her from me. You took everything. 
+To put you down for good, I need to win this fight. 
+If I keep this battle going, I get to kill you again and again. 
+Nothing in this life is free. Your balance comes due on the other side. 
+And if you come back, I'll be waiting. Until the end of time. 
+Enjoy your adventure in the arcane. 
+I live my nightmares, Bane. There's no purchase for you. 
+How about instead we sacrifice you? 
+Your liquid courage...is leaking out. 
+Dead. Drunk. 
+Fear not, Broodmother. Your line lives on. 
+It would be mercy, if you stayed dead this time. 
+I knew you'd die if I kept shooting enough. 
+It's a cold day in hell. 
+A life of petty crime meets an unremarkable end. 
+The light was hurting my eyes. 
+You ask, I answer. 
+You die, and the world goes on without you. 
+I'm glad it was me that killed you. 
+Some very angry people are waiting for you on the other side. 
+Deal with your trauma in the afterlife. 
+The spirits of the damned call for you. 
+Not even the young are spared... 
+The good news is you're no longer the last living member of the Isle... 
+They've been waiting a long time for this one. 
+Almost mindless enough to be mercy instead of justice. 
+You were supposed to die ages ago. 
+This one is worthy of mourning. 
+You wear the costume of a reaper but your inner weakness shows. 
+The dark curtain falls. For a reunion with all you once knew. 
+The omniscience shows signs of stirring. Too bad you won't be alive to see. 
+Como te ves, me vi, y como me ves, te ver?s 
+Your death...changes nothing in the end. I would kill you a million times more. 
+Did you see the dead look in your eyes? 
+Your tales will age better if you're dead. 
+Calm yourself, child. The rest of your sisters will join you soon. 
+You were tainted by the sins of sisters long dead. 
+I told you that lash was never meant for me. 
+You wasted your second chance. 
+El que a hierro mata, a hierro muere. 
+Wrong kind of bullets, friend. 
+An eternity of suffering for you is not enough. 
+One bullet, three notches in my leather. 
+He must have been angry about all the target practice. 
+Cross an old name off the list. 
+Screeauk's kingdom is nothing but carrion and lies. 
+Snakes are often much harder to hit. 
+The Narrow Maze has no claim over me. 
+Your envy turned to spite. 
+You summon forces far beyond your control. 
+Unravel this. 
+You can't outrun death. 
+Hell will be divine inspiration. 
+With monsters like you, I take endless pleasure in my work. 
+I would love to kill you more than twice. 
+The world is a better place without your kind. 
+You could have been her. Now you join her in death. 
+Spilling this blood is the least of my crimes. 
+I sent saviors to your cradle. I see no flowers for your grave. 
+I'm sorry I used you. We do what we must. 
+The scepter of Aghanim... 
+Aghanim acts the fool, but this proves what he can do. 
+Even a fragment of Aghanim's power is worth almost any price. 
+They'll never account for this. 
+Shitty wizard 
+Muerta 
+Muerta 
+La Muerta 
+La Muerta 
+Revenant of rage. 
+I pierce the veil. 
+Who seeks death? 
+On both sides of the spirit veil, they whisper my name. 
+Fear me more than death. 
+They say I cheated death... No. Death cheated me. 
+The goddess of vengeance will pay for her lies. 
+The true monstrosity is life. 
+I walk in both the shadows and the light. 
+I've lived and died with pistols in my hands. 
+None alive know my name. 
+Bring out your dead. 
+I hope I'm not late. That's YOUR job. 
+Death comes for you all. 
+I've destroyed the heart of their Order. Now the head dies too. 
+For what they took from me -- we finish this. 
+I've killed all who wronged me -- but for one. 
+They took my daughter. I took their lives. 
+They took everything from me. So I learned how to take everything from them. 
+What have you heard about me? I'm sure nothing but lies. 
+What's my story? You don't want to know. 
+You're barely worth aiming the gun. 
+You're barely worth the lead. 
+You're about to have a very bad day. 
+Stand still. I've got something for you. 
+Where should I shoot you first? 
+I wish I'd had these when I was alive. 
+Through a tunnel of light. 
+Gracias 
+Thank you 
+You have my respect. 
+Far too kind. 
+I'm under attack. 
+I'm under attack. 
+They welcome a world of pain. 
+Return fire. 
+Push the dogs back. 
+Death's too good for you. 
+You can't cheat death. 
+Ashes to ashes. Dust to dust. 
+A hero's end. 
+Food for the worms. 
+The way of all flesh. 
+You have passed from this world. 
+May they sing songs of your failure. 
+It is done. 
+It is written. And it is done. 
+More than mere water... 
+My first taste in centuries... 
+?Qu? onda? 
+??rale! 
+Yes! 
+No! 
+Ha ha. 
+Ha ha ha ha ha ha ha ha. 
+Nice try! 
+I think not. 
+I hope everyone saw that. 
+You embarrass yourself. 
+Not bad. 
+I am impressed. 
+I see. You're an idiot. 
+I see. You're an idiota. 
+AHHH. I see what you're trying to do now. You're just BAD at this. 
+Ha ha ha. Alright that's -- stop that. 
+Not today. 
+No. I think not. 
+I don't bother aiming. 
+Don't let it haunt you. 
+No seas codo. 
+Not quick enough. 
+Ah ha ha ha ha ha ha ha haaa 
+Ahh ha ha ha ha ha haa haa haaa ha 
+You must be proud. 
+Let the pistols do the talking. 
+Can the power of the Ancient restore my kin? 
+There's still work to be done. 
+Five enemies, little resistance. 
+One victory here. But another lies ahead. 
+Consider yourselves lucky to be on my side. 
+Start digging a whole lot of graves. 
+Yes... 
+Yes. 
+Yes! 
+Yeessss! 
+Ah ha ha ha! Yes! 
+How do you put up with these fools? 
+How long have you been on this world, Valora? 
+A grim end awaits you, friend. 
+Your existence is proof that justice is only a myth. 
+You're an enigma, Marci. Universally liked AND feared. 
+You make me sick. 
+A true reaper is never so petty as you. 
+It's all I can do to keep my pistols at my side... 
+Is this why my daughter died? So I could help you eons later in a meaningless fight? 
+Are you sure this world deserves your help? 
+An amusing fool, but a fool nonetheless. 
+Repent, Assassin. I'll hold until the moment this battle ends. 
+Do I care if you die, Assassin? Never. But I do care that we win. 
+I just want to say... I approve of your methods. 
+I envy you, Undying. You've long forgotten what you've lost. 
+Tell me, Visage... Am I famous? 
+I'm more freelance, Visage. You're the one with the masters. 
+I'll never take a knee. Coward. 
+You're far too happy for this dark work. 
+Destroy the Ancient and your real enemy won't stand a chance. 
+The odds were stacked against her... 
+What kind of game would they play? 
+How many of you would dare to challenge Death? 
+Does Death always win in the end? 
+Rules are rules. And powerful to those who know them. 
+A game to vex even Death... 
+The myths of Muerta shift with time. 
+Don't believe everything that you read. 
+Any tale worth telling is woven with lies. 
+The next chapter? Written in blood. 
+How much is true? You decide. 
+Memory is a strange beast. 
+Bandits will always feast upon the meek. 
+A brave mob. Loudly content to watch a martyr die. 
+What hope has one against so many? 
+Ahh 
+Gah 
+Ahhh 
+Ahhaha 
+Ah 
+Ah 
+Uah 
+Ah 
+Ahhe 
+Ahhh 
+Raaa 
+Strange arcana... 
+What does it mean? 
+No more games. 
+Die! 
+Die! 
+Marked by death. 
+Fire! 
+Fire! 
+Leave no one standing. 
+You're mine. 
+Kill them all. 
+Death finds you! 
+Silence! 
+Silence! 
+I grow tired of this. 
+For that I'll make you bleed. 
+Draw! 
+Draw! 
+Fight me! 
+Pray. 
+Got you! Ha ha ha ha 
+Yes! Ah ha ha ha ha! 
+Ah ha ha! 
+Ah ha ha ha ha ha! 
+Ha ha! 
+Like so! 
+Ah ha ha ha ha! Just like that! 
+Ahh ha ha ha ha ha! Yes! YES! 
+Ah ha ha ha ha! YES! 
+Huuaaah 
+Huah 
+Huh ahh 
+Ha gah 
+He uah 
+Huahh 
+Haaa 
+Raaaa 
+Haaa 
+Haa 
+Rahh 
+Uhh 
+Ah 
+Heaa 
+Haa 
+Huuh 
+Ah 
+Huh eh 
+Hah eh 
+Ah 
+Uah 
+A trail of the damned in my wake. 
+Rest easy. I know these haunts well. 
+Drums, horns, bells... They all sound for thee. 
+No me preocupa la muerte, me disolver? en la nada. 
+War. Chaos. Senseless butchery. Ahhhh. I'm home. 
+Ahh, I love a good battle. Who am I kidding, I love a bad one too. 
+Seven hells, it's good to be back on a battlefield. 
+Time to make friends and put holes in people. 
+A whole forest full of targets to pick from. 
+Blink dagger. 
+Too much like a sister of the veil... 
+For later. 
+I'll take it with me. 
+Never ignore such gifts. 
+To hell with moderation. 
+Drink up. 
+Let it decant a bit. 
+Bounty. 
+Bounty... 
+Just another bounty. 
+A feast of souls. 
+Who seeks death! 
+Now you die. 
+So beckon the seven hells. 
+Nothing can save you. 
+Crummy wizard 
+Closer. 
+Closer. 
+That's it. 
+You thought I missed? 
+I won't need to find you. 
+Come over here. 
+Approach death. 
+Face your fate. 
+That's right. 
+Get over here. 
+Too easy. 
+Come to Muerta. 
+Come. 
+Come! 
+Must have died of fright. 
+You died far too quickly. I wanted to see terror in your eyes. 
+Did you see that? 
+Even I'm impressed. 
+It's all in the wrist. 
+The shot was impressive. Your death? Not so much. 
+I've had a lot of time to practice. 
+It's 'skillshot', not 'trick'. 
+I lace my bullets with spite. 
+It's not worth toying with you. 
+Ha ha ha 
+Ha ha ha 
+Ha ha ha 
+A dead giveaway. 
+Dead and buried. 
+Drop dead. 
+Almost forgot about you. 
+Do as you please. 
+What. 
+What. 
+What. 
+You moved. 
+Just wide. 
+A bit high. 
+I thought they'd run faster. 
+This time for real. 
+Curse these stupid guns! 
+To hell with you! 
+I don't miss! 
+?Ay! 
+?Ay! 
+Coward. 
+Coward. 
+I decide your fight or flight. 
+Run from this place. 
+That way. 
+I'm sick of your face. 
+Your path is decided. 
+You can't escape this fear. 
+Get out of here. 
+You could use the exercise. 
+Run, coward. 
+Keep running. 
+Don't stop till I tell you. 
+Just... gathering strength... 
+There's no stopping me... 
+I've been here before... 
+Death holds...no power over me... 
+Killing me...earns you nothing. 
+We'll meet again. 
+You can pretend it'll stick... 
+I'll find justice...in another life. 
+Con mi pistola... 
+Con mi pistola... 
+I know...what awaits... 
+I just want...to join my family... 
+Be careful what you wish for... 
+I see my mistakes... 
+Don't count us out...just yet... 
+I pass back through the veil... 
+I return to my beloved... 
+To those most dear to me... I return... 
+To those most dear to me... Regresso... 
+I do not fear this passage... 
+Death smiles upon my work... and beckons me home... 
+I am not afraid to die... 
+You failed the test... 
+For you...there will be no redemption. 
+You could take control of your fate...if you were smarter. 
+Go and collect your reward... 
+You weren't...worthy... 
+I should have... let you die.... 
+Denied. 
+Denied. 
+Denied! 
+Denied! 
+Damned if you don't. 
+You've had enough. 
+You're too slow. Too... Soft. 
+Do you like this game? 
+Caught in the crossfire. 
+Not today. 
+Never. 
+I don't think so. 
+That would be too easy. 
+Consider it a challenge. 
+That was one of mine. 
+The little one gave me a sign. 
+Double Damage. 
+Even better when I fire twice. 
+Interesting. 
+You don't see many like this. 
+Where did this come from? 
+I've never seen it's like. 
+This means nothing. 
+Right where we want them. 
+First blood. 
+The first of many failures you face. 
+First to face me, first to fall. 
+First blood! Now your delusions fade. 
+First blood. I don't like your chances. 
+First blood. Do you believe in portents? 
+One gun for each of you. 
+Nothing escapes my eye. 
+I choose my shots carefully. 
+I don't need to pray. 
+The second gun was lonely. 
+There's enough death here for everyone. 
+Two for one. 
+Again. 
+And two. 
+Dos. 
+Yes. 
+Why not. 
+As long as I'm here... 
+You too. 
+Y tu tambien. 
+I didn't forget you. 
+Where do you think you're going? 
+I see you. 
+Not so fast. 
+Trick shot. 
+There you are. 
+This is the job. 
+Here is your target. 
+Here is your prey. 
+Kill them and be rewarded. 
+Make sure they fall before an Ancient does.  
+Make sure they don't see another sunrise.  
+Take out your target. You will be rewarded. 
+This is your quarry. Do it quick. Do it quiet. 
+This is your target. Don't miss. 
+I hear you take care of... problems. I have one. And I pay well. 
+Death comes for us all. But them first. 
+Do this for me... and I will pay tribute. 
+I have a job for you. Succeed... and you will be rewarded. 
+I don't care how it is done. But it must be done. 
+It has to look like an accident. Or a murder. Whichever's easier. 
+If you want a killing done right -- hire Death herself. 
+If you want a job done right -- do it yourself. 
+No need to hire a contractor. I'll do it myself. 
+I think I can handle this job by myself. 
+Come and get me! 
+Come and get me. 
+Your funeral. 
+You wouldn't be the first to try. 
+They're sending you... to kill me? Ha ha ha. Good luck. 
+If I am your target... then you are my prey. 
+I thought you were worthy. 
+Now you walk the pathways of the damned. 
+You make a mockery of life. 
+Kill for me. 
+Destroy your enemies. 
+They can beg for mercy in another life. 
+Dearly departed, full of grace. 
+I give you Grace. 
+Grace is yours. 
+Grace is given to you. 
+Your actions have earned you Grace. 
+Ahh hah 
+Ahhhh 
+Ahhh 
+Haa 
+Haaa 
+Ahhh 
+Ahhh 
+Haaa 
+Ahhhh 
+Haste. 
+A ghastly pace. 
+There's a difference between boring and tedious. 
+Moments are measured in eternities... At least in this place. 
+Please someone just let me fight. 
+Illusion. 
+Can it diffuse the pain? 
+I can't help but think of roads not taken... 
+Immortality... 
+I needed this in another life... 
+Another ace up my sleeve. 
+This one is in the bag. 
+I won't even remember this fight. 
+I'll drag them to hell myself if I must. 
+Do not fear me... 
+Do not fear me. I come for you all. 
+...I come for you all. 
+Muerta returns... 
+...the saint of all killers. 
+Look at me... 
+Look at me. Stare your death in the face. 
+...stare your death in the face. 
+Don't struggle. I can make your death peaceful... 
+...or less peaceful, if you like. 
+Muerta hungers... 
+...I have a craving for fresh souls. 
+The meaning of life?... 
+...is that it ends. 
+You don't come for death... 
+You don't come for death. Death comes for you. 
+...death comes for you. 
+Invisibility. 
+How close can I get? 
+I've seen this material before... 
+There's something unsettling about this. 
+Foolish sentiment turned useful tool. 
+We'll welcome the mana. 
+What have I got to lose? 
+I like how it feels. 
+A bit unconventional, but I like it. 
+Battle Fury. 
+The Black King's life pales in the shadow of this Bar. 
+I like the message it sends. 
+Not even this can restore me... 
+A little cruelty is fine by me. 
+Can you throw in the upgrade for free? 
+Root of victory. 
+I just liked how it looks. 
+Clarity is more elusive than this. 
+Fine. I'll buy it. 
+Well worth the utility. 
+Just a stepping stone to greater misfortune. 
+A famed weapon. Add it to the list. 
+By any means necessary. 
+Now they learn true fear. 
+They won't like this. 
+Have you ever seen a god bleed? 
+A gift at any price. 
+Useful for a time. 
+Never trust eyes alone. 
+I learned young to draw quick. 
+My father was fond of the bottle. But that's not why I killed him. 
+How do you shoot with this? 
+Give this Eul fellow my praise. 
+A fire visible on many planes. 
+Never underestimate it. 
+Best keep this close at hand. 
+Is this an improvement? 
+It shimmers with power. 
+I never saw much use for it. 
+More of this. 
+From the tales of this Heart...I hoped for more. 
+I'm not often this considerate. 
+I'm not here to discuss morality. 
+There is nothing holy in this land. 
+Hood of Defiance. 
+A storm of slaughter. 
+Now the shadows are everywhere. 
+Kaya 
+Kaya and Sange 
+Let them pay a price for aggression. 
+The perfect match for my mood. 
+As long as I remember to use it... 
+One of me was already enough... 
+I'm not sure I needed more of this... 
+To harness the heart of a lion. 
+Anyone could see the value in this. 
+A lodestone for celestial debris. 
+I don't care what they call it. Hand it over. 
+Monkey King Bar. 
+Now I'm depressed. 
+Enough with the sales pitch. 
+Find a good place for this. 
+Octarine Core 
+I like where we're going with this. 
+Cut a fine figure. 
+Useful again and again. 
+There is always power in choice. 
+A fire that mirrors my soul. 
+We must choose our moments well. 
+Rod of Atos 
+Sange 
+Sange and Yasha 
+I don't see the downside. 
+We need this. 
+You'll see... 
+Time to degrade them further. 
+Shiva's Guard 
+Let's put an end to this. 
+Eye of Skadi 
+Play this one close to the vest... 
+Solar Crest. 
+A fair enough trade. 
+Just in case. 
+It stinks of divinity. 
+We can't go without this. 
+Knowledge is a weapon of choice. 
+Dry, but useful. 
+I don't believe a word that was written. 
+I do prefer to buy them, if given a choice. 
+I wonder what I can do with this... 
+Urn of Shadows. 
+Never let down your defenses. 
+I knew it would fit. 
+One day we'll learn the catch... 
+Yasha 
+Yasha and Kaya 
+I used to love mango... 
+They're not sturdy enough for me... 
+Do you know the dark history of this blade? 
+Orb of Corrosion. 
+Whatever it takes. 
+Agony is a useful tool. 
+Fish in a barrel. 
+A storm is coming. 
+We take from their ire what we need. 
+This was old even when I was young. 
+The envy of every magician. 
+This would mar a mortal hand. 
+A new definition of speed. 
+Almost as nice as my old pair. 
+Wraith Pact 
+Lost long ago... Where did you get this? 
+It feels wrong to pay for this. 
+You should have listened to your heart when it told you to run. 
+Did you really think you could kill me? 
+You get off easy by dying. 
+Perhaps I'll kill you on the other side. 
+I feel...nothing. 
+Was it a good death? Not really. 
+A world without you? Makes no difference to me. 
+I've seen better. 
+Don't worry about your body now. Worry about your soul. 
+First time? 
+First time? 
+It looks like justice to me. 
+What will your fate be in the afterlife? 
+I'll grind your soul into the powder of the damned. 
+Dead as a doornail. 
+Kill or be killed. 
+Food for the worms. 
+You have passed beyond the veil. 
+Gotcha. 
+Death takes you. 
+You owed me a death. 
+Nothing personal. I had a quota to fill. 
+Stand aside. 
+Petty condemnation. 
+Easy. 
+Pay it no mind. 
+I'll put it to good use. 
+A necessary evil. 
+On to the next. 
+How much more? 
+Gold from your grave. 
+Lights out, little creep. 
+Blame the Ancients. 
+How could I miss? 
+And still, the other creeps don't run. 
+Nothing to it. 
+Clean. 
+Ah ha ha ha ha haa 
+Ha haaa 
+Ah ha ha ha ha heh 
+Ah ha ha ha ha heeh 
+Ha ha ha ha 
+Ha ha ha ha haa 
+Ha ha ha ha haaa 
+Ahh ha ha ha haa 
+Ahhh ha ha ha ha haaa 
+Ah ha ha ha haaa 
+Ahh ha ha ha ha haaa 
+Something just occurred to me. 
+I was waiting for that. 
+A deeper death. 
+Welcome, but unnecessary. 
+One more step down this dark path... 
+A beguiling light... 
+I thought that would feel...better. 
+More of the same. 
+What next? 
+But my aim was never in question. 
+Nothing can save them -- from me. 
+Would I give up this power to go back again? Of course, you fool. 
+A reward for all I've suffered. All I've done. 
+I'll step between the planes at will. 
+Soon even the gods will fear me. One in particular. 
+Much better. 
+A marked improvement. 
+Mmmm, yes. 
+Very nice. 
+Muerta is pleased. 
+We've earned nothing less. 
+What should I make of this? 
+We shame the memories of my kin. 
+Deafeated...but never dead. 
+I still have my guns. 
+Seek solace in the spirits... 
+I just have one parting thought --  
+I always kill quickly. You don't need to beg. 
+You begged for Mercy. You have it. 
+I have shown you Mercy. 
+Mercy is yours. 
+Mercy has been given to you. 
+Mercy comes easy. Grace demands more. 
+I promise you a quick death. The eternity of torment waiting for you in the afterlife might take a bit longer. 
+I call this one Mercy, and this one Grace. I offer them to anyone who needs it.  
+What do you want to lose first -- body or soul? 
+I call my girls Mercy and Grace. And I'll show you both. 
+I'll show you Mercy. You've earned it. 
+I will show you Grace. You deserve it. 
+I call my guns Mercy and Grace. And I'll show you both. 
+I am happy to show Grace and Mercy to everyone here. 
+Anyone deserving of Grace and Mercy -- they're both right here. 
+Top is missing. 
+Middle is missing. 
+Bottom is missing. 
+The story of my life, my death... Is not for the ears of a stranger. 
+The story of my life, my death... Is not for you! 
+Join the other fools. Make up whatever tales that you like. 
+If that proves not enough, find your answers with the reaper of souls. 
+I can arrange a meeting if you'd like... 
+For the living, death and destruction appear as agents of chaos. 
+But no matter the means of passing, there are strict rules to the structures of the afterlife. 
+When my family and I were murdered, I knew enough to win a second chance. 
+But rules play both ways... 
+When I demanded my family return with me, 
+The reaper chided: we only play the game of souls for one. 
+My loved ones were bound beyond the veil. Forever. 
+I alone was free to return home... 
+To find vengeance. To live a mortal life. 
+I thought I knew pain. And hatred. 
+But as rich as human life is, there are depths of suffering and malice unknown to the living. 
+Take heart, warm ones. Some truths in this world only the damned can tell. 
+But I'd had a life. My family. Taken from me. 
+Vengeance alone I needed from the mortal realm. 
+Instead, I struck a bargain. 
+My eternal services in exchange for a means to seek retribution and see my kin. 
+To share the reaper's burdens, walk in both worlds. 
+Haunt the lands of the living, and stalk the trails of the damned. 
+One pistol to destroy the body...the other to claim the soul. 
+I lived my death once. I do not need to live it again. 
+Not for your amusement. 
+Why not amuse ourselves with fairytales instead?  
+Some of what they say about me is...diverting. 
+Others -- not so much. 
+I have no master, but I pay my debts well. 
+Nothing too complicated. 
+Chasing down a few wayward souls... 
+Hardly the first bounties I've collected. 
+But those are tales from another life... 
+All but one of those who wronged me...are long departed. 
+But the fruits of that lineage still bear seed. 
+Soon I will destroy the last of that line -- and no more will grow to replace them. 
+When they came for my family, they were thorough.  
+None were left alive. 
+Except for me. 
+I clung to life, not for life's sake. But for hate.  
+I would have my revenge. 
+That's where Death found me. 
+Clinging to my life-thread.  
+My refusal to die impressed him.  
+So Death offered me a bargain. 
+I can cross the spirit veil and see my family. 
+And in exchange, I track down souls that do not want to be found. 
+To do that, Death gave me these. 
+I call them Mercy and Grace.  
+I am happy to show them to you any time you wish. 
+My story begins a thousand ways. 
+But the end is always the same. 
+Death offered me a bargain. And these guns. 
+And I TOOK them. 
+An endless road. 
+It seems ok. 
+Apparently so. 
+Phantom footsteps. 
+A whisper on the wind. 
+Because I say. 
+Yes fine. 
+It's one option... 
+Come. 
+Why there? 
+Long have I stalked these lands... 
+I miss my horse. 
+I know this trail. 
+Go. 
+There's always more to shoot. 
+Find the right moment to strike. 
+A revelation. 
+Maybe it's fate. 
+I'm there. 
+I'll make the most of it. 
+Death comes. 
+My guns abide. 
+How was my family taken from me? There are so many legends I've lost track. 
+My true story? Hehehe. I've heard so many versions, sometimes I forget myself. 
+Many think they know the story of Muerta. Hahaha. Bedtime stories for children.  
+What fable of Muerta were YOU told? Whatever cruelties you've heard... the truth is far worse. 
+Whatever atrocities you think you heard about me, I assure you -- I committed them and worse. 
+The story of Muerta -- a comforting fairy tale for imbeciles and children. 
+If you want to know what happened to my family, you are welcome to ask them yourself. 
+I do not talk about my family. They are safe from the evil of the world. 
+I guess I could tell you what happened to my family. I'm going to kill you anyway. 
+You want to know what happened to my family? Look down this barrel. 
+If you want to know who killed my family, ask them yourself. I'm happy to arrange the meeting. 
+My family was murdered. By someone stupid enough to leave me alive. 
+No... 
+No. 
+No! 
+Noooo! 
+Ay, noooo! 
+No mana... 
+No mana. 
+No mana! 
+Mana would be nice. 
+Need mana. 
+Get some mana! 
+Mana, please. 
+Mana. 
+Give me mana! 
+Where's my mana? 
+Just get some mana. 
+I need mana! 
+You forget mana. 
+That requires mana. 
+There's no mana! 
+You can wait. 
+Wait. 
+I said wait! 
+No. 
+Now now. 
+Wait for it! 
+It takes time. 
+Give me some time. 
+I need more time! 
+Patience... 
+Patience. 
+Give it time! 
+Just wait. 
+No no, not yet. 
+Not yet! 
+Just like the old days. 
+What a pile of rubble. I like it. 
+Just a quick stop. 
+There should be a flag for this. 
+Hrah 
+Awh 
+Ahhh 
+Uaah 
+Gah 
+Uhh 
+Urgh 
+Death doesn't rule this place, I do. 
+I cross over. 
+Now you see the true face of death. 
+Now begins the lesson. 
+There is darkness in the light. 
+Death is a journey. Take your first step. 
+Your end begins. 
+The beginning of your end. 
+Bring out your dead. 
+Bring out your dead! 
+Your reckoning is at hand. 
+I'll take this one, please. 
+I have gathered your precious gold, shopkeeper. 
+What will you give me for this? 
+What are you hiding in back? 
+I won't need any pennies for my eyes. 
+Regeneration. 
+Regeneration. If only. 
+I've had worse. 
+No one cheats death like me. 
+So. Where were we? 
+Sometimes they come back. 
+I'm not ready to die. 
+Ojo por ojo. 
+At least I know what they can do... 
+I guess I can spare a little room for a grudge. 
+This problem? I can solve with violence. 
+Now we show them why that was a mistake. 
+Voy corriendo. 
+A deal is a deal. 
+Much easier than the first time... 
+My family will never forsake me. 
+The spectres of my life deny you of yours. 
+Just the start of your endless nightmare. 
+Feel their hate. 
+It's all in the mist. 
+Death enshrouds you. 
+A captive audience. 
+A dance with death. 
+Death by committee. 
+Let me introduce you to some old friends. 
+Group hug. 
+Gather with me. 
+I call upon you now. 
+Share your suffering. 
+Weep with me, my loves. 
+Wraiths of ruin. 
+Say hello. And goodbye. 
+These revenants howl for you. 
+Your silence betrays your fear. 
+Now is when you run from here. 
+Death's embrace. 
+My daughter already had a sister. She didn't need yours! 
+You weren't alive when they took her. But you still bear the sin! 
+You knew what I would do to get what I need. 
+You started this. 
+YOU took her from me. You took everything. 
+To put you down for good, I need to win this fight. 
+If I keep this battle going, I get to kill you again and again. 
+Nothing in this life is free. Your balance comes due on the other side. 
+And if you come back, I'll be waiting. Until the end of time. 
+Enjoy your adventure in the arcane. 
+I live my nightmares, Bane. There's no purchase for you. 
+How about instead we sacrifice you? 
+Your liquid courage...is leaking out. 
+Dead. Drunk. 
+Fear not, Broodmother. Your line lives on. 
+It would be mercy, if you stayed dead this time. 
+I knew you'd die if I kept shooting enough. 
+It's a cold day in hell. 
+A life of petty crime meets an unremarkable end. 
+The light was hurting my eyes. 
+You ask, I answer. 
+You die, and the world goes on without you. 
+I'm glad it was me that killed you. 
+Some very angry people are waiting for you on the other side. 
+Deal with your trauma in the afterlife. 
+The spirits of the damned call for you. 
+Not even the young are spared... 
+The good news is you're no longer the last living member of the Isle... 
+They've been waiting a long time for this one. 
+Almost mindless enough to be mercy instead of justice. 
+You were supposed to die ages ago. 
+This one is worthy of mourning. 
+You wear the costume of a reaper but your inner weakness shows. 
+The dark curtain falls. For a reunion with all you once knew. 
+The omniscience shows signs of stirring. Too bad you won't be alive to see. 
+Como te ves, me vi, y como me ves, te ver?s 
+Your death...changes nothing in the end. I would kill you a million times more. 
+Did you see the dead look in your eyes? 
+Your tales will age better if you're dead. 
+Calm yourself, child. The rest of your sisters will join you soon. 
+You were tainted by the sins of sisters long dead. 
+I told you that lash was never meant for me. 
+You wasted your second chance. 
+El que a hierro mata, a hierro muere. 
+Wrong kind of bullets, friend. 
+An eternity of suffering for you is not enough. 
+One bullet, three notches in my leather. 
+He must have been angry about all the target practice. 
+Cross an old name off the list. 
+Screeauk's kingdom is nothing but carrion and lies. 
+Snakes are often much harder to hit. 
+The Narrow Maze has no claim over me. 
+Your envy turned to spite. 
+You summon forces far beyond your control. 
+Unravel this. 
+You can't outrun death. 
+Hell will be divine inspiration. 
+With monsters like you, I take endless pleasure in my work. 
+I would love to kill you more than twice. 
+The world is a better place without your kind. 
+You could have been her. Now you join her in death. 
+Spilling this blood is the least of my crimes. 
+I sent saviors to your cradle. I see no flowers for your grave. 
+I'm sorry I used you. We do what we must. 
+The scepter of Aghanim... 
+Aghanim acts the fool, but this proves what he can do. 
+Even a fragment of Aghanim's power is worth almost any price. 
+They'll never account for this. 
+Shitty wizard 
+Muerta 
+Muerta 
+La Muerta 
+La Muerta 
+Revenant of rage. 
+I pierce the veil. 
+Who seeks death? 
+On both sides of the spirit veil, they whisper my name. 
+Fear me more than death. 
+They say I cheated death... No. Death cheated me. 
+The goddess of vengeance will pay for her lies. 
+The true monstrosity is life. 
+I walk in both the shadows and the light. 
+I've lived and died with pistols in my hands. 
+None alive know my name. 
+Bring out your dead. 
+I hope I'm not late. That's your job. 
+Death comes for you all. 
+I've destroyed the heart of their Order. Now the head dies too. 
+For what they took from me -- we finish this. 
+I've killed all who wronged me -- but for one. 
+They took my daughter. I took their lives. 
+They took everything from me. So I learned how to take everything from them. 
+What have you heard about me? I'm sure nothing but lies. 
+What's my story? You don't want to know. 
+You're barely worth aiming the gun. 
+You're barely worth the lead. 
+You're about to have a very bad day. 
+Stand still. I've got something for you. 
+Where should I shoot you first? 
+I wish I'd had these when I was alive. 
+Through a tunnel of light. 
+Gracias 
+Thank you 
+You have my respect. 
+Far too kind. 
+I'm under attack. 
+I'm under attack. 
+They welcome a world of pain. 
+Return fire. 
+Push the dogs back. 
+Death's too good for you. 
+You can't cheat death. 
+Ashes to ashes. Dust to dust. 
+A hero's end. 
+Food for the worms. 
+The way of all flesh. 
+You have passed from this world. 
+May they sing songs of your failure. 
+It is done. 
+It is written. And it is done. 
+More than mere water... 
+My first taste in centuries... 
+?Qu? onda? 
+??rale! 
+Yes! 
+No! 
+Ha ha. 
+Ha ha ha ha ha ha ha ha. 
+Nice try! 
+I think not. 
+I hope everyone saw that. 
+You embarrass yourself. 
+Not bad. 
+I am impressed. 
+I see. You're an idiot. 
+I see. You're an idiota. 
+AHHH. I see what you're trying to do now. You're just BAD at this. 
+Ha ha ha ha. Alright that's -- stop that. 
+Not today. 
+No. I think not. 
+I don't bother aiming. 
+Don't let it haunt you. 
+No seas codo. 
+Not quick enough. 
+Ah ha ha ha ha ha ha ha haaa 
+Ahh ha ha ha ha ha haa haa haaa ha 
+You must be proud. 
+Let the pistols do the talking. 
+Can the power of the Ancient restore my kin? 
+There's still work to be done. 
+Five enemies, little resistance. 
+One victory here. But another lies ahead. 
+Consider yourselves lucky to be on my side. 
+Start digging a whole lot of graves. 
+Yes... 
+Yes. 
+Yes! 
+Yeessss! 
+Ah ha ha ha! Yes!
