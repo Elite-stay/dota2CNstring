@@ -1,4 +1,90 @@
-s1, %s2 %s3, %s4:%s5 
+m 
+Genuine 
+Genuine 
+Do not localize 
+Do not localize 
+Treasure 
+Gem 
+Unusual 
+January 
+February 
+March 
+April 
+May 
+June 
+July 
+August 
+September 
+October 
+November 
+December 
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+Sunday 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Saturday 
+Sun 
+Mon 
+Tue 
+Wed 
+Thu 
+Fri 
+Sat 
+Su 
+Mo 
+Tu 
+We 
+Th 
+Fr 
+Sa 
+Today 
+Tomorrow 
+Yesterday 
+_ 
+_ 
+AM 
+PM 
+1 
+1 
+04 
+02 
+1 
+%s1/%s2/%s3 
+%s2/%s1/%s3 
+%s1/%s2 
+%s2/%s1 
+%s1, %s2 %s3, %s4 
+%s1 %s2, %s3 
+%s1 %s2 
+%s1 %s2 %s3 
+%s1 %s2 %s3, %s4:%s5 
+%s1 %s2 %s3, %s4:%s5 %s6 
+%s1 %s2 %s3, %s4:%s5:%s6 
+%s1 %s2 %s3, %s4:%s5:%s6 %s7 
+%s1 %s2 %s3 %s4:%s5:%s6 
+%s1 %s2 %s3 %s4:%s5:%s6 %s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 %s8 
+%s1:%s2 
+%s1:%s2 %s3 
+%s1:%s2:%s3 
+%s1:%s2:%s3 %s4 
+%s1 
+%s1, %s2 %s3, %s4:%s5 
 %s1, %s2 %s3, %s4:%s5 %s6 
 %s1 %s2, %s3 (%s4:%s5:%s6) 
 %s1 %s2, %s3 (%s4:%s5:%s6) GMT 
@@ -54,6 +140,16 @@ rd
 st 
 nd 
 rd 
+Max %s1ms | Avg %s2FPS 
+%s1 ping 
+↓%s1% 
+↑%s1% 
+Slow server frame: %s1ms 
+Command queue starved 
+Excess command queue 
+Driver out of date 
+Interpreting bind command as: 
+If the binding doesn't work and you're not using a US English keyboard, you should try: 
 United States 
 Afghanistan 
 Åland Islands 
@@ -1394,7 +1490,6 @@ One by one my teachers were taken from me...
 I embrace that suffering. 
 This path has molded me into the perfect weapon. 
 And the dark dreams of my shepherds are finally at hand. 
-And the dark dreams of my shepherds are finally at hand. 
 I was raised by fallen angels -- the outcasts of the Order. 
 But it was not they alone who saved me. 
 There was another. 
@@ -1476,8 +1571,6 @@ I need mana!
 Find some mana... 
 Find mana. 
 Get me mana! 
-Get me mana! 
-Uh uh. 
 Uh uh. 
 No. 
 No! 

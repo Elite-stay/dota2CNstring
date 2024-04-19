@@ -1,4 +1,90 @@
-s1, %s2 %s3, %s4:%s5 
+m 
+Genuine 
+Genuine 
+Do not localize 
+Do not localize 
+Treasure 
+Gem 
+Unusual 
+January 
+February 
+March 
+April 
+May 
+June 
+July 
+August 
+September 
+October 
+November 
+December 
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+Sunday 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Saturday 
+Sun 
+Mon 
+Tue 
+Wed 
+Thu 
+Fri 
+Sat 
+Su 
+Mo 
+Tu 
+We 
+Th 
+Fr 
+Sa 
+Today 
+Tomorrow 
+Yesterday 
+_ 
+_ 
+AM 
+PM 
+1 
+1 
+04 
+02 
+1 
+%s1/%s2/%s3 
+%s2/%s1/%s3 
+%s1/%s2 
+%s2/%s1 
+%s1, %s2 %s3, %s4 
+%s1 %s2, %s3 
+%s1 %s2 
+%s1 %s2 %s3 
+%s1 %s2 %s3, %s4:%s5 
+%s1 %s2 %s3, %s4:%s5 %s6 
+%s1 %s2 %s3, %s4:%s5:%s6 
+%s1 %s2 %s3, %s4:%s5:%s6 %s7 
+%s1 %s2 %s3 %s4:%s5:%s6 
+%s1 %s2 %s3 %s4:%s5:%s6 %s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 %s8 
+%s1:%s2 
+%s1:%s2 %s3 
+%s1:%s2:%s3 
+%s1:%s2:%s3 %s4 
+%s1 
+%s1, %s2 %s3, %s4:%s5 
 %s1, %s2 %s3, %s4:%s5 %s6 
 %s1 %s2, %s3 (%s4:%s5:%s6) 
 %s1 %s2, %s3 (%s4:%s5:%s6) GMT 
@@ -54,6 +140,16 @@ rd
 st 
 nd 
 rd 
+Max %s1ms | Avg %s2FPS 
+%s1 ping 
+↓%s1% 
+↑%s1% 
+Slow server frame: %s1ms 
+Command queue starved 
+Excess command queue 
+Driver out of date 
+Interpreting bind command as: 
+If the binding doesn't work and you're not using a US English keyboard, you should try: 
 United States 
 Afghanistan 
 Åland Islands 
@@ -445,6 +541,209 @@ Game 5.
 Final game. 
 You have been granted an item. 
 An item has been granted. 
+Azure Ray victory! 
+beastcoast victory! 
+BetBoom Team victory! 
+Entity victory! 
+Evil Geniuses victory! 
+Gaimin Gladiators victory! 
+LGD Gaming victory! 
+Nine Pandas victory! 
+nouns victory! 
+Quest Esports victory! 
+Shopify Rebellion victory! 
+Talon Esports victory! 
+Team Liquid victory! 
+Team SMG victory! 
+Team Spirit victory! 
+Thunder Awaken victory! 
+TSM victory! 
+Tundra Esports victory! 
+Virtus Pro victory! 
+Vivo Keyd Stars victory! 
+Azure Ray's turn to pick. 
+beastcoast's turn to pick. 
+BetBoom Team's turn to pick. 
+Entity's turn to pick. 
+Evil Geniuses turn to pick. 
+Gaimin Gladiators turn to pick. 
+LGD Gaming's turn to pick. 
+Nine Pandas turn to pick. 
+nouns turn to pick. 
+Quest Esports turn to pick. 
+Shopify Rebellion's turn to pick. 
+Talon Esports turn to pick. 
+Team Liquid's turn to pick. 
+Team SMG's turn to pick. 
+Team Spirit's turn to pick. 
+Thunder Awaken's turn to pick. 
+TSM's turn to pick. 
+Tundra Esports turn to pick. 
+Virtus Pro's turn to pick. 
+Vivo Keyd Stars turn to pick. 
+Azure Ray's turn to ban. 
+beastcoast's turn to ban. 
+BetBoom Team's turn to ban. 
+Entity's turn to ban. 
+Evil Geniuses turn to ban. 
+Gaimin Gladiators turn to ban. 
+LGD Gaming's turn to ban. 
+Nine Pandas turn to ban. 
+nouns turn to ban. 
+Quest Esports turn to ban. 
+Shopify Rebellion's turn to ban. 
+Talon Esports turn to ban. 
+Team Liquid's turn to ban. 
+Team SMG's turn to ban. 
+Team Spirit's turn to ban. 
+Thunder Awaken's turn to ban. 
+TSM's turn to ban. 
+Tundra Esports turn to ban. 
+Virtus Pro's turn to ban. 
+Vivo Keyd Stars turn to ban. 
+Azure Ray 
+beastcoast 
+BetBoom Team 
+Entity 
+Evil Geniuses 
+Gaimin Gladiators 
+LGD Gaming 
+Team Liquid 
+Nine Pandas 
+nouns 
+Quest Esports 
+Shopify Rebellion 
+Team SMG 
+Team Spirit 
+Talon Esports 
+Thunder Awaken 
+TSM 
+Tundra Esports 
+Virtus Pro 
+Vivo Keyd Stars 
+versus 
+versus 
+Team Aster's turn to ban. 
+beastcoast's turn to ban. 
+BetBoom Team's turn to ban. 
+BOOM Esports turn to ban. 
+Entity's turn to ban. 
+Evil Geniuses turn to ban. 
+Fnatic's turn to ban. 
+Gaimin Gladiators turn to ban. 
+Hokori's turn to ban. 
+Infamous turn to ban. 
+Na'Vi's turn to ban. 
+nouns turn to ban. 
+OG's turn to ban. 
+Polaris Esports turn to ban. 
+PSG.LGD's turn to ban. 
+RNG's turn to ban. 
+Soniqs turn to ban. 
+T1's turn to ban. 
+Talon Esports turn to ban. 
+Team Liquid's turn to ban. 
+Team Secret's turn to ban. 
+Team Spirit's turn to ban. 
+Tempest's turn to ban. 
+Thunder Awaken's turn to ban. 
+TSM FTX's turn to ban. 
+Tundra Esports turn to ban. 
+Vici Gaming's turn to ban. 
+Virtus Pro's turn to ban. 
+Wildcard Gaming's turn to ban. 
+Xtreme Gaming's turn to ban. 
+Team Aster's turn to pick. 
+beastcoast's turn to pick. 
+BetBoom Team's turn to pick. 
+BOOM Esports turn to pick. 
+Entity's turn to pick. 
+Evil Geniuses turn to pick. 
+Fnatic's turn to pick. 
+Gaimin Gladiators turn to pick. 
+Hokori's turn to pick. 
+Infamous turn to pick. 
+Na'Vi's turn to pick. 
+nouns turn to pick. 
+OG's turn to pick. 
+Polaris Esports turn to pick. 
+PSG.LGD's turn to pick. 
+RNG's turn to pick. 
+Soniqs turn to pick. 
+T1's turn to pick. 
+Talon Esports turn to pick. 
+Team Liquid's turn to pick. 
+Team Secret's turn to pick. 
+Team Spirit's turn to pick. 
+Tempest's turn to pick. 
+Thunder Awaken's turn to pick. 
+TSM FTX's turn to pick. 
+Tundra Esports turn to pick. 
+Vici Gaming's turn to pick. 
+Virtus Pro's turn to pick. 
+Wildcard Gaming's turn to pick. 
+Xtreme Gaming's turn to pick. 
+Team Aster victory! 
+beastcoast victory! 
+BetBoom Team victory! 
+BOOM Esports victory! 
+Entity victory! 
+Evil Geniuses victory! 
+Fnatic victory! 
+Gaimin Gladiators victory! 
+Hokori victory! 
+Infamous victory! 
+Na'Vi victory! 
+nouns victory! 
+OG victory! 
+Polaris Esports victory! 
+PSG.LGD victory! 
+RNG victory! 
+Soniqs victory! 
+T1 victory! 
+Talon Esports victory! 
+Team Liquid victory! 
+Team Secret victory! 
+Team Spirit victory! 
+Tempest victory! 
+Thunder Awaken victory! 
+TSM FTX victory! 
+Tundra Esports victory! 
+Vici Gaming victory! 
+Virtus Pro victory! 
+Wildcard Gaming victory! 
+Xtreme Gaming victory! 
+Team Aster 
+beastcoast 
+BetBoom Team 
+BOOM Esports 
+Entity 
+Evil Geniuses 
+Fnatic 
+Gaimin Gladiators 
+Hokori 
+OG 
+PSG.LGD 
+RNG 
+Soniqs 
+Talon Esports 
+Team Spirit 
+Thunder Awaken 
+TSM FTX 
+Tundra Esports 
+Infamous 
+Na'Vi 
+nouns 
+Polaris Esports 
+T1 
+Team Liquid 
+Team Secret 
+Tempest 
+Vici Gaming 
+Virtus Pro 
+Wildcard Gaming 
+Xtreme Gaming 
+versus 
 Alliance's turn to ban. 
 Team Aster's turn to ban. 
 beastcoast's turn to ban. 

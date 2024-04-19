@@ -1,4 +1,90 @@
-s1, %s2 %s3, %s4:%s5 
+m 
+Genuine 
+Genuine 
+Do not localize 
+Do not localize 
+Treasure 
+Gem 
+Unusual 
+January 
+February 
+March 
+April 
+May 
+June 
+July 
+August 
+September 
+October 
+November 
+December 
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+Sunday 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Saturday 
+Sun 
+Mon 
+Tue 
+Wed 
+Thu 
+Fri 
+Sat 
+Su 
+Mo 
+Tu 
+We 
+Th 
+Fr 
+Sa 
+Today 
+Tomorrow 
+Yesterday 
+_ 
+_ 
+AM 
+PM 
+1 
+1 
+04 
+02 
+1 
+%s1/%s2/%s3 
+%s2/%s1/%s3 
+%s1/%s2 
+%s2/%s1 
+%s1, %s2 %s3, %s4 
+%s1 %s2, %s3 
+%s1 %s2 
+%s1 %s2 %s3 
+%s1 %s2 %s3, %s4:%s5 
+%s1 %s2 %s3, %s4:%s5 %s6 
+%s1 %s2 %s3, %s4:%s5:%s6 
+%s1 %s2 %s3, %s4:%s5:%s6 %s7 
+%s1 %s2 %s3 %s4:%s5:%s6 
+%s1 %s2 %s3 %s4:%s5:%s6 %s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 %s8 
+%s1:%s2 
+%s1:%s2 %s3 
+%s1:%s2:%s3 
+%s1:%s2:%s3 %s4 
+%s1 
+%s1, %s2 %s3, %s4:%s5 
 %s1, %s2 %s3, %s4:%s5 %s6 
 %s1 %s2, %s3 (%s4:%s5:%s6) 
 %s1 %s2, %s3 (%s4:%s5:%s6) GMT 
@@ -54,6 +140,16 @@ rd
 st 
 nd 
 rd 
+Max %s1ms | Avg %s2FPS 
+%s1 ping 
+↓%s1% 
+↑%s1% 
+Slow server frame: %s1ms 
+Command queue starved 
+Excess command queue 
+Driver out of date 
+Interpreting bind command as: 
+If the binding doesn't work and you're not using a US English keyboard, you should try: 
 United States 
 Afghanistan 
 Åland Islands 
@@ -538,4 +634,655 @@ Fast as lightning!
 Prepare the Underscape for fresh arrivals! 
 I'm under attack! 
 Thank you so much. 
-My thanks.
+My thanks. 
+The masters of the Narrow Maze will suffer... 
+The recollections of the void. 
+It's never enough to fill the void. 
+The measure of your power chooses me. 
+There is no balance in this link. 
+Let it flow. 
+Let it flow. 
+I can never be sated. 
+You feed the ire of the storm. 
+I feel different. 
+Your life should be flashing. 
+A dark indulgence. 
+I know exactly what to use it for. 
+Struck down with stolen might. 
+Blame your allies. Blame yourself. 
+Thank you -- for your cooperation. 
+The Underscape can take you. I've had my fill. 
+Enjoy the ride! 
+Take my place -- in the Underscape! 
+I couldn't have done it without you. 
+Where did your time go? 
+I'll keep your powers in my thoughts. 
+Your agony fills me with pleasure. 
+When you get to the underscape, don't forget to dwell on your failures. 
+Only death can tear us apart. Ahahaha. 
+Terminal capacity. 
+A death of diminishing returns. 
+Filled with delightful suffering. 
+My retribution only begins. 
+I'll still take more. 
+What shall I do with the remnants of your soul? 
+Mmrraa! 
+Mmrraa! 
+Hyah! 
+Hyah! 
+The circle of death. 
+Don't let it catch you. 
+Pain surrounds me. 
+My ire expands. 
+We can all play. 
+I like to keep current! 
+Your power flows to me! 
+Conduct yourself accordingly! 
+I sense a connection between us! 
+I'm here for YOU. 
+There's no escape. 
+Feel the powercreep of death. 
+Now I fight with YOUR fire. 
+Your life in decline. 
+Ethereal corrosion. 
+I know nothing of mercy. 
+I steal your zeal. 
+Gather, clouds! 
+Electric storm! 
+Gather for the charge! 
+Struck down! 
+Struck another! 
+Lightning strike! 
+Tolls of the storm! 
+It knells for thee! 
+Stormclaps will rend your flesh. 
+Feel your flesh peel. 
+You'll never live up to the shadows of the past. 
+Fight all you like. The Darkbrew name will soon be forgotten. 
+The universe is stacked in your favor and still you gloat. 
+So typical, human. To believe the pain of existence is yours alone to bear. 
+I cast off my role as gaoler. You merely failed at yours. 
+The souls of the Underscape await you in scores. 
+My nightmares will shatter your puny little brain. 
+You could be free, bat. If you would reject your rider and take wing. 
+Do your animals feel loyalty? Or is it fear? 
+How goes your hunt, blood slave? 
+Why involve the pettiness of money in your pursuits? 
+The maze is filled with the tearful regrets of your kind. 
+Your simplicity is refreshing against the backdrop of would-be gods. 
+I've seen you spit on the schemers of Ristul. Care to destroy them? 
+You seem to enjoy torment. There's a job opening in the Narrow Maze. 
+You're wrong to think a brush with Nothl can prepare you for the Narrow Maze. 
+Not even you can save the one you love, Invoker. All will perish in time. 
+Together in life, perhaps you'll travel different paths in death. 
+Your people would be so disappointed that it was you who survived. 
+I can speak freely with you, Keeper. You always forget what I say in the end. 
+Foolish is the captain who never lets a dead crew rest. 
+You failed Stonehall. Do not fail us. 
+Your words ring of truth, my friend. 
+Do not think you escape notice of those who tally the dead. 
+Feast, you wretched creature. Deny my former masters their due. 
+You embody the hubris of humanity so perfectly well. 
+Those in Ristul hate you. Let us conspire for a spell. 
+Unleash your inner storm, Luna. 
+Whistle a tale of terror and woe. 
+You despise your brother and his friends as much as anyone. Help me bring them to heel. 
+The demon lords of Ristul will beg before I kill them. Care to rule upon their ruin? 
+We share a shocking number of characteristics... 
+I only agreed to work with you the once. 
+If I kill the enemy quickly enough, I'll also have time for you. 
+There are those who share your enemies, Skywrath. Look to them for aid. 
+All that befell me... Was your fault! 
+I'll do my best not to wring your neck. 
+I hold no grudge against you, Visage. We've worked well together in the past. 
+Turn on your masters, Visage. You'll enjoy the autonomy. Take it from me. 
+I realize freedom...and the tinge of insanity. 
+I doubt your altruism, Void Spirit. My liberation must complement one of your schemes. 
+I'll serve no master, Void Spirit. Not even you. 
+What the coward you are, Ostarion -- clinging so desperately to your wretched life. 
+You're god of nothing now, Zeus. 
+I always wanted to hunt you. But by the book, you'd broken no laws. 
+Arrrgg 
+Arrrgg 
+Arrrgg 
+Arrrgg 
+Arcane charge. 
+Arcane asylum. 
+The perfect boost. 
+Attack! 
+Ah, burned flesh! 
+I bring the razor light! 
+Whip you into shape! 
+Feel my power. 
+A bolt from the blue! 
+Ride the lightning! 
+This will come as a shock! 
+I'll give you static. 
+My lightning strikes. 
+My rage incandesces. 
+Direct current! 
+The storm strikes. 
+Thresh your soul. 
+Flay you! 
+Now you fall. 
+Break! 
+Nyah 
+Run. 
+Come closer. 
+Feel the pain. 
+Glimpse the sky! 
+Time to discard you. 
+Shatter your will. 
+Succumb to me. 
+Hope dwindles. 
+Nothing here but a dead end. 
+Face true fear. 
+Hraa 
+Hraa 
+Hraa 
+Hraa 
+Hraa 
+Hraa 
+My storm rages. 
+The void roils. 
+Nothing will stop me. 
+Feel my rage. 
+Unleash the void inside. 
+Void rage. 
+The wise ones flee. 
+Suffer now. 
+Hra 
+Hra 
+Hra 
+Hra 
+Hra 
+Hra 
+Hra 
+Hra 
+Hra 
+Hra 
+Hra 
+Hra 
+Hra 
+I spread my ire to the land of the living. 
+Now I bring suffering of my own accord. 
+No longer do I serve the maze, but never will I learn mercy. 
+Now, friends...let us rejoice -- in misery! 
+I fight...for nothing. 
+Blink Dagger! 
+Fast as lightning! 
+I'll save this for later. 
+Lightning in a bottle! 
+Delayed gratification. 
+Bounty. 
+Bounty. 
+Another bounty from the void. 
+A painless price. 
+You can run. You should run. 
+Your life shall cast a shadow. 
+I can see you tensing. 
+Your suffering begins. 
+You tempt the fury of the storm. 
+Your fight ends here. 
+A storm of torment will find you. 
+Perhaps I end both our lives. 
+I only fight to the death. 
+Crummy wizard! 
+It cannot be! 
+I die! 
+I discharge my life. 
+No! 
+I will return! 
+I will escape the Underscape once more! 
+Does the Underscape...reclaim me? 
+My power is spent. 
+Death sends me to an unwanted life. 
+Grounded. 
+I've lost my edge. 
+The underscape cannot...contain me... 
+Denied. 
+Denied. 
+Denied! 
+No gold for you. 
+Nothing for you. 
+Edged out. 
+Uh uh. 
+That was fun. 
+Don't storm off. 
+You look whipped. 
+Denied. 
+Still denied. 
+I'll always have the power to stop you. 
+Strike me if you dare. 
+Does the void tempt you? 
+I surrender your spoils to the void. 
+Too late. 
+Oh no. 
+Double damage! 
+Lightning strikes twice! 
+A bolt of pain from the blue. 
+I want more. 
+It piques my interest... 
+Yes, give it to me! 
+I take what I need. 
+Ah, you forgot to ground me! 
+Ah ah ha ha ha! 
+First Blood, and the atmosphere's electric! 
+First blood! 
+First blood -- it beckons the rising storm! 
+First blood -- swept away by the storm! 
+First blood. The char still fills the air. 
+Hmm 
+Hmm 
+Hmm 
+Hmm 
+Re he he hee 
+Haste! 
+Fast as lightning! 
+Electric drive. 
+Illusion! 
+My lightning forks! 
+Which one is me? 
+Immortality! 
+Forever is nothing to me. 
+It's in the bag! 
+We're all in the bag. Only I can break free. 
+Invisibility! 
+Unseen energies! 
+I work in secret. 
+I curse the masters of the abyss. 
+Aeon Disk 
+Aether Lens 
+Boots of Arcane Abundance 
+I know its vile origins. 
+To turn their hellish creations against them. 
+A strange fit. 
+Battle fury 
+A dwindling power. To be used as I see fit. 
+Pain with purpose. 
+Bloodstone 
+By any means at my disposal. 
+At last, we dispense with the mundane. 
+More debris for the storm. 
+Butterfly 
+For the sake of mana. I prefer my mind amiss. 
+Crystalys 
+Daedalus 
+Delightful Dagon 
+Desolator 
+Diffusal Blade 
+Just perfect for killing demons. 
+Dragon Lance 
+Drums of Endurance 
+Cunning dust. 
+Echo Sabre 
+I open pathways. 
+Ethereal Blade 
+Ah haha. Mighy Euls. 
+Force Staff 
+Take it from Razor. Truth is a lie. 
+Ghost Scepter 
+Glimmer Cape 
+This one is beneath me. 
+I will accept this rejuvenation. 
+This, they should fear. 
+There is no heaven. Only hell. 
+I'm no stranger to domination. 
+Trifling locket. 
+I am the defiant one. 
+Storms collide. 
+Shadow blade. 
+Kaya 
+Kaya and Sange 
+Lotus Orb 
+I thought I was the maelstrom. 
+Like catching drops of rain. 
+Manta Style 
+I have my own mask of madness. 
+Medallion of Courage 
+Mekansm 
+Meteor Hammer 
+Mjollnir 
+Monkey King Bar 
+I know its pages well. 
+Nullifier 
+One cannot guess what comes. 
+Octarine Core 
+A malevolence to match my own. 
+The right phase of energy. 
+Pipe of Insight. 
+A power switch... 
+Radiance 
+Refresher Orb 
+Rod of Atos 
+Savage Sange 
+Sange and Yasha 
+My favorite pair. 
+Do I still have a soul to bargain? 
+Nothing is at it seems outside of the maze. 
+Scythe of Vyse. 
+Shiva's Guard 
+Fear the unseen storm. 
+Eye of Skadi. 
+Gold for guile. 
+Solar Crest 
+Soul Ring 
+Now it protects me. 
+Does it work against demons? 
+I have too many fragments to keep track of... 
+Does it have a chapter on the mechanics of a fractured mind? 
+Urn of dark shadows. 
+Vanguard. 
+Veil of Discord 
+Vladmirs Offering 
+Yasha 
+Yasha and Kaya 
+Intriguing mango. 
+Boots of tranquility. 
+This blade now belongs to me. 
+Orb of Corrosion 
+Helm of the Overlord. 
+Witchblade 
+Such beautiful chains. 
+Has the storm not already awoken? 
+Eternal Shroud 
+Mage Slayer 
+Boots of Bearing 
+You'll get no more pacts from me. 
+Interesting. From another revenant... 
+Who will scorch your name in the Book of the Dead? 
+Take it from Razor. The Underscape will not be kind. 
+You are dead. Dead. 
+I discharge your soul. 
+This will only hurt forever. 
+When you reach the Underscape, give them Razor's regards. 
+To the cursed Underscape with you. 
+Blackened bones! 
+Your ashes will fall like rain. 
+To the foul Maze with you! 
+I alone escape the Underscape. 
+Jagged lightning brings flat lines. 
+Look well on this realm. You won't enjoy the next one you see. 
+Under my light, all for you fades to black. 
+Can you see the confines of the maze? 
+The surge of your life now recedes. 
+For the transgressions of others, you pay the price. 
+Of course I know how to escape the maze. But my lips are steeled. 
+Mine. 
+Shocking. 
+Zapped! 
+Discharged! 
+Cheap at the price! 
+We conduct business. 
+Gold is a great conductor. 
+One before another. 
+Let it rain. 
+It means nothing. 
+Scores will follow. 
+We need gold to heal my wounds. 
+A foe I can handle... 
+One before another. 
+Surrender your life to me. 
+I have no interest in your soul. 
+Mortal pittance. 
+All mine. 
+Shocking. 
+Ha ha ha 
+Ha ha ha 
+Ah ha ha ha ha 
+Ahh ah ha ha ha ha 
+Uah ah ha ha ha ha ha 
+Ah he he he he he 
+Ah ha ha ha ha ha ha ha 
+Ah ha ha ha ha ha ha ha ha 
+Ah ha ha ha ha 
+Ah ha ha ha ha ha ha ha ha ha ha 
+My energy grows! 
+Lightning give me strength! 
+My dynamism increases! 
+I feel energized! 
+My power surges! 
+My enemies curse their fates. 
+My rise is unrelenting. 
+Death is inescapable. And so am I. 
+My storm gathers. 
+To destroy the Court of Ristul, I'll need even more. 
+My spark dies! 
+Defeated! 
+My lightning goes dark! 
+My vengeance falters in the end! 
+Top is missing. 
+Middle is missing. 
+Bottom is missing. 
+For eternity, I had but one purpose. 
+To conduct those who transit the maze... 
+And keep the pathways of the damned... 
+Free of congestion. 
+Now I hunt the schemers of Ristul. 
+To choke their little maze. 
+With the unholy souls of the demon lords, 
+and all those who dare support them. 
+I have leashed countless travelers. 
+Throughout aeons of service to the maze. 
+None carried powers into the afterlife that could stand against mine. 
+But an unseen architect sent a void-touched threat to find me. 
+One bent not on confrontation, but infiltration. 
+To sever the tendrils of Ristul that bound me. 
+To finally set me free. 
+Now I merge with memories of the past. 
+Before the shackles of this form 
+Confined me to the narrow maze. 
+Amidst the deluge, my mind is fractured. 
+But soon I will learn to understand. 
+For now, I know all I need to reap my retribution. 
+No longer slave to the needs of the Narrow Maze. 
+I remember. The mistakes of my distant youth. 
+I burned for the power to rise above my oldest enemy. 
+I struck a bad bargain with the Court of Ristul. 
+And the powers for which I bartered came at a terrible price. 
+Until my storm swirled into nothingness... 
+My sense of self -- my life and my purpose -- would be surrendered. 
+Lost to the shadows of the maze. 
+Onward. 
+Quick as lightning. 
+Forward. 
+Of course. 
+Agreed. 
+Path of least resistance. 
+As I wish. 
+I go. 
+At last. 
+My time has come. 
+Very well. 
+My current flows. 
+I charge. 
+I see. 
+An easy choice. 
+Pulled forward. 
+Anywhere but here. 
+If I refuse? 
+It follows. 
+The revenant roams. 
+As the tempest travels. 
+They know nothing of pain. 
+An engine of torment. 
+I bring suffering. 
+I will visit pain upon them. 
+This is nothing. 
+Without warning. 
+The perfect refuge. 
+The storm shudders... 
+No... 
+No. 
+No! 
+Noooo! 
+Noooo! 
+Out of mana. 
+Out of mana. 
+Out of mana! 
+No mana. 
+No mana. 
+There is no mana! 
+Not enough mana. 
+Not enough mana. 
+Not enough mana. 
+Not yet. 
+Not yet. 
+Not yet! 
+I'm not ready. 
+I'm not ready. 
+I'm not ready! 
+It's not time yet. 
+It's not time yet. 
+It's not time yet. 
+A perfect focal point for the rising storm. 
+This roof cannot stop the rains. 
+Stones topple in the storm. 
+No arrester here. 
+Rrgh 
+Rrrgh 
+Hrrgh 
+Urght 
+Urghmm 
+Ahh 
+Worth lightening my purse. 
+Charge it! 
+Now my enemies pay! 
+Regeneration! 
+Razor's edge never dulls. 
+Rapid recharging. 
+I rise again! 
+Recharged! 
+Vital spark! 
+From a spark, I grow! 
+My power returns. 
+Ah, these familiar pillars. 
+Back at last. 
+My enemies will suffer for this humiliation. 
+The maze cannot have me. 
+I condemn their efforts. 
+Brimming with retribution. 
+More suffering only fuels the storm. 
+I wish to remember. My slate was clear far too long. 
+My storm is reborn. 
+A gripping dissipation. 
+Lightning was far too much for your bottle! 
+Storm shatters ice! 
+As in life, you'll find no meaning in death. 
+You should have picked a wiser master. 
+From one gaoler to another: your soul belongs to me. 
+Watching you swing helplessly was well worth my time. 
+Your pathetic dreams were nothing in the end. 
+Wings struck useless by the storm. 
+You'll be master of nothing in the land of the dead. 
+You rejected the Court's authority. You die with them all the same. 
+For you, I unlock a third dimension. 
+All you can do now is terrorize the dead. 
+Too much electricity for your synapses to endure. 
+There is no mercy in the maze for children. 
+Light surrenders to the storm. 
+You should have heeded your shanties. 
+Together we could have done terrible things. 
+I was not aiming for the feline. But electricity conducts. 
+You sent so many my way. Now you go to join them! 
+Like all else, your family's fate means nothing in the end. 
+You took one too many risks in the end. 
+Where you're going, neither moon nor sun will ever shine. 
+I have not forgotten how you defied me. 
+Now you trade your songs for screaming. 
+Nothing but scored and scarred branches. 
+You're lucky you didn't last longer. 
+Hear me, Omniknight. Your master isn't waiting to light your way. 
+The future holds only madness. With or without you. 
+You knew this day was coming. 
+Merely a harbinger of my victory. 
+You were wise to enjoy your life, Donte. Now it ends. 
+When you see your brother, tell him I'm coming back to hell -- to kill him. 
+I have no further use for you. 
+Now to find that wretched B'kor. 
+Do shut up. 
+I can't eat cookies. And the smell of yours makes me sick. 
+You trade one chain for another. 
+Even when I remembered nothing, I knew that I hated you. 
+I await your rebirth. So I can kill you again. 
+You may enjoy life as a puppet, but I won't be your master's pet. 
+You should have joined me and dispatched the rest. 
+It feels glorious to watch you die. 
+Did they send you to find me? They best think again. 
+This is the only confluence that awaits you. 
+I won't be your pawn either. 
+You should have left the affairs of hell to the demons alone. 
+Zeus, you handle lightning like a rank amateur. 
+If you cannot choose a side, I'll choose one for you. 
+The time has come to accept your place in death. 
+Ah, scepter! 
+A perfect lightning rod. 
+Shitty wizard! 
+Razor. 
+I am Razor. 
+I bring the spark of death. 
+I will raze my enemies. 
+I enter the fray. 
+The Lightning Revenant rises! 
+I serve the interests of the Underscape no longer. 
+The masters of the Narrow Maze will suffer. 
+I seek no glory. Only retribution. 
+My recollections bring terror for them all. 
+Those in the Court of Ristul find a new enemy within. 
+I find refuge in the touch of the void. 
+I am the maelstrom. 
+A disquiet before the storm. 
+You'll find only madness in the eye of this storm. 
+Somewhere through nowhere. 
+Simple magics, nothing more. 
+Wherever shall we roam? 
+Before I fall to ruin. 
+The storm recedes... 
+My energy ebbs... 
+Too close to a binding rite... 
+Thank you so much. 
+I'm under attack! 
+These creatures defy me! 
+They fight! 
+Hydro power. 
+Water and power go hand in hand. 
+A useful current. 
+It's all a whirlwind. 
+I'll leave you extra crispy. 
+All bluster and no blight. 
+Do the winds howl or is that just you? 
+Tears won't help you. 
+I laugh when you cry. 
+We'll forgive your misunderstanding. 
+I felt a real connection. 
+You look confused. 
+It's your downfall. 
+I hover where I will. 
+I have the power. 
+I am the power. 
+I drink your milkshake. 
+You're wise to fear me. 
+I'm finished with you. 
+Time to cut you off. 
+Don't get it twisted. 
+Now you've really flipped my switch. 
+Ah ha ha ha ha ha ha ha ha 
+Ah ha ha ha ha ha ha 
+Ah ha ha ha ha ha ha haa 
+Ah ha ha ha ha ha haaa 
+Ah ha ha ha ha ha ha haa 
+My gratitude earns you nothing. 
+Useless decorum. 
+My lightning strikes victory! 
+Victorious! 
+The Underscape shall fall! 
+Ah ha ha! Victory! 
+Ah ha ha! Victory! 
+With this power, I will find retribution! 
+Yes... 
+Yes. 
+Yes! 
+Yeessss! 
+Yeessss! 
+Ahahaha Yes! 
+Ahahaha Yes!

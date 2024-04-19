@@ -1,4 +1,90 @@
-s1, %s2 %s3, %s4:%s5 
+m 
+Genuine 
+Genuine 
+Do not localize 
+Do not localize 
+Treasure 
+Gem 
+Unusual 
+January 
+February 
+March 
+April 
+May 
+June 
+July 
+August 
+September 
+October 
+November 
+December 
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+Sunday 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Saturday 
+Sun 
+Mon 
+Tue 
+Wed 
+Thu 
+Fri 
+Sat 
+Su 
+Mo 
+Tu 
+We 
+Th 
+Fr 
+Sa 
+Today 
+Tomorrow 
+Yesterday 
+_ 
+_ 
+AM 
+PM 
+1 
+1 
+04 
+02 
+1 
+%s1/%s2/%s3 
+%s2/%s1/%s3 
+%s1/%s2 
+%s2/%s1 
+%s1, %s2 %s3, %s4 
+%s1 %s2, %s3 
+%s1 %s2 
+%s1 %s2 %s3 
+%s1 %s2 %s3, %s4:%s5 
+%s1 %s2 %s3, %s4:%s5 %s6 
+%s1 %s2 %s3, %s4:%s5:%s6 
+%s1 %s2 %s3, %s4:%s5:%s6 %s7 
+%s1 %s2 %s3 %s4:%s5:%s6 
+%s1 %s2 %s3 %s4:%s5:%s6 %s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 %s8 
+%s1:%s2 
+%s1:%s2 %s3 
+%s1:%s2:%s3 
+%s1:%s2:%s3 %s4 
+%s1 
+%s1, %s2 %s3, %s4:%s5 
 %s1, %s2 %s3, %s4:%s5 %s6 
 %s1 %s2, %s3 (%s4:%s5:%s6) 
 %s1 %s2, %s3 (%s4:%s5:%s6) GMT 
@@ -54,6 +140,16 @@ rd
 st 
 nd 
 rd 
+Max %s1ms | Avg %s2FPS 
+%s1 ping 
+↓%s1% 
+↑%s1% 
+Slow server frame: %s1ms 
+Command queue starved 
+Excess command queue 
+Driver out of date 
+Interpreting bind command as: 
+If the binding doesn't work and you're not using a US English keyboard, you should try: 
 United States 
 Afghanistan 
 Åland Islands 
@@ -539,4 +635,810 @@ Ah, scepter!
 Beautiful scepter of revenge! 
 Thank you so much. 
 I am grateful. 
-I am under attack!
+I am under attack! 
+Ahh 
+Uhhh 
+Gaah 
+Uhhh 
+Gahahuh 
+Grrgh 
+Ughh 
+Hrhuh 
+Grrrr 
+Arcane power. 
+The perfect time to strike. 
+A taste of something deeper... 
+If I must. 
+No one will get in my way. 
+No one will get in my way. 
+Attack! 
+Death! 
+To battle! 
+Feel my pain! 
+Feel my wrath! 
+For Skywrath! 
+Scree'Auk's Talons! 
+I'll have you in my talons! 
+I fly on wings of fury! 
+Scee'auk beckons! 
+Swift wings take you! 
+My vengeance soars! 
+I strike! 
+I fight! 
+Die! 
+By Scree'auk! 
+For blood. 
+Feel my wrath! 
+By my wings! 
+By the winged goddess! 
+My pain becomes yours. 
+Now I bring vengeance! 
+I bring death! 
+From great height, you will fall! 
+By Scree'auk! 
+Feel my talons! 
+Your pain quells mine. 
+By Scree'auk's talons! 
+Feel my pain! 
+At last! 
+You are mine! 
+You shall feel my talons! 
+By my wings! 
+A royal execution. 
+Hear my decree. 
+My fury takes flight. 
+Dive! 
+My wings unfurl. 
+Hya eh 
+Ha eh 
+Ha uhh 
+Hyaaa 
+Hya 
+For what you've taken. 
+You have not dulled my fury! 
+Your blood for mine. 
+I return the favor. 
+Vengeance...guide me. 
+An eye for an eye... 
+For every wound I've taken, I'll give you two. 
+I've had about enough of you! 
+A few parting blows. 
+Taste a serving of what you dish out. 
+Ha 
+Tsya 
+Huah 
+Cha 
+Tsya 
+Let's get this over with. I've got a sister to kill. 
+Let's get this over with. I've got a kingdom to run. 
+I fly on the winds of war! 
+And now, my vengeance begins. 
+Finally, I will have my revenge. 
+Onward to vengeance! 
+You may have fleeced Dragonus, but you'll FIGHT for me. 
+There's always another way in, isn't there, Bounty Hunter? 
+Thank you for your help back in Midgate. 
+Thank you for your help at Midgate. Your... costly help. 
+How much did they pay you -- to die trying to kill me? 
+Blink dagger 
+Very good. But not even close to flying. 
+I'm familiar with patience. 
+We wait. 
+Not yet. 
+Wait for now. 
+For later. 
+Fortune favors me. 
+A fitting reward. 
+A fitting bounty. 
+Bounty. 
+Bounty. 
+Oooh, bounty! 
+I stand ready! 
+I am chosen. 
+I shall have vengeance. 
+Vengeance shall be mine. 
+The time has come! 
+I still have my magic. 
+You force my hand. 
+If cornered, I strike. 
+Fight AND flight. 
+This...ends...now. 
+Let this misery fuel my magic! 
+Accursed wizard! 
+Will Scree'auk...save me? 
+No... 
+I fall. 
+My flight ends. 
+What of death? 
+It's about...time... 
+At last...death claims me. 
+No! 
+Uncertain life, and sure death. 
+No... 
+No... 
+My wings falter. 
+My flight ends. 
+Again...my wings are broken... 
+My pain is ended. 
+Another... injustice. 
+I welcome death. 
+No! 
+My reign ends. 
+A broken crown. 
+I fail... and fall. 
+My vengance denied. 
+I take my death. 
+I am slain. 
+I fall... 
+There is honor in death. 
+Only death is certain. 
+I fly from this life. 
+...To make my sister pay for her sins. 
+For the people of Skywrath!... 
+...Skywrath will finally be free. 
+Dragonus! To me! 
+For the Eyrie. 
+For Skywrath. 
+Skywrath must not fall. 
+Imperia will pay. 
+Denied. 
+Denied. 
+Denied! 
+Oh! Heh, denied! 
+Oh, denied. 
+Well, you tried. 
+Ours it remains. 
+Did you want that one? 
+We have every right. 
+You fail. 
+Please. 
+Call it royal prerogative. 
+NOT... so fast. 
+I think not. 
+Not this time. 
+That won't happen. 
+You really thought so? 
+Never. 
+Not that way. 
+This is how it's done. 
+Not this time. 
+Try again. 
+You missed the mark. 
+Better luck next time. 
+You lack skill. 
+I'll not allow it. 
+I'm not dead yet. 
+Not while I still draw breath. 
+Denied. 
+Even battered, I can stop you. 
+I won't...allow it... 
+Over my dead body. 
+You may break my body but not my will. 
+If I must fall, I'll drag you with me. 
+I may lose, but you won't win. 
+Double damage. 
+Twice the pain. 
+A double serving of justice. 
+Twice beaten. 
+You brought me back from unliving hell. What can these fools do to us? 
+To battle once again, my love. 
+We have faced worse odds than this, my dear. 
+Together we cannot fail. 
+Scree'auk's magic has poisoned your mind! 
+One final sacrifice in my name. 
+And now, Skywrath Mage...Die for me. 
+The future of our kingdom is worth any price. 
+Not without use. 
+I approve. 
+The jewels of Skywrath are put to shame... 
+It takes more than one death to kill me. 
+You shouldn't try to kill me. My sister tried to kill me. 
+Duty calls me back! 
+First blood, by the first born. 
+First blood. My hands are soaked in it. 
+The first step, not the last. 
+First blood! A good omen. 
+First blood is mine! 
+A first step toward justice. 
+The first to fall. Pity. 
+Oooh 
+Oh 
+Woah 
+Ahh 
+Ohoho 
+Haste! 
+Swiftly, now! 
+Fly! 
+Scree'auk, give me speed! 
+Illusion! 
+Their eyes will deceive them 
+Vengeance surrounds you 
+Immortality. 
+I cannot die! 
+My spirit is eternal. 
+This one is in the bag. 
+I'm not one for long speeches. Just know: this one is in the bag. 
+I've won battle far more hopeless than this. 
+Victory is assured. 
+Invisibility! 
+Shrouded from their eyes. 
+You won't see justice coming. 
+That this blade should come to me... 
+Aeon Disk 
+My powers will stretch far beyond our lands. 
+They SHOULD thank me for this. 
+I don't trust it. 
+Assault Cuirass 
+Beak Basher 
+I am the battle fury. 
+Black QUEEN Bar. 
+Mail of vengeance. 
+The pact is made. 
+There will be silence before the queen. 
+Wings of a different sort. 
+I clutch the root of victory. 
+Butterfly 
+Yes, more of this. 
+A servant for today. 
+Speed the courier. 
+A red blade for a red day. 
+This should punch right through. 
+Time to bring them to heel. 
+Well suited for business of the court. 
+Diffusal Blade 
+Already royal, now Divine. 
+Forged by ancient kin. 
+Perhaps now they can keep up. 
+No one sneaks up on the queen. 
+Echo Sabre 
+Power is nothing without control. 
+I've spent enough time in the ethereal plane... 
+A strong headwind. 
+Fire of vengeance. 
+You control nothing if you don't control yourself. 
+Let's see what we can see. 
+Enough with the spirit realm. 
+A glimmer is more than their hopes. 
+A wiser QUEEN Midas. 
+It seems wise. I'm no longer a ghost. 
+The heart of a monster... Nothing new. 
+You cannot strike me. 
+What will Dragonus think? 
+Holy by whose decree? 
+I defied death itself. 
+The gales of my fury will break them. 
+Useful to avoid the masses. 
+Kaya 
+Kaya and Sange 
+Instant retribution. 
+Maelstrom 
+This might have saved me... 
+More demons to face... 
+I could tell you of madness. 
+Courage is not something brokered. 
+Healing for all. 
+Meteor Hammer 
+Maybe I said it wrong... 
+Does this belong to that fool? 
+Nullifier 
+If only they had wings... 
+Octarine bliss. 
+Orchid Malevolence 
+Phase Boots 
+Pipe of endless insight 
+Wealth has its perks. 
+Radiance 
+Refresher Orb 
+They travel by my leave. 
+Sange 
+Sange and Yasha 
+Life feeds on life. 
+These might have saved me... 
+Much easier to handle when they're squeeling. 
+Shiva's Guard 
+Silver Edge 
+Eye of Skadi 
+Just so we don't waste it. 
+Another crown for me. 
+Soul Ring 
+Linken's Sphere 
+Not a danger anymore. 
+To spell my wings. 
+Not even death can stop me. 
+Now to start my collection. 
+Vanguard 
+Veil of Discord 
+A tempting reward for harsh rule. 
+Yasha 
+Yasha and Kaya 
+A royal treat. 
+I could use some tranquility. 
+Bird of prey. 
+A little poison would have saved a lot of pain... 
+Shackles of pain. 
+I am the eye of the storm. 
+I gladly pay the blood price. 
+I'll drag them to me, kicking and screaming. 
+I need no other crown. 
+We won't ask twice. 
+You learned the hard way about Scree'auk, Yurnero -- why some call her the goddess of tricksters...or lies. 
+I have my kingdom. I have these powers. And I know Scree'auk's weakness. Skywrath will prosper under my reign. 
+I hope you find your other. 
+I hear another escaped before the Isle of Masks vanished beneath the waves. 
+May you find the other who escaped the Isle of Masks. 
+In death, as in life, you waste my time. 
+Vengeance claims you. 
+Vengeance take you! 
+My vengeance soars. 
+Vengeance! 
+In Scree'Auk's name! 
+Your fate was sealed. 
+Ah, the taste of vengeance. 
+In the name of vengeance. 
+Scree'auk claims another. 
+You never stood a chance. 
+My thirst for vengeance endures. 
+Bring me the next condemned. 
+Your death eases my suffering. 
+A glimmer of joy. 
+Your wings, clipped. 
+By Scree'auk! 
+In the name of Scree'auk! 
+You were no match for me. 
+May you fall forever. 
+Just as you deserved. 
+My goddess wished you dead. 
+For Skywrath. 
+Your death troubles me not. 
+We take what's ours. 
+By right or by might. 
+That sounds divine. 
+To the victor... 
+Mine. 
+A conqueror's bounty. 
+A small trophy. 
+I claim this. 
+Now this is mine. 
+I'll take that. 
+To line my nest. 
+A prize well-earned. 
+The jingle of coins. 
+My purse strings strain. 
+I'll take it. 
+Yes! 
+Worthless one. 
+Enough strength for this. 
+For a potion? 
+A prize well-earned. 
+More trouble than it's worth. 
+Some blood money. 
+No prize too small now. 
+I'll take what I can get. 
+Hard won and well deserved. 
+Rightful compensation for what I've endured. 
+I'm owed at least this much. 
+Ha ha 
+Ha ha ha ha ha 
+Ha ha ha ha ha ha 
+Ha ha ha ha ha ha ha ha ha 
+Ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha haaa 
+Nh ha ha ha ha ha ha ha 
+Ha ha ha ha ha ha 
+A ha ha ha ha ha ha ha 
+A ha ha ha 
+Hn hn hn hn huh huh huh huh hn ha ha ha ha ha 
+Ha ha ha ha ha ha ha ha 
+Ah ha ha ha ha ha ha ha haaa 
+Ah ha ha ha ha ha ha ha ha haa 
+Ha ha ha ah ha ha ha ha ha 
+Ha ha ha ha ha ha ha haa 
+Ah ha ha ha ha ha ha ha 
+I rise ever higher. 
+My power grows. 
+My wings grow stronger. 
+Fate vindicates my need. 
+The goddess shines upon me. 
+Our people cheer, and our enemies fear me. 
+Vengeance is nigh. 
+Let me stretch my wings! 
+May the skies surrender to me! 
+My spirit soars! 
+I rise e'er higher. 
+We cannot end like this. 
+No! Skywrath cannot fall like this. 
+I am undone. 
+The Queen has lost. 
+We will be avenged. 
+A pool of bliss. 
+Let my power blossom. 
+A source of strength. 
+Quickly. None for them. 
+Don't expect a pardon, Meepo. The merchant guild's still squawking to see you on the pecking post. 
+Up for another jailbreak? 
+How many hangman's nooses have you escaped since I last saw you? 
+He he he. You again. I like you. 
+I helped you live in Skywrath. Now I've corrected that mistake. 
+A taste of my birthright. 
+Not another step. 
+My magics fly true. 
+Taste my vengeance. 
+Blast you. 
+I'll strike you down. 
+Feel my power. 
+Be still. 
+Behold this bolt. 
+Take your punishment. 
+Righteousness guides my aim. 
+Magic Missile. 
+Top is missing! 
+Middle is missing! 
+Bottom is missing! 
+I was to be queen. But behind my back, my sister plotted. 
+On the eve of my ascension, her conspirators surrounded me. 
+Tore the wings from my body. Cast me from the highest tower. I fell. 
+At the muddy banks of the Pas?re I lay near death. Broken. Wingless. 
+That was where Scree'Auk found me. And gave me new life as a spirit of vengeance. 
+And yet revenge against my sister could never be mine. For I could never return. 
+And my beloved's life was bound to her that killed me. We were hopeless. 
+Until Scree'Auk's final gift was given. ALL of her power.  
+So that I might slay Imperia. And return to my throne. 
+My sister. 
+Her thirst for power turned me into a monster. 
+Broken in body, but clear of mind. 
+Her treachery could not go unpunished. 
+She robbed me of my kingdom. 
+My birthright. 
+And so I return. To claim my throne.  
+But first to claim her head. 
+Sister. 
+You are a parasite. 
+An imposter. Who pushes the legitimate offspring from the nest. 
+As you so deceitfully pushed me off my throne. 
+Mine, by the ancient laws of the Skywrath. 
+But I will have it back. 
+And I will smash you like an egg! 
+Cast out by my kind. 
+Usurped by my own dear, loving SISTER. 
+My wings, destroyed. Torn from my body. 
+The pain. The blood. 
+Well, if it's blood they want... 
+...then blood they shall have. 
+It will rain down on Skywrath and fill her nest. 
+She will drown in it. I shall be avenged. 
+I've gone this far. 
+Wise counsel. 
+You have my ear. 
+I remember. 
+Take flight. 
+Yes. 
+Yes! 
+We approve. 
+Vengeance guide me. 
+I advance. 
+Forward. 
+Proceeding. 
+Onward. 
+I am there. 
+A wise move. 
+Vengeance take me. 
+Indeed. 
+Agreed. 
+I go. 
+On wings of vengeance. 
+As I am summoned. 
+If you insist. 
+I fly! 
+To battle! 
+If I must... 
+The time has come... 
+My sentiments precisely. 
+Very well. 
+I'll not overrule. 
+A good plan. 
+I know this path. 
+We'll wing it. 
+And from there? 
+We can do more. 
+Good scouting. 
+Let them come for me. 
+Small mistakes lose wars. 
+Pretend it's safe. 
+I'll trust you. 
+I've already decided. 
+A refresher for new wings. 
+To what end? 
+Bent, but unbroken. 
+I've earned each breath. 
+Every step is torture -- nothing new. 
+Vengeance alone keeps me going. 
+Keep moving. 
+I've been wounded worse than this. 
+Somehow, I persevere. 
+Until my last breath. 
+Stalled, but never stopped. 
+This agony is a debt to be repaid. 
+No... 
+No... 
+No. 
+No! 
+No! 
+Noooo! 
+No mana. 
+I have no mana. 
+Out of mana. 
+I lack mana. 
+No mana. 
+Not enough mana. 
+Mana! 
+No mana! 
+Not enough mana! 
+Not yet. 
+Have patience. 
+We need time. 
+I said wait. 
+You test my patience. 
+Don't ask agin. 
+Not yet! 
+I'm not ready! 
+It's not time yet! 
+I claim this in Scree'auk's name. 
+A most strategic position. 
+We must hold this outpost. 
+Leave them nothing. 
+Ah 
+Um 
+Mmh 
+Mmhh 
+Umm 
+I never wanted to see you again. But... We'll temporarily set that aside. 
+I am not a bird. Don't look at me like that. 
+You can't still be hungry after all those flightless. 
+You again. You're just a stomach with legs, aren't you? 
+I would have let you feast in the middens of my kingdom forever. But no one bites the queen. 
+To aid my quest. 
+This will be of great use. 
+Worthy of my deeds. 
+What wretch here is worth my vengeance? 
+Is there anyhing so noble as revenge? 
+In time, Skywrath will breathe again. She will flourish.  
+I shall lay waste to all who oppose me. 
+Revenge my only aim, my foes must fall. 
+Scree'auk, hear my cries. Bring me strength to dash my enemies. 
+I will bring justice. I will bring death. 
+Regeneration. 
+My strength renews. 
+Ah. Rejuvenated. 
+That's much better. 
+I still have purpose here. 
+I rise from the ashes, and soar. 
+By Scree-Auk's will, I return. 
+On wings reborn. 
+I return from the void. 
+I pass once more from the veil. 
+I will not fall again! 
+The Queen was dead. Long live the Queen. 
+My quest for vengeance starts anew. 
+Back for more. 
+By Scree'auk's will, I return. 
+My mission remains unfulfilled...for now. 
+This time, I will not fall. 
+Why must I continue on? 
+I...return? How? 
+I return to reclaim my throne. 
+Death itself could not hold me. 
+I live to avenge! 
+My work was not finished. 
+I live! 
+I'll meet death on my own terms. 
+Dragonus didn't think that you would fight for me. It was wise of you to pay this debt. 
+Steer clear of Dragonus. He never really liked you. Following that, steer clear of me. 
+Did you ever find that blacksmith? 
+What WAS that blacksmith's bounty, I wonder? 
+I should have killed you in Skywrath. Just for the stink. 
+I don't need assassins. I learned long ago how to kill for myself. 
+So here's where you ran off to... 
+I should have killed you back at Midgate. 
+I flap my wings and you -- disappear. 
+Why must I waste my time on this? 
+You lower yourself here. 
+I admire the zeal, but not the quest. 
+Enough with your games. 
+You never understood what it meant to lead. 
+What power could you have over me? 
+I should stake you out for the crows. 
+Can you fly without your bat? Let's throw you off a peak. 
+I'm soaked in blood. But you'll get none from me. 
+Like I said -- our business is done. 
+I prefer order. 
+You're lucky we're not in Skywrath. They'd have you hunted down for sport. 
+Young... You remind me of my sister. 
+I fight for my kingdom. You fight for a dead cause. 
+I pity you, Krobelus. Let this be a brief release. 
+I thought you were the one who knew better. 
+I already made a deal with the devil. A better one than you. 
+We take no pleasure in this. 
+Poor ranger. Flying targets are much harder to hit. 
+You played your part in this. 
+A simple gust to extinguish your flame. 
+I won't let the schemes of outsiders harm those in Skywrath again. 
+You call that flying? 
+Reduced to a ratter, dealing with pests. 
+You wanted to die. 
+Study all the spells you want. You can't go face to face with a queen. 
+Fly together, die together. 
+You're just a twisted thief. At least MY cause was just. 
+What am I, a gardener? How hard can it be to kill a weed? 
+You have a twisted sense of self-importance. And that's coming from a queen. 
+You should have just cracked your own skulls together and saved us all the trouble. 
+Better to kill you here than find your dagger in my back. 
+You don't look like magus royalty to me. 
+Aw. Let it all out. 
+You should have saved your shackles for the real threat -- me. 
+WE decide who is silent and who can speak. 
+The ones closest to me are hardest to trust. 
+Keep your leash to yourself. 
+I thought you smelled bad on the outside. 
+You have to do more than wing me, little man. 
+This realm doesn't wan't you. Die with the rest of the self-important demi-gods.  
+The storm abates. 
+The clouds have passed. 
+The bigger the sword... 
+Perhaps your sword wasn't big enough. 
+How many times must I spurn you? 
+You give obsession a bad look. 
+Will your science save you? 
+Your kind feeds off our filth. 
+You poor foul wretch of a thing. 
+Simple. Destroy the brain. 
+Things were better before you were here. 
+Regrets don't wash away your sin. 
+Terrible judgement detracts from your passable aim. 
+I don't know what you wanted, little man. But enough with your vile tricks. 
+I know what it means to lose a kingdom. You earned this. 
+Soul stealer. You are worth my vengeance. 
+You couldn't rule yourself. 
+You call yourself a god. 
+Now the worms eat you. 
+You are the master of nothing. 
+I am not entertained. 
+I cut your strings, puppet. 
+Every Queen needs a jester. 
+Not so chatty now, are you? 
+I still remember how to cheat death. 
+I cheat death again. 
+Wait until we see the fear in their eyes. 
+A shield for the righteous. 
+May it fortify me. 
+Grant me protection. 
+A shield for new wings. 
+Shitty wizard. 
+Shendelzare I remain. 
+Vengeful Spirit no longer. Shendelzare I remain. 
+Vengeance is mine. 
+Skywrath is mine. 
+I have returned for my rightful throne. 
+Vengeance to all usurpers. 
+Feel the wrath of my vengeance. 
+What wretch here is worth my vengeance? 
+The Queen returns. 
+My revenge, and my hate, I set loose on this world. 
+To safety. 
+My life for yours. 
+Flee, friend! 
+Watch out! 
+Get back! 
+Never turn your back on the queen. 
+Let me introduce you to my friends. 
+Reversal of fortune. 
+I wouldn't want to trade places with you again. 
+I thought I'd see things from your position. 
+They might see me take wing... 
+Just need...a moment... 
+I won't let them take me again. 
+To safety... 
+To tend my wounds... 
+Out of harm's way. 
+Away to fight another day. 
+Vengeance shall have to wait. 
+This isn't over. 
+We thank you. 
+The crown owes you a debt. 
+We should build some in Skywrath. 
+Faster than flight. 
+From here...to there. 
+For those too lazy -- or busy -- to fly. 
+They attack the Queen! 
+Skywrath! To me! 
+I am under attack! 
+Tell me what you see. 
+Grant me the honor of your sight. 
+Our eyes across the land. 
+A watchful eye. 
+And let us keep it. 
+I should have...known better... 
+Too close to the sun... 
+Worth the price in pain. 
+Power for a price. 
+Water of life. 
+An early boon. 
+The perfect antidote. 
+I won't refuse. 
+Cower. 
+I'll find your fears. 
+Wimper, fools. 
+Cower before me. 
+My power echoes. 
+My power echoes. 
+Tremble at my voice. 
+Weep. 
+Hear my voice and crumble. 
+The last sound you hear. 
+Heed your doom. 
+Choke on fear. 
+Fear me. 
+Please. At least TRY to make this interesting. 
+Rise again, FALL again. 
+Do you need me to show you how? 
+What I can see, I can strike. 
+Bow to your queen. 
+Peasant. 
+Where do you think you're going? 
+I haven't had that much fun since I killed my sister. 
+You have no place in the skies. 
+You fall better than you fight. 
+If it's any consolation, you never had a chance. 
+To think you could win was a flight of fancy. 
+Stop giving me more reasons to wreak vengeance! 
+I suppose I can always use more practice. 
+I've had more resistance from a gentle breeze. 
+You surprised me. I expected a challenge. 
+You should be very proud that you at least tried. 
+Try to die with some dignity. You're fighting a queen. 
+Try to die with some dignity. You're fighting a queen. 
+Please. At least TRY to make this interesting. 
+Rise again, FALL again. 
+Do you need me to show you how? 
+Do you need me to show you how? 
+What I can see, I can strike. 
+What I can see, I can strike. 
+Bow to your queen. 
+Peasant. 
+Where do you think you're going? 
+I haven't had that much fun since I killed my sister. 
+Who are you anyway? 
+In your future? A high fall. 
+You have your orders. 
+Who are you anyway? 
+In your future? A high fall. 
+You have your orders. 
+When vengeance comes, YOU will be spared. 
+Your service won't be forgotten. Until later. 
+When vengeance comes, YOU will be spared. 
+Your service won't be forgotten. Until later. 
+Victory! 
+Back to the business of rule. 
+Victory is ours! 
+By my wings! 
+Vengeance is mine! 
+A welcome mystery. 
+Wisdom brings strength. 
+That much closer to finishing this. 
+The proper wisdom to rule. 
+Yes... 
+Yes. 
+Yes! 
+Yeeesss! 
+Your efforts have already been forgotten. 
+I claim this for the crown! 
+Defend the throne! 
+These wretches don't deserve my help. 
+Enjoy your final moments as much as I am. 
+Face your doom! 
+Know your place. 
+It's mine now. 
+Pathetic. 
+And they will pay for their treachery. In BLOOD. 
+Today you serve a queen. 
+That was terrible. YOU were terrible. 
+Who dares stand in my way? 
+Ha ha ha! You DARE try that with your QUEEN?
