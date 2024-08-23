@@ -1,0 +1,493 @@
+ular 
+second 
+Do not 
+Treasure 
+Gem 
+Genuine 
+Genuine 
+Do not localize 
+Do not localize 
+Treasure 
+Gem 
+Unusual 
+January 
+February 
+March 
+April 
+May 
+June 
+July 
+August 
+September 
+October 
+November 
+December 
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+Sunday 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Saturday 
+Sun 
+Mon 
+Tue 
+Wed 
+Thu 
+Fri 
+Sat 
+Su 
+Mo 
+Tu 
+We 
+Th 
+Fr 
+Sa 
+Today 
+Tomorrow 
+Yesterday 
+_ 
+_ 
+AM 
+PM 
+1 
+1 
+04 
+02 
+1 
+%s1/%s2/%s3 
+%s2/%s1/%s3 
+%s1/%s2 
+%s2/%s1 
+%s1, %s2 %s3, %s4 
+%s1 %s2, %s3 
+%s1 %s2 
+%s1 %s2 %s3 
+%s1 %s2 %s3, %s4:%s5 
+%s1 %s2 %s3, %s4:%s5 %s6 
+%s1 %s2 %s3, %s4:%s5:%s6 
+%s1 %s2 %s3, %s4:%s5:%s6 %s7 
+%s1 %s2 %s3 %s4:%s5:%s6 
+%s1 %s2 %s3 %s4:%s5:%s6 %s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 %s8 
+%s1:%s2 
+%s1:%s2 %s3 
+%s1:%s2:%s3 
+%s1:%s2:%s3 %s4 
+%s1 
+%s1, %s2 %s3, %s4:%s5 
+%s1, %s2 %s3, %s4:%s5 %s6 
+%s1 %s2, %s3 (%s4:%s5:%s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+Max %s1ms | Avg %s2FPS 
+%s1 ping 
+↓%s1% 
+↑%s1% 
+Slow server frame: %s1ms 
+Command queue starved 
+Excess command queue 
+Driver out of date 
+Interpreting bind command as: 
+If the binding doesn't work and you're not using a US English keyboard, you should try: 
+United States 
+Afghanistan 
+Åland Islands 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antarctica 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Bouvet Island 
+Brazil 
+British Indian Ocean Territory 
+Brunei Darussalam 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Republic of Cabo Verde 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo 
+Congo, the Democratic Republic of the 
+Cook Islands 
+Costa Rica 
+Côte d'Ivoire 
+Croatia 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+French Southern Territories 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guernsey 
+Guyana 
+Haiti 
+Heard and Mc Donald Islands 
+Vatican City State (Holy See) 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Korea, Republic of 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Lao People's Democratic Republic 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+North Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia, Federated States of 
+Moldova, Republic of 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+Netherlands Antilles 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestinian Territory, Occupied 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Pitcairn 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Reunion 
+Romania 
+Serbia 
+Russian Federation 
+Rwanda 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+Sao Tome and Principe 
+Saudi Arabia 
+Senegal 
+Serbia and Montenegro 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Georgia and the South Sandwich Islands 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Eswatini 
+Sweden 
+South Sudan 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania, United Republic of 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom 
+United States Minor Outlying Islands 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Venezuela 
+Viet Nam 
+Virgin Islands, British 
+Virgin Islands, U.S. 
+Wallis and Futuna 
+China 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
+Beyond the walls of Frostreach, the withering winds endlessly blow. 
+Behind the walls of Frostreach, the frontier laws of Icewrack still hold. 
+Only the mightiest warriors will find a hero's welcome 'round the hearth of the Severed Head. 
+Roaring fire and flying fists -- a hero tests their mettle to brave the Severed Head. 
+In a cold and savage land, nothing is colder or more savage than the violence we inflict upon eachother. 
+Hear the howling winds of the frozen wastes -- drowned out by the howling cries of the fallen wasted. 
+Beyond civilization. Beyond sanity. Where madmen come to die and the needle of the compass points to white-out oblivion. 
+The north. Where bones chill, flesh freezes and death comes in a breath. 
+Legend of this epic clash will echo for eternity. 
+In this great hall of champions, a new path to glory awaits. 
+A new challenger appears. 
+Continue 
+Fight 
+Fight! 
+K.O. 
+K.O. 
+K.O. 
+Knockout 
+A hero has fallen 
+Perfect 
+You win. 
+You lose. 
+Defeat. 
+Defeated. 
+Try again. 
+Ready 
+Round One 
+Round Two 
+Round Three 
+Round Four 
+Round Five 
+Final Round 
+versus 
+versus 
+wins! 
+victory! 
+Bristleback 
+Baring his back to the world, a bitter brawler's battle blossoms into war. 
+Looking to reclaim his title as the baddest brute in any bar, Bristleback is out for blood. 
+He has traveled untold miles to reclaim his title as the world?s most renowned brawler. 
+The shame of defeat has hounded him for years. Now he?s here to regain his honor. 
+Over the years, only one has stood over him, victorious. Now, he looks to right that wrong. 
+The only thing sharper than his quills is his instinct...for violence. 
+Possessed of a thousand spikes, but only one desire: to see his enemies bleed. 
+His steely glare pierces his challenger's souls. His iron barbs pierce their bodies. 
+When he turns his back on you, the fight has just begun. 
+Dawnbreaker 
+The arc of this burning hammer spreads the light of justice even in blackest night. 
+Lost for ages in darkness, refueled now by the light of a sentient star. 
+This bastion of goodness wields a mighty hammer that has felled countless foes in service of the light. 
+Bringing her hefty hammer to the frozen tundra of Icewrack, she seeks to mete out justice. 
+A punishing force of light, will the darkness of Icewrack?s wintry tundra soften her hammer's blows? 
+A golden warrior molded from the metallic heart of a young star. 
+Bringing light to the darkest corners of the universe comes the shining herald of the order of light. 
+Setting fire to the heavens with each swing of her celestial hammer, this solar sentinel purges the cosmos of creatures of darkness. 
+A harbinger of hope as brilliant as a supernova. 
+Marci 
+Both moon and mid-day star honor the courage of steadfast friends. 
+Her small stature belies a brutality that helps her crush opponents twice her size. 
+Loyal companion to those she deems friends. Deadly combatant to her foes. 
+Seemingly friendly and carefree, this freckled fighter loves to whistle while she hurts. 
+A royal confidante to her friends. A royal pain to her foes. 
+Her stature may be diminutive, yet her courage can never be diminished. 
+Small in stature but giant in guts: no companion was ever as true or as fierce. 
+A tiny terror and a pint-sized protector with a heart bigger than any battlefield. 
+Tusk 
+Frozen fists held high, the mighty pride of Cobalt faces any foe. 
+Where the Terror from the Barrier roams, the sounds of battle always follow. 
+A broadfisted basher -- he backs his meaty boasts with a whale of a punch. 
+This brutal behemoth is as cold and unforgiving as the frozen wastes of his homeland. 
+This huge hometown hero draws challengers from across the land. They always regret their decision. 
+A local legend, he stands undefeated in The Severed Head?and everywhere else. 
+The Terror from the Barrier hates two things: losing and visitors taking up space in his local bar. 
+This gentle giant is quick to share a drink, but quicker to snap the bones of those who challenge him. 
+The tusked titan. The hulk with bulk. The pinniped of dread. All fear Ymir. 
+With a mighty bellow that shakes barrooms and battlefields, the alpha bull establishes his dominance in a territorial display of incredible power. 
+Nothing runs as cold as the ice in his veins. 
+Vengeful Spirit 
+Shen 
+Shendelzare 
+What treachery has stolen, only vengeance can reclaim. 
+The agonies of exile demand redress through righteous vengeance. 
+What dark delights might slake the thirst for vengeance? Only the gods may know. 
+A queen in waiting, deposed by her sister, Shendelzare has wrath to spare. Woe unto those who must face it. 
+This once-proud noble will do anything and battle anyone who stands in the way of reclaiming her throne. 
+This fallen fighter will stop at nothing to reclaim her former glory. 
+Robbed of her birthright. Ready to take life. A fallen princess. The essence of vengeance. 
+With dark energies and even darker desires, the savage scion of Skywrath will have her satisfaction. 
+From the Ghastly Eyrie to the depths of fanatical fixation, confusion and chaos are her closest friends. 
+Maimed and martyred. Her subjects may never accept her rule. Her opponents may have no choice.

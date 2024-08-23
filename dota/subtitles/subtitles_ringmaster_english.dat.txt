@@ -1,0 +1,1381 @@
+ular 
+second 
+Do not 
+Treasure 
+Gem 
+Genuine 
+Genuine 
+Do not localize 
+Do not localize 
+Treasure 
+Gem 
+Unusual 
+January 
+February 
+March 
+April 
+May 
+June 
+July 
+August 
+September 
+October 
+November 
+December 
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+Sunday 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Saturday 
+Sun 
+Mon 
+Tue 
+Wed 
+Thu 
+Fri 
+Sat 
+Su 
+Mo 
+Tu 
+We 
+Th 
+Fr 
+Sa 
+Today 
+Tomorrow 
+Yesterday 
+_ 
+_ 
+AM 
+PM 
+1 
+1 
+04 
+02 
+1 
+%s1/%s2/%s3 
+%s2/%s1/%s3 
+%s1/%s2 
+%s2/%s1 
+%s1, %s2 %s3, %s4 
+%s1 %s2, %s3 
+%s1 %s2 
+%s1 %s2 %s3 
+%s1 %s2 %s3, %s4:%s5 
+%s1 %s2 %s3, %s4:%s5 %s6 
+%s1 %s2 %s3, %s4:%s5:%s6 
+%s1 %s2 %s3, %s4:%s5:%s6 %s7 
+%s1 %s2 %s3 %s4:%s5:%s6 
+%s1 %s2 %s3 %s4:%s5:%s6 %s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 %s8 
+%s1:%s2 
+%s1:%s2 %s3 
+%s1:%s2:%s3 
+%s1:%s2:%s3 %s4 
+%s1 
+%s1, %s2 %s3, %s4:%s5 
+%s1, %s2 %s3, %s4:%s5 %s6 
+%s1 %s2, %s3 (%s4:%s5:%s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+Max %s1ms | Avg %s2FPS 
+%s1 ping 
+↓%s1% 
+↑%s1% 
+Slow server frame: %s1ms 
+Command queue starved 
+Excess command queue 
+Driver out of date 
+Interpreting bind command as: 
+If the binding doesn't work and you're not using a US English keyboard, you should try: 
+United States 
+Afghanistan 
+Åland Islands 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antarctica 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Bouvet Island 
+Brazil 
+British Indian Ocean Territory 
+Brunei Darussalam 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Republic of Cabo Verde 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo 
+Congo, the Democratic Republic of the 
+Cook Islands 
+Costa Rica 
+Côte d'Ivoire 
+Croatia 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+French Southern Territories 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guernsey 
+Guyana 
+Haiti 
+Heard and Mc Donald Islands 
+Vatican City State (Holy See) 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Korea, Republic of 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Lao People's Democratic Republic 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+North Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia, Federated States of 
+Moldova, Republic of 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+Netherlands Antilles 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestinian Territory, Occupied 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Pitcairn 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Reunion 
+Romania 
+Serbia 
+Russian Federation 
+Rwanda 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+Sao Tome and Principe 
+Saudi Arabia 
+Senegal 
+Serbia and Montenegro 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Georgia and the South Sandwich Islands 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Eswatini 
+Sweden 
+South Sudan 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania, United Republic of 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom 
+United States Minor Outlying Islands 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Venezuela 
+Viet Nam 
+Virgin Islands, British 
+Virgin Islands, U.S. 
+Wallis and Futuna 
+China 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
+Ahhh 
+Oooh 
+Ah 
+Awh 
+Ohh 
+I'm feeling inspired. 
+Let's get to work. 
+My public awaits. 
+Show me a trick. 
+Thrill me. 
+You bore me. 
+Cut! 
+Cut! 
+Get off my stage. 
+Don't you know who I am? 
+I don't have to take this. 
+Feeling lucky? 
+Consider this an audition! 
+It's all part of the show! 
+I'm taking home a souvenir! 
+Art is suffering! 
+Death to hecklers! 
+Dialing up the violence. 
+Tik, tok, time to die. 
+Stand still, I just want to try something. 
+You're already part of the act! 
+No safety nets here. 
+What did you say? 
+You can still perform when you're dead. 
+Stop me if you've heard this one... 
+Final... performance. 
+Tough crowd. 
+Hurt people hurt people. 
+I'll show them all. 
+Not done... showing off. 
+Sit back and watch. 
+I'm not broken yet, but you'll be. 
+I'm not done with auditions. 
+We can both die on stage! 
+Time to break a leg. Time to break all the legs. 
+All right, everyone, remember your cues. 
+It's time. Play the music. Light the lights! 
+Raise the curtain -- it's time to put on a show. 
+Remember -- if you forget your lines, I'll kill you. 
+Iiiiiit's showtime! 
+The show is on the road! 
+Let's go break some legs out there. 
+Time to cut a smile on some faces! 
+Blink Dagger 
+Now you see me... 
+Faster than the eye can see, move clever than the mind dares contemplate. 
+We'll put on quite a show. 
+For the afterparty. 
+Strange times, indeed. 
+How do they fit? 
+In case the audience gets unruly. 
+Oh is this for me? 
+Bounty. 
+Better than an ace note -- this thing's solid gold. 
+I'll keep the lion tamer's share. 
+Hands off the talent. 
+That one's under contract. 
+Get off the stage! 
+Almost missed my cue. 
+I told you not to step on my lines. 
+Costume change. 
+A star in the making. If they survive. 
+Mind the stabby bits. 
+That one belongs to me. 
+Oh no you don't. 
+Get the hook. 
+Watching closely? 
+I don't use carrots -- only sticks. 
+I've been saving this one. 
+Time for a crowdpleaser. 
+Would it kill you to smile? 
+And for my next trick... 
+Watch very closely now! 
+My audiences simply DIE for this one! 
+Hold your applause! 
+The magic of the stage! 
+Another showstopper! 
+A little slight of hand and... 
+I've got just the trick for you. 
+I love a captive audience.  
+No refunds! 
+Just a few more tricks. 
+No bowing out. 
+I'll take 5 after this. 
+The show isn't over! 
+Crummy wizard. 
+I told you we should have rehearsed... 
+Just an artist... unappreciated in his own time... 
+And now...a brief intermission... 
+That's just part...of live entertainment. 
+Life's...a circus. 
+So that's how...this act ends... 
+I'm sorry -- that area's off limits to spectators. 
+That's it... Fold the show. 
+Everyone's a critic! 
+Exit, stage death! 
+To the scrap heap! 
+Not even a curtain call! 
+But I'm not done yet! 
+My gears are... (slowing to nothing) 
+My master was right! 
+Is this my final performance? 
+Cancelled in my prime! 
+And that's our show! 
+I...quit. 
+Throw me on...the scrap heap. 
+What's in the box? Me! 
+Dress rehearsal is over -- now it's showtime. 
+I assure you, friends, I was in no danger at all. But you are. 
+Welcome, welcome -- to the very last performance you'll ever see. 
+Good evening, gentle gallery. Tonight's show is, simply put, to die for. 
+I'm sorry to keep you all waiting. 
+You won't believe your eyes! 
+Take your seat. The show's about to begin 
+Try your luck with me! 
+The rampage of a lifetime awaits! 
+The talent has arrived! 
+All the world's a stage of pain. And I'm the director. 
+When do I meet my co-stars? 
+Nobody likes when a show starts late. 
+Are we EVER getting this show on the road? 
+I'm late for my cue. 
+Either buy a ticket or step away from the box office. 
+Denied. 
+Denied. 
+Denied! 
+Now that, my friend, was a deny. 
+I know a clown when I see one. 
+Stunned silence, I see. 
+What are you just standing there for? 
+You can do better. 
+Did I step on your line? 
+Stop me if you've heard this one. 
+Spare me. 
+No freebies. 
+Level up, buttercup. 
+Uh-uh-uh. 
+Denied. 
+No. 
+Next. 
+Don't waste my time. 
+Nice try, bumpkin. 
+Amateur. 
+I'm sure it stings. 
+You'll get over it. 
+Oh please... 
+What's your excuse? 
+Double damage. 
+We'll knock 'em dead. 
+Commence with the leg breaking. 
+I've seen that one before. 
+This might do. 
+Well what have we here? 
+I'm speechless. 
+Once more, with feeling. 
+Take it again -- from the top. 
+Ahh, First blood! 
+First blood! The most amazing, the most astounding murder of all time. 
+First blood. I hope you didn't blink. You'll never see its likes again. 
+First blood, best blood. 
+First blood. Curtains up for us -- but yes, down for you. 
+First blood. Gone too soon. Oh well, on with the show. 
+First blood. I AM the master of ceremonies after all! 
+First blood. A good Ringmaster always sets the tone. 
+First blood. And the first ovation goes to ME. 
+First blood. Now everyone's REALLY watching! 
+Ha haa 
+Oh ho ho 
+Ahhh 
+Ohhh ho ho ho hoo 
+Ahh ha ha haa hooo 
+Ah ho ho ho 
+Haste 
+My gears are whirling. 
+Double time. 
+Offend one and you offend us all. 
+A master for each ring. 
+Hello handsome. 
+Illusion 
+Immortality! 
+Now we can put on two shows. 
+Just try and stop me. 
+Stay very very still. Or don't. 
+Don't worry. I never miss. 
+Oh, we do this trick differently in my show. 
+This isn't butchery, it's art. 
+Now where did I put that apple? 
+Where will they go? Only I know. 
+The knives are sharp, the tears are real. 
+Catch. 
+You forgot this. 
+And one for you. 
+I can do it with my eyes closed. 
+The knives are real. The trick is that it's not a trick. 
+Oh you can't leave now. 
+You're going to miss the best part. 
+Hey, look over here. 
+Do me a favor? 
+Hold this. 
+Where do they all fit? 
+I've got something in the bag they've never seen. 
+What have I got in the bag? What do you want it to be? 
+By the most spectacular means imaginable, necessary or otherwise, this one is in the bag. 
+Invisibility 
+But what about my smiling face? 
+I don't like it -- turn it off. 
+They call me a fiend already -- I might as well play the part. 
+Aeon Disk. A mystery for the ages. 
+They'll hear of me in every city and every podunk town. 
+The show never has to stop. 
+I don't like the look of it. 
+A curious cuirass... 
+It's all fun and games until someone gets their face bashed in. 
+A golden harvest awaits. 
+Even the mightiest of mages will find their magics muted. 
+If you prick me, will you not bleed? 
+Santa Sangre! 
+I must have it. 
+Boots, don't fail me now. 
+Oh, a tiny laurel. 
+Butterfly 
+How many do I need? 
+What? Why me? 
+If I must. 
+Art on the bleeding edge. 
+I think we've got a hit on our hands. 
+Dagon 
+Desolator 
+Diffusal Blade 
+I was aways divine -- but now I've got a rapier. 
+So they can hear us in the back. 
+We'll use them in the pit. 
+If we can see it, we can kill it. Seems pretty simple to me. 
+Is there an echo in here? 
+My master favored the bottle. I don't drink. 
+Ethereal Blade 
+Deus Ex Staff-ina 
+There's a good gag in this... 
+Truesight? At a magic show? Why would I want that? 
+It's almost too easy. 
+Magic almost takes the fun out of it. 
+I'm not in it for the money -- but I'll still take it. 
+Is that a bottle of paint? 
+Sure, a tarrasque. Just admit it's an elephant. 
+Heaven's Halberd 
+Where have you been all my life? 
+But no one to woo with it... 
+Hurricane Pike 
+Shadow Blade 
+Kaya 
+Kaya and Sange 
+In case they bring rotten fruit... 
+Maelstrom 
+Is that what I think it is? 
+My face was already perfect. 
+A little pick me up between acts. 
+Meteor Hammer 
+Mjollnir 
+It still carries that monkey stink. 
+Nullifier 
+Could you do two for one? 
+I've had my eye on this. 
+I'm a master of malevolence. 
+Well toot my whistle. 
+Is my paint starting to peel? 
+This'll be a hell of an encore. 
+Sange 
+Sange and Yasha 
+Good and evil? I don't believe in all that. 
+Someone's always sneaking around trying to steal my tricks. 
+Absolutely abhorrent. I'll take two. 
+Shiva's Guard 
+Silver Edge 
+Eye of Skadi 
+It's all smoke and mirrors. 
+Solar Crest 
+And they call me soulless. 
+Oh, wasn't this Linken's? 
+Oh, I sell these. Penny rot drivel. 
+Sometimes the show's gotta pack it up quick. 
+What power dwells in the urn of shadows? 
+Where I come from, discord is high art. 
+Yasha 
+Yasha and Kaya 
+Define 'consume' for me. 
+The falcon blade... 
+From ringmaster to overlord -- I like it. 
+A squirrel made this? Really? 
+Mage-master has a nice ring to it. 
+Where was I going with this? 
+Those witless sacks of blood won't know what hit them. 
+I've seen better. 
+Not what I'm looking for. Next! 
+I've left better scraps on my workshop floor. 
+No. I don't think so. 
+This isn't some county fair. 
+Perfectly educational for you, and adequately entertaining for me. 
+This is quite possibly the biggest thing that has ever happened to you. 
+That one didn't have a ticket. 
+Buy the ticket, take the ride. 
+Buy the ticket, take the ride. 
+It's why I get top bill. 
+Really? I hadn't heard of you... 
+It's just not working out. 
+Get away from me you gormless tool. 
+No unsolicited material. 
+That was an audition for the ages. But you failed. 
+Don't forget to leave a review! 
+And scene! 
+No ticket, no show! 
+You'll make a GREAT addition to my cast! 
+I thought I was going to meet some talent! 
+You're worse than weak; you're boring. 
+Walk towards the spotlight! 
+Hope you enjoyed the show! 
+Big finale! 
+Now this is a grind show! 
+Mine. 
+I'll take that. 
+The price of admission. 
+No refunds. 
+Do you hear that? 
+Your coins purloined. 
+A true patron of the arts. 
+A lovely jingle. 
+Every copper counts. 
+That little wretch was hiding gold. 
+Empty your pockets. 
+A real ear-pleaser. 
+No sweeter melody than Gold und Silber. 
+A nice little take. 
+Make sure that's real. 
+I wasn't asking. 
+Give it. 
+Mine. 
+For the arts. 
+Another one for me. 
+Shiny. 
+Was it worth it? 
+I've got bills to pay. 
+Perfect. 
+I need it for repairs. 
+Ha ha ha ha ha 
+Ha ha ha ha ha 
+Ah ha ha ha ha ha 
+Ah ho ho ho ho ho 
+Ah ha ha ha ha ha haa 
+Ah ha ha hoo 
+Ah ha ho ho ho ho hoo 
+Ah haa ha ha ha ha ha ha ha 
+Ah ha ha ha ha ha ha ha haa 
+Ah ha ha ha ha ha ha haa 
+I'm in it for the power -- but I'll take the acclaim. 
+Time to raise my rate. 
+Boundless magnificence. 
+Once of humble origins -- now I positively glow. 
+I'd like to thank: me. 
+Everything you've heard about me? It's all true. 
+The benefits of a classical education. 
+My maker would be so proud -- if I hadn't killed him. 
+Have the grinders heard the news? 
+Next stop, stardom! 
+Standing ovation! 
+I'm hitting the big time! 
+Even my victims would be proud. 
+Now the REAL show can begin. 
+The crowds just adore me! 
+I just came up with a new act! 
+My master would be so horrified. Or filled with envy. I love it! 
+Good art SHOULD be rewarded! 
+The reviews are in and I'm a hit! 
+Some of us were born to be stars. Others were made. 
+No no no no no! That's not how we rehearesed! 
+Do you see what I have to work with? 
+Why do I even bother? 
+My life's work in pieces -- for this? 
+I hate it I hate it I hate it. 
+My fault? I'm not the one who missed my cue. 
+Why do I even try? 
+A lovely little lotus all for me. 
+A flower so fragrant it flourishes on my lapel. 
+I love to stop and smell a lotus. 
+Don't mind me. 
+A flower by any other name...would be useless. 
+Top is missing. 
+Top is missing. 
+Middle is missing. 
+Middle is missing. 
+Bottom is missing. 
+Bottom is missing. 
+You see me at the start of my story. Here is my beginning -- but I have no wish to stay here. 
+The fame and fortune for which I was destined -- made, if we're to be crude about it -- has so far eluded me. 
+My adoring public insists on missing out. My mistake was waiting for my public to come to me. 
+I must go out and find my audience, and bring them here, and make them watch. 
+Show business has a broad spectrum of dignity... 
+From the exhibition of a dancing monkey to the entrancing of empires, securing for a gifted showman like myself a fame which princes may envy. 
+My career is currently more in the monkey exhibition end of the spectrum than empire entrancement. 
+But baby steps. 
+I'm just the simple proprietor of a simple circus. 
+And despite what they say, it's not dangerous to ANYONE. 
+Look! Look at all my clowns and acrobats and fantastical beasts -- with such big smiles on their faces! 
+See their tears of pure delight. 
+I'm always holding auditions for my next performer. 
+What do you think? Do you have what it takes? To be a star? 
+Oh, but I'm bored with the trade of a traveling showman.  
+The capturing of creatures, the torturing of same, the eventual capering they perform under threat of still more torture... 
+Am I good at it? Yes. Gods yes.  
+But I think I have more to give the world.  
+Someday I could torture kings. 
+My creator was a master craftsman, you know...Before the bottle took him. 
+With naught but a block of wood or an ingot of iron, he could make small miracles. 
+A toy here for a crying girl, a pocket watch there for the ringer of an old church bell. 
+But small miracles are never enough, are they? There's always MORE humans want. 
+For his part, my master wanted a legacy. He wanted fame. 
+He wanted to show the entire world the wonders he could conjure with simple tools and his bare hands. 
+And for a time, he used me to chase that... dream. 
+Sadly, even for a miracle maker, dreams don't always come true. 
+Eventually... Well, let's just say that his star faded. And I had to branch out on my own. 
+I'll always remember his last words to me --  
+Gyaaa---ahahahah! 
+I couldn't have said it better myself. 
+So dramatic to the very end. 
+With that, let me assure you, gentle patrons. 
+Tonight's show offers far more than your mere money's worth. 
+This clockwork marvel didn't fall at all far from his maker's brilliant bench. 
+Step to it. 
+Wind me up... 
+Let me go. 
+Places, people. 
+Step right up. 
+Who asked you? 
+I think I can handle it. 
+I'M the leader of this show. 
+Scouting locations? 
+Perfect! 
+Nothing would please me more. 
+Just because I say. 
+Proper blocking is paramount. 
+What, no advance? 
+What's the ballyhoo? 
+What is the ballyhoo? 
+Itchy feet? 
+One gear in front of the other. 
+Bump ba dump ba da da dee dump, ba dump ba dump be do do 
+Be dum be doop be doopeedoo doop boop boop be doo doo 
+Bump ba dump ba da da dee dump, ba dump ba dump be do do 
+Be dum be doop be doopeedoo doop boop boop be doo doo 
+Pulling up stakes! 
+Taking the show on the road! 
+This circus travels! 
+My master should've built me with wheels. 
+Getting in gear. 
+Arrump ba doo dee doo dee doop ba da da, yump bump bada da da dun bada 
+Yump ba da da da yump ba da da da ug gu gu bgh gh gh ghp 
+Arrump pa da da da dun dun da da yunt dun da da da dun dun da da 
+A yunt da da da da yunt da da da da yunt da da dada daadadaahahhhh 
+I've got a spring in my step. 
+Come one, come all! 
+Coming soon to a village near you! 
+Coming soon to a village near you. 
+Who wants to be my next audition? 
+Like a real boy. Ha. 
+Yes, yes. 
+There. 
+My pleasure. 
+I hate losing parts. 
+Just a...setback. 
+The show must go on... 
+I need an understudy. 
+I hate road gigs. 
+Just a few more tricks... 
+Should've stolen a little keen car. 
+Yes... 
+Certainly... 
+No... 
+No. 
+No! 
+Noooo! 
+No mana, no mayhem. 
+No mana. 
+No mana! 
+I feel a certain lack of mana. 
+I need mana. 
+Get me mana! 
+Mana makes the magic happen. 
+Where's the mana? 
+More mana! 
+For mana, I entreat you. 
+Get some mana. 
+There's no mana! 
+Sure, for a bit of mana. 
+Not without mana. 
+Mana, you fool! 
+Wait for it... 
+Wait your turn. 
+I said wait! 
+Not ready. 
+Not. Ready. 
+It's not ready! 
+No no. Not yet. 
+Not yet. 
+Not yet! 
+Hold your horses. 
+Restrain yourself. 
+Stop asking that! 
+We're closed. 
+Not now. 
+Shut up! 
+A brief residency, I assure you. 
+Fine. Set up the tents. 
+The foot traffic could be worse. 
+What, here? This is a terrible place. 
+Does anyone even live around here? 
+Ugh 
+Urgh 
+Oh 
+Ah 
+Ahh 
+Agh 
+Ohh 
+Chop chop. 
+Snap to, I haven't got all day. 
+Are you in charge of props? 
+Looking for work? I don't pay well, but you could see the world. 
+We'll make it work. 
+Regeneration. 
+Like a new coat of paint. 
+I wasn't sure this would work for me. 
+The show simply must go on. 
+I only play dead. 
+I thought it was curtains. 
+That's why we rehearse. 
+Nothing for it really, my audience needs me. 
+Let them laugh. Ha! I know how this show ends. 
+There's one born every minute... 
+Well that was a neat trick. 
+A star is re-born! 
+Don't worry, it's all part of the act! 
+Back by popular demand! 
+Back to one! 
+Like clockwork. 
+They'll never find my killswitch. 
+Time for an encore! 
+That was just a dress rehearsal. 
+The torture has just begun! 
+My run's been extended! 
+Your mists were obscuring my limelight. 
+I don't deal with horse operas. Just not a good fit. 
+Do you have a silly little potion for that? Didn't think so. 
+Engineering always beats chemistry. 
+What a shame. Half of them looked useful. 
+I'm going to sell so many snow cones! 
+No blood? No viscera? Such a disappointment. 
+You can't counter a clock, wiseapple! 
+And now you're Anti-Living! 
+Monks are best when they're silent. 
+I don't do two for one sales! 
+I honestly expected there would be fish inside that bowl. 
+Maybe this will stop all that shaking. 
+All the world's a stage. Except where you are. It's a cemetery. 
+I could always use another strongman. 
+You'll be useful once I break you of that shouting. 
+I think you have something in your teeth. 
+Always leave them smiling! 
+I'm tired of your feats of aerial derring-do. 
+I'll charge for bat rides. 
+I'm leaving the rider and taking the bat. 
+Finally, we see who the true master is. 
+Your little pets will be perfect in my show. 
+Someone needs to go back to beast school. 
+You came looking for blood in the wrong place. 
+You're going to make my show a scream! 
+You'll be my angriest attraction yet! 
+You have to be a better hunter to get the bounty. 
+Did one of Kettle's debtors put a bounty on me? 
+You're getting chained to my beer tent. 
+Cut back on the beer, focus on the fighting. 
+I think you got mucous in my gears. 
+Just stay away from my balloons! 
+Does anyone have a newspaper and broom? 
+I almost miss the days when Kettle would clear out the cobwebs. 
+You forgot about your natural weakness -- clown shoes. 
+You were a one-trick pony, and that one trick was getting killed. 
+You couldn't even earn a nickle in the sideshow carousel. 
+You can lead a horse to water. Then you can kill him. 
+I'm going to use your head as a popcorn maker! 
+Exit, stage left. 
+Nighty night, Chaos. 
+Style! Pizzazz! Charisma! You had NONE of those! 
+Like a puppet on a string. Well, a noose. 
+The heartburn was going to kill him anyway. 
+Just awful craftsmanship. 
+You were a shining example -- of shoddy workmanship. 
+Is..is that flesh and bone? Imposter! 
+Enjoy the chilling embrace...of death. 
+Sorry to melt your chances at stardom. 
+I bet you'd look terrible in a hat. Or perhaps much much better. 
+I don't need another 'mystic' act. 
+A part of me wishes I'd kept you as a pet. 
+Sorry. Fairies only live if the audience claps. 
+Lights out! 
+Dawn has broken. And so have you. 
+She's bright, but not THAT bright. 
+At least you went out smiling, Dazzle! 
+You were a terrible clown and a worse opponent. 
+I prefer my death spelled P-R-O-F-I-T. 
+Having a soul seems so messy. 
+Nobody disrupts MY show! 
+Your body is going to light up the big top! 
+Back to your piddling little hell. 
+Father issues? I can relate. 
+Knight? Dragon? It hardly matters now. You're worm food. 
+Nighty night, Dragon. 
+Poor Slyrak. You're mostly just a man now. Something to be laughed at. 
+I have just the sideshow for your skills. 
+Step right up and lay right down in your shallow grave! 
+Drow are always so humorless. It's depressing. 
+I saw right through your pathetic I'm a drow act. 
+I'll leave it to you to make your own headstone. 
+I'm a stone's throw from victory. 
+Ashes to ashes, dirt to dirt. 
+I'm really more into movers than shakers. 
+Back to the ground whence you came, beast. 
+Like a ram to the slaughter. 
+I guess that 'elder' part doesn't mean much. Unless you just meant old? 
+A pitiful fire snuffed out. 
+No need to send a sizzle reel. I'll be in touch. 
+Ahhh nature. I hate it. 
+Your paltry 'enchantments' hold no sway over me. 
+That was a simple enough riddle to solve. 
+Faceless Void where prohibited. 
+There's no business like show business, except for the killing business. 
+If it's any consolation, you were a bad artist anyway. 
+I'd call your act a brush...with death. 
+Your painting style was pedestrian. 
+No safety net to catch you. 
+Now I can strip it for parts. Not the machine. The pilot. 
+People will pay top gold to ride this copter.  
+What a death scene! If you'd been acting, that would have been award-worthy! 
+You're going right into the petting zoo. 
+I'll add rodent exterminator to my list of accolades. 
+Oh, my audience will love seeing you in a cage. 
+If I had a heart, seeing so much blood would do it good. 
+Aww, is someone feeling blue? 
+Spilling your own blood takes some of the sport out of it... But I don't mind. 
+Tiresome little gnat. 
+I'm keeping the glowy parts. 
+Bury yourself. 
+It's a shame to kill such a good juggler. 
+Excellent color sense, terrible personality. 
+You had balls coming after me. 
+It appears two heads are in fact worse than one. 
+A two for one ticket to the afterlife! 
+It's difficult to decide which of you I enjoyed killing more. 
+I almost feel remorse at rendering your species extinct. 
+Last of your kind. If I had time, I'd have you stuffed. 
+I think I'll keep the light if you don't mind. 
+Sad old men all remind me too much of my master. 
+Live by the sword, die by the Ringmaster. 
+I'm not looking for a water act. 
+What do you do with a drunken sailor? Personally, I like killing them. 
+What you fools never remember is: X also marks the dead. 
+Now we see who was REALLY in command. 
+One-woman army, meet one-woman funeral. 
+An entire side show in just one monster. 
+Being around you makes me ill. And I don't even have a stomach. 
+I know what it's like being controlled. You know what it's like being dead. 
+You were already just bones, so this feels like a half-victory. 
+Love the name, hate the face. That's a face for stage crew. 
+Disgusting, I think I got some of you on me. 
+It was considerate of you to start decomposing before I killed you. 
+Most fires eventually burn themselves out. 
+Too bad. I was just getting warmed up. 
+I've tamed tougher lions than you! 
+The smart ones are always so dumb. 
+I could've tamed you faster if I had a wooden chair. 
+Good night, moon. 
+You've been eclipsed. But I get you're used to that. 
+You'll be perfect for the midnight show. 
+I'm going to need a great taxidermist. 
+Magnificent beast to look at. Not much for fighting, alas. 
+Wouldn't you know -- he was the perfect magnet for my blades. 
+Even gods can't stop me! 
+Why are the self-proclaimed deities always so easy to kill? 
+I'm about to put a God on display! They might buy it... 
+Not everyone can be a star. 
+The moon waned rather quickly tonight. 
+I'll be taking that magic cat, thank you! 
+Your death was written in the stars. 
+I've never captured monkey royalty before! 
+That's one less monkey cage that will need cleaning out. 
+It IS my circus, but you're not my monkey. 
+I'm going to go chop down your favorite tree and turn it into a tent pole. 
+You'll make great fertilizer. And still be doing your part. 
+You like the forest? Well, now it's time for rest. 
+I've spent years around carnies -- I'm immune to disease. 
+Why are the undead always so grouchy? 
+A flea circus, well, that's something. But beetles? Who wants to see that? 
+When it comes to an audience, live bugs are a problem. But dead bugs of your unusual size? Well... That's an opportunity. 
+Twice the heads, half the wits. Better luck next time, rubes. 
+You're both my target audience. 
+I'm looking for freaks, not imbeciles. 
+I'll always remember his laugh. 
+You turn intelligence into power. I turn gullibility into profit. I simply have more to work with. 
+Even I think you're too into yourself, Pangolier. 
+Want to impress me with that sword? Be useful and learn to swallow it. 
+Don't worry, I'll put your blades to VERY good use. 
+Some folk are just more cut out to be the target than the one with the blades. 
+I find it's easier to be an assassin if you don't tell everyone you're an assassin. 
+You're not going to get ME with stealth. I spent my life with pickpockets. 
+Clones?  Boring. Call me when you can turn yourself into conjoined twins. 
+Not one happy clone in the bunch. 
+Everywhere I go, all the suckers look the same. 
+You might be a butcher, but I'm the one who knows how to handle a beef. 
+You don't impress me. I've seen what goes into hot dogs. 
+Just a pickled punk that hadn't yet heard the news. 
+You're also the Queen of FEELING Pain. 
+And we could've caused so much suffering together. 
+Pain doesn't impress me. I've seen guys drive nails into their own heads for a buck. 
+Lightning killed one of my best canvas men during setup. You had this coming. 
+What are you, a goat boy? I've seen better. 
+You call that stealth? Try loading your wagons and skipping town in the middle of the night. 
+I guess your magic act doesn't involve escaping. 
+That's what you get for stealing people's gimmicks. 
+You're not even mechanical! You're just glowy! 
+Good stage name, weak where it counts. 
+I'm a huckster, a hustler and a born carnie. You came looking to steal a soul, you came to the wrong place. 
+Just another demonic bore. 
+As snake charmers go, I've known more charming ones. 
+Turning people into chickens is a start. Not biting their heads off is just poor showmanship.  
+The hushed murmur of the crowd? I revel in it. But silence? That won't do. 
+If there's one thing I love, it's the sound of my own voice. And if there's one thing I hate, it's not being able to hear it! 
+Chop those things off and huck them in the fryer. 
+He soars through the air with the greatest of ease, that daring young man who now begs on his knees. 
+You remind me of a monkey I once saw sewn to a fish. It was dead too. 
+Smelled like a cop to me. 
+You'll be part of my water spectacular! 
+A little clown makeup and you'll be terrifying! 
+Nothing personal. Some of my best friends are ex-cons. 
+Finally, some family friendly violence! 
+Fire breathing, fire eating, fart lighting, whatever. I've seen it. 
+I'm only here for Mortimer. 
+I'm not done with you, sniper. Not by a long shot. 
+Your aim is fine. But this game is impossible to win. 
+Stick to popping balloons and failing to knock down milk bottles. 
+Haunting? Go behind the curtain, and I'll show you things that are really haunting. 
+No, no, no, I said I wanted spectators! 
+Sometimes I think animal acts are more trouble than they're worth. 
+From bucking bull to rodeo clown. 
+Jolly, energetic... You have the makings of a good clown and a bad fighter. 
+This death must come as a shock to you. 
+I had an elephant that got electrocuted once. Consider this payback. 
+I'll give it to you: That was an entertaining human cannonball act. I liked the part when you went boom and died. 
+You're either dying or you're working for me now! 
+I like to kill the cast and the crew. 
+I stopped worrying about bombing years ago. 
+That's what you get, you geologic grump. 
+Look, you're big, you're grey, you're dextrous with a trunk. But I already have an elephant. 
+You'll be my biggest attraction. By volume. 
+You might attract mindless hordes, but I get them to buy tickets! 
+Don't resurrect on my behalf. 
+You're either my new attraction or my new rug. 
+It wouldn't be a carnival if we didn't offer bear claws. 
+You'd have been better off learning to ride a little bicycle. 
+Can't fly without wings? Cry me a river. Ever heard of a trapeze? 
+Now you'll probably want revenge against me. 
+You'll do great in my Vengeful Haunted House. 
+I can take the poison, but I can't abide the spitting. 
+Ooh, a scary snake. It's not every day you face an opponent who can be beaten with a FLUTE. 
+Do you really need all your poison glands? 
+Venom, toxin, whatever. What you are is box office poison. 
+Talk about the animal handling act from hell. 
+Your little demons work for me now. 
+Big deal. You can summon one guy. Call me when it's a paying crowd. 
+Eh, fire acts are a dime a dozen. 
+Tailor costumes, mend tents, whatever. Find a safe backstage role. 
+I handle my own pest control. 
+You can hit a bullseye. But you want to impress me, try doing it blindfolded, or with your feet, or after I've killed you. 
+You've seen one archer in the woods, you've seen them all! 
+Hate the wind. I've lost big tops to blowdowns. 
+Wyverns are just discount dragons. 
+Dragon slayer has a better ring than carnival barker. 
+Pity. You'd have made a perfect pinhead for the freak show. 
+Doctor, un-kill thyself. 
+I genuinely can't tell if you're immortal or dead or both. 
+So you can come back from dying. So what? We've all had bad performances. 
+If you want spirit energy, try the high-spirited energy of live performance! Oh right, you're dead. 
+People will pay a fortune to see a dead god. 
+So much thunder and lightning, and yet no creative spark. 
+You may be the Olympian king, but I'm the master of rings. 
+Ah, the Ultimate Scepter. 
+First I'll kill the Ancient, and then Aghanim is next. 
+At last...Aghanim's scepter. 
+The brighter the lights, the better the show. 
+Light 'em up. 
+Ready for the limelight? 
+Better than a bodyguard. 
+I'm ready for my closeup. 
+Shh. The audience doesn't need to know. 
+Shitty wizard. 
+Ringmaster 
+The Ringmaster 
+The spectacular, the unbelievable...Ringmaster. 
+Humble audience, direct your attention now... To me. 
+The Great Cogliostro. 
+Cogliostro Kettle. I'm sure you've heard of me. 
+I, dear friends, am no mere emcee... No, from the smallest bunting to the grandest marquee, the screams of terror, the howls of joy -- everything you witness tonight all comes down to me. 
+Fear not, friends. You can ride my coattails to victory. 
+I didn't ask to be brought into this world, but into this world I came. 
+I am a showman. The rest of you are the circus. 
+Step right up folks -- and bow to me. 
+Wait'll they get a load of me. 
+All the world's a stage. So you all work for me. 
+You could call it a circus. Combined menageries. Perhaps a carnivale. 
+I'll bring out the best in you if it kills you. 
+It is I! The malevolent maestro, The dark barker of the damned! Ladies and gentlemen, victims of all ages...meet your Ringmaster. 
+Prepare to have your senses shattered! Your expectations demolished! Your ancients smashed to ruins! 
+It is I! The malevolent maestro, The dark barker of the damned! Step right up, victims of all ages...meet your Ringmaster. 
+Prepare to be amazed, astounded, and astonished by the extraordinary talents of your humble Ringmaster. 
+Dramatic entrance! 
+It's the part I was born to play! 
+Pulling myself up by my strings. 
+Places, everybody! 
+Step right up, step right up! 
+I'm wound and ready! 
+Three rings of torture! 
+What a wonderful day for a carnival. 
+I hope everyone remembers their lines. 
+Gaze and know true wonder. 
+Spin the wheel, enjoy the show. 
+Wrap your feeble minds around magnificence. 
+What mysteries await? Dare you look and see? 
+Cue the calliope. 
+Watch closely. 
+Roll out the red carpet. 
+Round and round she goes. 
+And now, the best part. 
+I've been saving this. 
+What wonders await? 
+Where it stops, no one knows. 
+Look into my eyes. 
+You wanted to see a show. 
+Circle the date. 
+You can't look away. 
+Mesmerizing. 
+They'll never want to go home. 
+Slack-jawed yokels. 
+My eyes mesmerize. 
+You're feeling very sleepy. 
+What's wrong? Can't move your legs? 
+You'll wake at the count of three. 
+Born for the spotlight. 
+Hit 'em with the lights. 
+Give me a spot -- there. 
+Feast your eyes upon this. 
+Light it up. 
+Drumroll, please. 
+Time for a closeup. 
+Ready for the premiere? 
+The brightest ballyhoo on the broadway. 
+Don't shy away from the lights. 
+Finally some real magic. 
+Ah, the old disappearing reappearing on the other side of the world trick. 
+Now you see me... 
+On second thought, let's relocate. 
+Tough crowd. 
+If you'll excuse me. 
+We'll be back after a brief intermission. 
+On with the show... 
+Thank you 
+I'm positively humming with gratitude. 
+What would we do without you? 
+My hero. 
+Yes yes, thank you. 
+I'm dying to know how this works. 
+What's through here? 
+I swear I've seen this trick somewhere... 
+I'm under attack. 
+Hey, I'm under attack. 
+I'm under attack. 
+Why aren't you watching me? 
+Get over here, you fools. 
+Hands off! Can't you read? 
+Stop it. 
+Go to sleep, little one. 
+Did they see me? 
+Where they watching? 
+I'd rather keep them in the dark. 
+So much to keep track of. 
+Keep your eyes open. 
+I'm sure I can count on this. 
+What a handy little friend. 
+I was a puppet once, too. 
+Water? 
+Water? 
+I never touch the stuff. 
+Got anything stronger? 
+Wizards are clowns. 
+A sucker spawns every second. 
+I love a good rube. 
+Nothing quite so pleasing as a gullible mark. 
+Don't interrupt while I'm working. 
+That's showbiz, baby! 
+Sorry, I must've missed my cue! 
+The perfect addition to my collection! 
+Let's knock 'em dead. 
+You really thought you could outshine a built professional? 
+I couldn't have done it without the unimportant people! 
+Don't feel bad, I've seen lots of bad performances. 
+One star out of four. 
+You think you're a tragedy, but you're really a comedy. 
+Brilliance is its own reward. 
+Audiences love a little gore. 
+Some people call you friends, I call you co-stars. 
+Everyone's watching us now! 
+My adoring fans hate you. 
+Someone needs to add a little fun to this bloodshed. 
+I'm taking you home in a cage. 
+They said the circus was in town. 
+Oh, well...they did say the circus was in town. 
+Sorry. That ticket's not valid. 
+I'm afraid you're just not very good. 
+Ah ha ha ha ha ha ha ha ha ha haa 
+Ah ha ha ha ha ha ha ha ha ha ha 
+Oh ha ha ha ha ha ha 
+What would I do without you? 
+I appreciate...your little contribution. 
+Whip them into a frenzy. 
+Where there's a whip... 
+Snap to! 
+It's not torture -- it's encouragement. 
+Back. 
+Back! 
+Dance! 
+Play nice. 
+Time for taming. 
+Hands off the merchandise. 
+Do I amuse you? 
+Gather round. 
+Only one way to tame unruly beasts. 
+Line up, I'll get to you in turn. 
+Creature teacher. 
+Not a word. 
+Sometimes it's just for show. 
+Gah. 
+Hrmph. 
+I could have sworn it was longer. 
+The ground trembles. 
+Why! 
+Bloody whip. 
+I said dance! 
+I said back! 
+Just a taste. 
+Cry about it. 
+Out by a lash. 
+Where's the fire? 
+I think we understand each other. 
+Get out of here -- all of you. 
+Scripted to perfection. 
+You see? This is why everyone should listen to me. 
+Take a bow. 
+Well done, everyone. I've got some notes. 
+They love me. They really love me. 
+I'm tingling! 
+I'd like to thank that old witch. 
+Practice makes even more perfect. 
+Finally, a fitting muse. 
+I just had the most wonderful idea. 
+Yes... 
+Yes. 
+Yes! 
+Ah ha ha ha ha hoo. Yeessss! 
+Ah ha ha ha ha hoh Yes!
