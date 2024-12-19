@@ -1,0 +1,1949 @@
+an driver.
+ 
+Failed to initialize NVIDIA driver!
+NVIDIA driver profile error at %s1
+Please visit NVIDIA website to get the most recent version of the graphics drivers and restore your application driver profile and global driver profile to NVIDIA defaults. 
+Not Enough Memory For Game 
+This device does not meet the minimum requirements.
+The game requires at least %s1 of device memory to run reliably,
+you may not be able to complete a game on this device.
+
+The device appears to have %s2 of memory. 
+Low Available Memory 
+Low available system memory detected.
+This may cause the game to be unstable or crash.
+Consider closing any unnecessary open programs to increase system memory availability. 
+Low Pagefile 
+Low disk space on your operating system drive detected, which can limit your pagefile size.
+This may cause the game to be unstable or crash.
+Consider freeing up disk space on your system drive or adjusting pagefile settings in your system properties. 
+Unsupported Windows Version 
+This version of Windows is not supported, please upgrade to a newer version 
+Deprecation Warning 
+The 32-bit version has been deprecated and will be removed, please use the 64-bit version 
+VERSION:  
+Contacting Server 
+Manifest Downloaded 
+Preparing To Download... 
+DOWNLOADING CONTENT 
+An Error Occurred 
+Unknown Error 
+Unable to download manifest 
+Unable to download content file 
+Unable to queue download for content file 
+Insufficient storage 
+Download latest update:  
+Download latest app 
+Play without updating (offline) 
+LOADING GAME... 
+OK 
+Cancel 
+WIFI not active 
+Not Downloading... 
+Press OK to check for WIFI. 
+A new version is available in the App Store. It is required for online play. 
+New Version Available 
+A new app version is available. It is required for online play. 
+A new app version is available 
+Play without updating. Online play disabled. 
+Play without updating 
+Preparing to download %d megabytes of Content - Proceed with download over cellular connection? 
+Proceed with %d megabyte Content download? 
+Content update required: 
+The Internet connection appears to be offline. Please connect to the Internet and try again 
+Exit 
+Settings 
+Storage Permissions are Required 
+In order to install game content, we need access to your device storage. Go to settings to enable the permissions. 
+Content Update Failed 
+A required filesystem operation failed. Please restart the app. If this message persists. Try reinstalling the app. 
+A previous update operation failed and needs an internet connection to recover. 
+English 
+Español (Spanish) 
+Français (French) 
+Italiano (Italian) 
+Deutsch (German) 
+Ελληνικά (Greek) 
+한국어 (Korean) 
+简体中文 (Simplified Chinese) 
+繁體中文 (Traditional Chinese) 
+Русский (Russian) 
+ไทย (Thai) 
+日本語 (Japanese) 
+Português (Portuguese) 
+Português-Brasil (Portuguese-Brazil) 
+Polski (Polish) 
+Dansk (Danish) 
+Nederlands (Dutch) 
+Suomi (Finnish) 
+Norsk (Norwegian) 
+Svenska (Swedish) 
+Čeština (Czech) 
+Magyar (Hungarian) 
+Română (Romanian) 
+Български (Bulgarian) 
+Türkçe (Turkish) 
+العربية(Arabic) 
+Українська (Ukrainian) 
+Español-Latinoamérica (Spanish-Latin America) 
+Tiếng Việt (Vietnamese) 
+Bahasa Indonesia (Indonesian) 
+Failed to load data. Please try again in a few minutes. 
+Loading data... 
+singular 
+second 
+Do not 
+Treasure 
+Gem 
+Genuine 
+Genuine 
+Do not localize 
+Do not localize 
+Treasure 
+Gem 
+Unusual 
+January 
+February 
+March 
+April 
+May 
+June 
+July 
+August 
+September 
+October 
+November 
+December 
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+Sunday 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Saturday 
+Sun 
+Mon 
+Tue 
+Wed 
+Thu 
+Fri 
+Sat 
+Su 
+Mo 
+Tu 
+We 
+Th 
+Fr 
+Sa 
+Today 
+Tomorrow 
+Yesterday 
+_ 
+_ 
+AM 
+PM 
+1 
+1 
+04 
+02 
+1 
+%s1/%s2/%s3 
+%s2/%s1/%s3 
+%s1/%s2 
+%s2/%s1 
+%s1, %s2 %s3, %s4 
+%s1 %s2, %s3 
+%s1 %s2 
+%s1 %s2 %s3 
+%s1 %s2 %s3, %s4:%s5 
+%s1 %s2 %s3, %s4:%s5 %s6 
+%s1 %s2 %s3, %s4:%s5:%s6 
+%s1 %s2 %s3, %s4:%s5:%s6 %s7 
+%s1 %s2 %s3 %s4:%s5:%s6 
+%s1 %s2 %s3 %s4:%s5:%s6 %s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 %s8 
+%s1:%s2 
+%s1:%s2 %s3 
+%s1:%s2:%s3 
+%s1:%s2:%s3 %s4 
+%s1 
+%s1, %s2 %s3, %s4:%s5 
+%s1, %s2 %s3, %s4:%s5 %s6 
+%s1 %s2, %s3 (%s4:%s5:%s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+Frame time 
+%s1ms 
+Max %s1ms | Avg %s2FPS 
+%s1 ping 
+↓%s1% 
+↑%s1% 
+↓%s1ms 
+↑%s1ms 
+Slow server frame: %s1ms 
+Command queue starved 
+Excess command queue 
+Driver out of date 
+↓Jitter 
+↑Jitter 
+↑Margin 
+Ping 
+Miss 
+Loss 
+Late 
+Jitter 
+%s1Net jitter: %s2% delayed 
+%s1Net jitter: %s2ms, %s3% delayed 
+%s1Net jitter: %s2ms 
+Interpreting bind command as: 
+If the binding doesn't work and you're not using a US English keyboard, you should try: 
+United States 
+Afghanistan 
+Åland Islands 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antarctica 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Bouvet Island 
+Brazil 
+British Indian Ocean Territory 
+Brunei Darussalam 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Republic of Cabo Verde 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo 
+Congo, the Democratic Republic of the 
+Cook Islands 
+Costa Rica 
+Côte d'Ivoire 
+Croatia 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+French Southern Territories 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guernsey 
+Guyana 
+Haiti 
+Heard and Mc Donald Islands 
+Vatican City State (Holy See) 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Korea, Republic of 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Lao People's Democratic Republic 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+North Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia, Federated States of 
+Moldova, Republic of 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+Netherlands Antilles 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestinian Territory, Occupied 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Pitcairn 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Reunion 
+Romania 
+Serbia 
+Russian Federation 
+Rwanda 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+Sao Tome and Principe 
+Saudi Arabia 
+Senegal 
+Serbia and Montenegro 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Georgia and the South Sandwich Islands 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Eswatini 
+Sweden 
+South Sudan 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania, United Republic of 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom 
+United States Minor Outlying Islands 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Venezuela 
+Viet Nam 
+Virgin Islands, British 
+Virgin Islands, U.S. 
+Wallis and Futuna 
+China 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
+Falcon strike. 
+Eagle strike. 
+Prey. 
+For Kraw. 
+Kraw claw. 
+Long claw. 
+I could cut you apart. 
+I'll just cut through. 
+Enough! 
+Fight me! 
+Gather round. 
+And some for you. 
+Don't be shy. 
+Feathers flyin' 
+Whirlybird. 
+Get some. 
+Cyclone strike. 
+Give it a spin. 
+Hack and slash. 
+Slasher's way. 
+Focus. 
+Focus. 
+A furious calm. 
+Sharper than a sword. 
+The smart ones run. 
+Kraw taught me this. 
+For the Kazurai. 
+I am the duck's back. 
+I am the center of the storm. 
+My mind manifests my destiny. 
+Had to learn this the hard way. 
+Brace! 
+You can't hurt me. 
+I've seen enough. 
+Take your shot. 
+Pick your spot. 
+A little bird told me. 
+I'm a stone in the wind. 
+Tire yourself out. 
+I can block anything out. 
+Pay attention. 
+In for the kill. 
+Here we go. 
+Can I come? 
+Don't fly off. 
+Making me work for it. 
+Bird's-eye view. 
+I'll fly that kite. 
+I see you over there. 
+Hey wait for me. 
+Too slow. 
+I don't think so. 
+Coming in. 
+Lemme see your ribs. 
+Dive bomb! 
+Raptor strike. 
+Goose it. 
+Peregrine style. 
+Call me crazy. 
+Peck and roll. 
+Slash and dash. 
+Once, and again! 
+And a one and... A two! 
+Slicing and dicing! 
+Hello... And goodbye! 
+That's all! ...Wait, one more! 
+I could slice twice. 
+Stay frosty. 
+Mages... They're the worst. 
+I like you. You got moxie. And a big-ass axe. 
+You know: For an embodiment of pure fear, you have an amazing smile. 
+Got room for one more, Batrider? 
+Cheers, Brewmaster! 
+Hey, buddy! Pour me one! 
+Saddle up, horse man. 
+Look at you! I just wanna put you in my pocket. 
+Ooh, foxy lady. 
+Nice. Always wanted a night light. 
+We're gonna...you and me will...look, I dunno which head to look at when I'm talkin' to you. 
+Light the way, pal. 
+You light 'em up, I'll knock 'em down. 
+Holy crap. We got the actual GOD of war on our side. They're so screwed. 
+Hate to be a third wheel, but hey, we're all pals here. 
+Birds of a feather... 
+I got no beef with you, Spirit Breaker. 
+Have you met a guy named Treant? I bet you two would REALLY hit it off. 
+Have you met Timbersaw? You would LOVE Timbersaw. 
+Keep that healing handy. I'm what you might call a risk-taker. 
+This fight is bigger than both of us. Today, we fight together. 
+I don't like you. But I'll fight alongside you. 
+I'll fight with you. But I'd rather it was anyone else. 
+If the fate of the world wasn't at stake, you wouldn't be at my side. You'd be lying dead at my feet. 
+We fight on the same side. Just this once. 
+I've got your back back for this fight, 'your majesty'. Don't get used to it. 
+Aghh 
+Ungh 
+Wha grgh 
+What? Ugh 
+Ooww 
+Unggg 
+Drrrgh 
+Ju- co- come on. 
+Daaa 
+Wha? Huh? 
+Mana power-up! 
+Make that mana go further. 
+Mana power! 
+Beak Bash! 
+Blue blur! 
+Avian Assault! 
+Talonstrike! 
+Talons of terror! 
+Featherstorm! 
+Flightless Fury! 
+Feathered Fury! 
+Plume of Pain! 
+Death from ground level! 
+Hey have you heard? 
+Now we're talkin' 
+Oh, you were serious? 
+We doin' this? 
+So, crazy story. 
+Would you look at that... 
+Wanna try me? 
+We'll keep it loose. 
+Lose your nerve? 
+Thaaat's not gonna slide. 
+Death from above! but lower! 
+I'm a keeper. 
+Let's get this over with. 
+Honor's good. Winning's better. 
+A good clean-ish fight. 
+Don't fight angry. 
+Let me tell you what your problem is. 
+Let me tell you what your problem is. Me. 
+It's ok if you wanna surrender. 
+You got a death wish? Neat. 
+I love this for you. 
+I love this for you. 
+Flock it to them. 
+Don't egg me on. 
+Watch the birdie! 
+I play foul. 
+This beak has bite. 
+It's fight or flight -- and I can't fly. 
+Soft as a feather, hard as a beak. 
+I'll be taking your gizzard. 
+Time to break the wishbone. 
+Prey, meet bird of. 
+Here it comes... 
+Feathers in your face. 
+Peek at this beak. 
+Polly want a victim. 
+I'm not going anywhere. 
+Duck, duck, death. 
+Uncaged and enraged. 
+Just a peck! 
+Top of the pecking order! 
+Breaking eggs! 
+Oh, they're clucked now. 
+This won't hurt a bit. It'll hurt a lot. 
+Try and keep up. 
+You watchin? 
+My turn. 
+Could I just put this here? 
+I'll just put this here. 
+Hey, you got a minute? 
+Let me just... there. 
+Could I just.... and there. 
+Taste talon! 
+Kaa 
+Haa 
+Kwa 
+Hwa 
+Squawk attack 
+Tcha 
+Huh 
+Chuh 
+Huh 
+Huh 
+Tcha 
+Ha 
+Zah 
+Uah 
+Ha 
+Huh ha 
+Hrgh ha 
+Ha ha 
+Ha ha ha 
+Ah ha ha 
+Urgh Kah 
+Urgh Agh 
+Urgh Tcha 
+Hrraa 
+Hrrr ahh 
+Hrgh ga 
+I like my chances. 
+Lure 'em in. 
+Quarry acquired. 
+Rakes out. 
+Sharp n' steady. 
+Talons up. 
+Talons out. 
+Time to hunt. 
+We doin' this? 
+Throw the gauntlet. 
+Huh 
+Huah 
+Tchua 
+Hrgh Kua 
+Tchuaa 
+Huah 
+Uaaaah 
+Huaah 
+Ngh 
+Huah 
+Huh ha 
+Hua 
+Ah ha ha 
+Tchua 
+Nha ha 
+Nyaa 
+Eyuh 
+Ha ha yeah 
+Whoo 
+Ha ha 
+Yeah 
+Ugh 
+Tch 
+Ugh Ow. Ow. 
+Ugh Ah. Crap crap crap. 
+Ugh Oh man, that stings. 
+Uggh 
+Ugh 
+Urgh 
+Take tha--ugh 
+Jrgh 
+Urggh 
+Shuh 
+Hm 
+Hzt 
+Hya 
+Shah 
+Hm 
+Hm 
+Tuh 
+Kuh 
+Tchu 
+You ready? How about you? Everyone? Ha ha. Good. 
+I'm feeling good about this. How about you? We got this. 
+Lookin' good, everybody. Heyyyy -- is that a new sword? You look great. 
+Everyone ready? You look ready. You lost some weight? Killin' it out here. 
+Remember, it doesn't matter if we win or lose. But no flying, alright? 
+Death descends from the skies on wings that definitely work! 
+Let's go, let's go, let's go. 
+It's at times like this when a hero has to step up. So if you know any, absolutely give them a call. 
+They'll regret going up against us. Or vice versa. Definitely one or the other. 
+Once we spot 'em, dibs on the littlest guy. 
+Phoo. This all feels a lot more serious now that we're actually doing it. 
+Whoah, we're startin' already, huh? 
+Is it called the Ancient ironically? Like it actually gets destroyed a lot? Or is it truly super old and impossible to kill? Honestly, I wish I'd asked this earlier. 
+Alright. Time to kill the Ancient. 
+I have the skill of a Kazurai. And the attention span of a bird. Which way is the Ancient again? 
+Focus! Get the eye of the tiger, people. Actual tiger people should just keep doing what they're doing. 
+I am ready. 
+Beak, sword, talons. Let's do it. 
+My swords are yours. 
+For the Kazurai. 
+For Kraw. 
+I've waited long enough. 
+I gave up once. Never again. 
+From exile to reckoning. 
+This story could use some heroes. 
+My time in the shadows ends now. 
+Guys you want me to kill are this way, right? 
+Let's go bust up a moon rock. 
+Ready to go. 
+This isn't my war. But it's a war worth winning. 
+If I can be of use. 
+It's not my war. But I'm proud to fight in it. 
+I swore I'd never draw blood again. Today I make an exception. 
+I swore I'd never draw my swords again. But today I draw them gladly. 
+The stakes are too high to stay out of it now. 
+I swore I'd never kill again. So let's make this count. 
+I promised I'd never kill again. If I'm gonna break a promise, let's break it to goddamn pieces.  
+I'm gonna crap on this ancient like a statue in a park. 
+Does a bear shit in the woods? Heh. He would if he saw me coming. 
+Beak Buster! 
+Beak wave! 
+Beak blitz! 
+Wave of Beak! 
+Pecking streak! 
+Feather flurry! 
+Pecking tsunami! 
+Useless wings of vengeance! 
+Pecking bash! 
+Wave of beak pain! 
+Bluebird blitz! 
+Beak blasted. 
+Death by beak. 
+Pecked. To death. 
+Now that's a pecking order. 
+Beak busted. 
+Beakality. 
+Bird-tality. 
+I can't believe that worked.  
+Was anyone watching? Who saw that? 
+Not bad, actually. 
+Ha ha ha haaa! 
+Ha HAAA! 
+Yes. 
+Woo! 
+Oh yeah! 
+alright! 
+Nice 
+Nice 
+Good 
+Good 
+Got em 
+Not bad. 
+Blink dagger. Not bad. 
+Ho ho, now I have a blink dagger? 
+Oh yeah, I could definitely use a blink dagger. 
+Ahh, close enough. 
+Close ENOUGH! 
+Early Bird! 
+Good enough! 
+Screw it - bloody enough! 
+Finally! Go go go! 
+Full Feather Force! 
+Blood FEATHER!  
+Blood feather feast! 
+Flurry of feathers! Ocean of blood! 
+Bloodfeather fury! 
+I could use a break. 
+Think I'll just wait. 
+What's the hurry? 
+No rush. 
+Just gonna hang out for a bit. 
+Time for a rest. 
+Let's wait here. 
+Take a break. 
+Bounty. 
+Bounty. 
+Bounty! 
+I'm rich! 
+We're rich! 
+Floating iceberg money! 
+Oooh floating rock money. 
+Free money! 
+I'm ready. 
+Let's do this. 
+Time for some fun. 
+Hehe it's go time. 
+Let's take 'em out. 
+Ugh 
+Abra... cadraba. Ow. Ow ow ow. 
+It hurts to make magic. 
+Even spell casting hurts. 
+Ugh it hurts to do this. 
+I hate that wizard. 
+Win some, lose some, right? 
+Dammit! 
+I am gonna come back, and I am gonna kill you. 
+I am gonna come back, and I am gonna kill you. Yeah, you. I'm talking to you tough guy. 
+Aw crap. 
+Death is but a part of life. Whatta load a crap... 
+No! 
+This sucks. 
+I die for the Kazurai! 
+You son of a... Dammit! 
+You better hope I don't see you on the other side, buddy. 
+Gyahhh... Man... Dammit... 
+Embarrassing. This is embarrassing. 
+Not bad not too bad. It wasn't good. But, you know... 
+Man, what a... crap... this is... crap! 
+You gotta admit, I'll make a handsome corpse. 
+Look at this handsome corpse. Open casket funeral for sure. 
+I blame myself. No wait, nope. I forgive me. I did my best. 
+I blame myself. 
+Dying is the...worst. 
+Ha haa ha 
+Ha haa ha 
+Ha haa ha 
+Ha haa ha 
+Ha haa ha 
+Denied! 
+Nope. 
+Not happening! 
+Not on my watch. 
+Not on my watch, pal. 
+Siddown. 
+Siddown, buddy. 
+Yeah, I don't think so. 
+I don't think so. 
+Yeah, no. 
+Uh uh. Nope. 
+Nope nope. No no no. 
+Too slow. 
+Duh-nied! 
+Denied. 
+Denied. 
+Urgh 
+Urgh Ha! 
+Urgh Denied ya. 
+Urgh Denied. 
+Still about to die, but... denied. 
+In incredible pain... but denied. 
+Double damage! 
+Ooh hoo, Double trouble. 
+Here comes double trouble. 
+Let's mix it up. 
+Oh, this old thing? 
+The right tool for the right fool. 
+THIS one's gonna hurt! 
+What do we have here? 
+Oh, I brought more than one. 
+Time for the Deep cut! 
+Someone order a slice? 
+I studied the blade. 
+Live by the sword. 
+Let's do this the fun way. 
+Feathered steel. 
+Two in the hand. 
+I'm a sai guy. 
+Let's make it quick. 
+Speed of the sai. 
+Sais of satisfaction. 
+Let's try the pokey trick. 
+We could do close. 
+Is this anything? 
+Okay, this might be helpful. 
+Now this is a game changer. 
+Definitely saving this for later. 
+More where that came from. 
+Twice the fun. 
+Wait for it... 
+Wait for it... 
+There... and back again. 
+Cut 'em down, cut 'em down. 
+Double dose. 
+Whoah. What the hell... 
+Sheesh. That was fast. 
+First blood! 
+Yeah! First blood! 
+Just getting started! 
+The early bird gets the worm. 
+Early bird, yadda yadda yadda, you know. 
+Ouch. You died first. 
+Oooh, first blood! 
+First blood, got it! 
+First blood, yeah. 
+Whoo first blood! 
+Haha first blood! 
+Ahhh 
+Ha ha ha ha 
+Oooh 
+Heeeyy 
+Ha haa 
+Nice 
+Ahhh 
+Oooh 
+Ahhh 
+Hmmm 
+Hm hm hm hmm 
+Hmmm 
+Hmmm 
+Time to move! 
+Let's pick things up. 
+Gotta go fast! 
+Time to clip some wings. 
+Ooooh, you messed up now. 
+Gonna cut you down. 
+You'll get yours. 
+They asked for this. 
+Now you get to see my game face. 
+It's confusing, right? 
+Taste the confusion, pal. 
+Illusion, confusion, it's all chaos! 
+You are in a sea of confusion. 
+Immortality! 
+I'm too pretty to die. 
+Not today, death. 
+Pretty sure we got this. 
+I like our chances. 
+Team looks good, forest looks right... this one's ours, guys. 
+This one's in the bag. I'm calling it. 
+Hey. 
+Hi. 
+Kestrel. You can call me Kez. 
+Beak, sword, talons, let's go. 
+Beak, yep, swords, yep, wings, don't work. Let's go. 
+Let's go. 
+Hey there. 
+Kestrel here, standing by for action. Or just standing. Standing inactively for eventual action. 
+A Kazurai waits. Always watching. 
+Don't mind me. 
+Take your time. 
+Eh hem. Still here. 
+Uh oh, where'd I go? 
+Now you see me... now you see me LESS. 
+Look out, I'm invisible. 
+Invisible blue bird coming through. 
+Boom! Invisible. 
+Wait, I'm not that kind of guy. Unless I AM that kind of guy... 
+Ya' ever tried to throw a disc? Lot harder than it seems. 
+Just a little extra wingspan. 
+Who doesn't like mana? 
+Oh crap how do you turn it off? 
+That'll break a few beaks. 
+Can't fight if your brain's all pudding. 
+Kraw always told me to find my inner calm. But screw that crap. 
+This dude must've had a LOT of enemies. Or paranoid delusions. 
+Can I even turn my head in this? I mean, like I CAN, but is it gonna kill me?  
+What are you tryin' to pull? You can't get blood from a -- OHHH.... 
+What kind of rose is THAT from? 
+Sweet. Time to see the world. Or at least that tower over there. 
+So are you gonna say it or am I? 
+Who do butterflies think they're fooling anyway? I see those wings. 
+Does this cure hangovers too? 
+Oh, neat. 
+Oh, come on. They fly too? 
+It's already red. That's how you know it's for stabbin'. 
+Ya got anything that spills ALL the blood? Oh, perfect. 
+What? It'll be funny... 
+DESOLATOR. Haha, who names these? Your five year old kid? 
+It's simple. They WANT their mana. I want their mana gone. 
+They let you just SELL these? To kids? 
+Dragon stance. 
+Yeah, people just love drums. Said the psychopath. 
+I really need to find some invisible stuff. 
+So like what if I don't wanna hit the second time? Does it force me? 
+Say 'wet your beak' and you lose a finger. 
+How do I hold it? 
+Hmm, a bit too close to flying. 
+Punch with it, eat with it. What can't it do? 
+I only use it for serious business. I swear. 
+Wait, do I WANNA see everything around me? 
+Sure. I dig a good ghost story. 
+Oh sure, this won't be easy to lose... 
+Wait didn't that whole Midas story end BADLY? 
+Fill 'em up. 
+How fast does this heart beat? 
+Is it honorable? No. Is it perfect? Absolutely. 
+I'm a bit more of a free hand. 
+Does it work for anybody or do I gotta believe? 
+Better than the NOOSE of defiance Imperia planned for me... 
+Why's it called that? 
+Where's the blade? Gonna end up cutting my own leg off. 
+Kaya? Ok, yeah. 
+I dunno. Do these even go together? 
+Oh, yeah. These are a kick. 
+Is this gonna make my feathers all puffy? 
+So where's the magic TREE? 
+I can't wait to meet me. 
+What the -- Why would anyone buy this?! 
+A lion? Pfff. This thing should have my face. 
+I guess I'm a healer too. 
+Are these names literal? This one makes me think yes. 
+Doesn't this belong to someone? 
+Wait, is there more than one? 
+Look I gotta be honest here. No idea what this thing does. 
+Oooh, smart. 
+What like the fruit? 
+Sounds kinda mean. 
+What kind of suckers wait in line? 
+Oooh, THAT'S the kinda shop this is... 
+They go with everything. 
+Fire sword! 
+Some people LIKE this? 
+But what to pair with it? 
+Looks kinda cool. 
+I'm sure I'll use it for good. 
+I suddenly got really thirsty... 
+Just gotta figure out where to put it. 
+That Vyse was into some real weird stuff. 
+Ugh, I hate the cold. 
+Seems almost like cheating. I dig it. 
+I need a third eye like I need a -- no, wait this one's good. 
+Invisible? How smokey could it be? 
+I dunno it just caught my eye. 
+I'm not big on sacrifice... 
+Problems? Not. Any. More. 
+Can I talk to Kraw through this? 
+Yeah but what'd the trees ever do to me? 
+How do you get the freebies? 
+I could stock up now, buuut. I'm sure I'll be back soon. 
+Oh yeah, lotsa these. 
+Wish they'd had these babies in Icewrack... 
+What the hell does this do? 
+Ugh! Oh god, what's in this? 
+Aw, a shield? Do I have to? 
+I don't think it's gonna cover my beak. 
+Can I still return this? 
+Yasha... Didn't I know a Yasha in school? 
+They go together?! 
+Oh, I freakin LOVE mangos. 
+Not really my vibe. 
+Oh this one is sick. 
+Won't this spread? 
+Neat horns. 
+Nothing I hate about this. 
+I heard about chain lightening, but this is ridiculous. 
+Fine. I'll see what they're on about. 
+Is this for when I'm dead or...? 
+I can't believe I never thought of this. 
+Does this even do anything special? 
+Gosh there's so many... 
+Is this the one I want? 
+Not really my speed. 
+Got anymore o' that mango? 
+Doesn't this belong to that really angry lady? 
+Yeah, let's get it. 
+That's a real fancy hat. 
+What the hell's a cornucopia anyway? 
+That thing looks kinda heavy... 
+Dunno what it does, but it looks real neat. 
+You want a disperser, talk to Gralla after a mid-day feast. 
+Just like a REAL princess. 
+Khanda don't get the hype...  
+Uh why's it called Parasma? 
+You got any non-creepy masks around? 
+Do I box? You kiddin? ME? I mean I do now. 
+This feels wrong. 
+More than enough. 
+They like to use these in The Cage... 
+Hope I'm right about this... 
+The sooner we all go home... 
+It's a bargain. 
+A double dose. 
+Almost sells itself. 
+We'll tear this kingdom down. 
+Radiance 
+I can always push through. 
+Could do a lotta good with this... 
+Don't wait for a chance, make one. 
+Kraw always said power comes from within... 
+I got one kinda like this. 
+You're wormfood, pal. 
+Who turned out the lights? It was me. 
+Pecked... to death. 
+I'm impressed that worked. 
+I did that. That was me. 
+Killed by a bird. 
+You died like a dog. Choking on a bird. 
+Annnd you're dead. 
+Who's chicken now? 
+Pshhh, richly deserved. 
+One for the good guys... 
+When you get to hell, tell 'em a bird sent you. 
+Enjoy your flight to hell. 
+You were definitely asking for it. 
+That'll teach ya. 
+Compiments of the Kazurai. 
+Compliments of the Kazurai. Loser... 
+Your fighting style is weak. 
+The Kazurai will not be denied. 
+Greetings from the Kazurai. 
+You were kinda asking for it. 
+Fledglings don't belong in this fight. 
+Quit your warbling. 
+Got ya. 
+You're done. 
+That's it. 
+Boom! 
+Nice try, pal. 
+Yer dead. 
+So long. 
+Just like that. 
+Nice knowin' ya. 
+See ya, stupid. 
+For the Kazurai! 
+Lights out, pal. 
+Hey, hold this. 
+Got a second? 
+Hey, you. 
+Beak throw! 
+Feather dart! 
+Fly! 
+Ah ha! 
+Little Kunai kiss... 
+Ha ha 
+Ha ha! 
+Aggh. 
+Missed. 
+Mm, close. 
+Nope. 
+Get over here. 
+Yeah, you. 
+Got a minute? 
+I need you over here. 
+Hey, get over here. 
+Come here! 
+Come here, you... 
+I'll take that. 
+That one's mine. 
+Hand it over, pal. 
+Gimme that. 
+Yup, I'll take that. 
+Skill pays off. 
+Pappa needs a new suet ball. 
+Cash for the Kazurai. 
+Ding ding ding 
+Every little bit. 
+For the cause. 
+I dunno. Blame the shoppie. 
+He coulda just walked on by. 
+Shoulda stayed in your racks. 
+Geez. What'd I ever do to you before I killed you? 
+You're done. 
+Get outta here, creep. 
+Don't worry, I'll make it count. 
+Pecked for a penny. 
+I will take that. 
+Killing creeps is kind of a moral grey area. 
+I love that sound. 
+Ooh, a nest egg. 
+Got my nest egg. 
+Wet my beak a little. 
+Bawk bawk, baby! 
+This beak pays the bills. 
+A little something for the plumage. 
+Well, feak my beak! 
+Clutch move! 
+Fly into my pocket. 
+I'd do this for free, but not if you're payin. 
+Oooh, shiny. 
+Mooore money. 
+Money money. 
+This hero stuff's starting to pay off. 
+I'm saving for a hawk house. 
+Just a tidbit. 
+Lil' nugget. 
+It's a morsel. 
+I can hawk it for something. 
+Urgh 
+Last hit! 
+Worth it. 
+Money money money. 
+That feels... a bit better. 
+Still in pain, but... nice. 
+Ha ha 
+Ha ha ha 
+Ha ha ha ha ha 
+Ah ha ha ha ha ha! 
+Oh ho ho ho ho ha ha ha 
+Ah ha ha ha! Ahh 
+Ha ha ha ha ha ha ha haa 
+Ah ha ha ha ha ha ha ha ha ah ha ha ha ha ha 
+Pff ah ah ah ah ah ah ah ah ha ha ha woo 
+Ha ha ha ha ha ha ha ha ha ah ah ha ha ha ha! 
+Ha ha ha ha ha ha ha ha ha ha aha ha ha! 
+I like the feel of this. 
+They'd better look out now. 
+Yeah, I work out. 
+Do I look taller? 
+This rules. 
+Awesome... 
+And I thought I was great before. 
+All this and good looks too. 
+Now you're all in trouble. 
+Bring on some bigger challenges. 
+Check out these new muscles. 
+Gettin' stronger. 
+Oh yeah, ramping up. 
+I just get better and better. 
+Man, I feel good. 
+Let's take things up a notch. 
+Can't stop me now. 
+Oh yeah, I rule. 
+And ? now I'm awesome. 
+Yeah, I'm into self-improvement. 
+All this and good looks too. 
+This could go to a guy's head. 
+Oh yeah, who's the man? 
+Now you're all in trouble. 
+The Flightless need me. 
+I'll honor the cause of the Kazurai. 
+I think Kraw would approve. 
+Precision is a pursuit, not an accomplishment. 
+The only way out of this is: smash right through. 
+It's time. 
+This is how we win this thing. 
+I'm ready. 
+One step at a time. 
+You have to fight to improve. 
+Power doesn't come without a price. 
+Now I just need the wisdom to use it. 
+Call it. They're done. 
+Pick a blade, it'll do. 
+I could do this with a butter knife. 
+Losing's just part of the game. 
+We'll get 'em next time. 
+Use it. This'll make use stronger. 
+This is just gonna make us better. 
+Don't even worry about it. Just practice for the big win. 
+Keep trying, we'll win next time. 
+Failure is not the end. 
+Nobody wins all the time. 
+Mine! My lotus! 
+Free pond food. 
+Are these free? Can I just take these? 
+Top is missing! 
+Middle's missing! 
+Bottom is missing! 
+Look, I'm never gonna be the bird I was ten years ago. 
+But I don't have to be the bird I was ten weeks ago either. 
+We took back Skywrath by working together. 
+Whatever the future holds... We'll find that together too. 
+Who knows. Maybe we'll even get into some trouble along the way. 
+I'd like that. 
+I gotta hand it to Bakeet. 
+That's a bird wise beyond his own understanding. 
+When he found me in Icewrack, I wasn't a hero. I was just a broken shell. 
+I learned all the wrong lessons from losing some really great people in some really awful fights. 
+But talking to him... It really grounded me. 
+Helped me remember who I was before all this started. 
+And why I even wanted to get involved in this fight. 
+Imperia was a threat we needed to deal with. 
+And unlike a lotta folks, I could actually do something to help. 
+No one said it'd be easy. Or we wouldn't lose any friends along the way. 
+We all lost something. But we won something too. And I have to believe...it was worth it. 
+There's no magic wand to fix everything Imperia ruined in Skywrath. 
+There's a whole city full of people who still need some help. 
+But we can find a way to do that too. 
+The battle for Skywrath might be over. 
+But the work to rebuild it -- better, and for everyone -- well, that's just begun. 
+I never wanted to lead the Kazurai. All I ever wanted was Imperia gone. 
+That's all my army wanted too. They wanted me to train them so they could help. 
+So we trained. And we trained. And we got good. And we started to think we might win. 
+Word got out. More volunteered. 
+I got a lot of them killed. A bunch of kids who just wanted to help make things better. 
+I put my swords away. And I haven't drawn them since. 
+So if I'm going to break my vow... it might as well be in a battle for the fate of the world, right? 
+All I've ever wanted, all I've ever trained for, is getting Imperia off the throne. 
+Kraw and I threw everything we had at her. We were so sure it would be enough. 
+We took a bunch of kids from the gutters and we trained up an army. 
+And she slaughtered them. She broke us to pieces and she laughed. 
+Too much blood. I put my swords away. Exiled myself in Icewrack. I didn't want to worry about anyone dying but me. 
+And now here I am in a battle of the Ancients. The fate of the world in the balance. The stakes couldn't be higher. 
+But I don't have to worry about anyone dying because of me. I can just get to work. 
+I was born with a price on my head. 
+As I got better at causing trouble, that price went up. 
+Every time Imperia raised the bounty, I knew I must have done something right. 
+I think that's the worst part of being gone so long in Icewrack. 
+I've got to get that price back up to a respectable number. 
+I've seen our Queen order the deaths of people she'll even never meet. 
+And I've seen flightless, hatched and raised in the gutters, fight to their last breath. 
+It isn't about the power you're born with. 
+It's how much you're willing to fight for the power you don't have. 
+A few years ago I was just a flightless bird. 
+Then I was a flightless bird leading a resistance against an evil queen. 
+And now... somehow... I'm a flightless bird fighting gods. 
+Well. Good thing I brought my swords. 
+Maybe Shen'll be a better queen than Imperia. Maybe she won't.  
+Maybe the trick to being a good ruler is you should be the last person in the world who wants to do it. 
+Either way, if Skywrath needs to depose another queen, they can call on the Kazurai. 
+We've got a regicide under our belt now. We're getting pretty good at it. 
+We fought before and we lost everything. 
+That gives me the advantage now. Because now I have nothing to lose. I?m not afraid to die. 
+I've been dead this whole time. Living with the ghosts of the men who died alongside me.  
+And so is Imperia. She just doesn?t know it yet. 
+I fought. I lost. The end. Or so I thought. 
+But then Bakeet and Shen came and found me in Icewrack. 
+And together we somehow managed to beat a dragon. 
+So maybe the fight wasn't over after all. 
+Maybe I was just waiting for reinforcements. 
+I hung up my swords because I knew I wasn't the man the Kazurai needed. 
+I thought it was too much. Too much sorrow. Too much futility. 
+And it was too much. That man couldn't handle it.  
+So that man, I buried up in Icewrack with that dragon. 
+Imperia has no idea the man who's coming for her now. 
+On it. 
+You got it. 
+Your call. 
+Your funeral. 
+Your funeral. Wait, no, my funeral. 
+I was thinking the same thing. 
+Good idea. 
+Yep. 
+Sounds like a plan. 
+I was thinking the exact same thing. 
+Not a bad idea. 
+There? Yeah there. 
+Better than here. 
+Flyin' 
+Flyin' 
+Spikes diggin' 
+Talk's cheap. 
+Burbin' 
+What's the word? 
+I trust my sources. 
+Wait for my signal. 
+Less yappin', more flappin' 
+What, just here? Sure. 
+Better check it out. 
+It piques the beak. 
+Where's this trail go? 
+Every path's a journey, is what Kraw says. 
+All for it. 
+I'll poke my beak in. 
+Flock to it. 
+I'm the migratory kind. 
+I'm feeling a bit peckish. 
+Flow of the fight. 
+Right here, right? Got it. 
+I think I see something. 
+Wait a second... 
+I think it's this way. 
+Just lookin' for worm sign. 
+Light as a feather. 
+Crow hop. 
+Sweet deal. 
+I already like this plan. 
+I'm hatching a plan. 
+I'm unflappable. 
+Just over there? You're the boss. 
+Tell 'em I'm coming. 
+What's the rush? 
+And then bugs for lunch. 
+Bird is the word. 
+The word is bird. 
+I could go for a walk. 
+Following the fight. 
+Let's wing it. 
+I'm down. 
+I'm down. Literally. 
+I'm going, I'm going. 
+One feather after the other. 
+Leaving my perch. 
+Every step's a journey, bro. 
+Free as a me. 
+Free as a bird. 
+Fight now, party later. 
+No Shodo was this brave. 
+No nest is safe. 
+No cage can hold me. 
+Kraw would think this is a hoot. 
+No problem. 
+Following the breadcrumbs. 
+Let's flock. 
+Flightless and fearless. 
+Let's get the flock outta here. 
+Okay, sure. 
+Sure thing. 
+Way ahead of you. 
+Here I go. 
+Watch me go. 
+Yeah, yeah. 
+You're the boss, boss. 
+Bob and weave. 
+Shake it out. 
+I could strut. 
+Over there. 
+Rouse it or grouse it. 
+Head on a swivel. 
+Another day another -- what are we chasing again? 
+Don't wait on me. 
+Always another perch. 
+How we wanna do this? 
+That's it. 
+I'll figure it out. 
+Good spot. 
+I'll wing it. 
+I'm game. 
+I think I can make it. 
+Rrrgh. On my way. 
+I'll just hobble over there. 
+Nng, Nnnf. Going. 
+Limping right along. 
+Yeah, yeah. I'm going. 
+Doing my best here. 
+Ow. Ow. Ow. 
+Rrrgh. Fine. 
+Yep. Yep. Gimme a second here. 
+Nope. 
+No way. 
+No chance. 
+Noooo! 
+No mana. 
+Out of mana. 
+I'm all out of mana! 
+Where's all my mana? 
+Not enough mana. 
+I NEED more mana. 
+Outta mana. 
+Hoo boy, out of mana. 
+Out of mana 
+Not yet. 
+I'm not ready. 
+It's not time yet. 
+Hold your horses. 
+Just hold on. 
+Hey, where's the fire? 
+Waitwait hold on a second. 
+Wait a sec! 
+What. is. the. RUSH? 
+Gimme a sec. 
+I'm busy. 
+Just stooop. 
+If they want it, they'll have to take it back. 
+Got a nice little roost. 
+I'll add it to my route. 
+I'll take that outpost. 
+Nice outpost. I'll take it. 
+Free outpost? Don't mind if I do. 
+Output, captured! 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Urgh 
+Parry! 
+Blocked ya! 
+Blocked ya! 
+Got ya! 
+Got ya! 
+Got ya! 
+Parry... and a SLASH. 
+Ungh! Annnd right back at ya. 
+I'll take THAT! And give you THIS. 
+Not BAD! How about THIS! 
+Okay! And then... THIS. 
+A little of this... and a little of this.... 
+Block... spin... attack... 
+Nope... yep.... 
+Uh huh... more like this... 
+That ain't it... that is.... 
+Agggh. 
+Agggh. 
+I suck... 
+Close. 
+Bah. 
+Bah. 
+Bah. 
+Bah. 
+Bah. 
+Grr. 
+Grr. 
+Grr. 
+Grr. 
+Grr. 
+Grr. 
+Parry! 
+Parry! 
+Parry! 
+Uh uhh... 
+Uh uhh... 
+Slipped it! 
+Ope, too fast! 
+Damn I'm good. 
+Ooh, I like this. 
+Damn, this looks good... 
+Worth every penny. 
+Oh man, sparkly. 
+Now this is some high end magical crap right here. 
+I know what we need. 
+Perfect. 
+Just that. 
+Deal. 
+Call it a surprise. 
+Won't need it for long anyway 
+Let's not get carried away. 
+Keep that one between us. 
+We'll try it out. 
+I'm good with that. 
+Flipping the bird. 
+Wooo hooooo! 
+Coming in. 
+Faster than flying. 
+Quick trip. 
+Coming your way! 
+Wing it! 
+It's go time. 
+Ahhh... Refreshing. 
+Ahhhh... 
+Regeneration... 
+Nice 
+Hmm, it's good. 
+Well, look who's back. 
+You can't keep the Kazurai down! 
+Too pretty to stay dead. 
+brrbrbrb. Whoah. Whoo 
+brrbrbrb. Whoah. 
+It's like I never left. 
+I told ya I'd be back. 
+The bird returns! 
+What happened? Did I miss anything? 
+That's right, buddy. I'm back from the dead. 
+Who missed me?  
+Uh oh, look who's back. 
+I just kicked death's ass. 
+They kicked me out of the great sky nest for being too handsome. 
+Oh boy, all of you idiots are in trouble now. 
+Okay, I'm done warming up. 
+I'm back. Pecked my way out of the grave. 
+They'll regret that. 
+Let's finish this. 
+My swords remain at your service. 
+I'm not done yet. 
+Back and better than ever. 
+Now I'm angry. 
+Now I've got a score to settle. 
+Ready for another round. 
+Let's make 'em regret that. 
+I'm just getting started. 
+Ready for a little more. 
+Not dead yet. 
+It'll take more than that to kill me. 
+Vengeance will guide these blades. 
+One more chance to fight. 
+I'm back. We can win now. 
+I'm back! 
+Coil your stupid clouds around THAT, dummy. 
+Abaddon, you are Abba-DONE. 
+I just turned two idiots into two dead idiots. Wait, am I an alchemist? 
+Bet you don't have a potion to cure THAT. 
+There. You're a ghost. Now you're a much NEWER apparition. 
+You know, the funny thing is I've been to Turstarkuri? They all look like this guy. It's just nothing but arm days there. 
+So would an 'anti'-Antimage just be a mage? Or does it just generally mean anyone who hates you? 
+No need to thank me. I do this for mage children. 
+Your goldfish are missing. 
+Fragment of the Mad Moon, huh? Hrgh. Wonder how you got the job. 
+You are without a doubt the biggest, reddest, loudest, most basically nude hero I've killed so far. 
+You know the best thing about big red idiots that yell all the time? Getting to make them stop. 
+Brain Sap. Enfeeble. You turn everybody into a weak idiot. Like you. 
+Hey, look. I've overcome my fear of killing you. 
+Nightmare of the gods, huh? Why don't you try that crap on someone who isn't asleep? 
+Batrider, huh? So why do they call you that? 
+Batrider. I got a better name for you: Dead guy on a bat. 
+Birds are beasts. When's the mastery supposed to start? 
+Bloodseeker, huh? Whelp, see ya later. 
+You live on a planet where everybody is filled with blood. We're all sloshing around with it. Your job's not hard. 
+More like blood leaker, am I right? 
+Well, you found the blood. And it was inside you all along. 
+The things you'll do for money. Like get killed. 
+I'll pour one out for you. 
+So that snot just, uh... pours out of you when you die. Ugh. 
+You died like you lived: leaking snot. 
+I HATE spiders. 
+Is it arachnophobia when the spiders are the size of a house? Isn't that just common sense? 
+Half horse. Half human. All dead. 
+That big horseshoe to your chest for luck didn't really work out luckwise. 
+Chance of you being dead? 100 percent. 
+Chen. Everyone told me about you. You're the one no one likes. 
+All you eternal life guys die surprisingly easy. 
+Take that Lich! No wait, which skeleton are you again? 
+Ah, there's your 'off' switch. 
+Oh my god I thought you'd never shut up. 
+Enjoy the silence, everyone. 
+Armed only with his intellect? I think I found your mistake. 
+I just wanna put you in my pocket and crush your tiny dead body. 
+Aren't you just too cute to live. 
+Looks like sundown, Dawnbreaker. 
+Woof. That guy's makeup's a mess. 
+Dazzle - truly a word that strikes fear into literally no one. 
+Did you see that coming, Death Prophet? 
+So your power is summoning fences, huh? They really do let anyone fight in this thing. 
+Your army of spectral fences could not save you. 
+Doombringer, huh? So why do they call you that? 
+Uh oh. Guess who brought on their own doom? 
+I'm sure you'll bring some doom next time, pal. 
+I don't have anything clever to say. I'm genuinely happy you're dead. 
+So, you can turn from a guy... into a dragon... into a dead guy. 
+Somebody should notify your parents - oh riiiight. 
+Luckily you're an orphan, so nobody's gonna miss you. 
+Your big move is arrows made of ice, huh? Haha, well I hope the weather doesn't get slightly warm. 
+Return, Earth Spirit, to the Great... Patch of Dirt in the Sky. 
+I guess this is the day you return to dust, eh? 
+You really did shake the earth, falling dead on your ass like that. 
+They should NOT let really old people fight in this thing. 
+Warrior-Poet, huh? Well, you definitely fought like a poet. 
+Here's a poem for ya: hey idiot, you're dead. It's the non-rhyming kind. 
+Your army of mind-slaves is now free. Even for us, you were a bad person. 
+I guess no one will ever solve the riddle of why you sucked at fighting. 
+Faceless... lifeless... Basically the same thing. 
+You're not FACELESS. You've got a mouth, chin, a basic face structure. That's a lot of work to hide the fact that you just can't smell. 
+Looks like you had a brush with death. No, wait. You HAVE a brush. And death. 
+Flying's not so great now, is it? 
+Small, but tough. I respect that. Well, respected. Until I was able to kill you incredibly easily. 
+Of all the balls of light I've ever killed, you were my favorite. To kill. 
+Wielder of the four elements: Quas! Wex! Exort! Losing! 
+Well, you can't make a dragon-freak omelette without breaking a two-headed egg. 
+When a master swordsman slays another, he must sing the song of death to his sword. So I better learn it in case I ever meet one. 
+An island of the best swordsmen on Earth sinks into the ocean. You're the ONLY one to survive. And you're THAT easy to beat at swords? 
+Jugger not good at swords. 
+Lights out, pal. 
+What do they give you if you kill a fast food mascot? A tour of the kitchen? Free fish sticks for life? 
+How did you celebrate National Kill a Pirate Day, Kestrel? Funny story. 
+You fought with honor and heart today, cobra commander. 
+It's just like that famous legion story 300, except there's only one of you and you're super easy to kill. 
+If I hadn't killed you, that skin condition of yours would have. 
+You came all the way from Hell just to get killed by a bird. 
+Sorry to kill you. I know your life was rough, friendless tree wizard. 
+I'll tell your family you've gone to live on a farm up north. 
+Roll over. Play dead. 
+That is one ugly horse. 
+You shoulda been god of something else, 'cause you kinda suck at war. 
+Be honest, did you LET me kill you because you felt too ugly to carry on? 
+Monkey see, monkey don't. 
+I see you morphed into a dead body. Super realistic, too. 
+You, uh... you know Muerta means dead, right? 
+Gone too soon. I will truly miss killing you. 
+Like the sirens of legend, you lured me straight to your death. 
+You have fallen, Nature's Prophet. Or should I call you by your true name: Nature's Valley Organic Chicken. 
+You're the disease. I'm the cure. 
+Why don't you boys have a rest? 
+So long, ugly idiots. 
+I had this dream I killed a weak fancy guy. Maybe I should be an oracle! 
+You used that sword real pretty-like. Too bad you weren't actually GOOD. 
+All the sword training in the world's useless in a good old fashioned scrap, fancy boy. 
+You're a terrible assassin, but you make a good ghost. 
+It's not an illusion. You're actually dead. 
+Stop givin' us birds a bad name. 
+I eat bugs like you for breakfast. Literally. 
+You're the only thing I've ever killed that actually smells better when it's dead. 
+So long, you pugly thing. 
+I'll give you this. You're pretty good at being in pain. 
+I know a magician never reveals his secrets, but how'd you die so easy? 
+Goodbye, Grand Mag-us. Magus? May-gus? I guess it doesn't matter at this point. 
+Hah! You WISH you could shut me up! 
+Silent but deadly - that's how you'll be remembered. No, I'm thinking of a fart. 
+Taste ground, feather boy. 
+You're grounded! 
+Well aren't you just a flappy little guy? Just flappin' around with those big fat stupid wings? 
+Why don't you fly back to Loser Heaven? 
+Look at those big, stupid... lustrous, feather-filled wings of yours. 
+Your heart wouldn't have stopped if it hadn't been pumping all that blood to those big wings of yours. Those things are basically blood sacks. 
+Tough luck, Dark Anchovy. 
+As a general rule, I refuse to kill little old ladies. Unless they try to kill me first. So this is okay. What I've done here today... is ethically fine. 
+It's pretty sad you had an actual gun and still couldn't win this fight. 
+Not sure if you can hear me down there in Hell, but you missed your shot. 
+Oh crap, I killed somebody's sad monkey-cow. 
+It was an honor to fight you, proud monkey-cow. 
+Now that you're dead, I'll just take your huge sword. Nnnnnf! I'll just leave that huge sword there. 
+You can't spell assassin without ass. And you were ass out there. 
+Your best illusion was the illusion you were under that you could beat me. 
+You are, without a doubt, one of the stupidest looking things I've ever seen in my life. And this is a talking bird with a sword saying this, so really let this in. 
+Good news. You won't have to lug all that crap on your back in the afterlife. 
+The bigger they come, the deader they fall. 
+I hope you find your entwife someday. Or... anyone tree-based, I guess. I'm honestly not even sure why I'm thinking about this. 
+So... Why do they call you Troll Warlord? 
+So how come they call you Tusk? 
+That is a LOT of ivory. I wonder what I could get for those things in Cladd. 
+Well, now you're six feet underlord. 
+Undying, huh? That is... false advertising. 
+So I'm clear, is this... UN-undying? 
+So what are you supposed to be? Some kind of spirit? Of revenge? Can you hear me? 
+You were just a big flappin' sock full of poison, werent you. 
+Nice boots. That's what I'm going to make out of you. 
+Ugh. See ya in my nightmares, you freakshow. 
+Void Spirit. I guess Purple Santa was taken. 
+Looks like you win. At dying first. I assume that's the game you were playing, 'cause you died FAST. 
+Squashed you like a...well, like a whatever you are. 
+I can't believe that whole reading books superpower didn't help you out here. 
+I'm a bit of a bibliophile myself. Have you ever read I Just Kicked Your Ass? It's really good, I think you'd relate to a lot of what's in it. It's seven hundred pages of me kicking your ass. 
+You're dead, Wraith King. Or should I call you by your original name: Jeff Skeleton. 
+Father of the gods? Man, your god kids must be so disappointed in you. 
+Courtesy of the flightless, your majesty. 
+That was for the Kazurai. 
+That was for the Kazurai. 
+The queen is dead... Good. 
+Skywrath is free of you. 
+I waited my whole life for that. 
+No, no, no. 
+Take your best shot. 
+Block party. 
+This bird don't duck. 
+You're parry welcome. 
+Bring it on, buddy! 
+Would you shut up! 
+Quit yer squawkin. 
+The silence of sai. 
+Not a chirp. 
+Not. a. chirp. 
+Sai Toss! 
+Why don't you shut up? 
+Flick of the wrist. 
+Check out my scepter! 
+Now this is a sweet scepter. 
+Bow to the bird king! heh heh 
+Welcome aboard, shadow me. 
+Get 'em, shadow me! 
+Evil shadow twin! 
+Let's get 'em! 
+Go get 'em, us! 
+Get 'em, evil me! 
+Now you gotta kill two birds! 
+Now you gotta kill two birds! Got a stone? 
+Yeah, it's a whole flock now. 
+This is flocking ridiculous. 
+Bird twin powers, activate! 
+Who's who what's what up is down! 
+Lost me! 
+Did ya lose me? 
+Can't pluck what you can't see. 
+Take a gander. 
+Where'd I go? 
+Cut and run! 
+Nooope. 
+Can't hit whatcha can't find! 
+Choke on smoke! 
+See ya' later, losers! 
+Can you see me now? 
+Up in smoke. 
+I'll take it! 
+Let's get risky! 
+Let's go take some chances! 
+Shitty wizard. 
+Who we fightin'? Those guys? 
+Ready to go. 
+Let's do this thing. 
+Beak? Check. Talons? Check. 
+Just point me at 'em. 
+I'm Kestrel. Friends call me Kez. 
+Do my wings work? For the answer, look skyward, while I stab you in the belly. 
+Let's go to work! 
+Flightless Fury. That's what they call me. 
+Let's go, let's go, let's go. 
+Alright. Time to unfurl the wings. The ol'flappers. The big guns. Ha ha ha, they don't do anything. 
+Oh. Already? We're doing it? 
+Ok. LGS. Let's get stabbin'. 
+Grounded, right? Let's all stay on the ground. 
+I arrive on a wing and a prayer and no wings and I haven't got a prayer. 
+I'm just gonna wing it. 
+My sword, my beak, and myself: three sharpest things in this forest. 
+I fly into battle! Figuratively. 
+The eyes of an eagle. The heart of a dragon. And the wings of a... penguin. 
+You have my swords. 
+My swords are ready. 
+You have my blades. 
+I've got your back. 
+Let's give it everything we got. 
+Here we go. 
+I'm ready to spill some blood. 
+Let's go bust up an ancient. 
+Let's go smash up a moon rock. 
+My swords are hungry. 
+No one escapes. 
+No survivors, no mercy. 
+Time to unleash hell. 
+Let's make 'em remember this one. 
+For the Kazurai... 
+For Kraw... 
+ABS. Always Be Stabbing. 
+Here we go. 
+This is why I learned to read glyph. 
+Hope I know what I'm doing. 
+Let's get... out of here... 
+Headin' out. 
+Leaving. 
+Nope. 
+Going somewhere else. 
+Anywhere else but here. 
+Thanks, pal. 
+Thanks! 
+Appreciate it. 
+I owe you one. 
+The Kazurai are in your debt. 
+Thanks a lot. 
+Thanks. 
+You guys said that would work. 
+Why did it focus on me?! 
+It's a tormentor. How did you think that was gonna go? 
+Good job gang. That barely even hurt. 
+Free Aghanim Shard? Can't complain about that. 
+What do you think would happen if we cut the chains? 
+Let's fire this up. 
+This start this thing. 
+This thing on? 
+I'm gettin' attacked over here. 
+I'm under attack! 
+I'm gettin' attacked! 
+Gettin' attacked! 
+Little recon. 
+Ok, creepy watchin guy, let's get peepin'. 
+Alright, little buddy. Keep your eyes open. 
+Let's get peepin'. 
+Little boost... 
+Hey, thanks. 
+Ahhhh. I needed that. 
+There are no wizards, only fools. 
+Feak the beak. 
+Don't fret little guy. 
+Go pluck yourself. 
+Go pluck yourself. 
+Bird brain. 
+Oh, clutch. 
+Clutch! 
+Good look for you. You pull off dead real well. 
+So what'd I miss? 
+Just remember when this is over, you asked for this. 
+Oh geez I'm starvin' right now. Can we call a timeout? 
+Sneaky beaky. 
+Ok. Close your eyes. Imagine a version of yourself not stupid enough to fight me. 
+Just gonna sneak in a quick nap. 
+Man, some minutes really turn into hours, ya know? 
+Sorry. I was just thinking about something else. 
+Get lost. 
+What the flock. 
+I don't PLAN these things. It always just goes like this. 
+Waah 
+Ha ha ha 
+Ah ha ha ha 
+Ahhh 
+Haa ha ha ha ha 
+Ah Ah ha ha ha 
+Hn hn hn ah ha ha 
+Ha ha 
+Oh yeah no. That's really cool. 
+I owe you one. But let's not keep score. 
+Nice work, everybody. 
+Nice work, guys.  
+Hey, we won! 
+We won? We won! 
+Hey, that was great! 
+Ha ha! Yes! 
+Hey hey, we did it! 
+I KNEW we were gonna win! 
+It all makes sense now. 
+It's all so clear to me. 
+Yes. Of course. 
+I am the smartest bird alive! 
+Yeah! 
+Yeah! 
+Yup. 
+Oh yeah. 
+Yes! 
+Yessss!

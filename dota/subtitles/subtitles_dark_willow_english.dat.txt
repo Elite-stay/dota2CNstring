@@ -1,4 +1,100 @@
-m 
+an driver.
+ 
+Failed to initialize NVIDIA driver!
+NVIDIA driver profile error at %s1
+Please visit NVIDIA website to get the most recent version of the graphics drivers and restore your application driver profile and global driver profile to NVIDIA defaults. 
+Not Enough Memory For Game 
+This device does not meet the minimum requirements.
+The game requires at least %s1 of device memory to run reliably,
+you may not be able to complete a game on this device.
+
+The device appears to have %s2 of memory. 
+Low Available Memory 
+Low available system memory detected.
+This may cause the game to be unstable or crash.
+Consider closing any unnecessary open programs to increase system memory availability. 
+Low Pagefile 
+Low disk space on your operating system drive detected, which can limit your pagefile size.
+This may cause the game to be unstable or crash.
+Consider freeing up disk space on your system drive or adjusting pagefile settings in your system properties. 
+Unsupported Windows Version 
+This version of Windows is not supported, please upgrade to a newer version 
+Deprecation Warning 
+The 32-bit version has been deprecated and will be removed, please use the 64-bit version 
+VERSION:  
+Contacting Server 
+Manifest Downloaded 
+Preparing To Download... 
+DOWNLOADING CONTENT 
+An Error Occurred 
+Unknown Error 
+Unable to download manifest 
+Unable to download content file 
+Unable to queue download for content file 
+Insufficient storage 
+Download latest update:  
+Download latest app 
+Play without updating (offline) 
+LOADING GAME... 
+OK 
+Cancel 
+WIFI not active 
+Not Downloading... 
+Press OK to check for WIFI. 
+A new version is available in the App Store. It is required for online play. 
+New Version Available 
+A new app version is available. It is required for online play. 
+A new app version is available 
+Play without updating. Online play disabled. 
+Play without updating 
+Preparing to download %d megabytes of Content - Proceed with download over cellular connection? 
+Proceed with %d megabyte Content download? 
+Content update required: 
+The Internet connection appears to be offline. Please connect to the Internet and try again 
+Exit 
+Settings 
+Storage Permissions are Required 
+In order to install game content, we need access to your device storage. Go to settings to enable the permissions. 
+Content Update Failed 
+A required filesystem operation failed. Please restart the app. If this message persists. Try reinstalling the app. 
+A previous update operation failed and needs an internet connection to recover. 
+English 
+Español (Spanish) 
+Français (French) 
+Italiano (Italian) 
+Deutsch (German) 
+Ελληνικά (Greek) 
+한국어 (Korean) 
+简体中文 (Simplified Chinese) 
+繁體中文 (Traditional Chinese) 
+Русский (Russian) 
+ไทย (Thai) 
+日本語 (Japanese) 
+Português (Portuguese) 
+Português-Brasil (Portuguese-Brazil) 
+Polski (Polish) 
+Dansk (Danish) 
+Nederlands (Dutch) 
+Suomi (Finnish) 
+Norsk (Norwegian) 
+Svenska (Swedish) 
+Čeština (Czech) 
+Magyar (Hungarian) 
+Română (Romanian) 
+Български (Bulgarian) 
+Türkçe (Turkish) 
+العربية(Arabic) 
+Українська (Ukrainian) 
+Español-Latinoamérica (Spanish-Latin America) 
+Tiếng Việt (Vietnamese) 
+Bahasa Indonesia (Indonesian) 
+Failed to load data. Please try again in a few minutes. 
+Loading data... 
+singular 
+second 
+Do not 
+Treasure 
+Gem 
 Genuine 
 Genuine 
 Do not localize 
@@ -140,14 +236,29 @@ rd
 st 
 nd 
 rd 
+Frame time 
+%s1ms 
 Max %s1ms | Avg %s2FPS 
 %s1 ping 
 ↓%s1% 
 ↑%s1% 
+↓%s1ms 
+↑%s1ms 
 Slow server frame: %s1ms 
 Command queue starved 
 Excess command queue 
 Driver out of date 
+↓Jitter 
+↑Jitter 
+↑Margin 
+Ping 
+Miss 
+Loss 
+Late 
+Jitter 
+%s1Net jitter: %s2% delayed 
+%s1Net jitter: %s2ms, %s3% delayed 
+%s1Net jitter: %s2ms 
 Interpreting bind command as: 
 If the binding doesn't work and you're not using a US English keyboard, you should try: 
 United States 
@@ -451,7 +562,7 @@ Let's fly...
 Gotta go... 
 Mischief awaits... 
 Time to be trouble... 
-Can?t stay here... 
+Can't stay here... 
 Let's find something to steal... 
 Eheheheh huhum. 
 You're mine! 
@@ -738,7 +849,7 @@ Let's fly...
 Gotta go... 
 Mischief awaits... 
 Time to be trouble... 
-Can?t stay here... 
+Can't stay here... 
 Let's find something to steal... 
 This isn't over! 
 I'll be back for you... 
@@ -1036,7 +1147,7 @@ Just let me pluck one feather. Please?
 You're a chaotic little creature, Puck. 
 Strange bedfellows, eh Puck? 
 Quoidge is a lovely little town, Pudge. 
-You're a gentleman Pudge, don?t let anyone tell you different. 
+You're a gentleman Pudge, don't let anyone tell you different. 
 You're a dangerous little man. I like that. 
 Be careful Pugna. If you burn down the world, there's nothing left to play with. 
 The boys are gonna love us. 
@@ -1173,7 +1284,7 @@ I'm not meeting my end here!
 My soul is stayin' right where it belongs... 
 Another do-gooder put in their place. 
 Cute transformations aren't gonna save ya... 
-Your friends couldn?t save ya. 
+Your friends couldn't save ya. 
 Some huntress you are... 
 Your bothers would be disappointed in you... 
 You think a rock could ever catch me? 
@@ -1266,7 +1377,7 @@ Sorry, butcher.
 I hope you rot here. 
 You've gone too far, Pugna! 
 Go back to Oblivion! 
-Lady, you're a walking clich?. 
+Lady, you're a walking cliche. 
 You give the rest of us naughty girls a bad name. 
 I don't fear you, Razor. 
 Learn to use that whip better. 
@@ -1381,4 +1492,989 @@ Listen, I know that's not how I said it'd all go down...
 Death by decorum... Is no way for a fairy to live. 
 I was going to rob you blind and leave you for dead. But this works, too. 
 How was I supposed to know? 
-Hahaha ahaha ahaha ahhahahahahaa!
+Hahaha ahaha ahaha ahhahahahahaa! 
+Stick around... 
+You're not going anywhere... 
+Not so fast... 
+Hahahahahah eheh. 
+This'll be fun to watch. 
+You're going to die slowly... 
+Let's see you try to escape... 
+Enjoy... 
+A gift from me to you... 
+Don't take too much time... 
+Time isn't on your side... 
+You want me, come get me... 
+This isn't going to end well for you... 
+Now you see me... 
+Time to regroup... 
+Get ready for a surprise... 
+I got a few tricks up my sleeve... 
+You're gonna love this... 
+Hahahahaha heh. 
+I'm gonna find you.... 
+Jex, whaddya say we go introduce ourselves... 
+Retreat to shadows... 
+The shadows will protect me... 
+I disappear... 
+You'll see me again soon... 
+Time to get outta here... 
+You should have ran... 
+Gotcha! 
+The ley lines call to me... 
+Tick tock... 
+I have you right where I want you. 
+I have you now... 
+You thought you were winning? 
+I don't think so! 
+You're in my dominion... 
+You couldn't begin to understand the power I wield 
+You're on borrowed time. 
+I'd run if I were you. 
+You're on the clock, love... 
+Jex, Protect me! 
+Get to work Jex! 
+Alright little wisp, do your thing. 
+Spread terror, Jex 
+You shouldn't have made my friend angry. 
+Our enemies will run before us. 
+You're all dead. 
+You're all about to die. 
+I'll show you something to be afraid of. 
+Jex, this one's all you. 
+Have you met my friend Jex yet? 
+I have a surprise for you. 
+Alright Jex... go have some fun. 
+Soo, the mist of Avernus... can I have some? 
+I like you. Every entrance you make is terribly dramatic. 
+I love your money. 
+Ya know, the best part of being your friend is that when I rob you. Who cares? You can make more. 
+You're not much of a people person are you? 
+I'm not sure if the shivers I'm feeling are nerves, or just being around you. 
+Heard you were Silencer's errand boy now? True? 
+Word is the Tyler Estate has you on retainer. 
+If you were so good at your job how did the Ancients Escape? 
+Warden, your jurisdiction stops at the mad moon, right? 
+How's that penitent thing workin' out for ya? 
+I'm just trying to work this out. You're sad your family's dead? 
+Heard Slom was quite the place back in the day 
+If you die, can I have your horn? 
+You know what your horn is going for now adays? 
+I heard a rumor of some gorgons being moved through Weeping Rose. 
+Don't be offended if I don't look at you. 
+Listen Meepo, I'm not saying the Jasper Circle wants to kill you. I'm just saying that they're losing faith you're going to pay them back. 
+When the battle's done you and me are going to White Spire to play the Couriers. 
+You don't actually trust Luna, do you? 
+So Axe, you betrayed your own people... I can respect that. 
+Cute cat. 
+So you're the chatty little rodent man everyone's been talking about. 
+Now walk me through this: You have your staff. But you still have to buy your staff. 
+Never stop changing, Morphling. 
+I think it's great you keep reinventing yourself. 
+We're going to ruin their day. 
+Come on Siren, it's time to frustrate the hell outta people. 
+I'm more of a city girl meself. 
+I know you like making trees. I don't suppose you can add an addition to my little hollow? 
+You really need a new moniker. Pope of Pestilence isn't as intimidating as you think it is. 
+Hey Axe, is Khan a last name, or more of a title thing?  
+Ooh, you're an ugly lookin' bastard aren't ya? 
+We're going to own the night. 
+We'll hunt them all down. 
+You ever work with the Jasper Circle? 
+They'll never see us coming. 
+You'd make great hired muscle. 
+Hey Ogre, when this is all over I'd love to pick your brain about arson. 
+Oh, great. Another religious zealot. 
+So long as you keep me alive I'll put up with all your spiritual malarky. 
+You and I could make a killing Oracle. 
+Hey Bane, have you seen what they do to people in Iron Fog? It'd be great research for that nightmare thing you do. 
+Hey Oracle, I'm not going to die today, am I? 
+Look, I don't know if they have gold where you're from but in case they don't, the little metal coins laying around are useless. Just let me collect them. 
+Let's lock 'em down. 
+See Donte, I'm not all bad... 
+Don't get too excited... This partnership won't last long. 
+I don't think your little sorority is for me. 
+You really do whatever that list tells you to do?  
+Oh, what I wouldn't give to make more of me. 
+Aw, I don't have time for one of your lectures, Azwraith. 
+Listen, we all come back from the dead, I don't get what the big deal is. 
+So... Bane... You're scary. 
+Just let me pluck one feather. Please? 
+You're a chaotic little creature, Puck. 
+Strange bedfellows, eh Puck? 
+Quoidge is a lovely little town, Pudge. 
+You're a gentleman Pudge, don't let anyone tell you different. 
+You're a dangerous little man. I like that. 
+Be careful Pugna. If you burn down the world, there's nothing left to play with. 
+The boys are gonna love us. 
+We're gonna have some fuuuuunnnn. 
+Just promise me if I die you'll let me out of the narrow maze. 
+I've been to Yama Raskov, awful place. Good on ya for leaving. 
+Wukong was talking a whole lotta trash about you being bad at your job. 
+You work with the Jasper Circle, right? 
+How's Lasan doing? 
+How's living in your father's shadow treating you? 
+Rubik, you're no enigma. You're a sad little boy looking for approval. 
+Not much of a people person are you? 
+If you're a pile of living sand, why are you stuck as an arachnid all the time? 
+I try not to get involved with demonic politics. 
+I don't want any of your gifts, Demon. 
+Can we agree to leave my soul right where it is? 
+I'll be honest Batrider, I hate it when you talk, but I respect that you take care of your mount. 
+Father always warned me not to traffic with Demons. So... 
+I like your hustle, Shaman. 
+We need to come up with a schedule for who gets to hit what city. Last time we overlapped it was trouble for both of us. 
+How's teaming up with Anti-Mage working out for you? 
+When the battle's over, we go our separate ways. Understood? 
+You're nothing but a puppet, bird man. 
+Your devotion is nauseating. 
+You don't belong here, Slardar. 
+Stick to the depths, Slardar. There's a lot of naughty things on the surface. 
+You gotta tell me about Dark Reef sometime. 
+Look, he may be loyal, but I don't care what you say, that thing isn't a boar. 
+The Monkey King is taking credit for your escape again. 
+Cover me, Sniper. 
+Nice to have you watching my back. 
+Other people might not understand you, but I do. 
+If you need anything, just wail. 
+I'll follow your lead, big guy. 
+Time to cause some trouble, eh Spirit Breaker? 
+You're a lot more fun than your brothers. 
+You seem game for a laugh. 
+Good on you for standing up for yourself. 
+Take it from a lady. Lose the beard. 
+Nice to have the knights of the Vigil on my side for a change. 
+You boys are trouble. 
+Come on, boys. Let's make their lives hell. 
+Tell me you're not still hung up on Yunero. 
+Ready to lay some traps? 
+So what should I call you? Terrorblade doesn't exactly roll off the tongue. 
+How'd you escape the Foulfell? 
+I still have dreams of that day at sea, Tidehunter. 
+This isn't a partnership, Tidehunter. Never forget that. 
+You're absolutely mad, you know that? 
+Sooo if I give you a list of enemies could you like, hunt them down for me? 
+You better not come near my hollow. 
+Word of advice... Never visit Iron Fog. 
+I've been around machines my whole life. They don't impress me. 
+Hey little fella. 
+I can't wait to watch you become the bruiser you're meant to be. 
+You ready to work together? 
+I admire what you did in Roseleaf. I mean, it was stupid, but admirable. 
+Ready to hurt some people. 
+Let's go make a mess. 
+So. Tusk. I heard Bristleback beat you stupid. 
+I saw you years ago in Roseleaf, kept my distance though. Ya know, so I wouldn't get murdered. 
+Both sides say they won that fight, but I know who I believe. 
+Wow, you're big. 
+Please don't eat me. 
+I'm just saying if you don't want your tomb robbed, don't put stuff in it that people want to steal. 
+Just remember we're on the same side, ok. 
+You don't seem particularly cuddly. 
+Anyone ever mistake you for Lone Druid's pet? 
+I'd be careful about being driven by revenge. It makes you predictable. 
+You don't have a problem with me, right? 
+You're a nasty little creature. 
+Oh look. It's Gondar. You survived. Great. 
+Try not to drip on me. 
+You're not a whole lot of fun to be around, Viper. 
+Don't be getting any ideas, Jex. 
+You and Razor need a new hobby. 
+Don't take it personal, but after today I hope I never see you again. 
+Jex is my friend. You're just a two-bit slaver. 
+I'm nothing like you, Warlock. 
+They say you weave the future. What's in store for me? 
+Ever think about taking up knitting? 
+Spare me the rah-rah hero speech, ok? 
+I'm never going back to Revtel, Gondar. Try to force me and you're a dead man. 
+You're not gonna get there first. 
+I'd love to see what books you have in your collection. I'm sure there's some that would fetch a great price in Weeping Rose. 
+Do me a favor and eat Crystal Maiden sometime, ok? 
+You're a strange one aren't you. 
+Let's keep each other safe. 
+You're not a king, you're a despot. 
+You would have fit right in at Revtel. 
+Don't you go getting morals on me, Zeus. 
+Trust me, you're better off without the wife. 
+You got a flask on ya? 
+Tonight we're getting loaded right? 
+When this over whaddya say we go to the pub and pick a fight? 
+If you have the time, I'd love for you to give me some pointers on my right hook. 
+You know what I love about you? Donte hates you. 
+I don't suppose if I asked real nicely you'd make me a hammock? 
+I'm not tellin' ya something ya don't already know, but the Monkey King... Tchk. Not a fan. 
+So, how much is the purse you get for winning in Omexe? 
+If you ever want to move that championship belt for some quick gold, I know a guy. 
+You and me are gonna get along just fine. 
+I'm not trying to tell a Fundamental how to do their job, but you really need to step up your chaos game. 
+You gotta teach me that mind control trick. 
+Chen, I'm tellin ya, you and me could make a killing in White Spire. 
+You ever been to Quoidge? You'd fit right in. 
+I heard about you Clinkz. Your story really taught me why I should never try to be a hero. 
+You're not friends with Mazzie are you? I hate that little runt. 
+I don't know how close you are to Timbersaw, but if you care about his safety tell him to stay clear of Roseleaf. 
+Soo I don't suppose you could talk to Auroth and get her to let me take a peek at her treasure trove? 
+You friends with any Sapphire Archons? I have some, uh, issues that I would love to have smoothed out. 
+I'd love to pick your brain on how to rob Weeping Rose. 
+You're a tactician. What did you make of the Vhoul Rebellion? 
+You're a creepy little man, you know that? 
+I don't suppose I could keep you on retainer? I have a vested interest in cheating death. 
+So can you fly through walls? Cause if so you'd make a helluva second-story man. 
+I could listen to you talk for hours. 
+You're much more reasonable than Sorla. 
+You're the first Oglodi I met that isn't a raving murder machine. 
+Don't take it the wrong way, but I try not to traffic with demons. 
+So. Doom. Mm, that name is... descriptive. 
+Know of any good treasure we can steal when this is all over? 
+You ready to pick a fight, Davion? 
+How's Pudge and Slark doing? 
+I heard Windranger complaining about you being aloof and unfeeling... We should get along just fine. 
+You don't have a fifth brother hiding somewhere too, right? 
+I'd love to know what the four of you were like growing up. 
+We're gonna make em hate us. 
+Glad you're on my side. 
+So... You made creation... That's something. 
+You're not a whole barrel of laughs are ya. 
+You start the fire, and I'll fan the flames. 
+We're gonna get in trooouble. 
+You're like a children's book made flesh. 
+Marks like you are just so trusting. I love it. 
+The way you trapped that alchemist? Classic. 
+You're a fun one, Enigma. 
+So, Faceless Void... This is certainly the first time we've met. 
+Huh. I heard you looked like a lobster. I'm disappointed. 
+I don't get why everyone hates you. You seem lovely. 
+Come on... Let me fly that thing. 
+You won't see me willing to die for my people. 
+Ya know, I think I'll skip the Nothl Realm. 
+Just between you and me, I'm pretty sure Axe wants to beat you stupid. 
+You remind me of my tutors. I hated my tutors. 
+Whatcha think Jex, you want a roommate? 
+Awwww Jex, I think Io likes you. 
+You ready to have some fun, Jakiro? 
+You know in Revtel, Pyrexae is a great delicacy. 
+Juggernaut. Always so serious. 
+I wish I was the last of my kind. 
+Wow, you're old. 
+Keeper of the light... That job sounds... Boring. 
+Well hello, Captain. 
+Cute scar... How'd you get it? 
+Don't expect me to play by your rules, and, uh, we'll get along just fine. 
+Rix is gonna kill you. 
+The less you talk to me the better. 
+Let's just get this over with Leshrac. 
+So you're that cautionary tale Donte keeps harping at me about. 
+Cool skull. 
+Look I'm not trying to tell you how to live your life. But moisturize.  
+Please don't murder me. 
+I know a thing or two about hating family, Lina. 
+Your sister's not the enemy. It's your parents that drove you apart. 
+They say you're a hunted man. I can relate. 
+So long as you don't point your finger at me, we'll get along just fine. 
+Can I pet your bear? 
+So does your pet have a name? Spirit Bear is rather impersonal. 
+I can't place your accent, where ya from? 
+Uugh! 
+Ah! 
+Uah! 
+Guh! 
+Hrrrrgg! 
+Ugh! 
+Bah! 
+Ahh! 
+Ugh! 
+Gaah! 
+Ahh! 
+Err! 
+Ugh! 
+Uh! 
+Ugh! 
+Mrf! 
+Uhh! 
+Arcane Power! 
+I can feel the power run through me. 
+I'm stronger than ever. 
+You're mine! 
+I can take care of myself... 
+You think I don't know how to fight? 
+You're not walking away... 
+It's you or me... 
+Wait your turn Jex... 
+This one's mine Jex... 
+I won't let you stop me... 
+I take what I want, and what I want now is your life. 
+You shoulda walked away... 
+I'm gonna have fun with you... 
+This is where ya die... 
+Run. 
+You should run while you can... 
+Huu yah! 
+Huh yah! 
+Ha-tya! 
+Hya-ga! 
+Ha-dya! 
+Haa-dya! 
+Huu-dya! 
+Hu-dah! 
+Hu ah! 
+No one can stop us... 
+I'm untouchable.... 
+We're a helluva team Jex, aren't we 
+Nothing can stand in our way... 
+Huh! 
+Ya! 
+Ha! 
+Da! 
+Ha ya! 
+Hht! 
+Ay-a! 
+Hu-ah! 
+Ha! 
+Hu! 
+Ha! 
+Haa! 
+Ha! 
+Ah! 
+Ya! 
+Come on Jex, we have work to do. 
+Ohhhh I have chills... 
+I don't need a horn to tell me when to fight. 
+Blink Dagger. 
+We need to stay mobile. 
+I'll save you for later... 
+Hey little fella, you're coming with me... 
+You'll come in handy. 
+Excellent. 
+I can use this. 
+The power! 
+It's mine! 
+Bounty. 
+God I love money. 
+Mine. 
+I found this in what was left of Roseleaf. The Bronze Legion thought they were going to fend off the Red Mist Horde. They weren't ready for what awaited them. 
+Showtime... 
+You're not ready for this... 
+I'm full of surprises... 
+One day the Faceless Void will realize this thing is missing. And when that happens, I'll turn it over before he has a chance to do anything about it. 
+Crummy Wizard! 
+This isn't over! 
+I'll be back for you... 
+I'll make you pay for this.... 
+Impossible! 
+How dare you lay a hand on me! 
+You'll pay for what you've done! 
+You'll never let me hear the end of this, will you Jex... 
+Alright, maybe I was a little... over zealous. 
+That didn't go the way I planned. 
+Can't run forever, can we... 
+Jex, start plotting... we have revenge to mount. 
+Donte always said things would catch up with me... god I hate that little runt. 
+Could be worse Jex, at least we're not stuck in Quoidge. 
+Ya Jex, I get it... that was bad. 
+I don't wanna hear it Jex. 
+I don't think so. 
+nonono. 
+No money for you. 
+Whoops. 
+Sorry. 
+Denied. 
+Oh sorry... 
+Oh , did you want to do that? 
+Better luck next time. 
+I'm always 3 steps ahead. 
+Not fast enough. 
+You were never going to succeed. 
+I'm toying with you, you understand that right? 
+Mine. 
+You're not quick enough. 
+uh-uh-uh... 
+Sorry friends. 
+Today's just not your day... 
+Double Damage. 
+Oh they're not going to be expecting this... 
+Get ready to do your thing, Jex. 
+I'll take that. 
+Now what do we have here... 
+Shiny. 
+Just what I was waiting for. 
+This is going to fit nicely in my collection. 
+I don't think so! 
+I'm just getting started. 
+It was inevitable... 
+Ohhh I love the sound of money... 
+Just like Lorlin showed me... 
+I can take care of myself... 
+Haste! 
+Let's pick up the pace Jex. 
+We gotta stay on the move! 
+Mireska is here. 
+Are you ready to have some fun, ya? 
+Whaddya say Jex, you ready to play? 
+Whaddaya waiting for? We have some gold to steal. 
+Let's get into some mischief, shall we? 
+Illusion 
+Let's see them try to catch us now. 
+Ohhhh this'll be fun. 
+Immortality! 
+I'm unstoppable! 
+No one can touch us! 
+Death won't stop me! 
+This one's in bag. 
+In the bag. Stole the bag. My bag. 
+Invisibility! 
+lets see what kind of trouble we can get ourselves into... 
+This is our moment, Jex. 
+Oh this is gonna be hilarious... 
+Linkin's Sphere 
+Dagon. 
+They're really gonna hate us now, Jex. 
+Orchid Malevolence... 
+If they thought we were annoying before, wait till they see us now... 
+Force staff 
+Satanic. 
+Heart of Terrasque. 
+Bloodthorn 
+Octarine Core 
+Mjollnir 
+Got to keep them on their toes. 
+A wicked blade for a naughty little lady 
+Time to bash a few skulls. 
+Radiance. 
+Eye of Skadi 
+Let's try to keep our distance 
+I've wanted to steal this forever... 
+Refresher Orb 
+Butterfly.  A beautiful name for a deadly little thing... they could have called it Mireska. 
+Helllloooo money. 
+Manta Style 
+Daedalus 
+Desolator 
+Diffusal Blade 
+Echo Sabre 
+Shadow Blade. 
+Heaven's Halberd. 
+Wukong won't even miss it. 
+Black king Bar. 
+No one sneaks up on us. 
+No Jex, you can't carry Yasha. 
+Let's keep a look out. 
+Divine Rapier 
+We'll be holding onto this for a long time... 
+The Jasper Circle always wanted to have it both ways. Naughty deeds mixed with professional ethics. It was never going to be for me. 
+A little mischief never killed anyone... well, you I guess. 
+Stay down... 
+That's what you get... 
+Shoulda just let me have my fun... 
+Tsk tsk tsk... 
+Never had a chance... 
+The Jasper Circle couldn't do it better... 
+It was never going to end well for you... 
+No one stands in my way! 
+What, you thought you would win? 
+Oh we're just getting started... 
+Only way this was gonna play out... 
+I wish I never stowed aboard that ship. Some trophies aren't for celebration, they're reminders of what can go wrong. 
+I love that sound... 
+Let's get paid Jex. 
+Let's keep the money coming. 
+Easiest gold I've made all day. 
+No one hands me anything... I earned this. 
+I don't need my father's money, I make my own. 
+I take what's mine. 
+I suppose murder's not an honest living, but it pays the bills 
+Too easy. 
+I could do this all day. 
+Not bad if I do say so myself... 
+All in a day's work. 
+The more money the better. 
+That scepter isn't gonna to pay for itself... 
+Better you than me. 
+Thanks for the cash. 
+I'll take that. 
+Thanks for holding my money for me. 
+That's more like it... 
+This is going swimmingly, ain't it Jex? 
+Hahahaha! 
+Hahahaha! 
+Hah haha! 
+Huh huh huh huh! 
+Haha ha hahaha! 
+Ha ha ha haha! 
+Ah haha haha ha! 
+Hahaha hahahaha! 
+Hahahaha hahahahahaa! 
+Ha ha ha ha ha ha haa! 
+Haa hahahahahaha! 
+Ahhhahahahahaha! 
+Hahahaha ah hahahaha ahh hahahaha! 
+Huh huh haha ahhaha ahhahahaha! 
+Yes! 
+We did it Jex! 
+The more power the better... 
+Let's see what we can take now.... 
+No one can stop us! 
+Let's start some shenanigans, Jex 
+I think a little mischief's in order... 
+Good work Jex! 
+The world will remember the name Mireska! 
+I forge my own destiny... 
+Oh great.  Now I get to listen to my father gloat. 
+We could have had that. 
+No time for sulking, let's plot our revenge. 
+Damn it! 
+In times like this you just need to pick yourself up, dust yourself off, then steal something your enemy really cares about. 
+Top is missing! 
+Mid is missing! 
+Bottom's missing! 
+Let's go Jex... 
+Time to move. 
+Time to get into trouble... 
+A little mischief never killed anyone... 
+Moving.. 
+On my way. 
+Let's get outta here... 
+You ready for shenanigans? 
+I'm going. 
+My time has come... 
+What are we waiting for... 
+Come on, Jex! 
+I'll prove I'm the best.. 
+I'm always on the move... 
+Can't stay in one place too long... 
+The sooner we're outta here the better... 
+Let's get moving... 
+We're going on a little fieldtrip Jex... 
+Let's see where the road takes us... 
+This place was boring anyway... 
+Here we go... 
+No time to dilly dally... 
+They're on to us, let's go... 
+Let's fly... 
+Gotta go... 
+Mischief awaits... 
+Time to be trouble... 
+Can't stay here... 
+Let's find something to steal... 
+Eheheheh huhum. 
+Let's go Jex... 
+Time to move. 
+Time to get into trouble... 
+A little mischief never killed anyone... 
+Moving.. 
+On my way. 
+Let's get outta here... 
+You ready for shenanigans? 
+I'm going. 
+My time has come... 
+What are we waiting for... 
+Come on, Jex! 
+I'll prove I'm the best.. 
+I'm always on the move... 
+Can't stay in one place too long... 
+The sooner we're outta here the better... 
+Let's get moving... 
+We're going on a little fieldtrip Jex... 
+Let's see where the road takes us... 
+This place was boring anyway... 
+Here we go... 
+No time to dilly dally... 
+There on to us, let's go... 
+Let's fly... 
+Gotta go... 
+Mischief awaits... 
+Time to be trouble... 
+Can't stay here... 
+Let's find something to steal... 
+No. 
+No! 
+Noo! 
+I'm out of mana. 
+I'm out of mana. 
+I'm out of mana! 
+not enough mana. 
+not enough mana. 
+not enough mana! 
+No mana. 
+No mana. 
+No mana! 
+Need mana. 
+Need mana. 
+Need mana! 
+We have no mana. 
+We have no mana. 
+We have no mana! 
+Wait till we have mana. 
+Wait till we have mana. 
+Wait till we have mana! 
+Not yet. 
+Not yet. 
+Not yet! 
+I can't do that. 
+I can't do that. 
+I can't do that! 
+Patience. 
+Patience. 
+Patience! 
+It's not ready. 
+It's not ready. 
+It's not ready! 
+Not ready. 
+Not ready. 
+Not ready! 
+Be patient. 
+Be patient. 
+Be patient! 
+It'll be ready soon. 
+It'll be ready soon. 
+It'll be ready soon! 
+Can't do that yet. 
+Can't do that yet. 
+Can't do that yet! 
+Need more time. 
+Need more time. 
+Need more time! 
+Not now, but soon. 
+Not now, but soon. 
+Not now, but soon! 
+Uh! 
+Ah! 
+Ahh! 
+Oah! 
+Gya! 
+Awh! 
+Uh! 
+Uh! 
+Ugh! 
+Guh! 
+Ah! 
+Ahh! 
+Uh! 
+G'aw! 
+Uh! 
+Nyeh! 
+Uh! 
+Ah! 
+Uh! 
+Ooh! 
+Mm! 
+Eh! 
+Uh! 
+Look at that Jex, we didn't even have to steal it. 
+Ooooo shiny. 
+We're gonna have a lot of fun with this thing, aren't we Jex. 
+Just what I needed. 
+I've had my eyes on this for a while... 
+I may have turned my back on my birthright, but at least my life is mine. 
+It probably wasn't the wisest idea to turn down the Jasper Circle, but I'm no one's errand girl. 
+Mark my word's Jex... one day I'm going to steal the Apotheosis Blade, now that'll be something, won't it. 
+Not many people can say they've been kicked out Weeping Rose, but I am an exceptional talent. 
+Regeneration! 
+Stay healthy, stay moving. 
+They're not killing us... 
+I won't lie, that was unexpected... 
+Hope my father didn't see that... 
+Failure isn't an option... 
+We're not out of this fight yet... 
+Alright Jex, let's get some revenge... 
+Playtimes over... 
+Time to get serious... 
+Ohhhhh a challenge, I like it. 
+No rest for the wicked... 
+Ok, I see how they want to play... 
+Jex... whaddya say we find who did that and rip their eyes out? 
+Never count us out... 
+What's life without a little adversity... 
+Oh no, they won't pull that off again. 
+Revtel was a city of riches and delights. And if my father wasn't one of the merchant kings perhaps I would have stayed. 
+I'll steal the mist of Avernus for myself... 
+Cute horse. I'm going to take it. 
+You shouldn't be carrying all that money around, Alchemist... 
+Shame you picked the wrong side, Alchemist. 
+You should have stayed incorporeal... 
+You never should have stuck your nose in my business, Kaldr! 
+You should have stuck with punching Invoker! 
+You think you can drag me to the Tyler Estate?! 
+You may have imprisoned the Ancients, but you'll never capture me... 
+I wasn't sure someone could annoy me more than Donte, but then you had to go talking in the third person. 
+Stop peddling your little redemption story. 
+Selemene never should've chosen you. 
+You never stood a chance. 
+I'll bury you with the rest of your family. 
+I know just the person to move your horn. 
+Jex, when this is over remind me to go back for his horn. 
+Nice hair. 
+Eh. Sorry, snake lady. 
+Please don't be salty about the whole murder thing. You'll be back on your feet soon. 
+Sorry Meepo. When this is all over I'll buy you a beer, ok? 
+Selemene deserves better protectors. 
+Be grateful that I found you before Sorla did. 
+You're not in my league, Mirana. 
+Shoulda hid as a tree. 
+Next time run away on your little cloud. 
+Your tricks can't stop me, Morphling... 
+You're a second rate elemental. 
+Song's over. 
+You're done singing. 
+You think trees are going to stop me? 
+I'm not afraid of the forest, Prophet. 
+Don't touch me! 
+Aw face it Axe, you're nothing more than a dumb brute. 
+Next time, try to use the scythe. 
+The night is my dominion. 
+No one hunts me. 
+Ugh. I hate bugs. 
+Better things than you have tried, Nyx. 
+It's unfortunate you picked the wrong side... you would have made a great henchmen. 
+Just stop arguing with each other and die already! 
+Next time, worry about saving yourself. 
+Better luck next time, Omniknight. 
+Too easy. 
+I'm not scared of you, Bane... 
+I don't need to see the future. My victory is inevitable. 
+You never should have come here! 
+Go back where you're from! 
+They're going to fit your remains in that stupid hat of yours! 
+All that bravado, but no real talent.. 
+You're being used Mortred! 
+You think you're the first assassin to come for me? 
+All your gifts, and you squander them on heroism. 
+You think you can fool me? 
+At least you dreamed big. 
+I'm putting you to sleep, Bane. 
+You're just not good enough, Phoenix. 
+I warned you before. Stay out of my way! 
+I'm tired of you meddling in my business, Puck. 
+Sorry, butcher. 
+I hope you rot here. 
+You've gone too far, Pugna! 
+Go back to Oblivion! 
+Lady, you're a walking cliche. 
+You give the rest of us naughty girls a bad name. 
+I don't fear you, Razor. 
+Awww you got a lasso! That's adorable. 
+Learn to use that whip better. 
+You made your choice Riki, and I made mine. 
+We could have been friends, Riki. 
+Give me that staff, Rubik 
+I want your father's secrets! 
+Stay down. 
+That's what you get for trying to sneak up on me. 
+Everything you offer has strings attached... 
+I'm not joining your little cult. 
+I'm not going to join your little collection... 
+You and your little pet should have stayed in the jungle. 
+Sorry, Shadowfiend, today's not your day. 
+Professional courtesy only goes so far. 
+It was you or me Rhasta, I'm sorry. 
+I'm not going to the Tyler estate! 
+You'll never take me, Silencer! 
+This is a mercy. 
+Stop talking. 
+Better death than Dark Reef. 
+Should have stayed in the Depths... 
+You couldn't hide forever... 
+Your pet has nothing on mine... 
+Looks like you're not as good as you thought you were... 
+Die you little runt... 
+That gun was never gonna help ya... 
+I'm putting you to rest. 
+Goodnight, Spectre. 
+Try finesse next time. 
+You're just a charging brute. 
+All sound, no fury. 
+Shame you couldn't back up what you were saying. 
+That's the best you could do, Sven? 
+Jex is going to tear your little pet apart. 
+I was expecting more from you, Sven. 
+You're more annoying than I am. 
+I'm breaking your toys. 
+You think you could trap me? 
+You'll never outwit me, Lanaya. 
+Parlor tricks don't impress me, Terrorblade. 
+Make as many illusions as you want, I'll kill em all. 
+I'm haunted by Kunkka thanks to you! 
+This is all your fault, Tidehunter! 
+Ehaha. That's all your armor can do? 
+I've been hunted by better. 
+I'm not some tree that'll stand still... 
+You're little machines are no match for Jex. 
+You think I'm scared of robots? You know how much time I spent in Iron Fog? 
+I don't care how big you get, you're not gonna stop me. 
+A little humility is good for ya, Tiny. 
+Leaving Roseleaf was a mistake. 
+You can't even save yourself. 
+You think a brute like you could stop me? 
+I'll fly circles around you. 
+You're not half the man Bristleback is. 
+You're an abomination, Bloodseeker. 
+I'm gonna turn you into a nice coat. 
+You're repugnant. 
+I'm not going anywhere with you! 
+Just stay dead! 
+I'm not returning what I stole. 
+You were never gonna stop me. 
+You're second rate Ursa. Deal with it. 
+Vengeance gets you nowhere. 
+That's what you get when you take things too personal. 
+Your wards couldn't save you! 
+You're never cashing in that bounty... 
+You never were going to win this fight. 
+I'm supposed to be scared of a little acid? 
+You're not a predator, you're a weed. 
+You won't take me! 
+I won't go to the Narrow Maze! 
+Your magic isn't strong enough Warlock! 
+You thought that golem would protect you? 
+You don't control creation Weaver... 
+My life is my own Weaver, I'm not a piece of your tapestry. 
+Shut up already! 
+My father sent you, didn't he! 
+At least Drow would have put up a fight. 
+You forgot what you are... 
+You traded your power for a pen? Pathetic. 
+You're a poet not a fighter. 
+This isn't personal. 
+Sorry, doc. 
+I've seen what rulers like you are like... you deserved to die. 
+Death is too good for you Osterion. 
+That's the best a god can do? 
+I always wanted to defeat a god. 
+You're good at your job Brewmaster. Sorry it came to this. 
+I'm not paying that tab! 
+It's a shame it came to this. We coulda had fun... 
+If I wanted a real challenge, I should have fought Tusk... 
+So you're the one Wukong is always going on an on about? 
+Your web has nothing on my thorns... 
+So much pride, so little talent. 
+You were the champion of the Omexe arena? Doesn't speak very highly of Centaurs. 
+You ride a pony. Adorable. 
+There's only room for one agent of chaos on this battlefield... 
+No one tells me what to do! 
+I won't be your pawn! 
+Sorry hero. 
+Just accept your fate and die already! 
+Cute cogs. Do you mind if I take one? 
+You keenfolk are nothing without your toys! 
+You're the Warden of Icewrack? Please... 
+You're nothing but a two-bit talent that stumbled onto a title. 
+Tactician? Hardly. 
+All your little mind games didn't add up to a whole lot did they, Dark Seer? 
+Keep your hoogidy-boo away from me! 
+Shoulda looked after yourself instead of worrying about your friends... 
+Sweetie, your name is richly ironic. 
+I hate spirits. 
+When are you Oglodi gonna learn... 
+You shoulda joined the Red Mist... At least then you'd learn how to fight. 
+I'm not meeting my end here! 
+My soul is stayin' right where it belongs... 
+Another do-gooder put in their place. 
+Cute transformations aren't gonna save ya... 
+Your friends couldn't save ya. 
+Some huntress you are... 
+Your bothers would be disappointed in you... 
+You think a rock could ever catch me? 
+No one bars my path... 
+I'm takin' your little drum for my collection. 
+Shoulda stuck to your forge! 
+God your old. 
+You'll never be as quick as me. 
+Sorry you won't make it to the family reunion. 
+I could smash your saccharine face over and over. 
+How well did that positive outlook help you? 
+Tell me your secrets! 
+I want the power you hold Enigma! 
+Some time lord you turned out to be... 
+I never feared the void. 
+I'm gonna break your pretty little toy. 
+I'll never get tired of doing that. 
+Let me help you with your sacrifice... 
+You're just a pawn of the gods, Huskar. 
+Everyone hates you, Invoker. Everyone. 
+You talk too much. 
+Let me show you how a real wisp does things. 
+Lights out. 
+Two heads, no skill. 
+I'm gonna make a jaunty little hat out of you... 
+Where'd all that honor get you? 
+That mask will fetch a high price. 
+Fundamentals... I don't see what the big deal is... 
+Shiny. 
+You were supposed to go down with your ship... 
+What happened to you wasn't my fault! 
+Stonehall has blood on it's hands. 
+I lived in Revtel long enough to know the difference between order and tyranny. 
+I'm a mischief maker... not a sadist. 
+You're a blight on this world, Leshrac! 
+Some power isn't worth the price, Lich. 
+You should be used to dyin' by now, Lich. 
+I'm not ending up like you! 
+Stay away from me! 
+Guess you're not that much of a bad girl after all. 
+All that bluster and you're just a sad little girl. 
+I heard of you Lion... you're a monster. 
+I'll take that arm for myself! 
+You should have kept to yourself. 
+At least you didn't die alone. 
+People don't change, Luna! 
+Aghanim's Scepter. 
+I can feel the power. 
+The power... it's intoxicating... 
+Shitty Wizard! 
+They're not ready for what I have planned... 
+Jex... are you ready for shenanigans? 
+Mireska has arrived. 
+No one will forget the name Mireska 
+Let's have some fun, shall we... 
+These marks won't know what hit 'em... 
+God I'm going to enjoy this... 
+Time to take what I want... 
+We're going to have some fun Jex... 
+I can feel it already, this is gonna be exciting... 
+Never been stopped before, not gonna start now... 
+This'll be like stealing candy from a- Well stealing from anyone really, I'm pretty amazing. 
+I almost feel sorry for what's about to happen...almost. 
+Come my little wisp...it's playtime. 
+I'm wanted in 6 nations... you think a glowing rock is going to stop me? 
+It's not wise to stand in my way... 
+I don't take pleasure in violence, but no one gets between me and my desires. 
+I'm full of surprises... 
+My family will never forget my name... 
+You don't think you're going to win, do you? 
+Darlin' I'm so out of your league it's not even funny. 
+You ready to have some fun, Jex? 
+Thanks. 
+Thank you. 
+I owe you. 
+preciate it. 
+I need help! 
+Over here! 
+They're over here! 
+Jex really hates it when you rattle his cage. 
+I don't know what I was expecting. 
+Wait wait. Have you heard the one about the wayward baron and the traveling shopkeep? 
+Ignorance is only an excuse the first time. And even then, come on! 
+Oh-ho. Don't mind me. Just a wee fairy going about her business. 
+Change the subject. Please. 
+Do I look like a damsel? 
+Equal split! Minus my finder's fee, of course. 
+Ring that bell again. I dare you. 
+This makes absolutely no sense. 
+Stick to your pyramid schemes and leave the real hustle to the pros. 
+Listen, I know that's not how I said it'd all go down... 
+Death by decorum... Is no way for a fairy to live. 
+I was going to rob you blind and leave you for dead. But this works, too. 
+How was I supposed to know? 
+Give it up already. 
+No. Just... no. 
+Where's the challenge in that? 
+Hahaha ahaha ahaha ahhahahahahaa! 
+You shouldn't have. No, really. I'm not interested in your charity. 
+Fine, I'll say it... Thank you. 
+Our victory was inevitable. 
+Good work Jex! 
+We won! 
+Onto the next adventure. 
+I wish I could say I was surprised. 
+Yes. 
+Yes! 
+Yeessss!
