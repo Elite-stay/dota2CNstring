@@ -7740,6 +7740,8 @@
 		"LoadoutSlot_Pudge_Base"							"英雄基部"
 		"LoadoutSlot_Juggernaut_Base"							"英雄基部"
 		"LoadoutSlot_Windrunner_Base"							"英雄基部"
+		"LoadoutSlot_Earthshaker_Base"							"英雄基部"
+		"LoadoutSlot_Ogre_Magi_Base"							"英雄基部"
 		
 		//PUDGE PERSONA CUTE
 		"LoadoutSlot_Taunt_Pudge_Persona"					"嘲讽（身心）"
@@ -9552,6 +9554,7 @@
 		"DOTA_HoF_Sweden"					"瑞典"
 		"DOTA_HoF_Europe"					"欧洲"
 		"DOTA_HoF_EasternEurope"			"东欧"
+		"DOTA_HoF_WesternEurope"			"西欧"
 		"DOTA_HoF_MiddleEast"				"中东"
 
 		"DOTA_HoF_ArtStyle"					"Ivan Antonov"
@@ -20567,6 +20570,7 @@
 	"DOTA_Frontpage_TimedEvent_AfterEnd"				"已经结束。"
 	"DOTA_Frontpage_TimedEvent_RewardAmount"			"10 000"
 	"DOTA_Frontpage_TimedEvent_ClaimButtonLabel"		"领取奖励"
+	"DOTA_Frontpage_TimedEvent_ClaimMultipleButtonLabel"		"领取奖励 x{d:claim_count}"
 	"DOTA_Frontpage_TimedEvent_ClaimButtonDoneLabel"	"奖励已领取"
 	"DOTA_Frontpage_TimedEvent_MoreInfo"				"仅对天梯和非天梯的全英雄选择比赛有效。加速模式计入的场数减半。"
 
@@ -24641,6 +24645,7 @@
 
 	"DOTA_Recycling"				"物品轮回"
 	"DOTA_Recycling_Action"			"轮回"
+	"DOTA_Recycling_Action_Multiple"		"轮回 {d:recycle_count}/{d:recycle_max}"
 	"DOTA_Recycling_DragItems"		"拖拽不想要的物品到这里"
 	"DOTA_Recycling_Outputs"		"变成"
 	"DOTA_Recycling_Confirm"		"你确定要轮回这些物品吗？"
@@ -48811,11 +48816,11 @@
 		"dota_settings_neutral_item_selection_new_settings_title"				"中立物品打造快捷键"
 		"dota_settings_neutral_item_selection_new_settings_description"					"使用快捷键选择中立物品的宝物和附魔"
 
-		"dota_settings_show_range_finder_on_quickcast_down"				"快速施法按下快捷键施法时显示技能范围。"
+		"dota_settings_show_range_finder_on_quickcast_down"				"快速施法按下快捷键时显示技能范围"
 		"dota_settings_show_range_finder_on_quickcast_down_tooltip"		"快速施法按下快捷键施放技能或物品时短暂显示技能范围。"
 
 		"dota_settings_alt_unit_movetodirection"				"按住ALT键启用径直移动"
-		"dota_settings_alt_unit_movetodirection_tooltip"		"按下ALT + 右键会下达径直移动的指令：在不寻路的情况下向一个方向移动。"
+		"dota_settings_alt_unit_movetodirection_tooltip"		"ALT + 右键点击可以下达径直移动指令，移动时不会使用寻路系统。"
 
 		"DOTA_DashboardGames_Title"								"让等待匹配不再无聊的小游戏"
 
@@ -48863,6 +48868,7 @@
 		"DOTA_Compendium2025_Tabs_TalentBundles"				"解说捆绑包"
 
 		"DOTA_Compendium2025_SupportersClub_Description"		"支持最喜爱的队伍，永久获得最爱队伍的聊天表情、喷绘、聊天语音和载入画面。50%的销售所得将归于支持的战队，30%将进入国际邀请赛的总奖金。"
+		"DOTA_Compendium2025_SupportersClub_Description_PostTI"	"支持最喜爱的队伍，永久获得最爱队伍的聊天表情、喷绘、聊天语音和载入画面。50%的销售所得将归于支持的战队，50%将归于Valve（总奖金已锁定）。"
 		"DOTA_Compendium2025_SupportersClub_Subtitle"			"加入战队应援团，永久获得最爱队伍的聊天表情、喷绘、聊天语音和载入画面。"
 		"DOTA_Compendium2025_PurchaseEndDate"					"上架销售截至{t:s:t:tour_end_time}。"
 
@@ -48873,6 +48879,8 @@
 
 		"DOTA_Compendium2025_Talent_Title"						"解说捆绑包"
 		"DOTA_Compendium2025_Talent_Desc"						"购买内含贴纸、语音和亲笔签名的捆绑包来支持最爱的解说。50%销售所得将归于解说，30%将进入国际邀请赛的总奖金。"
+		"DOTA_Compendium2025_Talent_Desc_PostTI"				"购买内含贴纸、语音和亲笔签名的捆绑包来支持最爱的解说。50%销售所得将归于解说，50%将归于Valve（总奖金已锁定）。"
+
 		"DOTA_Fantasy25_PeriodName0"							"国际邀请赛之路"
 		"DOTA_Fantasy25_PeriodName1"							"国际邀请赛"
 
@@ -48986,6 +48994,7 @@
 		"DOTA_CompanionPoints_Prediction_RTTI"					"瑞士轮排名预测正确"
 		"DOTA_CompanionPoints_Prediction_MainEvent"				"主赛事赛况预测正确"
 		"DOTA_Companion_CorrectPrediction"						"神谕者挑战预测正确"
+		"DOTA_EventRanking_Award"								"活动排名奖励"
 
 		"DOTA_ClaimGatedEvent_GenericFailure"					"未知服务器错误，请重试。"
 		"DOTA_ClaimedGatedEvent_Success"						"现在你可以参加这个活动了！"
@@ -49013,6 +49022,7 @@
 		"DOTA_International2025_Talent_Supported"		"你在支持这名解说。"
 		"DOTA_International2025_TalentBundle_Title"		"购买贴纸捆绑包来支持<span class=\"TalentName\">{s:talent_name}</span>。"
 		"DOTA_International2025_TalentBundle_Desc"		"<b>50%</b>销售所得将归于解说，同时<b>30%</b>进入<b>2025年国际邀请赛</b>总奖金。"
+		"DOTA_International2025_TalentBundle_Desc_PostTI"		"<b>50%</b>销售所得将归于解说（总奖金已锁定）。"
 		"DOTA_International2025_TalentBundle_NoBundles"		"没有可购买的捆绑包"
 		"DOTA_International2025_TalentBundle_Purchase"		"购买{g:dota_item_price:bundle_item_def}"
 		"DOTA_International2025_TalentBundle_ChatWheel"		"永久聊天轮盘"
@@ -49149,6 +49159,11 @@
 		"DOTA_Aegis25_Description_NotAvailable"					"今年的神盾会在9月19日赛事结束后上架销售。游玩梦幻挑战和赛事预测可以获得折扣优惠！"		
 		"DOTA_Aegis25_Purchase"									"马上购买"
 		"DOTA_Aegis25_Discount"									"你的折扣： {d:discount}%"
+		"DOTA_Aegis25_Coupon"									"使用优惠券代码：<span class='Code'>{s:coupon_code}</span>"
+		"DOTA_Aegis25_CopyCode"									"复制代码至剪贴板"
+		"DOTA_Aegis25_FullPrice"								"$150"
+		"DOTA_Aegis25_HalfOff"									"<span class='Strikethrough'>$150</span> $75"
+		"DOTA_Aegis25_Free"										"<span class='Strikethrough'>$150</span> $0"
 
 		"DOTA_Compendium25_AegisEmoticonReward"					"冠军之神盾聊天表情"
 		"DOTA_Compendium25_WallpaperReward"						"TI壁纸"
@@ -49241,5 +49256,7 @@
 		"Notification_International25_YB_Entrance"		"Yakutou Brothers将正式在国际邀请赛上取代Gaimin Gladiators。赶快更新赛事预测！"
 		"Notification_International25_Whitemon_Replace"	"Tundra Esports的Whitemon因故无法参与国际邀请赛。Tobias“Tobi”Buchner将代他参赛。"
 		"Notification_International25_Fantasy_Stun_Fix"	"你的梦幻阵容受到一个错误的影响，导致眩晕时间的权重被预期更高。这个错误已经修复，每个受影响的徽标都会补偿3枚重选代币。"
+
+		"DOTA_International2025_AegisHover"				"前往CMD Collectibles进行购买"
 	}
 } 
