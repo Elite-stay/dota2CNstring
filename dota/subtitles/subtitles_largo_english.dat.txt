@@ -1,0 +1,1981 @@
+hics drivers.
+ 
+Failed to initialize NVIDIA driver!
+NVIDIA driver profile error at %s1
+Please visit NVIDIA website to get the most recent version of the graphics drivers and restore your application driver profile and global driver profile to NVIDIA defaults. 
+Not Enough Memory For Game 
+This device does not meet the minimum requirements.
+The game requires at least %s1 of device memory to run reliably,
+you may not be able to complete a game on this device.
+
+The device appears to have %s2 of memory. 
+Low Available Memory 
+Low available system memory detected.
+This may cause the game to be unstable or crash.
+Consider closing any unnecessary open programs to increase system memory availability. 
+Low Pagefile 
+Low disk space on your operating system drive detected, which can limit your pagefile size.
+This may cause the game to be unstable or crash.
+Consider freeing up disk space on your system drive or adjusting pagefile settings in your system properties. 
+Unsupported Windows Version 
+This version of Windows is not supported, please upgrade to a newer version 
+Deprecation Warning 
+The 32-bit version has been deprecated and will be removed, please use the 64-bit version 
+VERSION:  
+Contacting Server 
+Manifest Downloaded 
+Preparing To Download... 
+DOWNLOADING CONTENT 
+An Error Occurred 
+Unknown Error 
+Unable to download manifest 
+Unable to download content file 
+Unable to queue download for content file 
+Insufficient storage 
+Download latest update:  
+Download latest app 
+Play without updating (offline) 
+LOADING GAME... 
+OK 
+Cancel 
+WIFI not active 
+Not Downloading... 
+Press OK to check for WIFI. 
+A new version is available in the App Store. It is required for online play. 
+New Version Available 
+A new app version is available. It is required for online play. 
+A new app version is available 
+Play without updating. Online play disabled. 
+Play without updating 
+Preparing to download %d megabytes of Content - Proceed with download over cellular connection? 
+Proceed with %d megabyte Content download? 
+Content update required: 
+The Internet connection appears to be offline. Please connect to the Internet and try again 
+Exit 
+Settings 
+Storage Permissions are Required 
+In order to install game content, we need access to your device storage. Go to settings to enable the permissions. 
+Content Update Failed 
+A required filesystem operation failed. Please restart the app. If this message persists. Try reinstalling the app. 
+A previous update operation failed and needs an internet connection to recover. 
+English 
+Español (Spanish) 
+Français (French) 
+Italiano (Italian) 
+Deutsch (German) 
+Ελληνικά (Greek) 
+한국어 (Korean) 
+简体中文 (Simplified Chinese) 
+繁體中文 (Traditional Chinese) 
+Русский (Russian) 
+ไทย (Thai) 
+日本語 (Japanese) 
+Português (Portuguese) 
+Português-Brasil (Portuguese-Brazil) 
+Polski (Polish) 
+Dansk (Danish) 
+Nederlands (Dutch) 
+Suomi (Finnish) 
+Norsk (Norwegian) 
+Svenska (Swedish) 
+Čeština (Czech) 
+Magyar (Hungarian) 
+Română (Romanian) 
+Български (Bulgarian) 
+Türkçe (Turkish) 
+العربية(Arabic) 
+Українська (Ukrainian) 
+Español-Latinoamérica (Spanish-Latin America) 
+Tiếng Việt (Vietnamese) 
+Bahasa Indonesia (Indonesian) 
+Failed to load data. Please try again in a few minutes. 
+Loading data... 
+singular 
+second 
+Do not 
+none 
+one 
+many 
+1 
+22 
+11 
+11000 
+Treasure 
+Gem 
+singular 
+plural 
+Genuine 
+Genuine 
+Do not localize 
+Do not localize 
+Treasure 
+Gem 
+Unusual 
+One 
+Plain string 
+{var} has no gender 
+January 
+February 
+March 
+April 
+May 
+June 
+July 
+August 
+September 
+October 
+November 
+December 
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+Sunday 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Saturday 
+Sun 
+Mon 
+Tue 
+Wed 
+Thu 
+Fri 
+Sat 
+Su 
+Mo 
+Tu 
+We 
+Th 
+Fr 
+Sa 
+Today 
+Tomorrow 
+Yesterday 
+_ 
+_ 
+AM 
+PM 
+1 
+1 
+04 
+02 
+1 
+%s1/%s2/%s3 
+%s2/%s1/%s3 
+%s1/%s2 
+%s2/%s1 
+%s1, %s2 %s3, %s4 
+%s1 %s2, %s3 
+%s1 %s2 
+%s1 %s2 %s3 
+%s1 %s2 %s3, %s4:%s5 
+%s1 %s2 %s3, %s4:%s5 %s6 
+%s1 %s2 %s3, %s4:%s5:%s6 
+%s1 %s2 %s3, %s4:%s5:%s6 %s7 
+%s1 %s2 %s3 %s4:%s5:%s6 
+%s1 %s2 %s3 %s4:%s5:%s6 %s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 
+%s1, %s2 %s3, %s4 %s5:%s6:%s7 %s8 
+%s1:%s2 
+%s1:%s2 %s3 
+%s1:%s2:%s3 
+%s1:%s2:%s3 %s4 
+%s1 
+%s1, %s2 %s3, %s4:%s5 
+%s1, %s2 %s3, %s4:%s5 %s6 
+%s1 %s2, %s3 (%s4:%s5:%s6) 
+%s1 %s2, %s3 (%s4:%s5:%s6) GMT 
+Unknown 
+%s1d %s2:%s3:%s4 
+%s1:%s2:%s3 
+%s1:%s2 
+%s1d %s2h %s3m %s4s 
+%s1d %s2h %s3m 
+%s1h %s2m %s3s 
+%s1h %s2m 
+%s1m %s2s 
+%s1m 
+%s1s 
+days 
+hours 
+minutes 
+seconds 
+day 
+hour 
+minute 
+second 
+- 
++ 
+, 
+. 
+Inf 
+4 
+th 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+st 
+nd 
+rd 
+Frame time 
+%s1ms 
+Max %s1ms | Avg %s2FPS 
+%s1 ping 
+↓%s1% 
+↑%s1% 
+↓%s1ms 
+↑%s1ms 
+Slow server frame: %s1ms 
+Command queue starved 
+Excess command queue 
+Driver out of date 
+↓Jitter 
+↑Jitter 
+↑Margin 
+Ping 
+Miss 
+Loss 
+Late 
+Jitter 
+%s1Net jitter: %s2% delayed 
+%s1Net jitter: %s2ms, %s3% delayed 
+%s1Net jitter: %s2ms 
+TrueView: 
+Disabled 
+Active 
+No data 
+Active - old demo 
+Disabled - old demo 
+Active - dead on server 
+Interpreting bind command as: 
+If the binding doesn't work and you're not using a US English keyboard, you should try: 
+United States 
+Afghanistan 
+Åland Islands 
+Albania 
+Algeria 
+American Samoa 
+Andorra 
+Angola 
+Anguilla 
+Antarctica 
+Antigua and Barbuda 
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+Bahamas 
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina 
+Botswana 
+Bouvet Island 
+Brazil 
+British Indian Ocean Territory 
+Brunei Darussalam 
+Bulgaria 
+Burkina Faso 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Republic of Cabo Verde 
+Cayman Islands 
+Central African Republic 
+Chad 
+Chile 
+China 
+Christmas Island 
+Cocos (Keeling) Islands 
+Colombia 
+Comoros 
+Congo 
+Congo, the Democratic Republic of the 
+Cook Islands 
+Costa Rica 
+Côte d'Ivoire 
+Croatia 
+Cyprus 
+Czech Republic 
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic 
+Ecuador 
+Egypt 
+El Salvador 
+Equatorial Guinea 
+Eritrea 
+Estonia 
+Ethiopia 
+Falkland Islands (Malvinas) 
+Faroe Islands 
+Fiji 
+Finland 
+France 
+French Guiana 
+French Polynesia 
+French Southern Territories 
+Gabon 
+Gambia 
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Greenland 
+Grenada 
+Guadeloupe 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guernsey 
+Guyana 
+Haiti 
+Heard and Mc Donald Islands 
+Vatican City State (Holy See) 
+Honduras 
+Hong Kong 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Isle of Man 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jersey 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+Korea, Republic of 
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Lao People's Democratic Republic 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macau 
+North Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands 
+Martinique 
+Mauritania 
+Mauritius 
+Mayotte 
+Mexico 
+Micronesia, Federated States of 
+Moldova, Republic of 
+Monaco 
+Mongolia 
+Montenegro 
+Montserrat 
+Morocco 
+Mozambique 
+Myanmar 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+Netherlands Antilles 
+New Caledonia 
+New Zealand 
+Nicaragua 
+Niger 
+Nigeria 
+Niue 
+Norfolk Island 
+Northern Mariana Islands 
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestinian Territory, Occupied 
+Panama 
+Papua New Guinea 
+Paraguay 
+Peru 
+Philippines 
+Pitcairn 
+Poland 
+Portugal 
+Puerto Rico 
+Qatar 
+Reunion 
+Romania 
+Serbia 
+Russian Federation 
+Rwanda 
+Saint Helena 
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Pierre and Miquelon 
+Saint Vincent and the Grenadines 
+Samoa 
+San Marino 
+Sao Tome and Principe 
+Saudi Arabia 
+Senegal 
+Serbia and Montenegro 
+Serbia 
+Seychelles 
+Sierra Leone 
+Singapore 
+Slovakia 
+Slovenia 
+Solomon Islands 
+Somalia 
+South Africa 
+South Georgia and the South Sandwich Islands 
+Spain 
+Sri Lanka 
+Sudan 
+Suriname 
+Svalbard and Jan Mayen 
+Eswatini 
+Sweden 
+South Sudan 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania, United Republic of 
+Thailand 
+Timor-Leste 
+Togo 
+Tokelau 
+Tonga 
+Trinidad and Tobago 
+Tunisia 
+Turkey 
+Turkmenistan 
+Turks and Caicos Islands 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates 
+United Kingdom 
+United States Minor Outlying Islands 
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Venezuela 
+Viet Nam 
+Virgin Islands, British 
+Virgin Islands, U.S. 
+Wallis and Futuna 
+China 
+Western Sahara 
+Yemen 
+Zambia 
+Zimbabwe 
+I really like the atmosphere you bring. 
+I don't even know how to spend a single sack of gold. What do you need a mountain for? 
+You probably don't spend much time at the beach, eh? 
+Why so serious, bro? Maybe lighten up a bit. 
+Can you breath underwater in that thing? Do you NEED to breath? 
+Introduce me to that little scribe eh? She sounds like heaps of fun. 
+My chopper's not quite as sharp as yours -- but my bars might be. 
+Yeah ok, Bane. But why would you wanna be that way? 
+Can I have a go? I've always wanted wings. 
+Sure, I can call ya Karroch. I get why you don't like the other thing. 
+So does the temperture of the blood matter to you? 
+I can tell you're a bit of a wallflower over there. 
+You're not meant to be pissed all the time. 
+Bring it in, bro. I don't mind the spikes. 
+Never met a mum quite like you. You ever keep your little ones in your belly? 
+I bet you can get those webs a hummin'. 
+Four on the floor and still hands free. 
+What do you mean you don't like music? I'm pretty sure your horse is dancing. 
+You can't just compel people to be your mates, bro. 
+You've looked better, mate. I'm guessing. 
+But what do you do about all the sweat? 
+You're a breath of fresh air. A bit too fresh. Anyone got a beanie? 
+Music's just math, I've been told. You should try it sometime. 
+What kind of tunes do they like where you're from? 
+Hey, you got any fairy bread? 
+You're like a guardian angel. Saving everybody from way up above. 
+You've got real stage presence, bro. 
+Yeah, ballads are great. Folks love a good tear-jerker. 
+I bet you could make music with those crackly things. You ever try? 
+You wanna play sometime, Doom? Where's your Six-Hell Six-String? 
+I bet dragon scales are on a whole other frequency. 
+You're icy now, but you'll warm up to me. 
+I bet nothing's ever too much pressure for you, eh. 
+Someone told me to get you on drums. Gizza beat? 
+I wouldn't call this world broken. Why would you undo all of this? 
+So mystic and severe! 
+Enchanting...doesn't even begin to do you justice. 
+Come on, cuz. Gather round. 
+I bet you keep real good time, mate. 
+Always nice to meet a fellow artist. 
+It's good to see a fella stay active in his later years. 
+You sound kinda familiar... 
+I think what you really need is a hug. I could use one too. 
+Looking bloody fierce, bro. 
+But how do you even see? 
+I don't mind a spotlight. 
+Was that your tyke zooming around? 
+I'll bring the tunes, you bring the pyro and the lights. 
+You guys ever try to harmonize? 
+I almost lost my island too bro. Did you try changing your tune? 
+You should try to keep outta the sun, bro. It's not doing wonders for your skin. 
+Do you even squawk cuz? 
+Cuzzy Kez. 
+Oh sorry, mate. We were talking about different kinds of plank. 
+You call out the tune, I'll play it. 
+I gotta remember: the ones that are hardest to love usually need it the most. 
+You got a killer smile bro. But you're a touch dead behind the eyes. 
+Do you have to steal the life? Maybe you could just borrow it for bit. 
+If you and your sister could work together, you'd make a killer duo. 
+Can you still use that hand for regular things? I don't know if I'd trust it in the dunny. 
+You gotta find yourself some disciples, mate. Instead of just packin' a sad. 
+So you've actually talked to a moon goddess? That's crazy. What's she like? 
+Can those critters howl in harmony? 
+You should toot your own horn. That thing's far out. 
+You're pretty good. You wanna join me band? 
+Whistling a happy tune? That's a good one! 
+It's the effort that counts, bro. Sing your heart out. 
+Killer 'do. 
+How do you fellas decide who does chores? 
+So what are the qualifications to become a priestess of the moon anyway? 
+Chur, mate! Your rhythm really swings! 
+I really like your flow, bro. 
+So does death like music? I thought I could write 'em a song. 
+That's a real killer voice. All it needs is some twangin' gilly. 
+You could call your band 'Naga and the Nets'. You can have that one. 
+Ok, sure, I get it. You're not keen on talking about root notes. 
+Change your outlook a bit and we could cook up a proper infectious groove. 
+Night time's the right time for a proper gig, eh? 
+Never thought I'd get a chance to play with a beetle. 
+You fellas look born for barbershop. If only you weren't tone deaf. 
+Just smite to the beat and we'll be sweet. 
+You're the seer, I'm the ear. 
+So what kind of stuff have you seen out there anyway? 
+Your fancy moves, my funky grooves -- can't beat that combo. 
+Aw, cuz -- smooth as a melody, sharp as a chord! 
+Heh -- love that you brought your own accompaniment. 
+Let's fly high and light this place up. 
+Wild energy, mate. Let's cause a ruckus. 
+Tricky moves, mate, but we keep the rhythm tight. 
+You bring some great chops and catchy hooks. Just like me. 
+Your spells and my strings -- let's set this place on nether-fire. 
+Well summon the Queen. 
+Big pipes, sis! 
+Electric energy, mate ... love jamming with you! 
+I'll take the spotlight, you handle the sneaky stuff. 
+Finally! Someone with a sense of showmanship. 
+You've got that 'savant' look about you. I bet you can play a riff you've only ever heard once. 
+All I'm saying is you can get everything you like about the desert -- AND MORE -- if you go to the beach. 
+I hear you've got quite a cult following. 
+I know you've got soul. Lots of them. 
+You make 'em dance a much different style than me. 
+Hey, Silencer -- it's ok to let 'em cheer a bit. 
+Now here's a fella who can hit a proper high note. 
+When you heading out, cuz? I always got my togs. 
+This fella catches a flow like riding a perfect wave. 
+We gotta exchange sweet swimming spots, Slark! 
+Your Reef was a prison? Yeah, nah. Our one wasn't like that. 
+They call you Keen Folk? Sweet as! 
+Snapfire and Mortimer? Now it's a party! 
+Always happy to jam with a hotshot. 
+I reckon when you sing it sounds crazy, Spectre! Real avant-garde. 
+They say you've got a mysterious backstory -- gizza bit? 
+Lovin' that positive energy, cuz! 
+Always an honor to meet a mer of honor! 
+All the best shows end in fireworks. 
+You should cough or something. To let a fella know you're coming. 
+I bet nobody knows the trouble you've seen. Eh, Terrorblade? 
+You're a handsome fella. 
+Mind splashin' a little water on me, mate? I could use a lil refreshment. 
+We both love cuttin' it up, but - you know - just in different ways. 
+We could totally use that thingie for a light show. 
+Hey, let's roll, rock! 
+Nice to see at least one of us putting down roots. Oh wait, yours are moving. 
+You may act cranky, but I see that smile when I strum. 
+Chill songs and cold drinks? It's like we were made for each other. 
+That big cavern you live in must have amazing acoustics. Can I visit? 
+Those zombie guys could make a pretty good chorus. Except for the rotting vocal cords. 
+Someone told me you play the cymbols -- is that true? 
+If you're ever having trouble dealing with the past, maybe try and write a song about it. 
+First off, huge apologies if my tummy rumbles a bit. 
+Good to see you, Viper. Maybe don't get too close? 
+You don't need to worry about my soul, Visage. I'm pretty sure I got that sorted. 
+You got any music archives at that library? Can I get a peek? 
+Infinite realms means infinite venues! 
+Black grimoire sounds like a fire song book. 
+You know I control time too, right? It's called tempo! 
+The way you string a bow, you'd be good with a guitar. 
+Yeah, just thrum to the rhythm. 
+It's up to you where you focus your Mana, Auroth. Don't let 'em tell you different. 
+I wonder if anyone's ever written a song about a witch doctor. I bet it'd be a hit. 
+Hey, you got problems bro. I don't even know where to start. 
+I wrote your people a couple of protest songs. Wanna hear? 
+I'm just saying, you'd be a whole lot nicer to direct storms away from people. What gives? 
+You must know heaps of spoony songs from your wild days. 
+Oh, keen as! Who's that little cuzzy in the bucket? 
+Hrggh 
+Hmmm 
+Rggg 
+Arghh 
+Arrrgh 
+Arghh 
+Anggg 
+Mm! 
+Magic river candy. 
+Now I'm really in tune. 
+That's the good stuff. 
+It's one hit after another. 
+Wait'll you hear this. 
+Hey have you heard? 
+Rock and roll. 
+Time for a bit of show and tell. 
+Everything's a drum if you pound hard enough. 
+Don't interrupt. 
+Don't interrupt. 
+You're outta tune. 
+Hey time to play. 
+Gizza hug? 
+Hey bro! 
+Hey bro! 
+Well if I gotta brawl! 
+How ya going? 
+Mind the strummer. 
+Mind the strummer. 
+Shall we dance? 
+Find your own gig. 
+What do you reckon? 
+What do you reckon? 
+Let's go to the hop! 
+A little chin music. 
+You're a broken record, mate. 
+Now you're in the deep stuff. 
+Wanna hear a deep cut? 
+Time to tune you up. 
+Here comes a little chin music. 
+Alright mate, bit of a tussle then! 
+Just a quick scrap, promise. 
+Ay, don't take it personal! 
+Reckon I'll handle this one. 
+Sorry, mate. Wrong place. 
+No worries -- I'll swing first. 
+Just settin' the tempo, mate. 
+Let's dance a little, ay? 
+Alright, alright, we're doin' this. 
+Bit of biffo's good for the soul. 
+Enjoy my greatest hits! 
+Bruisin' you to the beat! 
+I'm shredding while I'm shredding, bro! 
+Striking a chord! 
+Fighting, dancing, what's the difference, ay? 
+It's not a concert without a mosh pit. 
+Battle of the bands! 
+Lots of good music comes from a place of pain! 
+The rhythm is gonna getcha! 
+Turning this battle up to eleven. 
+Let's dance. 
+Urgh 
+Arghh 
+Yargh 
+Ahh 
+Ruuaah 
+Ruuuah 
+Heeyah 
+Ayaaa 
+Ayaa 
+Uraaa 
+Uaaahh 
+Urraaa 
+Eyah 
+Time to boogie. 
+You know how it is. 
+Take a squiz. 
+Yeah, nah. 
+Tell ya what. 
+Listen to this. 
+I will BREAK this guitar. 
+Cark it. 
+Piss off. 
+I'll split your melon. 
+Huah 
+Hah 
+Huah 
+Huh 
+Huah 
+Oh hey, I think it's time to go. 
+Hear that? It's time to start the show. 
+Is that a horn section? That's sensational. 
+Is there a plan or just play it by ear? 
+I reckon we got this. Even against that lot. 
+This pot's about ready to boil. 
+Ok, three, two, one, let's jam. 
+Is this 'battle of the Ancients' anything like battle of the bands? I'm pretty good at those. 
+You can always find something to complain about. But you can also always find a reason to sing. 
+Well if they're gonna fight, I reckon I should play a bit. 
+Let's bring the house down! 
+Time to rock and roll - but maybe more rock than roll. 
+Does everybody have their setlist ready? 
+Just remember, guys: Let's have fun out there! 
+You know you're in the right place when a battle starts with music! 
+Let's kick this off on a high note! 
+Time for them to face the music. 
+Let's start this tour. 
+All right, mates, let's make some noise. 
+Guess that's our cue. 
+Righto, let's make this scrap a good one. 
+Let's make this a beaut of a brawl, ay? 
+Show time. Let's boogie, mates. 
+Sing out if you find any trouble! 
+Sounds like it's about time to start the show. 
+Blink dagger. 
+Now we're hopping. 
+They're gonna have front row seats for this. 
+Just plunk it in. 
+For the road show. 
+We'll skull it later. 
+I better take a sip. 
+I better start with a sip. 
+We'll keep it cool. 
+Bounty. 
+The tide provides. 
+A boon for buskers. 
+I'm always ready to play. 
+I'm always ready to play. 
+Show time, cuz 
+Show time. 
+Dig this. 
+Ready to rock. 
+Ready to rock? 
+Ready to flow. 
+Time to make the world a better place. 
+Music soothes the soul. 
+Yeah, I can feel it. 
+Time to go out on a high note... 
+Just gonna belt out one last tune... 
+Hey, get one! 
+Hey, get one! 
+This next one's all you. 
+Well I believe in you. 
+Always knew you had it in you. 
+This one goes out to a very special someone. 
+The mana was inside you all along. 
+It's better when we jam together. 
+Jam on, cuz. 
+Jam on, cuzzy. 
+You take lead, I'm on harmony. 
+The key is to really project. 
+You got the moves. Just like me. 
+It's alright to dream big. 
+A song to show us the way. 
+It's a world of vibration. 
+Just belt out a hit. 
+You've got this! 
+It's time for our big duet. 
+Just go with the flow. 
+Sing us to victory! 
+I bring the melody. You bring the beats. 
+This oughta strike a chord. 
+Come on cuz, turn it up a notch! 
+Feels good to let it out, yeah? 
+Time to tune up the band. 
+Let me help you get back on beat. 
+Bro, we're going to make sweet music together. 
+Busked and boosted! 
+It's your song now too, bro! 
+Everybody loves a duet! 
+That should tune you up. 
+You take lead stick. 
+Uplifting lyrics. 
+Jumping jamboree. 
+I felt that one in my guts. And they did too! 
+A real music booster. 
+Croak of genius, mate. 
+Croak of genius, mate. 
+Hop of the pops. 
+Buoyant beats bro. 
+That's a proper earworm. 
+Toadally awesome! Hehe. 
+That really struck a chord. 
+I knew you had it in you. 
+I knew you had it in you. 
+From a little spark into a full blown conflaguration. 
+Killer harmony! 
+That's real crummy wizard. 
+That's one I'd like to forget. 
+So that's how that story goes... 
+Everyone's a critic... 
+Oh... Munted... 
+You don't like music? 
+Too sad for me... 
+Absolutely gutted... 
+They finally boxed me in... 
+I got something... in my throat... 
+Really...croaked that one... 
+I didn't think...it'd come so quick. 
+It's hard for me...to sing this song... 
+What a dag... 
+Good on ya... 
+Pretty sad...on you... 
+Faa stink as... 
+Well I don't love that... 
+Same old song and dance... 
+I didn't know...I was taking...requests.... 
+Eh...It's all good. 
+Hey... I got to see more than most... 
+The fountain waters are calling... 
+Should we run it again? 
+I don't know about you guys, but that sounded pretty good. 
+Should we try a slow one next? 
+That oughta get their butts moving. 
+Anyone not dancing, check your pulse. 
+Anyone not dancing, check your pulse. 
+Those were some pretty good licks. 
+Those were some pretty good licks. 
+Oh I liked that one heaps. 
+Oh, you know what? I liked that one heaps. 
+Denied. 
+Denied! 
+Took your time on that one. 
+Sorry, bro. 
+Sorry, brother. 
+Yeah, nah. 
+Nah nah nah 
+Yeah, nah. 
+Well that won't work. 
+That packs a sad eh? 
+Oh, what a sad, bro. 
+He looked suss. 
+Whoops, got confused. 
+What a day. 
+What a day. 
+He would have wanted it to be me. 
+You better step quick. 
+Oh thank you, bro. 
+Oh thanks, bro. 
+Don't let money change ya. 
+Aw yeah nah. 
+You gotta sing for your supper. 
+Best things in life are free. 
+Tell ya what. 
+Just lucky I reckon. 
+You're going nowhere. 
+Aw, cuz. 
+Aw, cuz. 
+Chur. 
+You'll deal bro. 
+Sometimes you gotta starve for the art. 
+Double damage. 
+I'm all amped up. 
+Time to play the hits. 
+Oh, nice one. 
+Choice gear. 
+That's the one. 
+I've always wanted one of those. 
+Extra tasty! 
+What's the secret sauce in that? 
+Oh that's a good feed. 
+Oh shot! 
+Oh shot! 
+Ho ho ho hoo! 
+Whoops, licked ya clean. 
+Oops, I'm a bit of a hungus. 
+Oops, I'm a bit of a hungus. 
+That's a catchy tune. 
+Just a little tongue bath. 
+Tastes a bit strong eh. 
+Let's go back a beat. 
+Count me back in? 
+First blood! 
+First blood! 
+First blood. Just like we planned it. 
+Oh is that first blood? Was it me? 
+Never pick a fight with a bard. 
+First blood? This place'll be chocka block in no time. 
+First blood. Don't blame me. It's a risky business. 
+First blood? I don't really care about that. 
+First blood. It is what it is. Better my way than his. 
+First blood. That's not my usual score... 
+First blood. I'm not sure if it's a good sign or a bad sign that it went to me. 
+First blood. Anyone up for an encore? 
+First blood! The crowd goes wild! 
+First blood. Sweet as. Everyone warmed up now? 
+First blood. Sorry, mate -- someone had to start the tune. 
+First blood. Cheers mate, good scrap. 
+First blood. No hard feelings, yeah? 
+First blood? Now that's a good album title! 
+First blood! And that was just the opening act! 
+First blood! Hope that wasn't a fan. 
+First blood and I haven't even finished my first song! 
+Slam dance. 
+He's a polliwog percussionist. 
+Oh, you gotta meet my little friends. 
+Oh, you gotta meet my little friend. 
+Hit 'em with the rhythm sticks. 
+He gets a bit rambunctious. 
+Pound the pond. 
+A stunning performance. 
+They're hoppin' mad! 
+He's hoppin' mad! 
+When they hit you in the rib, it hurts! 
+Let's give 'em a beatdown, boys. 
+Meet my backing band. 
+And here's the percussion section. 
+Make some noise, boys! 
+Show 'em how it's done, little mates! 
+Best percussion section around. 
+Time to get a bit wobbly. 
+Little feet keep a big beat, yeah? 
+Let's have a dance break! 
+You gotta stop and enjoy the music, mate. 
+Ooooo I love the drum section! 
+Even the ground's a musical instrument! 
+Mmm 
+Ohh 
+Ahhh 
+Ohh 
+Mmm 
+Ehh 
+Mmm 
+Ahhh 
+Ahhhh 
+Haste. 
+Eh, not really my speed. 
+Finally got some wings. 
+Hm hm hmm hmm hmm. 
+Hm hmm hmm hmm hmm. 
+Mm Hmm Hmm mm hmm. 
+Hm Hmmm. 
+Hmm hmmm hmmm hmmm. 
+Illusion. 
+It's an ensemble. 
+A coral chorus, if you will. 
+Am I standing straight? 
+Immortality! 
+Let's put it on repeat. 
+I reckon we'll need an encore. 
+I got a real good feeling: this one's in the bag. 
+This one's gotta be in the bag. I already wrote a bloody song about it. 
+I don't want to spoil the surprise, but I've got a bag wrapped up and ready to go. 
+History isn't written by the victors, it's written by the bards. But in my case, it can be both. 
+Is the fat lady singing yet? Cuz, this one is in the bag. 
+Just follow the beat, mates, and we can't be beat. 
+Big finish coming. Enjoy the show! 
+When we're done here, they're gonna be cheering for an encore. 
+If we don't get a standing ovation when this is over, I'll eat a sandy jandal. 
+I'm already tuning up for the victory song. 
+Put it in the bag and drop it in the bucket. 
+Invisibility. 
+But they can still hear me right? 
+I dunno if I like this. 
+I don't think this one fits. 
+I don't even know what it does. 
+Oh, I could definitely use this. 
+I could play all day. 
+Now it's time to really shred. 
+Folks get rowdy when the tempo's up. 
+This oughta wollop 'em. 
+Nah, cuz. Not THAT kind of axe. 
+Oh, golden! 
+What goes around comes around, eh? 
+Wait, is that what I ordered? 
+This one's pretty gnarly. 
+It's nearly a bargain. 
+Cheap as for what you get. 
+I don' t know why but my tummy's rumbling. 
+I could get another drop of this. 
+My mates all got these for free... 
+Is this the premium type? 
+That's a deep cut. 
+If you wanna play the hits... 
+Sometimes you eat the frog and sometimes the frog eats you. 
+Sounds a little bleak. 
+Mean looking blade. 
+Practically selling it for a song. 
+Don't really see the need. 
+They'll be dancing at the show tonight. 
+You never know who's eavesdropping. 
+Strange accoustics in here. 
+Just for water, yeah? 
+That's otherworldly. You got a story behind it? 
+Oh, 'divine' is right! 
+You gotta let it move ya. 
+Have a squiz through this. 
+That's a strange trip. 
+We all get a bit shy sometimes. 
+Too much gold's not actually a good thing. 
+Is it your shout? 
+I've always got a song in my heart. 
+Maybe they'll shut up and listen for once. 
+But I don't really like it. 
+Music is holy. 
+Bro, don't say 'hurricane' -- those things are bad news. 
+Wish I could see in the mirror. 
+What's a 'Kaya'? 
+Sange and Kaya together? What'll they think of next? 
+All you ever need is to be nice and friendly. 
+Guys, why am I shooting lightning from my feet? 
+I'll never get lonely...but I might get sick of myself. 
+I'm knackered just looking at it. 
+The more we can restore, the better. 
+Sing to the sky and it might send you gifts. 
+Bring that newfound hammer along. 
+I've heard a few rumors about this. All of them are great. 
+We all make mistakes. 
+If you wanna write a killer song, you gotta look around you. 
+I even dig the color. 
+I could attract a few slugs with this. 
+Don't mind if I do. 
+Don't mind if I do. 
+That's one way to let 'em cook. 
+But I'm always ready to play. 
+It seems a bit unfair. 
+Sure, Sange is good. 
+It's a classic for a reason. 
+I'd rather sing for it. 
+How's this one different from the oth--Ohhhhh. Neat! 
+The people who make these things are into real strange tricks. 
+I don't really like the cold. 
+How did you even find this? 
+Can this one gaze at the sun or would it go blind? 
+It's all part of the show. 
+It's all part of the show. 
+For bright skies on a cloudy day. 
+You got Soul Ring. 
+Is that one of those Linken's Spheres? 
+I thought these were out of stock. 
+Yeah man, give me heaps. 
+We really oughta find a different line of work. 
+All your stuff's just a huge bummer. 
+Yasha it is. 
+Yasha and that Kaya thing. 
+Got any scrog with that? 
+Why's everyone trying to sell me a sword? 
+Only if I can make everybody chill. 
+But I don't need a captive audience. 
+Is there a discount for bulk? 
+What'll they think of next? 
+Wait, blood magic? I'm not so sure about this... 
+I don't see a tree around here. How are these so ripe? 
+I'll grab some brekkie on the way. 
+It's like a slow jam for your feet. 
+Is it full of salt water? 
+Reminds me of a nice summer storm. 
+I don't like the looks of it. 
+I've got blisters on me fingers! 
+I've got blisters on me fingers! 
+You knew I'd be back for these. 
+All I know is it looks real slick. 
+Oh I love all-you-can-eat! 
+Hey now, bro. I don't want this. 
+Hey now, bro. I don't want this. 
+I kinda already got a crown. 
+Spooky wooky! 
+Makes it kinda hard to play. 
+Makes it kinda hard to play. But I'll manage 
+That's my jam. 
+This is my thing. 
+You wanna hear a lick? 
+I got a song for that. 
+I got heaps of songs. 
+A song from the soul. 
+I'm not sure you're ready for this. 
+A one and a... 
+Strike up the band. 
+Strike up the band. 
+What should I play? 
+What should I play? 
+Got just the tune. 
+It goes a little something like this. 
+The song's already going in my head. 
+I've been toying with this. 
+Why you covering your ears? 
+Why you covering your ears? 
+Time to bring the noise. 
+And a-one, and a-two... 
+Aw yeah, time to jam! 
+Let's make some noise. 
+Follow my lead. 
+Check out this riff. 
+Promise I'll play nice. 
+You ain't heard nothing yet! 
+Can you hear me in the back? 
+Can you hear me in the back? 
+You see a battlefield, I see a music festival. 
+Now this one's a classic. 
+Don't be afraid to hum along. 
+Don't be afraid to hum along. 
+Oh, missed that one a bit. 
+I'm all thumbs eh. 
+Yeah, nah. That was bad. 
+I thought I had it there for a sec. 
+Oh, that's terrible. 
+Oh well, that's terrible. 
+I knew I shoulda fixed that third string. 
+I knew I shoulda fixed that third string. 
+Yeah, but come on... 
+Yeah, but come on... 
+Whatever eh? 
+Whatever eh? 
+Even when I'm bad I'm good. 
+Even when I'm bad I'm all good. 
+That's not my jam. 
+We'll suss it out. 
+We'll suss it out. 
+This IS my rehearsal. 
+Just remember to keep the beat. 
+Well that was just a racket. 
+Wait, how does that one go? 
+It sounded a lot better in my head. 
+I guess you guys aren't ready for that. 
+Sometimes I play more like a composer... 
+It's a lot harder on the battlefield than the beach. 
+It's all the hassling. It's messed up my head space. 
+And I'm the one who wrote the stinking song. 
+What a cock-up. 
+Lost the rhythm there. 
+Out of tune! 
+Bugger! 
+Ah, stink! 
+Aw ... bit flat, but we'll get 'em next time! 
+Oi, that one could've used a bit more ... everything. 
+Eh, not my best work. 
+Eh, not my best work. 
+Ah, that was ... just a warm-up. 
+Not exactly a banger. All good, though. 
+I can see why some people scalped their tickets. 
+Yeah, nah. 
+Yeah, nah. 
+I think I've got a frog in my frog throat! 
+Gotta find a new arrangment. 
+No worries. It's not like we're keeping score. 
+Shred 'em. 
+Rippah! 
+That's a rippah! 
+That's a mean riff. 
+On a serious note. 
+Wicked riff. 
+An instant classic. 
+It's gonna be a big hit. 
+It's rough and tumble round here. 
+Beat 'em like a drum. 
+Pitch perfect! 
+This is anthemic! 
+Killer groove! 
+Aw yeah! That was a proper jam! 
+Might need a round of applause for myself. 
+Sweet as! Felt good, eh? 
+Good vibes all around. 
+Ahh, I make it look easy, eh? 
+That was peak! 
+Me? The best there ever was? Oh, you're too much. 
+Pretty happy I rehearsed. 
+Couldn't have played it better myself. Wait, I just did! 
+That wasn't half bad! 
+Hang in there, mate. 
+Yeah, let this one in. 
+Music gives new life. 
+Everything's just right. 
+Yeah, sing it with me. 
+Everybody! 
+Come on everybody! 
+Yeah, let the groove in. 
+The right song just sets you right eh. 
+What can I say? That's the healing power of music. 
+That's the healing power of music. 
+When everyone's crying, give 'em a reason to smile. 
+Right. Hop to it! 
+Yeah, now we're flying. 
+You can feel the beat. 
+Oh, now we're moving. 
+Yeah, flash those feet. 
+That's some funky flow. 
+Yeah, it makes you wanna move. 
+Move to the groove. 
+Get lost in it. 
+I could play for hours. 
+Oh I'm going to remember this one. It's too good. 
+Friends in better days, eh? 
+Hey I'm chill, but I'm not that chill. 
+Didn't anybody tell you? Never make a happy big guy mad. 
+Maybe there's a silver lining. Sometimes inspiration comes from a really dark place. 
+Yeah, nah. 
+Maybe try again? 
+Next time, practice till you get it right. 
+Played you like a song, mate. 
+Just not your night. But you'll get 'em tomorrow. 
+I shoulda just done that in the first place. 
+You shouldn't take your life so seriously. 
+Shoulda gapped it, bruz. 
+Shoulda gapped it, cuz. 
+Stay staunch, bro. It's not all bad. 
+Stay staunch, bro. It's not all bad. 
+Come on, you. You're such an egg. 
+That was a good bag on you, bro. 
+It's all good. Your head's probably just not in the right space. 
+Sorry, that got heavy quick. 
+Sorry, that got heavy quick. 
+I was being kind. I reckon you lucked out. 
+Cold blows the wind eh? 
+Chill, bro. 
+I'd tell you to chill, but you're stone cold already. 
+It's gonna be alright, bro. There's always next time. 
+I hope I did the right thing... 
+You're a real good dancer. 
+I'm just slippery like that. 
+Yeah, nah, that song's done. We're moving on. 
+You carked it, bro. 
+I'll write a dirge for you. 
+Looks like you're munted. 
+Squashed ya like a bug. 
+Funny. I'm a frog, but you're the one who croaked. 
+Backbeat, frontbeat... what matters is you got beat. 
+Aw, just not your night, eh? 
+Sorry mate -- just part of the show. 
+No hard feelings, eh? 
+Spectacular finish, mate. 
+No worries, bro -- happens to the best. 
+Well, that struck a sour note. 
+Aw, just a bit behind the beat, that's all. 
+Don't feel bad, you shoulda seen my first concert! 
+The song in your heart's a bit flat. 
+Don't worry, you'll find the rhythm someday. 
+Not this time, but keep practicing! 
+You really carked it. 
+Go easy, mate. I'm gonna write a killer song about this. 
+That's a real rager. You can't go that hard. 
+I'll just leave you with one last earworm for your grave. 
+I already wrote a song about it! 
+Choice. 
+Choice. 
+Mint one. 
+Every penny plays a part. 
+Bloody scalpers. 
+Chur! 
+Churp! 
+I swear I only tapped him. 
+Feels kinda gross... 
+I'd rather sing for it. 
+Pandy dandy. 
+What a day! 
+Sorry, little guy! 
+Sorry! 
+Oh whoops. 
+Music may be priceless, but it won't buy magic boots. 
+I'll play a tune at his little wake. 
+Shot for the coin, cuz! 
+Sweet as! 
+Aw, coins jingling -- music to my ears! 
+Cheers, little fella -- contribution appreciated! 
+Aw, you didn't have to tip me ... but cheers! 
+Much obliged, mate! Every penny helps! 
+Much obliged, mate! Every penny helps! 
+That's a bit of bitter busking. 
+Music is its own reward. But ya gotta eat. 
+That'll buy some catgut for the old strummer. 
+Refurbishing costs. 
+That jingle sounds almost as sweet as music. 
+Varnish ain't cheap. 
+Petty work. 
+For something bigger. 
+A drop in the bucket. 
+A sad end. 
+Sad to see you go. 
+Sweet as, sure... 
+A little something for the effort. 
+Try not to think about it. 
+The ugly side of this business... 
+He's doing his part, I'm doing mine. 
+Ha ha ha ha ha  
+He he he he he he 
+He he he he he 
+He he he he he 
+Ho ho hoo hoo hoo 
+He he he he he 
+Ha ha ha ha 
+Ha ha haa haa haa ha haaa 
+Ha ha ha ha 
+He he he heee hee hee 
+Ha ha ha ha ha hoo ho ho hoo 
+Ha ha ha ha ha ha ha ha ha haaa 
+Eeeh heee heee hee ho ho ho ho 
+Ho, awesome. 
+Hahah, awesome. 
+Heaps of fun. 
+Not a tadpole anymore. 
+If I didn't feel good already, I would now! 
+To leapfrog the competition. 
+Sweet as! 
+That's really good stuff. 
+Far out! 
+Just gaining momentum. 
+We keep it fresh. 
+The beat goes on. 
+Shine on. 
+Strum on, brother. 
+Strum on, Largo. Strum on. 
+Just think what I could do with three strings. 
+That's solid gold. 
+If I'm feeling good, everyone else is feeling even better. 
+Well boil me up and call me supper. 
+That oughta keep me outta the sock. 
+Music is just the best. 
+The spotlight's shining. 
+I hate to say it, but I think we lost. 
+Aww stink! 
+Bugger all to do now! 
+Time to face the music... 
+Watch 'em try and blame me for this. 
+It's not my fault this lot can't carry a tune. 
+I told 'em we shoulda had more practice. 
+Choice feed, this. 
+Wow, I feel good. 
+Oh! We don't have these where I'm from. They're great. 
+A whole new world of flavor to explore. 
+They taste like magic. 
+Missing top. 
+Missing middle. 
+Missing bottom. 
+We didn't always live on the island. 
+Our ancestors lived in the most beautiful swamp. 
+Until a great evil crept into our homeland... 
+And drove our people into the sea. 
+We were swamp folk. Not made for life at sea. 
+The waves went on forever and gave us nothing. 
+It was then, as we lay hopeless and dying, that one of us started to sing. 
+He didn't sing to save us. 
+Only to keep us from dying afraid. 
+But something in the sea heard him. 
+And what should have been our death song... 
+Became our salvation. 
+The Island had heard us. 
+It had answered our song. 
+A massive LIVING creature. 
+Velu'Mar -- The Island That Comes. 
+Our new home. 
+For a thousand years our people sang the sacred song that kept the Island happy. 
+And the island gave us... Everything. 
+It protected us from outsiders. 
+It provided shelter and supplies. 
+It blessed our wormponds with nutrients and rain. 
+And we continued to sing. 
+But eventually, The Song stopped working. 
+The Island stopped LISTENING. 
+And instead? It started to die. 
+Honestly, that could have been the end of it. The end of us. 
+But my teacher, Elder Moro -- even on his deathbed -- well, he was wiser than most. 
+He figured out the Island wanted to hear NEW songs! 
+Not the same song over and over again for a thousand years. 
+And, humbly or otherwise, that's where I came in. 
+I had to figure out WHICH new tunes to groove. 
+And, MORE importantly, I helped figure out that the Island wanted ALL of our people to sing along. 
+The music comes from all of us. 
+The Bard Monks were never supposed to do it all alone. 
+Now, the old stories are true again. 
+The Island is happy, and all of our people thrive. 
+You wanna hear the best part? I get to hit the road to find new inspiration. 
+Then I just hop back home and share with everyone there. 
+Who knows -- maybe some day more folks will join me out here. 
+But for now everyone's happy right where they are. 
+They're happy and the Island's happy -- that's all that matters to me. 
+Hey, while we're here. What's YOUR favorite story? 
+Hey do you know any good licks? 
+So what do you like to play? 
+What's that? Sorry -- I lost my train of thought. 
+When I was younger, I thought Elder Moro's stories were boring. 
+But now I like to tell his stories. 
+Except I play them MY way. 
+Because he's the one that taught me:  
+We can honor the songs of our elders without fear of changing the tune. 
+Old stories can lose their meaning. 
+Knowledge that once was sacred will all be forgotten in time. 
+And if we let our song of worship grow stale... 
+Even the god that we play to will eventually wither and die. 
+In the end, the music of life doesn't come from tradition, it only comes from the heart. 
+Sure, sometimes I do miss the Island.  
+But we get to see so many new places. 
+And after we see enough, we always make a bit of time to go back. 
+Gotta share our new tunes with everyone. 
+Especially with the Island. 
+The two of us have got a real connection. 
+Life on the road's pretty good. 
+The hardest part is keeping tabs on the little ones. 
+They're always hopping off. 
+If you've got a tongue for trouble, stick on THEIR trail. 
+Somehow they always know how to find a good time. 
+When it's time to go home? We gotta sing for it bro. 
+The Island is never in the same place. 
+It's a sensational place to visit. 
+Real shame I can't tell you where it is. 
+For your own safety, of course. 
+She doesn't like strangers. 
+Our ancestors couldn't survive at sea. 
+But after generations of living on the Island, we're all good. 
+The salt doesn't phase me. 
+Yeah, nah. We're all good. 
+Yeah, nah. We're all good. 
+What, over there? Yeah. 
+What, over there? Yeah. 
+Yeah! 
+Yeah, sure. 
+Yeah, sure. 
+Nah, yeah. 
+Nah, yeah. 
+Choice spot, I can tell. 
+All good. I can strum as we stroll. 
+Yeah, I could go for a tramp. 
+Yeah, yeah, I could go for a tramp. 
+Hardout. 
+Bro, hardout. 
+Anybody see a path? 
+Get a wriggle on. 
+Come on, get a wriggle on. 
+We'll get it sorted. 
+Yeah, I reckon. 
+Yeah, I reckon. 
+Bro, I reckon. 
+We'll go with the flow. 
+Let's get this toad on the road. 
+Chur, bro. 
+Chur, bro. 
+Wanna come with? 
+There's the spot. 
+She'll be right. 
+She'll be right. 
+She'll be right. 
+Oh you bet. 
+Oh you bet. 
+Fingers and toes. 
+Strummin' and strollin'. 
+Why ask why? 
+Slow is pro. 
+It'll be a real trip. 
+Sand on the soles. 
+Sure, flat tack. 
+Count me in. 
+Must be the place. 
+Oh, I reckon. 
+One note follows another. 
+Time for a tiki tour? 
+Time for a tiki tour. 
+You ever hear the one about the spikewhale and the spongefish? 
+You ever hear the one about the spikewhale and the spongefish? Classic 
+No worries. 
+All good. 
+All good. 
+I'll hop to it. 
+Let's have a wander. 
+Feet first, worries later. 
+Go with the flow, bro. 
+This way looks choice. 
+I'll lead, you lot keep up. 
+Get a wriggle on, team. 
+Time to strum and stroll. 
+Let's play a walking beat. 
+Good day for a meander. 
+Righto, keep it movin'. 
+Stepping to the rhythm! 
+Every step is a note in the song of your life. 
+Better get to my next venue! 
+The music just makes me want to move! 
+I get my sweetest song ideas while walking. 
+Does anyone have directions to the stage? 
+Kicking the dust off my jandals.  
+Far out, mate, I'm walking far out! 
+Maybe we could sit? 
+Just gizza sec? 
+I'm not feeling it. 
+Yep, still hurts. 
+Ride the groove. 
+I been better. 
+No hurry. 
+Sensational. 
+Better broken legs than broken fingers. 
+If it's not one thing, it's another... 
+No... 
+Yeah nah bro. 
+Yeah nah bro. 
+No! 
+No! 
+Noooo! 
+No mana... 
+No mana. 
+No mana, bro. 
+I'm out of mana... 
+Outta mana. 
+Hey, I'm outta mana. 
+I need mana... 
+I need mana. 
+I really need mana. 
+Got any mana? 
+Need some mana. 
+Get me some mana. 
+Got mana? 
+How 'bout some mana? 
+Not without mana! 
+Not ready... 
+Not ready. 
+Not ready! 
+Need some time... 
+Need time. 
+I need time for that! 
+It's not time... 
+Quit buggin' me. 
+Bug off! 
+Not yet... 
+Not yet, eh. 
+You gotta learn to wait! 
+I'm not ready. 
+Feel free to wait. 
+Stuff off with it! 
+It's ours as much as anyone's. 
+Now this outpost can be our friend. 
+You ever wonder who built all these? 
+Killer spot for a show. 
+How do I hit the lights? 
+Ahh 
+Ohh 
+Ahhh 
+Uffahh 
+Ahhh 
+Ohhh 
+Hmmm 
+Ahhhh 
+Gizza good one eh? 
+That's finer than frog fuzz. 
+That's a lotta dough. 
+Aw she's a beaut. 
+Show me something I've never ever seen before. 
+Regeneration. 
+I could play all night with this. 
+I got a tune for that. But this works too. 
+Well, not every show's gonna be a hit. 
+That road'll wear you down. 
+It's like water off a frog's back. 
+Just strum it off. 
+All good, all good. That was just a practice run. 
+I feel sensational, bro. I'm good as. 
+Well that's one way to slice a frog. 
+Stuffed if I know... 
+Stuffed if I know... 
+Surprisingly, I feel all better. 
+Never a dull moment around here. 
+Well what a day that was. 
+My feet are all wet. 
+No worries. I still got my strummer. 
+I was just a bit under the weather. 
+Tough crowd round here. 
+We'll get there. Island time, you know? 
+That's not the kind of beating I prefer. 
+Anyway, so where was I? 
+I'm back with bells and shells on. 
+Clean as a whistle, fit as a fiddle -- all that jazz. 
+You wouldn't believe what I've been through. 
+I wish I could bottle up that mist. Adds a lot of mystery to the air. 
+The real gold was the friends you got killed along the way. 
+No need to be so cold, brother. 
+No magic here, bro. Just real good music. 
+Holy smokes. How'd I survive that? 
+Oh, were we fighting? I thought that was dancing. 
+My nightmare? An audience full of people like you. 
+What a lasso. 
+You're a better drummer than a fighter and you drum like shit. 
+All that blood, bro... What a mess! 
+Cut this guy open and grog pours out. 
+You might not think it, but you should never turn your back on a bard. 
+Your webs were just humming with music. Wasn't that sweet? 
+Your hoof stomp was way off beat. 
+Yeah, I didn't figure you for a fan. 
+I figured no one in your band could carry a tune. 
+I think it's nobler in the mind for you to just die already. 
+All that clanking was messing up my groove. 
+I'm cold blooded. You're just insane. 
+I'm not going to insult your intelligence. You're doing just fine at that. 
+I told you to stay away from my little friends. 
+The lights were on, but nobody home. 
+Is that one of those 'clown' things I read about? Wasn't that scary. 
+I cue'd up a sad one when I saw you coming. You've got the look. 
+Sorry, nothing stops this show. 
+It's all doom and gloom until I bust out the right tune. 
+You really got a get a handle on that temper. 
+I hear Drow have shit taste in music. 
+Boulders turn into sand, mate. 
+That was almost bang on, bro. Almost. 
+Shrug it off. Your past failures were way bigger. 
+As long as your inner fire's still burning, it doesn't matter that your body's stone dead. 
+That's for messing with my mind. Aw, geez. Now I'm crying.  
+There's a big difference between gravity and charm. 
+You should have stopped time and thought about that one for a while longer. 
+Oh, I see. You're not an artist. You're a bloody hack. 
+I don't think I'll keep down all that racket after all. 
+I guess not skux enough. 
+I guess not skux enough. 
+You burned bright. You died young. 
+You could have changed music forever. But now you're just dead. 
+I learned a long time ago how to deal with a diva. 
+Two heads are deader than one. 
+That's as far as dogma will get you. You need to find a mind behind the mask. 
+You were gonna hurt yourself and others. I did what I thought was right. 
+I thought he'd never stop chirpin'. 
+Don't let it sink your spirits, mate. 
+Not the command performance you were looking for. 
+I get on with most folks, but this guy's a real prick. 
+All that talk about a bottomless pool -- but in the end you died at sea level. 
+Yeah, nah. I'll take a rain check on that shit. 
+That's one way to turn fire into steam. Or is that just smoldering ash? 
+Can't boil this frog! Not today. 
+Yah, nah, that name 'Lion' don't really fit. 
+Sorry, bro. The end of the song works a whole lot better if you're dead. 
+Haha, looks like this time my tongue got the cat! 
+I don't really play the blues. So all that howling was too much. 
+I like the strings, but I can play the horn when I gotta. 
+Someone called her a whistler, but she punched like a percussionist. 
+Life in Mars? Not any more there isn't. 
+You really need to work on those triplets, mate. 
+Even one forked tongue is too many. 
+I'm buggered after this one. That little guy was everywhere! 
+You ever hear the one about the frog who killed a princess? 
+Clever feet, monkey man, but I call the tune. 
+Down the dunny you go. 
+The tide may be high, but I'm holding on. 
+Killer aim, but you're just not hitting the right notes. 
+Oi, no wriggling your way out of this jam! 
+I try to keep my head above the water. 
+My ax sings, and the tree falls. 
+Aw, mate. I compose -- and you just decompose. 
+Heh. For a boogeyman, you can't dance to save your life. 
+Where do they dig these guys up? 
+Where do they dig these guys up? 
+Sorry, mate -- not the first bug I've caught, won't be the last. 
+So not just two heads, but also two left feet. 
+Should've come to play, not to pray, bro. 
+That's why I go with the flow. I don't wanna fret about the future. 
+Yeah, nah. I'm not into all that astral crap. 
+Fancy moves, bro -- shame you were off the beat. 
+You're light on your feet, but you weren't ready for the tempo change. 
+You brought the band, but I got the solo. 
+What can you do? A lot of stars die too young. 
+Poor guy. At least we got some saussies out of it. 
+I guess music slays the savage beast... 
+Tried to hush the frog, eh? You just missed the beat. 
+Nice one. But I didn't mind the flies, eh? 
+Good effort mate, but still a bit sloppy with it. 
+Who let you in here? This show wasn't all-ages. 
+For all that blinking and screaming, you fell a bit flat eh? 
+All that buzz, but the jam's fizzled out! 
+Takes more than a little puff of smoke to throw me off. 
+Heh. Looks like center stage belongs to the frog, bro. 
+Sticky fingers, but you can't lift my riffs. 
+Guess you just couldn't dig my groove. 
+Oi, cuz -- your toxic tricks can't touch these sweet licks. 
+I shoulda figured -- looks like all your souls were appropriated. 
+For the last time, I'm not gonna play the chicken dance. 
+You wouldn't be the first to tell me to pipe down. Yeah, good luck with that. 
+Aw -- looks like an angel, squawks like a sick parrot. 
+Thought you could make a splash? Nah, bro -- wipeout. 
+Slark, you aren't that slick, mate. 
+You can't just slip out before the concert's done! 
+No offense to you about this, Mortimer. 
+Turn that gun into a trumpet and you'd be playing a happy tune. 
+I don't know if that thing understood my language, but I hope it was digging the tunes. 
+And that's how you take an ox off the tongue. 
+I never call off a performance due to the weather. 
+You can carry a sword but you sure as heck can't carry a tune. 
+Now we're really blowin' up. 
+You're sneaky, but I'm sticky. 
+He said he was in lockup, but he didn't even know any jailhouse tunes. 
+There are a lot of sea gods -- plenty of 'em aren't always pissed off. 
+Time for the tide to roll back out, I reckon. 
+Being green doesn't make me a tree! 
+You should really use those smarts to help people, Tinker. 
+Sometimes you just gotta rock it to 'em. 
+You mind if I use some of your wood to make a new guitar? Sweet as! 
+Chill, cuz. Not everything's about you. 
+Alright, Angus. Settle down now. 
+You folks from the cold places really have no chill. 
+You're never going to make friends acting this way. 
+Hey man, you don't look so good. Even the dead deserve to relax in peace. 
+No hard feelings, Ursa. I know you meant well. I mean, I assumed you did. Until you were trying to rip my face off. We never really met. 
+I hope you find a song that brings you peace. 
+That's a tasty looking grub. Keep tabs on that spot for later. 
+Yeah, nah. I don't like snakes. 
+Yeah, nah, the spooky stuff isn't really my taste. 
+You could tell this guy was a personality void from the very first word he said. 
+Sick lyrics, bro. You're a real weirdo. 
+You can't just rewrite reality like a piece of music. 
+I guess you know where to find the answers, my friend. 
+Death can be real killer block. 
+That's a real shame. I kinda liked your beat. 
+Please, bro. No encore. 
+Maybe a love song would help sort things out with your wife. 
+Yeah, nah. Why don't you go visit theirs for a bit? 
+Aghanim's scepter... 
+Never thought I'd see one of these. 
+How do you even set a price on this? 
+I thought maybe I could get it for free, but no such luck. 
+A fraction of the power, a fraction of the price. 
+I kind of need the whole set. 
+This one feels pretty good. 
+Now I'm ready for feedback. 
+Why would anyone wanna hit me? 
+Shitty wizard. 
+Ba na na na baa nanana 
+Ba na na na baa nanana 
+I'm Largo, and I go. And I go, and I go... 
+Ba da da da ba dada da da 
+Sha na na na na na na na 
+Pam pa da da 
+Panna pannna panna 
+Largo 
+Largo 
+Largo 
+You can call me Largo. 
+I'm just the Bard, Largo. 
+Name's Largo. What's yours? 
+You can call me lotsa things. Most folks call me Largo. 
+I like to let my strings do the singing. That way I can still spin yarn. 
+What's shakin'? 
+Hey, what's going on guys? 
+Who feels like dancing? 
+Time to get a groove on. 
+Hey, I'm just here to help. 
+I'll just play myself in. 
+I'll play myself in. 
+How's your taste in music? It's about to improve. 
+You're not gonna eat this frog. Not today. 
+You're not gonna eat this frog. Not today. 
+Just sit back and I'll play us to the lanes. 
+Woke up today feelin' a bit froggy. 
+What do I do? I make you lot better. 
+Just sit back and let the tunes take you away. 
+Music is power. 
+Mana is the just the music of life -- any of us can learn to play. 
+I know all the old songs -- I'm here to play some new ones. 
+I don't play for money, I play for love. And OK, maybe I enjoy a little bit of the glory. 
+Make music in bad times, make music in good. 
+Yeah, I like these strings, but I could still make tunes with a piece of driftwood. 
+Bro! I forgot to think of my entrance music. What's your favorite tune? 
+Bro! I forgot to think of my entrance music. What's your favorite tune? 
+There's nothing that can ail you the right song can't fix. 
+I've got the tunes, you've got the talent. 
+I'm always giving lessons. 
+I'm always giving lessons. 
+Anyone want to learn how to play? 
+As long as we stick together, you've got this. 
+None of 'em look like music lovers, but we'll change that. 
+In tune and ready to croon. 
+Let's get this show on the road. 
+I've got a song in my heart. 
+I'm here. Let's keep it breezy. 
+Whatever's goin' on here, we'll sort it. No worries. 
+Righto! Let's see what kind of tune this place is hummin'. 
+The Largo concert tour continues! Completely sold out, too! 
+All the world's a stage and Largo is playing every show! 
+Opening act, headliner, Largo's just happy to play. 
+Nobody tell my tour manager that I took this gig! 
+It's bard where I come from, but I reckon around here, you might call me a minstrel? 
+I just call it my strummer. My plunker. My twanger. Whatever's good. 
+I'm Largo. My band's all ready to play. 
+Ok, pack it in! 
+Time to be somewhere else. 
+Well, that's life on the road. 
+I'll just play myself out. 
+Just need to hop out for a song. 
+Life's hard on the road. 
+Just gonna dance on outta here. 
+Gizza lift? 
+Oh thanks. 
+Choice one. 
+You were always my favorite mate. 
+Aw, you don't have to do that. 
+Chur bro! 
+Chur bro! 
+Don't run off. 
+I wasn't done. 
+Just a quick lick. 
+Tongue got ya? 
+That's a tadpull! 
+A catchy lick. 
+A bit sticky. 
+Tongue tied! 
+It's my tongue tether. 
+Lickity split. 
+Just a wag of the tongue. 
+Hold my tongue. 
+Hold my tongue? 
+Tongue lash! 
+Tongue tripper! 
+Tongue tripper! 
+C'mere, bro! Just a quick chat! 
+Come say hi to the band! 
+Don't run off, mate! We're jammin'! 
+Come closer, cuz! 
+Just borrowin' ya for a sec! 
+No offense, mate, but you taste awful! 
+I'm gonna need some serious mouthwash after that. 
+At least you taste a lot better than you look! 
+Moving you to the front row! 
+Bro, the music's this way! 
+I've got a tongue for trouble. 
+That's a tongue twister eh. 
+That trips off the tongue. 
+Just a friendly flick. 
+Stick close, mate. 
+You coming or what? 
+Always happy to help. 
+Next time, could ya wash up? 
+I got ya bro. 
+I got ya bro. 
+Oo oo ooh. 
+Back a step. 
+It's a slurp n' slide. 
+You took a tongue trip. 
+Careful, cuz. 
+From here to there, lickety split. 
+Wish we'd had one of these on the reef. 
+Sure, it's freaky. But it's also really convenient. 
+Time to take a dip. It's cool to the touch. 
+Style points for diving in. 
+I'm under attack! 
+Well that's not good! 
+They're after me! 
+Hey stop it, drongo! 
+Water's good. 
+I love the water. 
+Oh, water? Yes, please! 
+I'm a wizard on the strings. 
+Kia Ora! 
+Kia Ora! 
+Pretty chuffed mate. 
+Good on ya. 
+That's really munted, eh? 
+Gnarley. 
+Chur. 
+What a beaut. 
+Beauty. 
+What a beaut. 
+You couldn't hold my jandals, could you? 
+Here, hold my jandals. 
+Drumroll, please. 
+Crazy, bro! 
+Hardout, brother! 
+Hardout, bro! 
+You taking the piss mate? 
+You taking the piss mate? 
+Fans'll go bananas. 
+I'm waving my pick in the wind. 
+What a crack up! 
+Next time maybe do the opposite of that. Just to try it out. 
+In the rain or in the snow... 
+I've got blisters on me fingers! 
+It's all good. I've got enough love for both of us. 
+OK...Toot your horn. You earned it. 
+Tastes like kaka. 
+You ever play a song so good that it wakes a god? 
+If anyone knows a good agent, I'm looking! 
+All toads are frogs, but not all frogs are toads! Now you know! 
+Has anyone seen a little tadpole roadie? 
+Oi, cuz! 
+No need to rush -- let the music find ya. 
+Reckon it's a good day for a bit of a jam. 
+Let's keep it light and breezy, yeah? 
+Aw, that's a proper tone, eh? 
+Aw, that's a proper tone, eh? 
+Bit of strum, bit of scrap, sweet as. 
+Sweet as. 
+The proper tune at the proper time for the proper talent. 
+Now that's what I call beat down, volume you. 
+I've had about a guts full of you. 
+Don't try to boil me and tell me that it's bathwater. 
+Get stuffed. 
+Get stuffed. 
+Ahh haa haaa haa haaaa 
+Ahh haa haaa haa haaaa 
+Ahh haa haaa haa haaaa 
+Ahh haa haaa haa haaaa 
+Ahh haa haaa haa haaaa 
+Ahh haa haaa haa haaaa 
+Ahh haa haaa haa haaaa 
+Ahh haa haaa haa haaaa 
+Ahh haa haaa haa haaaa 
+Ahh haa haaa haa haaaa 
+You're not wrong there mate. 
+Sweet as, cuz. 
+Hey, I'm pretty sure we just won. 
+Hey, victory! That's the one. 
+What a clincher! 
+That's music to my ears. 
+That hit the right notes. 
+I'll let them take the credit, but I know it was me. 
+Piece of piss mate! 
+Piece of piss mate! 
+That's like a gift from the muse. 
+Reckon I'm ruled by the heart. 
+Now we're on to it. 
+Yeah... 
+Yes. 
+Yes. 
+Yes. 
+Yeah! 
+Yeah! 
+Yeah! 
+Yeaaah! 
+Yuss!
